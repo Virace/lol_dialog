@@ -1,0 +1,39 @@
+{
+    "character": "fizz",
+    "id": "1528079558",
+    "result": "吃午餐喽。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012567818,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.205]  吃午餐喽。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "吃午餐喽。",
+                    "SliceSentence": "吃午餐 喽",
+                    "StartMs": 0,
+                    "EndMs": 2205,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "吃午餐",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "喽",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.205938
+        },
+        "RequestId": "43594d3c-3976-4094-adf6-bd61ef06304a"
+    }
+}

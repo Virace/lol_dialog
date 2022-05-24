@@ -1,0 +1,49 @@
+{
+    "character": "leesin",
+    "id": "1149772229",
+    "result": "你今天未尝一声。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012712368,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.100]  你今天未尝一声。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你今天未尝一声。",
+                    "SliceSentence": "你 今天 未尝 一声",
+                    "StartMs": 0,
+                    "EndMs": 3100,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "今天",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "未尝",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "一声",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.761625
+        },
+        "RequestId": "061d8a91-1c3f-476a-b51e-f40849dcee71"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "zed",
+    "id": "89649752",
+    "result": "他们追随了错误的导师。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012850430,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.286]  他们追随了错误的导师。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们追随了错误的导师。",
+                    "SliceSentence": "他们 追随 了 错误 的 导师",
+                    "StartMs": 0,
+                    "EndMs": 4286,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "追随",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "错误",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 3120
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 3120,
+                            "OffsetEndMs": 3240
+                        },
+                        {
+                            "Word": "导师",
+                            "OffsetStartMs": 3240,
+                            "OffsetEndMs": 4200
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.28675
+        },
+        "RequestId": "9ed15544-8078-4fdf-b923-7cc1fb7078da"
+    }
+}

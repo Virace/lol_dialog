@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "1031923575",
+    "result": "我来了，我来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749253,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.473]  我来了，我来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我来了，我来了。",
+                    "SliceSentence": "我来 了 我来 了",
+                    "StartMs": 0,
+                    "EndMs": 1473,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "我来",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 6.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.473375
+        },
+        "RequestId": "6e4d87cd-6643-4063-943c-b529a549d005"
+    }
+}

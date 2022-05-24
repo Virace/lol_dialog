@@ -1,0 +1,44 @@
+{
+    "character": "illaoi",
+    "id": "309971885",
+    "result": "我们从不停歇。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012577656,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.649]  我们从不停歇。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们从不停歇。",
+                    "SliceSentence": "我们 从不 停歇",
+                    "StartMs": 0,
+                    "EndMs": 1649,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "从不",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "停歇",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.649313
+        },
+        "RequestId": "e4fd3e40-11ba-48f6-8a43-d58e97bf2d6b"
+    }
+}

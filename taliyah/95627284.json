@@ -1,0 +1,39 @@
+{
+    "character": "taliyah",
+    "id": "95627284",
+    "result": "小心地面。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012795222,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.219]  小心地面。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "小心地面。",
+                    "SliceSentence": "小心 地面",
+                    "StartMs": 0,
+                    "EndMs": 1219,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "小心",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "地面",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.219125
+        },
+        "RequestId": "e55765e5-e0c3-4308-8bdc-414d4fba1ae6"
+    }
+}

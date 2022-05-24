@@ -1,0 +1,49 @@
+{
+    "character": "camille",
+    "id": "879256063",
+    "result": "你想打篮球对吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554352,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.273]  你想打篮球对吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你想打篮球对吗？",
+                    "SliceSentence": "你想 打篮球 对 吗",
+                    "StartMs": 0,
+                    "EndMs": 2273,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你想",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "打篮球",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "对",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.273375
+        },
+        "RequestId": "a284c176-41be-495b-9b06-11804b3ff9e8"
+    }
+}

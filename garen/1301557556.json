@@ -1,0 +1,49 @@
+{
+    "character": "garen",
+    "id": "1301557556",
+    "result": "我将带头冲锋。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012571963,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.746]  我将带头冲锋。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我将带头冲锋。",
+                    "SliceSentence": "我 将 带头 冲锋",
+                    "StartMs": 0,
+                    "EndMs": 1746,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "将",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "带头",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "冲锋",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.746
+        },
+        "RequestId": "4c6beba7-1dbe-4d22-9819-4651e3efa203"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "braum",
+    "id": "1801168998",
+    "result": "哦，现在我需要一些棉花糖。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550241,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.462]  哦，现在我需要一些棉花糖。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哦，现在我需要一些棉花糖。",
+                    "SliceSentence": "哦 现在 我 需要 一些 棉花糖",
+                    "StartMs": 0,
+                    "EndMs": 2462,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "哦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "一些",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "棉花糖",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.4625
+        },
+        "RequestId": "e152f8a5-c0c4-4c26-b3af-f6823e80d054"
+    }
+}

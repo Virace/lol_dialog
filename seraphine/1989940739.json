@@ -1,0 +1,49 @@
+{
+    "character": "seraphine",
+    "id": "1989940739",
+    "result": "这个拍子真有力。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012770933,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.840]  这个拍子真有力。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这个拍子真有力。",
+                    "SliceSentence": "这个 拍子 真有 力",
+                    "StartMs": 0,
+                    "EndMs": 2840,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "拍子",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "真有",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "力",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.311375
+        },
+        "RequestId": "8c2d24d9-20be-49af-b0c9-e993b0a38789"
+    }
+}

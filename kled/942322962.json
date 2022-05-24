@@ -1,0 +1,49 @@
+{
+    "character": "kled",
+    "id": "942322962",
+    "result": "好啦，你说的对。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012710251,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.271]  好啦，你说的对。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好啦，你说的对。",
+                    "SliceSentence": "好啦 你说 的 对",
+                    "StartMs": 0,
+                    "EndMs": 2271,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "好啦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "你说",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "对",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.271313
+        },
+        "RequestId": "02690c3c-990f-477b-b90b-08dbddb12102"
+    }
+}

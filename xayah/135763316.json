@@ -1,0 +1,54 @@
+{
+    "character": "xayah",
+    "id": "135763316",
+    "result": "这个结我解开了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012834460,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.952]  这个结我解开了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这个结我解开了。",
+                    "SliceSentence": "这个 结 我 解开 了",
+                    "StartMs": 0,
+                    "EndMs": 1952,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "结",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "解开",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.9525
+        },
+        "RequestId": "cc71aea6-08a2-4dc1-b7cc-0fc037cdace6"
+    }
+}

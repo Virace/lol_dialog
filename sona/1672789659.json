@@ -1,0 +1,49 @@
+{
+    "character": "sona",
+    "id": "1672789659",
+    "result": "有人在喝倒彩。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012781601,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.240]  有人在喝倒彩。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "有人在喝倒彩。",
+                    "SliceSentence": "有人 在 喝 倒彩",
+                    "StartMs": 0,
+                    "EndMs": 5240,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "有人",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "喝",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "倒彩",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.352063
+        },
+        "RequestId": "a39a528e-afb2-4b5d-b48f-85b8104e3147"
+    }
+}

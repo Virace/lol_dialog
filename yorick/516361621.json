@@ -1,0 +1,54 @@
+{
+    "character": "yorick",
+    "id": "516361621",
+    "result": "他们找的就是你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012845041,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.034]  他们找的就是你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们找的就是你。",
+                    "SliceSentence": "他们 找 的 就是 你",
+                    "StartMs": 0,
+                    "EndMs": 3034,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "找",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.03425
+        },
+        "RequestId": "ff197673-b274-40cd-82d4-138065469ecd"
+    }
+}

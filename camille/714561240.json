@@ -1,0 +1,59 @@
+{
+    "character": "camille",
+    "id": "714561240",
+    "result": "我唯一需要的就是时间。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553951,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.280]  我唯一需要的就是时间。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我唯一需要的就是时间。",
+                    "SliceSentence": "我 唯一 需要 的 就是 时间",
+                    "StartMs": 0,
+                    "EndMs": 2280,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "唯一",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.28075
+        },
+        "RequestId": "dab3516a-1f5d-4d3d-8702-2ad0ced304a7"
+    }
+}

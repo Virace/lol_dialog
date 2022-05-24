@@ -1,0 +1,44 @@
+{
+    "character": "jayce",
+    "id": "1728508813",
+    "result": "面对未来吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012684052,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.020]  面对未来吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "面对未来吧。",
+                    "SliceSentence": "面对 未来 吧",
+                    "StartMs": 0,
+                    "EndMs": 2020,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "面对",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "未来",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.020125
+        },
+        "RequestId": "827540e1-3846-4736-ab28-00727cfea14b"
+    }
+}

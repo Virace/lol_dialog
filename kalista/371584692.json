@@ -1,0 +1,49 @@
+{
+    "character": "kalista",
+    "id": "371584692",
+    "result": "我们会要命的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012694146,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.020,0:3.860]  我们会要命的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们会要命的。",
+                    "SliceSentence": "我们 会 要命 的",
+                    "StartMs": 20,
+                    "EndMs": 3860,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "要命",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2550
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2580,
+                            "OffsetEndMs": 3210
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.035563
+        },
+        "RequestId": "2d21899f-6751-42bf-914c-e6b6cd835050"
+    }
+}

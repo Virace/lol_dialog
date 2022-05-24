@@ -1,0 +1,54 @@
+{
+    "character": "varus",
+    "id": "938216569",
+    "result": "我的目的很明确。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012808380,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.800]  我的目的很明确。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的目的很明确。",
+                    "SliceSentence": "我 的 目的 很 明确",
+                    "StartMs": 0,
+                    "EndMs": 3800,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "目的",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "很",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "明确",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 3210
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.998375
+        },
+        "RequestId": "4ffe95b6-2542-4dd1-9c8d-33c787d2fde3"
+    }
+}

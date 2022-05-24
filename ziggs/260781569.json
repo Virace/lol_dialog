@@ -1,0 +1,49 @@
+{
+    "character": "ziggs",
+    "id": "260781569",
+    "result": "别急，我还有这个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012853515,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.454]  别急，我还有这个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别急，我还有这个。",
+                    "SliceSentence": "别急 我 还有 这个",
+                    "StartMs": 0,
+                    "EndMs": 3454,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "别急",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "还有",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 3030
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.454938
+        },
+        "RequestId": "1a997990-a116-4ff4-af8c-cdd19ba89f3a"
+    }
+}

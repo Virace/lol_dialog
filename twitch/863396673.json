@@ -1,0 +1,44 @@
+{
+    "character": "twitch",
+    "id": "863396673",
+    "result": "哼哼，注意脚下。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012804139,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.763]  哼哼，注意脚下。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼，注意脚下。",
+                    "SliceSentence": "哼哼 注意 脚下",
+                    "StartMs": 0,
+                    "EndMs": 2763,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "注意",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "脚下",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.763188
+        },
+        "RequestId": "3e8aa857-a78d-4e9b-9032-66cfcb0eb5a4"
+    }
+}

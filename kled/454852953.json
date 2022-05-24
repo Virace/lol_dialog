@@ -1,0 +1,49 @@
+{
+    "character": "kled",
+    "id": "454852953",
+    "result": "你已经完蛋啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012707951,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.979]  你已经完蛋啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你已经完蛋啦。",
+                    "SliceSentence": "你 已经 完蛋 啦",
+                    "StartMs": 0,
+                    "EndMs": 1979,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "完蛋",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.979563
+        },
+        "RequestId": "45717a6f-6715-43a7-9d6f-d6da63041fdf"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "zeri",
+    "id": "1470413627",
+    "result": "先走一步。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012851118,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.770]  先走一步。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "先走一步。",
+                    "SliceSentence": "先走 一步",
+                    "StartMs": 0,
+                    "EndMs": 1770,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "先走",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "一步",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.770688
+        },
+        "RequestId": "b7930660-2e6f-4820-88ad-fe1b95e40a1b"
+    }
+}

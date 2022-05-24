@@ -1,0 +1,39 @@
+{
+    "character": "ornn",
+    "id": "2029214549",
+    "result": "恕不退换。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012739025,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.370]  恕不退换。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "恕不退换。",
+                    "SliceSentence": "恕不 退换",
+                    "StartMs": 0,
+                    "EndMs": 1370,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "恕不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "退换",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.37075
+        },
+        "RequestId": "1461dbaa-d719-4806-a29b-4504ec3977ba"
+    }
+}

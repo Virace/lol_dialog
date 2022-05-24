@@ -1,0 +1,54 @@
+{
+    "character": "sylas",
+    "id": "108736373",
+    "result": "打发时间我最在行了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786132,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.064]  打发时间我最在行了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "打发时间我最在行了。",
+                    "SliceSentence": "打发 时间 我最 在行 了",
+                    "StartMs": 0,
+                    "EndMs": 3064,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "打发",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "我最",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "在行",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 2670
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2670,
+                            "OffsetEndMs": 3000
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.064
+        },
+        "RequestId": "e0d178e0-f44b-49e2-b8ba-ce3fb6f12ebe"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "141232929",
+    "result": "嗯，是你不对。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012834501,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.562]  嗯，是你不对。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯，是你不对。",
+                    "SliceSentence": "嗯 是 你 不对",
+                    "StartMs": 0,
+                    "EndMs": 1562,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "不对",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.56225
+        },
+        "RequestId": "c4696d5e-804f-454b-afc2-e35bd164ee33"
+    }
+}

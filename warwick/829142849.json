@@ -1,0 +1,54 @@
+{
+    "character": "warwick",
+    "id": "829142849",
+    "result": "有零食我就会露一手。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012833045,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.057]  有零食我就会露一手。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "有零食我就会露一手。",
+                    "SliceSentence": "有零 食 我 就会 露一手",
+                    "StartMs": 0,
+                    "EndMs": 3057,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "有零",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "食",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "就会",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "露一手",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.057375
+        },
+        "RequestId": "34537765-40c0-4be7-a8b6-5867d8cd6243"
+    }
+}

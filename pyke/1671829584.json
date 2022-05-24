@@ -1,0 +1,59 @@
+{
+    "character": "pyke",
+    "id": "1671829584",
+    "result": "一硕士死人的花哨把戏。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745322,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.660]  一硕士死人的花哨把戏。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一硕士死人的花哨把戏。",
+                    "SliceSentence": "一 硕士 死人 的 花哨 把戏",
+                    "StartMs": 0,
+                    "EndMs": 3660,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "一",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "硕士",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "死人",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "花哨",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "把戏",
+                            "OffsetStartMs": 2340,
+                            "OffsetEndMs": 3180
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.6605
+        },
+        "RequestId": "fe441ef2-7945-41c6-96f9-3bb6bcd9933a"
+    }
+}

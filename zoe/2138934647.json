@@ -1,0 +1,44 @@
+{
+    "character": "zoe",
+    "id": "2138934647",
+    "result": "笑一个嘛。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012855381,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.441]  笑一个嘛。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "笑一个嘛。",
+                    "SliceSentence": "笑 一个 嘛",
+                    "StartMs": 0,
+                    "EndMs": 2441,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "笑",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "嘛",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.441188
+        },
+        "RequestId": "65520d15-4ca7-467a-acf0-9daec2f6b1ea"
+    }
+}

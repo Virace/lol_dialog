@@ -1,0 +1,49 @@
+{
+    "character": "karma",
+    "id": "1298983695",
+    "result": "和平，不惜一切代价。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012695131,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.475]  和平，不惜一切代价。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "和平，不惜一切代价。",
+                    "SliceSentence": "和平 不惜 一切 代价",
+                    "StartMs": 0,
+                    "EndMs": 3475,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "和平",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "不惜",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "一切",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2610
+                        },
+                        {
+                            "Word": "代价",
+                            "OffsetStartMs": 2610,
+                            "OffsetEndMs": 3300
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.475063
+        },
+        "RequestId": "75e6f2ac-684b-4326-a4a4-a2cfbd4dfe77"
+    }
+}

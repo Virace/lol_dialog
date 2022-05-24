@@ -1,0 +1,49 @@
+{
+    "character": "ziggs",
+    "id": "274522098",
+    "result": "爆炸第一，疑问第二。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012853537,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.446]  爆炸第一，疑问第二。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "爆炸第一，疑问第二。",
+                    "SliceSentence": "爆炸 第一 疑问 第二",
+                    "StartMs": 0,
+                    "EndMs": 2446,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "爆炸",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "第一",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "疑问",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "第二",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.446625
+        },
+        "RequestId": "9fc38006-381a-44e0-94d1-813c42de6b30"
+    }
+}

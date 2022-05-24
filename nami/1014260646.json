@@ -1,0 +1,44 @@
+{
+    "character": "nami",
+    "id": "1014260646",
+    "result": "吸个饱。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012727679,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.204]  吸个饱。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "吸个饱。",
+                    "SliceSentence": "吸 个 饱",
+                    "StartMs": 0,
+                    "EndMs": 1204,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "吸",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "个",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "饱",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.204688
+        },
+        "RequestId": "62b16e79-8338-499d-a2e5-d902cbd31787"
+    }
+}

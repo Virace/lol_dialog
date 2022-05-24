@@ -1,0 +1,59 @@
+{
+    "character": "samira",
+    "id": "1927109199",
+    "result": "哼，你看起来有俩下子。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012766652,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.179]  哼，你看起来有俩下子。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼，你看起来有俩下子。",
+                    "SliceSentence": "哼 你看 起来 有 俩 下子",
+                    "StartMs": 0,
+                    "EndMs": 4179,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "你看",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "起来",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "俩",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 2670
+                        },
+                        {
+                            "Word": "下子",
+                            "OffsetStartMs": 2670,
+                            "OffsetEndMs": 3600
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.179625
+        },
+        "RequestId": "ef9fa5d0-939f-48ac-a710-dcf97712225d"
+    }
+}

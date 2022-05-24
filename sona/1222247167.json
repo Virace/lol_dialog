@@ -1,0 +1,44 @@
+{
+    "character": "sona",
+    "id": "1222247167",
+    "result": "乐曲终章。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012780961,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.160]  乐曲终章。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "乐曲终章。",
+                    "SliceSentence": "乐曲 终 章",
+                    "StartMs": 0,
+                    "EndMs": 4160,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "乐曲",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "终",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "章",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.157813
+        },
+        "RequestId": "4d8adbb3-6fe6-40c9-8c08-9fb678f0d603"
+    }
+}

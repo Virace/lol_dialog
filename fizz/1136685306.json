@@ -1,0 +1,44 @@
+{
+    "character": "fizz",
+    "id": "1136685306",
+    "result": "想看戏法吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012567595,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.671]  想看戏法吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "想看戏法吗？",
+                    "SliceSentence": "想看 戏法 吗",
+                    "StartMs": 0,
+                    "EndMs": 1671,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "想看",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "戏法",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.671875
+        },
+        "RequestId": "cb97a2f6-1723-4648-8380-de75cee8d8c2"
+    }
+}

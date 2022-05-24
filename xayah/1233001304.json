@@ -1,0 +1,59 @@
+{
+    "character": "xayah",
+    "id": "1233001304",
+    "result": "我必须了解他们的一举一动。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012834131,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.084]  我必须了解他们的一举一动。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我必须了解他们的一举一动。",
+                    "SliceSentence": "我 必须 了解 他们 的 一举一动",
+                    "StartMs": 0,
+                    "EndMs": 2084,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "必须",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "了解",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "一举一动",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 8.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.084063
+        },
+        "RequestId": "16e50eb7-97d6-4ce7-a1b3-5e53c994d560"
+    }
+}

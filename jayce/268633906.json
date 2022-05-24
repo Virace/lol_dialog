@@ -1,0 +1,54 @@
+{
+    "character": "jayce",
+    "id": "268633906",
+    "result": "我们的未来很光明。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012684197,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.531]  我们的未来很光明。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们的未来很光明。",
+                    "SliceSentence": "我们 的 未来 很 光明",
+                    "StartMs": 0,
+                    "EndMs": 2531,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "未来",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "很",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "光明",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.531
+        },
+        "RequestId": "91b79298-007d-473e-8a69-a91874285d97"
+    }
+}

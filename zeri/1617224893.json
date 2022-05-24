@@ -1,0 +1,59 @@
+{
+    "character": "zeri",
+    "id": "1617224893",
+    "result": "对有的是就是我的事。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012851370,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.645]  对有的是就是我的事。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "对有的是就是我的事。",
+                    "SliceSentence": "对 有的是 就 是我 的 事",
+                    "StartMs": 0,
+                    "EndMs": 2645,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "对",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "有的是",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "事",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.645313
+        },
+        "RequestId": "57718771-e538-42b3-a1e4-2c5f5ecf8d11"
+    }
+}

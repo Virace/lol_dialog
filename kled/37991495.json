@@ -1,0 +1,54 @@
+{
+    "character": "kled",
+    "id": "37991495",
+    "result": "我已经跑够啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012707563,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.259]  我已经跑够啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我已经跑够啦。",
+                    "SliceSentence": "我 已经 跑 够 啦",
+                    "StartMs": 0,
+                    "EndMs": 2259,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "跑",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "够",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.25925
+        },
+        "RequestId": "67d3cb18-1894-42b7-9277-106b905612ec"
+    }
+}

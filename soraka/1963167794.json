@@ -1,0 +1,59 @@
+{
+    "character": "soraka",
+    "id": "1963167794",
+    "result": "我听到他们的呼唤啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012783183,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.470]  我听到他们的呼唤啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我听到他们的呼唤啦。",
+                    "SliceSentence": "我 听到 他们 的 呼唤 啦",
+                    "StartMs": 0,
+                    "EndMs": 3470,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "听到",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "呼唤",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.470563
+        },
+        "RequestId": "7d49a2a4-5451-45de-8ee4-d582b7df411b"
+    }
+}

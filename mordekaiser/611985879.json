@@ -1,0 +1,49 @@
+{
+    "character": "mordekaiser",
+    "id": "611985879",
+    "result": "你命不久矣。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012725352,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.110]  你命不久矣。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你命不久矣。",
+                    "SliceSentence": "你 命 不久 矣",
+                    "StartMs": 0,
+                    "EndMs": 3110,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "命",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "不久",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "矣",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.110125
+        },
+        "RequestId": "09959be3-2df7-42ec-b282-c957c7d237f9"
+    }
+}

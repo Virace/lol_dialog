@@ -1,0 +1,44 @@
+{
+    "character": "lux",
+    "id": "630752566",
+    "result": "我会保护你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012719535,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.418]  我会保护你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会保护你。",
+                    "SliceSentence": "我会 保护 你",
+                    "StartMs": 0,
+                    "EndMs": 1418,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "保护",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.4185
+        },
+        "RequestId": "58883771-f2ab-4a39-b19e-17058385bf57"
+    }
+}

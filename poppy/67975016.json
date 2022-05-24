@@ -1,0 +1,44 @@
+{
+    "character": "poppy",
+    "id": "67975016",
+    "result": "我英雄，无稽之谈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012743723,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.408]  我英雄，无稽之谈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我英雄，无稽之谈。",
+                    "SliceSentence": "我 英雄 无稽之谈",
+                    "StartMs": 0,
+                    "EndMs": 4408,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "英雄",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "无稽之谈",
+                            "OffsetStartMs": 3030,
+                            "OffsetEndMs": 4080
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.408188
+        },
+        "RequestId": "71bd7991-2669-4174-9ff1-9feb9d010921"
+    }
+}

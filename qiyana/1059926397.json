@@ -1,0 +1,59 @@
+{
+    "character": "qiyana",
+    "id": "1059926397",
+    "result": "我给你个建议，放弃吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012747060,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.204]  我给你个建议，放弃吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我给你个建议，放弃吧。",
+                    "SliceSentence": "我 给你 个 建议 放弃 吧",
+                    "StartMs": 0,
+                    "EndMs": 3204,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "给你",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "个",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "建议",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "放弃",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2610
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.204375
+        },
+        "RequestId": "b857fda9-00fb-48aa-bb3d-78b577d10a13"
+    }
+}

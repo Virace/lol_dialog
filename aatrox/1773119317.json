@@ -1,0 +1,75 @@
+{
+    "character": "aatrox",
+    "id": "1773119317",
+    "result": "我曾经抵抗虚空。如今，我欢迎他。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012532292,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.100]  我曾经抵抗虚空。\n[0:4.100,0:8.074]  如今，我欢迎他。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我曾经抵抗虚空。",
+                    "SliceSentence": "我曾经 抵抗 虚空",
+                    "StartMs": 0,
+                    "EndMs": 4100,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我曾经",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "抵抗",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "虚空",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2880
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "如今，我欢迎他。",
+                    "SliceSentence": "如今 我 欢迎 他",
+                    "StartMs": 4100,
+                    "EndMs": 8074,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "如今",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "欢迎",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 3390
+                        },
+                        {
+                            "Word": "他",
+                            "OffsetStartMs": 3390,
+                            "OffsetEndMs": 3780
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 8.074875
+        },
+        "RequestId": "8eb0923e-9e03-45d8-9771-fa03fd1fbf17"
+    }
+}

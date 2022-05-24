@@ -1,0 +1,59 @@
+{
+    "character": "ivern",
+    "id": "1652954827",
+    "result": "你知道我的老青蛙。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012584614,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.715]  你知道我的老青蛙。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你知道我的老青蛙。",
+                    "SliceSentence": "你 知道 我 的 老 青蛙",
+                    "StartMs": 0,
+                    "EndMs": 2715,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "老",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "青蛙",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2610
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.715875
+        },
+        "RequestId": "55a52602-3c24-4fd1-a542-6898fe8adbe1"
+    }
+}

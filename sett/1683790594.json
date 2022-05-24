@@ -1,0 +1,44 @@
+{
+    "character": "sett",
+    "id": "1683790594",
+    "result": "来呀，打我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012772700,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.577]  来呀，打我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "来呀，打我。",
+                    "SliceSentence": "来呀 打 我",
+                    "StartMs": 0,
+                    "EndMs": 2577,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "来呀",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "打",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.577438
+        },
+        "RequestId": "6ed8a7cd-5cf0-4304-a056-926550169535"
+    }
+}

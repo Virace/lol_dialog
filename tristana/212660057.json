@@ -1,0 +1,39 @@
+{
+    "character": "tristana",
+    "id": "212660057",
+    "result": "看看这个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012799257,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.388]  看看这个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "看看这个。",
+                    "SliceSentence": "看看 这个",
+                    "StartMs": 0,
+                    "EndMs": 1388,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "看看",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.388688
+        },
+        "RequestId": "7dfad2dd-4a46-45cf-97db-e72a565223e8"
+    }
+}

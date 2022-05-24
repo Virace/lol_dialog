@@ -1,0 +1,44 @@
+{
+    "character": "illaoi",
+    "id": "1056915025",
+    "result": "这就是考验。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012577005,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.697]  这就是考验。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这就是考验。",
+                    "SliceSentence": "这 就是 考验",
+                    "StartMs": 0,
+                    "EndMs": 2697,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "考验",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.697875
+        },
+        "RequestId": "53a1f458-74a8-4067-bb87-d1f9aaea76d3"
+    }
+}

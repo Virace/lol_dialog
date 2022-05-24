@@ -1,0 +1,74 @@
+{
+    "character": "jhin",
+    "id": "1388648552",
+    "result": "他们会跳，他们会唱，他们会死。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012684962,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:6.791]  他们会跳，他们会唱，他们会死。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们会跳，他们会唱，他们会死。",
+                    "SliceSentence": "他们 会 跳 他们 会 唱 他们 会 死",
+                    "StartMs": 0,
+                    "EndMs": 6791,
+                    "WordsNum": 9,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "跳",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "唱",
+                            "OffsetStartMs": 2370,
+                            "OffsetEndMs": 2850
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 3420,
+                            "OffsetEndMs": 4110
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 4680,
+                            "OffsetEndMs": 5130
+                        },
+                        {
+                            "Word": "死",
+                            "OffsetStartMs": 5130,
+                            "OffsetEndMs": 6390
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.79175
+        },
+        "RequestId": "215ebce5-8d28-417d-b91b-fe213104fc70"
+    }
+}

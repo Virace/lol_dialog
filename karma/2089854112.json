@@ -1,0 +1,50 @@
+{
+    "character": "karma",
+    "id": "2089854112",
+    "result": "啊？额。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012695277,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.960,0:1.920]  啊？\n[0:1.920,0:2.544]  额。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊？",
+                    "SliceSentence": "啊",
+                    "StartMs": 960,
+                    "EndMs": 1920,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "额。",
+                    "SliceSentence": "额",
+                    "StartMs": 1920,
+                    "EndMs": 2544,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "额",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.544188
+        },
+        "RequestId": "31d3a770-1643-4e44-ad35-042268dcbb09"
+    }
+}

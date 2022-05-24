@@ -1,0 +1,44 @@
+{
+    "character": "sion",
+    "id": "191303220",
+    "result": "我渴望更多。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012776193,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.332]  我渴望更多。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我渴望更多。",
+                    "SliceSentence": "我 渴望 更多",
+                    "StartMs": 0,
+                    "EndMs": 3332,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "渴望",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "更多",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 3120
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.332688
+        },
+        "RequestId": "4e02269d-d4f2-410a-a555-08ed4b7ff34d"
+    }
+}

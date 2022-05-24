@@ -1,0 +1,64 @@
+{
+    "character": "kled",
+    "id": "535471584",
+    "result": "我们把那家伙打湿啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012708338,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.776]  我们把那家伙打湿啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们把那家伙打湿啦。",
+                    "SliceSentence": "我们 把 那家 伙 打 湿 啦",
+                    "StartMs": 0,
+                    "EndMs": 2776,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "那家",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "伙",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "打",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "湿",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.776875
+        },
+        "RequestId": "f72b2adb-7e12-4d10-a3dd-ff29312e1c62"
+    }
+}

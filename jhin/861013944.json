@@ -1,0 +1,54 @@
+{
+    "character": "jhin",
+    "id": "861013944",
+    "result": "此等丑陋，我无法忍受。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012686700,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.547]  此等丑陋，我无法忍受。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "此等丑陋，我无法忍受。",
+                    "SliceSentence": "此等 丑陋 我 无法 忍受",
+                    "StartMs": 0,
+                    "EndMs": 4547,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "此等",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "丑陋",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "无法",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 2760
+                        },
+                        {
+                            "Word": "忍受",
+                            "OffsetStartMs": 2760,
+                            "OffsetEndMs": 3300
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.547
+        },
+        "RequestId": "a1ab0ee4-7420-44dc-b022-562600c68008"
+    }
+}

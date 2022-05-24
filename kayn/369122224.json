@@ -1,0 +1,59 @@
+{
+    "character": "kayn",
+    "id": "369122224",
+    "result": "我等不及要撕裂他们了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012701533,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.301]  我等不及要撕裂他们了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我等不及要撕裂他们了。",
+                    "SliceSentence": "我 等不及 要 撕裂 他们 了",
+                    "StartMs": 0,
+                    "EndMs": 2301,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "等不及",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "撕裂",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.301375
+        },
+        "RequestId": "c21e1f42-1c33-4d81-a415-ae8c2b6e7028"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "singed",
+    "id": "1826253160",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012775426,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.555]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 1555,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.55575
+        },
+        "RequestId": "779b3d5e-b9c4-4c59-a5c0-d2c93d4228b6"
+    }
+}

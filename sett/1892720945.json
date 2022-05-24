@@ -1,0 +1,49 @@
+{
+    "character": "sett",
+    "id": "1892720945",
+    "result": "你说我妈怎么了？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012772877,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.229]  你说我妈怎么了？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你说我妈怎么了？",
+                    "SliceSentence": "你说 我妈 怎么 了",
+                    "StartMs": 0,
+                    "EndMs": 2229,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你说",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "我妈",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "怎么",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.229125
+        },
+        "RequestId": "73065466-08de-4b55-b5d5-bcaa7dc5929d"
+    }
+}

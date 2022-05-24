@@ -1,0 +1,54 @@
+{
+    "character": "thresh",
+    "id": "1240525426",
+    "result": "我就是床底下的东西。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012798305,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.089]  我就是床底下的东西。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我就是床底下的东西。",
+                    "SliceSentence": "我 就是 床底下 的 东西",
+                    "StartMs": 0,
+                    "EndMs": 5089,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "床底下",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 3690
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 3690,
+                            "OffsetEndMs": 3840
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 3840,
+                            "OffsetEndMs": 5010
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.089313
+        },
+        "RequestId": "afa4df14-4df0-4946-bc8a-73e945761181"
+    }
+}

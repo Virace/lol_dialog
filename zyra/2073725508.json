@@ -1,0 +1,49 @@
+{
+    "character": "zyra",
+    "id": "2073725508",
+    "result": "多么忙碌的世界。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012857448,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.603]  多么忙碌的世界。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "多么忙碌的世界。",
+                    "SliceSentence": "多么 忙碌 的 世界",
+                    "StartMs": 0,
+                    "EndMs": 2603,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "多么",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "忙碌",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "世界",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.603438
+        },
+        "RequestId": "fd65ba95-5832-408d-8974-e91ed2e0432c"
+    }
+}

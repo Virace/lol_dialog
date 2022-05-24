@@ -1,0 +1,44 @@
+{
+    "character": "ahri",
+    "id": "648480958",
+    "result": "我们来吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012538495,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.103]  我们来吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们来吗？",
+                    "SliceSentence": "我们 来 吗",
+                    "StartMs": 0,
+                    "EndMs": 1103,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.103188
+        },
+        "RequestId": "305677dc-4de6-4ebc-913c-b13a64c4c3bc"
+    }
+}

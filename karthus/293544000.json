@@ -1,0 +1,59 @@
+{
+    "character": "karthus",
+    "id": "293544000",
+    "result": "不再饥饿，不再疲惫，不再畏惧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012695845,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:7.368]  不再饥饿，不再疲惫，不再畏惧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不再饥饿，不再疲惫，不再畏惧。",
+                    "SliceSentence": "不再 饥饿 不再 疲惫 不再 畏惧",
+                    "StartMs": 0,
+                    "EndMs": 7368,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "不再",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "饥饿",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "不再",
+                            "OffsetStartMs": 2640,
+                            "OffsetEndMs": 3120
+                        },
+                        {
+                            "Word": "疲惫",
+                            "OffsetStartMs": 3120,
+                            "OffsetEndMs": 3900
+                        },
+                        {
+                            "Word": "不再",
+                            "OffsetStartMs": 5040,
+                            "OffsetEndMs": 5670
+                        },
+                        {
+                            "Word": "畏惧",
+                            "OffsetStartMs": 5670,
+                            "OffsetEndMs": 6990
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.368
+        },
+        "RequestId": "155d378d-7f35-4128-b84b-cc1f8e274dfb"
+    }
+}

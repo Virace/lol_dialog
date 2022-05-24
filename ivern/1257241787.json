@@ -1,0 +1,54 @@
+{
+    "character": "ivern",
+    "id": "1257241787",
+    "result": "你拿走的总要归还。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012583615,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.345]  你拿走的总要归还。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你拿走的总要归还。",
+                    "SliceSentence": "你 拿走 的 总要 归还",
+                    "StartMs": 0,
+                    "EndMs": 3345,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "拿走",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "总要",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "归还",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 3180
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.345563
+        },
+        "RequestId": "bf224841-b27e-4398-9d95-f92fdea88b21"
+    }
+}

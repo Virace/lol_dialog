@@ -1,0 +1,39 @@
+{
+    "character": "kled",
+    "id": "912153310",
+    "result": "跟我来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012710043,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.704]  跟我来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "跟我来。",
+                    "SliceSentence": "跟 我来",
+                    "StartMs": 0,
+                    "EndMs": 2704,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "跟",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "我来",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.704313
+        },
+        "RequestId": "b2696c4b-0c18-46f5-abd5-4733ac526ab5"
+    }
+}

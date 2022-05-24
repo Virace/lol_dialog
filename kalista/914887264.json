@@ -1,0 +1,44 @@
+{
+    "character": "kalista",
+    "id": "914887264",
+    "result": "是时候啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012694945,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.588]  是时候啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "是时候啦。",
+                    "SliceSentence": "是 时候 啦",
+                    "StartMs": 0,
+                    "EndMs": 2588,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "时候",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.588375
+        },
+        "RequestId": "a22a814d-a56d-444c-b8b5-81830f69e538"
+    }
+}

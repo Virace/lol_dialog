@@ -1,0 +1,59 @@
+{
+    "character": "lissandra",
+    "id": "1844885443",
+    "result": "我将冷感视为赞美。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012716632,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.485]  我将冷感视为赞美。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我将冷感视为赞美。",
+                    "SliceSentence": "我 将 冷 感 视为 赞美",
+                    "StartMs": 0,
+                    "EndMs": 3485,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "将",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "冷",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "感",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "视为",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "赞美",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 3390
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.48575
+        },
+        "RequestId": "3d858a30-103f-4ba9-b829-06b238b02760"
+    }
+}

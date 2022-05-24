@@ -1,0 +1,59 @@
+{
+    "character": "ivern",
+    "id": "1916039785",
+    "result": "谁干的事我呀。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012584828,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.203]  谁干的事我呀。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "谁干的事我呀。",
+                    "SliceSentence": "谁 干 的 事 我 呀",
+                    "StartMs": 0,
+                    "EndMs": 3203,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "谁",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "干",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "事",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "呀",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2850
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.203438
+        },
+        "RequestId": "4e46c117-88ca-43c8-b67f-23e315e49ce2"
+    }
+}

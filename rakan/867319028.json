@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "867319028",
+    "result": "我将永远存在。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012754586,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.186]  我将永远存在。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我将永远存在。",
+                    "SliceSentence": "我 将 永远 存在",
+                    "StartMs": 0,
+                    "EndMs": 2186,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "将",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "永远",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "存在",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.186563
+        },
+        "RequestId": "14ef9424-5472-4051-9be7-cb300c8daba5"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "quinn",
+    "id": "163218621",
+    "result": "哎哎。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012748884,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.738]  哎哎。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哎哎。",
+                    "SliceSentence": "哎 哎",
+                    "StartMs": 0,
+                    "EndMs": 3738,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哎",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "哎",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2760
+                        }
+                    ],
+                    "SpeechSpeed": 1.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.738438
+        },
+        "RequestId": "2a3b7d5c-eeb2-48a4-86cc-de7987ca3af5"
+    }
+}

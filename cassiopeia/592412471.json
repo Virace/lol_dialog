@@ -1,0 +1,79 @@
+{
+    "character": "cassiopeia",
+    "id": "592412471",
+    "result": "虽然没有腿，但我的步伐仍然很有活力。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012555026,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.775]  虽然没有腿，但我的步伐仍然很有活力。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "虽然没有腿，但我的步伐仍然很有活力。",
+                    "SliceSentence": "虽然 没有 腿 但 我 的 步伐 仍然 很有 活力",
+                    "StartMs": 0,
+                    "EndMs": 4775,
+                    "WordsNum": 10,
+                    "Words": [
+                        {
+                            "Word": "虽然",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "腿",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "但",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "步伐",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 2730
+                        },
+                        {
+                            "Word": "仍然",
+                            "OffsetStartMs": 2730,
+                            "OffsetEndMs": 3360
+                        },
+                        {
+                            "Word": "很有",
+                            "OffsetStartMs": 3360,
+                            "OffsetEndMs": 3810
+                        },
+                        {
+                            "Word": "活力",
+                            "OffsetStartMs": 3810,
+                            "OffsetEndMs": 4590
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.7755
+        },
+        "RequestId": "fd248107-6309-42d8-ad02-509d61f47149"
+    }
+}

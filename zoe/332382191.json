@@ -1,0 +1,44 @@
+{
+    "character": "zoe",
+    "id": "332382191",
+    "result": "你太漂亮啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012855709,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.946]  你太漂亮啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你太漂亮啦。",
+                    "SliceSentence": "你太 漂亮 啦",
+                    "StartMs": 0,
+                    "EndMs": 1946,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你太",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "漂亮",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.946938
+        },
+        "RequestId": "3675cfcc-5a4d-44b4-bb27-0ffdb0dd5eed"
+    }
+}

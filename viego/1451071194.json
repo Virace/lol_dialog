@@ -1,0 +1,39 @@
+{
+    "character": "viego",
+    "id": "1451071194",
+    "result": "他在哪里？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012813193,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.745]  他在哪里？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他在哪里？",
+                    "SliceSentence": "他在 哪里",
+                    "StartMs": 0,
+                    "EndMs": 2745,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "他在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "哪里",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.745688
+        },
+        "RequestId": "e56f8603-228f-41aa-aac7-6b0050d9bfae"
+    }
+}

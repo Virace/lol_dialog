@@ -1,0 +1,49 @@
+{
+    "character": "ryze",
+    "id": "154396215",
+    "result": "完全无意义的死亡。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012763880,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.314]  完全无意义的死亡。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "完全无意义的死亡。",
+                    "SliceSentence": "完全 无意义 的 死亡",
+                    "StartMs": 0,
+                    "EndMs": 2314,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "完全",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "无意义",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "死亡",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.31425
+        },
+        "RequestId": "e70b38f7-fda5-428b-81f2-945a1e04201a"
+    }
+}

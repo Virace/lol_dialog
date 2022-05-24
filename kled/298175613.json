@@ -1,0 +1,49 @@
+{
+    "character": "kled",
+    "id": "298175613",
+    "result": "我懂我懂。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012707112,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.276]  我懂我懂。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我懂我懂。",
+                    "SliceSentence": "我 懂 我 懂",
+                    "StartMs": 0,
+                    "EndMs": 2276,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "懂",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "懂",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.27625
+        },
+        "RequestId": "fd246ece-a6cf-42a1-a83b-1cba31b3798f"
+    }
+}

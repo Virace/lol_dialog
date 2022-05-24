@@ -1,0 +1,59 @@
+{
+    "character": "heimerdinger",
+    "id": "816698429",
+    "result": "我已经用了胜利的公式。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012576790,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.225]  我已经用了胜利的公式。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我已经用了胜利的公式。",
+                    "SliceSentence": "我 已经 用了 胜利 的 公式",
+                    "StartMs": 0,
+                    "EndMs": 2225,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "用了",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "胜利",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "公式",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 7.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.225188
+        },
+        "RequestId": "0012a33d-2ba3-4a0e-a08a-e712c82cb2be"
+    }
+}

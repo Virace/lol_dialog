@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "1545665040",
+    "result": "哎哎哎。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012688881,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.240,0:4.280]  哎哎哎。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哎哎哎。",
+                    "SliceSentence": "哎 哎 哎",
+                    "StartMs": 240,
+                    "EndMs": 4280,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哎",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "哎",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "哎",
+                            "OffsetStartMs": 3120,
+                            "OffsetEndMs": 3510
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.280438
+        },
+        "RequestId": "4697b967-bbeb-476e-b54d-cce145e35750"
+    }
+}

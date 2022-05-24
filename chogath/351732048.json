@@ -1,0 +1,44 @@
+{
+    "character": "chogath",
+    "id": "351732048",
+    "result": "逃不掉的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012555328,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.005]  逃不掉的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "逃不掉的。",
+                    "SliceSentence": "逃 不掉 的",
+                    "StartMs": 0,
+                    "EndMs": 3005,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "逃",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "不掉",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.005
+        },
+        "RequestId": "2a3e4892-7ad2-405e-a4a1-bcb4916dd930"
+    }
+}

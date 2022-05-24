@@ -1,0 +1,64 @@
+{
+    "character": "varus",
+    "id": "1879742468",
+    "result": "我只做必须做的事情。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012808195,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.280]  我只做必须做的事情。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我只做必须做的事情。",
+                    "SliceSentence": "我 只 做 必须 做 的 事情",
+                    "StartMs": 0,
+                    "EndMs": 4280,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "只",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "做",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "必须",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "做",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "事情",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 3360
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.809625
+        },
+        "RequestId": "c4b5075b-0703-4128-baa9-05f0a799ad61"
+    }
+}

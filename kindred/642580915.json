@@ -1,0 +1,49 @@
+{
+    "character": "kindred",
+    "id": "642580915",
+    "result": "白天总会变成吃的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012705250,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.035]  白天总会变成吃的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "白天总会变成吃的。",
+                    "SliceSentence": "白天 总会 变成 吃的",
+                    "StartMs": 0,
+                    "EndMs": 3035,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "白天",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "总会",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "变成",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "吃的",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2910
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.035
+        },
+        "RequestId": "c89929be-1462-4826-8059-5ed679b0ed83"
+    }
+}

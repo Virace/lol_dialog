@@ -1,0 +1,49 @@
+{
+    "character": "sylas",
+    "id": "1341206565",
+    "result": "没有和谈的余地。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786392,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.426]  没有和谈的余地。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没有和谈的余地。",
+                    "SliceSentence": "没有 和谈 的 余地",
+                    "StartMs": 0,
+                    "EndMs": 1426,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "和谈",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "余地",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 7.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.426688
+        },
+        "RequestId": "b23f5c03-22e9-4cff-9fa8-1092afde4705"
+    }
+}

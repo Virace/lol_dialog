@@ -1,0 +1,44 @@
+{
+    "character": "thresh",
+    "id": "1408078163",
+    "result": "无处可藏。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012798384,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.944]  无处可藏。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "无处可藏。",
+                    "SliceSentence": "无处 可 藏",
+                    "StartMs": 0,
+                    "EndMs": 3944,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "无处",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "可",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "藏",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 3060
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.944313
+        },
+        "RequestId": "d2a1aae5-f9d7-4af8-aece-3eca689e5a03"
+    }
+}

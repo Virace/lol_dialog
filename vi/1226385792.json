@@ -1,0 +1,39 @@
+{
+    "character": "vi",
+    "id": "1226385792",
+    "result": "啊啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012812012,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.509]  啊啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊啊。",
+                    "SliceSentence": "啊 啊",
+                    "StartMs": 0,
+                    "EndMs": 1509,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.509438
+        },
+        "RequestId": "ee2baaae-b21b-4467-a4ec-a42f7ded36ea"
+    }
+}

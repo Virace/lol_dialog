@@ -1,0 +1,39 @@
+{
+    "character": "gangplank",
+    "id": "125333130",
+    "result": "没门儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012570432,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.420]  没门儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没门儿。",
+                    "SliceSentence": "没门 儿",
+                    "StartMs": 0,
+                    "EndMs": 1420,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "没门",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "儿",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.42025
+        },
+        "RequestId": "d7e56ce1-85e1-4db7-9960-d7d0ba1a43d7"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "leblanc",
+    "id": "1392916947",
+    "result": "谁都别想逃。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012711583,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.817]  谁都别想逃。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "谁都别想逃。",
+                    "SliceSentence": "谁都 别想 逃",
+                    "StartMs": 0,
+                    "EndMs": 1817,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "谁都",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "别想",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "逃",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.817125
+        },
+        "RequestId": "a5586376-0a19-40a0-9980-a3eb15a50eb9"
+    }
+}

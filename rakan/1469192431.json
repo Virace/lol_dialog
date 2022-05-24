@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "1469192431",
+    "result": "这只舞太要命了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012750615,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.678]  这只舞太要命了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这只舞太要命了。",
+                    "SliceSentence": "这只 舞 太 要命 了",
+                    "StartMs": 0,
+                    "EndMs": 1678,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这只",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "舞",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "太",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "要命",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 7.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.678313
+        },
+        "RequestId": "f31b93d9-004c-450e-97de-8998674aca96"
+    }
+}

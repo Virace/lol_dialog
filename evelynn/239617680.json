@@ -1,0 +1,39 @@
+{
+    "character": "evelynn",
+    "id": "239617680",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012563240,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.252]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 2252,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.252375
+        },
+        "RequestId": "eafe89eb-78b2-407f-b1f4-c36771d125b2"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "gragas",
+    "id": "1220563456",
+    "result": "哈哈哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012573166,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.222]  哈哈哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 2222,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.2225
+        },
+        "RequestId": "0a47f403-a0a4-49d4-9d0b-0dd9758342ea"
+    }
+}

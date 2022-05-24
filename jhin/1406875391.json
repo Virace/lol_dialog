@@ -1,0 +1,65 @@
+{
+    "character": "jhin",
+    "id": "1406875391",
+    "result": "此刻。大美将临。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012684973,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.640]  此刻。\n[0:1.640,0:3.351]  大美将临。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "此刻。",
+                    "SliceSentence": "此刻",
+                    "StartMs": 0,
+                    "EndMs": 1640,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "此刻",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "大美将临。",
+                    "SliceSentence": "大 美 将 临",
+                    "StartMs": 1640,
+                    "EndMs": 3351,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "大",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "美",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "将",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "临",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.351188
+        },
+        "RequestId": "b17b3c15-d8a2-4523-9dd4-ad3d21c579e3"
+    }
+}

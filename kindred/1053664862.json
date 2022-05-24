@@ -1,0 +1,54 @@
+{
+    "character": "kindred",
+    "id": "1053664862",
+    "result": "那个本该是我们的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012704322,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.912]  那个本该是我们的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "那个本该是我们的。",
+                    "SliceSentence": "那个 本该 是 我们 的",
+                    "StartMs": 0,
+                    "EndMs": 1912,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "那个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "本该",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 6.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.912875
+        },
+        "RequestId": "57d7e279-f7ed-42cd-88a9-a60e173144ac"
+    }
+}

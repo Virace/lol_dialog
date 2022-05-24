@@ -1,0 +1,44 @@
+{
+    "character": "draven",
+    "id": "2088646136",
+    "result": "哎呀，谢谢你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556667,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.060,0:2.500]  哎呀，谢谢你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哎呀，谢谢你。",
+                    "SliceSentence": "哎呀 谢谢 你",
+                    "StartMs": 60,
+                    "EndMs": 2500,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哎呀",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "谢谢",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.80375
+        },
+        "RequestId": "a6b46880-de40-49c7-b5d4-c407d4a3474e"
+    }
+}

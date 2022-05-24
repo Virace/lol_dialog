@@ -1,0 +1,49 @@
+{
+    "character": "ornn",
+    "id": "984799285",
+    "result": "浪费我的时间。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012740279,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.703]  浪费我的时间。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "浪费我的时间。",
+                    "SliceSentence": "浪费 我 的 时间",
+                    "StartMs": 0,
+                    "EndMs": 1703,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "浪费",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.703813
+        },
+        "RequestId": "9d7420fc-b803-43fe-8630-d4f00b8ebd63"
+    }
+}

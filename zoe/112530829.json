@@ -1,0 +1,49 @@
+{
+    "character": "zoe",
+    "id": "112530829",
+    "result": "天气真好，对不对？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012854143,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.335]  天气真好，对不对？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "天气真好，对不对？",
+                    "SliceSentence": "天气 真好 对 不对",
+                    "StartMs": 0,
+                    "EndMs": 2335,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "天气",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "真好",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "对",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "不对",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.335375
+        },
+        "RequestId": "1f47927d-e73d-4d41-bf14-01a5df72724a"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "morgana",
+    "id": "857499171",
+    "result": "你必须经历苦难。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012727467,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.451]  你必须经历苦难。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你必须经历苦难。",
+                    "SliceSentence": "你 必须 经历 苦难",
+                    "StartMs": 0,
+                    "EndMs": 2451,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "必须",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "经历",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "苦难",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.451563
+        },
+        "RequestId": "03f7a398-b71b-4748-829b-811757e69528"
+    }
+}

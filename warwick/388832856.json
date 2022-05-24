@@ -1,0 +1,44 @@
+{
+    "character": "warwick",
+    "id": "388832856",
+    "result": "你做了什么？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012818135,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.050]  你做了什么？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你做了什么？",
+                    "SliceSentence": "你做 了 什么",
+                    "StartMs": 0,
+                    "EndMs": 3050,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你做",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.050688
+        },
+        "RequestId": "ac200d8c-4c36-4f78-81a8-322494ed2da8"
+    }
+}

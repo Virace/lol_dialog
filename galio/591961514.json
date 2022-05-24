@@ -1,0 +1,44 @@
+{
+    "character": "galio",
+    "id": "591961514",
+    "result": "这里我能解决。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012569423,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.267]  这里我能解决。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这里我能解决。",
+                    "SliceSentence": "这里 我能 解决",
+                    "StartMs": 0,
+                    "EndMs": 1267,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这里",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "我能",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "解决",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 7.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.267438
+        },
+        "RequestId": "449b7d08-825f-4adb-aed8-7c5ffb396b7d"
+    }
+}

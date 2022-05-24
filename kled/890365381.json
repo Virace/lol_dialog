@@ -1,0 +1,49 @@
+{
+    "character": "kled",
+    "id": "890365381",
+    "result": "你试着跑跑看。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012709874,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.746]  你试着跑跑看。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你试着跑跑看。",
+                    "SliceSentence": "你 试着 跑跑 看",
+                    "StartMs": 0,
+                    "EndMs": 1746,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "试着",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "跑跑",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "看",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.746688
+        },
+        "RequestId": "c4e6951d-ae71-432d-ab1c-772b9b541955"
+    }
+}

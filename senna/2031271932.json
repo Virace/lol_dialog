@@ -1,0 +1,49 @@
+{
+    "character": "senna",
+    "id": "2031271932",
+    "result": "我能承受得住。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012769271,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.880]  我能承受得住。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我能承受得住。",
+                    "SliceSentence": "我能 承受 得 住",
+                    "StartMs": 0,
+                    "EndMs": 1880,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我能",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "承受",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "得",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "住",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.880813
+        },
+        "RequestId": "1cd1b4cc-4b2b-429a-bd50-c1461282216c"
+    }
+}

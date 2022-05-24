@@ -1,0 +1,59 @@
+{
+    "character": "ekko",
+    "id": "165204284",
+    "result": "你刚才是想打中我吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012559540,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.539]  你刚才是想打中我吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你刚才是想打中我吗？",
+                    "SliceSentence": "你刚 才是 想 打中 我 吗",
+                    "StartMs": 0,
+                    "EndMs": 1539,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你刚",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "才是",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "想",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "打中",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 9.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.539375
+        },
+        "RequestId": "0aaca228-3a24-4edd-bf49-88520c7f60fc"
+    }
+}

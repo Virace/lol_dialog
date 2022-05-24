@@ -1,0 +1,39 @@
+{
+    "character": "taliyah",
+    "id": "426000201",
+    "result": "好，哎。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012793074,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.832]  好，哎。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好，哎。",
+                    "SliceSentence": "好 哎",
+                    "StartMs": 0,
+                    "EndMs": 832,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "哎",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 690
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.832813
+        },
+        "RequestId": "128a4434-805a-44c9-853c-d01241c236b0"
+    }
+}

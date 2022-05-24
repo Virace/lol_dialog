@@ -1,0 +1,44 @@
+{
+    "character": "sion",
+    "id": "126247157",
+    "result": "振动，然后死吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012775995,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.118]  振动，然后死吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "振动，然后死吧。",
+                    "SliceSentence": "振动 然后 死吧",
+                    "StartMs": 0,
+                    "EndMs": 3118,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "振动",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "然后",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "死吧",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2910
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.118313
+        },
+        "RequestId": "1710be7b-2368-4fcc-a443-8dc8e973864b"
+    }
+}

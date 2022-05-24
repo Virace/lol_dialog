@@ -1,0 +1,64 @@
+{
+    "character": "kled",
+    "id": "45463625",
+    "result": "正常人都会跑掉，但我不会跑。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012707957,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.634]  正常人都会跑掉，但我不会跑。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "正常人都会跑掉，但我不会跑。",
+                    "SliceSentence": "正常人 都会 跑掉 但 我不 会 跑",
+                    "StartMs": 0,
+                    "EndMs": 4634,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "正常人",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "都会",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "跑掉",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "但",
+                            "OffsetStartMs": 2640,
+                            "OffsetEndMs": 2910
+                        },
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 2910,
+                            "OffsetEndMs": 3330
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 3330,
+                            "OffsetEndMs": 3660
+                        },
+                        {
+                            "Word": "跑",
+                            "OffsetStartMs": 3660,
+                            "OffsetEndMs": 4350
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.634563
+        },
+        "RequestId": "5ef6b493-f343-44b1-875a-5ce63ca037c7"
+    }
+}

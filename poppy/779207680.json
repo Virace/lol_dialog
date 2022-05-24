@@ -1,0 +1,64 @@
+{
+    "character": "poppy",
+    "id": "779207680",
+    "result": "我们去跌倒的地方再试一次。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012743887,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.015]  我们去跌倒的地方再试一次。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们去跌倒的地方再试一次。",
+                    "SliceSentence": "我们 去 跌倒 的 地方 再试 一次",
+                    "StartMs": 0,
+                    "EndMs": 2015,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "跌倒",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "地方",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "再试",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "一次",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 9.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.01575
+        },
+        "RequestId": "4602e2f3-153d-4845-81fa-d08ab12addc4"
+    }
+}

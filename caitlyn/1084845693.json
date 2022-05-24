@@ -1,0 +1,49 @@
+{
+    "character": "caitlyn",
+    "id": "1084845693",
+    "result": "告诉魏，其实我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550785,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.901]  告诉魏，其实我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "告诉魏，其实我。",
+                    "SliceSentence": "告诉 魏 其实 我",
+                    "StartMs": 0,
+                    "EndMs": 2901,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "告诉",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "魏",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "其实",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.901313
+        },
+        "RequestId": "38f1dea8-9509-49b3-8d5d-64901eb5ad2d"
+    }
+}

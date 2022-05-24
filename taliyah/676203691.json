@@ -1,0 +1,39 @@
+{
+    "character": "taliyah",
+    "id": "676203691",
+    "result": "这个有用。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012794152,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.769]  这个有用。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这个有用。",
+                    "SliceSentence": "这个 有用",
+                    "StartMs": 0,
+                    "EndMs": 769,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "有用",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 660
+                        }
+                    ],
+                    "SpeechSpeed": 7.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.769
+        },
+        "RequestId": "b4754bb2-edf9-4658-bbe3-07bf4151997a"
+    }
+}

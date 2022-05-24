@@ -1,0 +1,44 @@
+{
+    "character": "pyke",
+    "id": "1278816811",
+    "result": "漂进水底。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744786,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.812]  漂进水底。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "漂进水底。",
+                    "SliceSentence": "漂 进水 底",
+                    "StartMs": 0,
+                    "EndMs": 2812,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "漂",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "进水",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "底",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.812688
+        },
+        "RequestId": "f9a200a0-7840-4223-b696-b395a26b01b6"
+    }
+}

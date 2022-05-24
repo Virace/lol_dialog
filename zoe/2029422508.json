@@ -1,0 +1,54 @@
+{
+    "character": "zoe",
+    "id": "2029422508",
+    "result": "来嘛，试试来抓我呀。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012855353,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.669]  来嘛，试试来抓我呀。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "来嘛，试试来抓我呀。",
+                    "SliceSentence": "来嘛 试试 来抓 我 呀",
+                    "StartMs": 0,
+                    "EndMs": 2669,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "来嘛",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "试试",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "来抓",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "呀",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.669375
+        },
+        "RequestId": "067bcbf8-cee2-4aee-bcd9-856b86a67b4f"
+    }
+}

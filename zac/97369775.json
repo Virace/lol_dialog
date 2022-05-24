@@ -1,0 +1,54 @@
+{
+    "character": "zac",
+    "id": "97369775",
+    "result": "好吧，我现在生气了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012849455,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.059]  好吧，我现在生气了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好吧，我现在生气了。",
+                    "SliceSentence": "好吧 我 现在 生气 了",
+                    "StartMs": 0,
+                    "EndMs": 3059,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "好吧",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "生气",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2850
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2850,
+                            "OffsetEndMs": 3000
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.059813
+        },
+        "RequestId": "f0469b1b-d64b-4272-9920-8f89db342e9c"
+    }
+}

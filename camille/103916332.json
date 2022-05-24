@@ -1,0 +1,59 @@
+{
+    "character": "camille",
+    "id": "103916332",
+    "result": "喝杯茶的时间总是有的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552158,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.122]  喝杯茶的时间总是有的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "喝杯茶的时间总是有的。",
+                    "SliceSentence": "喝杯 茶 的 时间 总是 有的",
+                    "StartMs": 0,
+                    "EndMs": 2122,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "喝杯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "茶",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "总是",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "有的",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 7.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.122938
+        },
+        "RequestId": "3c346749-d51b-445a-992d-3a0c4842a3eb"
+    }
+}

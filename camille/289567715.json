@@ -1,0 +1,44 @@
+{
+    "character": "camille",
+    "id": "289567715",
+    "result": "你会合作的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552841,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.716]  你会合作的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你会合作的。",
+                    "SliceSentence": "你会 合作 的",
+                    "StartMs": 0,
+                    "EndMs": 1716,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你会",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "合作",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.716813
+        },
+        "RequestId": "a0b5796c-a032-45e2-985f-8766cea8f176"
+    }
+}

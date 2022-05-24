@@ -1,0 +1,54 @@
+{
+    "character": "ornn",
+    "id": "1492309",
+    "result": "好运就是霉运，倒霉了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012738420,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.705]  好运就是霉运，倒霉了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好运就是霉运，倒霉了。",
+                    "SliceSentence": "好运 就是 霉运 倒霉 了",
+                    "StartMs": 0,
+                    "EndMs": 2705,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "好运",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "霉运",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "倒霉",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.705375
+        },
+        "RequestId": "bd41c172-2947-4e42-a546-f6f49d46dec5"
+    }
+}

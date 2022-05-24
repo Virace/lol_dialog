@@ -1,0 +1,54 @@
+{
+    "character": "zed",
+    "id": "820315098",
+    "result": "传统是智慧的糟粕。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012850396,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.001]  传统是智慧的糟粕。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "传统是智慧的糟粕。",
+                    "SliceSentence": "传统 是 智慧 的 糟粕",
+                    "StartMs": 0,
+                    "EndMs": 4001,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "传统",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "智慧",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2610
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2610,
+                            "OffsetEndMs": 2730
+                        },
+                        {
+                            "Word": "糟粕",
+                            "OffsetStartMs": 2730,
+                            "OffsetEndMs": 3870
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.001125
+        },
+        "RequestId": "0c4b2c17-6dfa-4eef-8b98-c5a824a565d4"
+    }
+}

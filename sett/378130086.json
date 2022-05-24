@@ -1,0 +1,111 @@
+{
+    "character": "sett",
+    "id": "378130086",
+    "result": "哎。我跟你说。没必要让我妈知道这些事儿，懂吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012773246,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.280]  哎。\n[0:1.280,0:2.980]  我跟你说。\n[0:3.000,0:7.662]  没必要让我妈知道这些事儿，懂吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哎。",
+                    "SliceSentence": "哎",
+                    "StartMs": 0,
+                    "EndMs": 1280,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "哎",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "我跟你说。",
+                    "SliceSentence": "我 跟 你说",
+                    "StartMs": 1280,
+                    "EndMs": 2980,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "跟",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "你说",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 840
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "没必要让我妈知道这些事儿，懂吗？",
+                    "SliceSentence": "没必要 让我 妈 知道 这些 事儿 懂 吗",
+                    "StartMs": 3000,
+                    "EndMs": 7662,
+                    "WordsNum": 8,
+                    "Words": [
+                        {
+                            "Word": "没必要",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "让我",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "妈",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "这些",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "事儿",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2490
+                        },
+                        {
+                            "Word": "懂",
+                            "OffsetStartMs": 2880,
+                            "OffsetEndMs": 3210
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 3210,
+                            "OffsetEndMs": 3900
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.662625
+        },
+        "RequestId": "47f3d95c-6352-4284-845e-e156cdb3ef1c"
+    }
+}

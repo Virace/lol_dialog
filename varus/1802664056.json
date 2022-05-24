@@ -1,0 +1,49 @@
+{
+    "character": "varus",
+    "id": "1802664056",
+    "result": "当心那些一无所有的人。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012808199,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.732]  当心那些一无所有的人。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "当心那些一无所有的人。",
+                    "SliceSentence": "当心 那些 一无 所有的人",
+                    "StartMs": 0,
+                    "EndMs": 4732,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "当心",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "那些",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "一无",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "所有的人",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 3540
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.732375
+        },
+        "RequestId": "6962ea8c-7278-4a9e-ad4e-34b684ee2356"
+    }
+}

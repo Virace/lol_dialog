@@ -1,0 +1,49 @@
+{
+    "character": "twitch",
+    "id": "922741485",
+    "result": "我发现你啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012804250,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.205]  我发现你啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我发现你啦。",
+                    "SliceSentence": "我 发现 你 啦",
+                    "StartMs": 0,
+                    "EndMs": 2205,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "发现",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.205938
+        },
+        "RequestId": "fd00f976-be26-479a-9df9-f153ce497676"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "veigar",
+    "id": "525566001",
+    "result": "你的命令让我厌倦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012809163,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.639]  你的命令让我厌倦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你的命令让我厌倦。",
+                    "SliceSentence": "你的 命令 让我 厌倦",
+                    "StartMs": 0,
+                    "EndMs": 2639,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "命令",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "让我",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "厌倦",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.639563
+        },
+        "RequestId": "1a5c2d88-3487-4ea2-8f95-8dd103e0d391"
+    }
+}

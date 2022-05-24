@@ -1,0 +1,39 @@
+{
+    "character": "rakan",
+    "id": "916447497",
+    "result": "最好快点。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012754790,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.130]  最好快点。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "最好快点。",
+                    "SliceSentence": "最好 快点",
+                    "StartMs": 0,
+                    "EndMs": 1130,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "最好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "快点",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 870
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.130688
+        },
+        "RequestId": "e478cbce-c432-44bc-9ad6-0e380c8098e2"
+    }
+}

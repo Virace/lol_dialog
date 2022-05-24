@@ -1,0 +1,44 @@
+{
+    "character": "leesin",
+    "id": "455858253",
+    "result": "哪里需要我？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012713492,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.660]  哪里需要我？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哪里需要我？",
+                    "SliceSentence": "哪里 需要 我",
+                    "StartMs": 0,
+                    "EndMs": 2660,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哪里",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.786375
+        },
+        "RequestId": "7a2dfe29-b51d-4285-9a1f-a84bc55f65d1"
+    }
+}

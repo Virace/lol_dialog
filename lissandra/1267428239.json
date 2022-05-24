@@ -1,0 +1,49 @@
+{
+    "character": "lissandra",
+    "id": "1267428239",
+    "result": "冰雪将不再融化。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012716459,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.451]  冰雪将不再融化。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "冰雪将不再融化。",
+                    "SliceSentence": "冰雪 将 不再 融化",
+                    "StartMs": 0,
+                    "EndMs": 3451,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "冰雪",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "将",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "不再",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "融化",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.451125
+        },
+        "RequestId": "b50239d9-086b-4654-8161-f1fe9a1c142f"
+    }
+}

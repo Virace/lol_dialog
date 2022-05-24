@@ -1,0 +1,59 @@
+{
+    "character": "vex",
+    "id": "1870130015",
+    "result": "不要，别来烦我，我要睡觉。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012810840,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.920]  不要，别来烦我，我要睡觉。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要，别来烦我，我要睡觉。",
+                    "SliceSentence": "不要 别来 烦 我我 要 睡觉",
+                    "StartMs": 0,
+                    "EndMs": 5920,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "别来",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "烦",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 2550
+                        },
+                        {
+                            "Word": "我我",
+                            "OffsetStartMs": 2550,
+                            "OffsetEndMs": 3090
+                        },
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 3690,
+                            "OffsetEndMs": 3960
+                        },
+                        {
+                            "Word": "睡觉",
+                            "OffsetStartMs": 3960,
+                            "OffsetEndMs": 4800
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.920313
+        },
+        "RequestId": "860db6f9-15dd-4b69-9c23-1cec323bd6ac"
+    }
+}

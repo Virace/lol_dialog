@@ -1,0 +1,49 @@
+{
+    "character": "cassiopeia",
+    "id": "1115102087",
+    "result": "相信你所看到的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554642,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.522]  相信你所看到的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "相信你所看到的。",
+                    "SliceSentence": "相信 你所 看到 的",
+                    "StartMs": 0,
+                    "EndMs": 2522,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "相信",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "你所",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "看到",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.522438
+        },
+        "RequestId": "94c36b65-1a95-4b98-a794-d60367d694bf"
+    }
+}

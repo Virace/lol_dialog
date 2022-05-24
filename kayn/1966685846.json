@@ -1,0 +1,54 @@
+{
+    "character": "kayn",
+    "id": "1966685846",
+    "result": "刚才杀的挺痛快。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012700691,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.757]  刚才杀的挺痛快。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "刚才杀的挺痛快。",
+                    "SliceSentence": "刚才 杀 的 挺 痛快",
+                    "StartMs": 0,
+                    "EndMs": 2757,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "刚才",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "杀",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "挺",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "痛快",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2610
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.757563
+        },
+        "RequestId": "a6d759d2-9834-4087-a783-768d812609a3"
+    }
+}

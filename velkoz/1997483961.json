@@ -1,0 +1,44 @@
+{
+    "character": "velkoz",
+    "id": "1997483961",
+    "result": "感谢你的捐赠。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012809563,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.415]  感谢你的捐赠。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "感谢你的捐赠。",
+                    "SliceSentence": "感谢 你的 捐赠",
+                    "StartMs": 0,
+                    "EndMs": 5415,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "感谢",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "捐赠",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 3540
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.4155
+        },
+        "RequestId": "e6abee4c-cc3f-4600-8972-78c920477990"
+    }
+}

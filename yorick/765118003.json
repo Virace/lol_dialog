@@ -1,0 +1,39 @@
+{
+    "character": "yorick",
+    "id": "765118003",
+    "result": "永不终结。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012845807,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.338]  永不终结。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "永不终结。",
+                    "SliceSentence": "永不 终结",
+                    "StartMs": 0,
+                    "EndMs": 2338,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "永不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "终结",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.338063
+        },
+        "RequestId": "98be8c89-7620-4d0e-b7b0-9b3b0e146dd0"
+    }
+}

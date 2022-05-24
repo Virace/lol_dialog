@@ -1,0 +1,49 @@
+{
+    "character": "yone",
+    "id": "378308031",
+    "result": "你不配受我一剑。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012843157,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.157]  你不配受我一剑。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你不配受我一剑。",
+                    "SliceSentence": "你不配 受 我 一剑",
+                    "StartMs": 0,
+                    "EndMs": 3157,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你不配",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "受",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "一剑",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.157938
+        },
+        "RequestId": "b174af41-f10f-45fb-9c82-e980c0c4fce2"
+    }
+}

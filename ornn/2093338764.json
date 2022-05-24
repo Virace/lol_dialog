@@ -1,0 +1,64 @@
+{
+    "character": "ornn",
+    "id": "2093338764",
+    "result": "我发现他的时候就是这样。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012739147,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.630]  我发现他的时候就是这样。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我发现他的时候就是这样。",
+                    "SliceSentence": "我 发现 他 的 时候 就是 这样",
+                    "StartMs": 0,
+                    "EndMs": 2630,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "发现",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "他",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "时候",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "这样",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 6.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.630938
+        },
+        "RequestId": "f6a59180-8c55-4a6b-8df1-4a2e13efd151"
+    }
+}

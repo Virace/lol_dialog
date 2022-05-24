@@ -1,0 +1,80 @@
+{
+    "character": "senna",
+    "id": "1716464946",
+    "result": "他好像还挺享受的。真恶心。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012768981,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.500]  他好像还挺享受的。\n[0:3.560,0:5.503]  真恶心。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他好像还挺享受的。",
+                    "SliceSentence": "他 好像 还 挺 享受 的",
+                    "StartMs": 0,
+                    "EndMs": 2500,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "他",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "好像",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "还",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "挺",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "享受",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "真恶心。",
+                    "SliceSentence": "真 恶心",
+                    "StartMs": 3560,
+                    "EndMs": 5503,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "真",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "恶心",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.503125
+        },
+        "RequestId": "202b8491-b502-4fd2-a909-cbb88e6c71ed"
+    }
+}

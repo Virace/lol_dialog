@@ -1,0 +1,59 @@
+{
+    "character": "illaoi",
+    "id": "779112232",
+    "result": "我们只持有必须的东西。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012579189,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.496]  我们只持有必须的东西。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们只持有必须的东西。",
+                    "SliceSentence": "我们 只 持有 必须 的 东西",
+                    "StartMs": 0,
+                    "EndMs": 2496,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "只",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "持有",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "必须",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.496688
+        },
+        "RequestId": "fb7f3bc3-a97c-403d-bcdb-6b342705e6e8"
+    }
+}

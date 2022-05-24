@@ -1,0 +1,44 @@
+{
+    "character": "shyvana",
+    "id": "873594479",
+    "result": "魔龙靠近了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012775078,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.801]  魔龙靠近了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "魔龙靠近了。",
+                    "SliceSentence": "魔龙 靠近 了",
+                    "StartMs": 0,
+                    "EndMs": 1801,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "魔龙",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "靠近",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.801375
+        },
+        "RequestId": "24d8711f-d64c-465c-817d-91e3dea38658"
+    }
+}

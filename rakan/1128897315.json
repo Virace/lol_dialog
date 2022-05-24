@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "1128897315",
+    "result": "你可别说一点也不精彩。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749559,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.234]  你可别说一点也不精彩。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你可别说一点也不精彩。",
+                    "SliceSentence": "你可 别说 一点 也不 精彩",
+                    "StartMs": 0,
+                    "EndMs": 2234,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你可",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "别说",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "一点",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "也不",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "精彩",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.234938
+        },
+        "RequestId": "54d7461e-4d91-438c-8659-d55666a8eda2"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "graves",
+    "id": "12247659",
+    "result": "麻烦不断。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012573389,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.487]  麻烦不断。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "麻烦不断。",
+                    "SliceSentence": "麻烦 不断",
+                    "StartMs": 0,
+                    "EndMs": 1487,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "麻烦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "不断",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.487625
+        },
+        "RequestId": "29b97624-d592-4b88-b839-125a7071dd59"
+    }
+}

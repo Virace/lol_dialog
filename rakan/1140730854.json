@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "1140730854",
+    "result": "你饿了吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749565,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.947]  你饿了吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你饿了吗？",
+                    "SliceSentence": "你 饿了 吗",
+                    "StartMs": 0,
+                    "EndMs": 947,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 60
+                        },
+                        {
+                            "Word": "饿了",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.947438
+        },
+        "RequestId": "4a9ea3b7-9d2e-4d7b-a7eb-b59e297bc3d9"
+    }
+}

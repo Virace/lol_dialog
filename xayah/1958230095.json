@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "1958230095",
+    "result": "真的吗，是什么？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012835759,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.610]  真的吗，是什么？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "真的吗，是什么？",
+                    "SliceSentence": "真的 吗 是 什么",
+                    "StartMs": 0,
+                    "EndMs": 1610,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "真的",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.610313
+        },
+        "RequestId": "79ba64e8-b201-43cb-a63e-559d7b67f962"
+    }
+}

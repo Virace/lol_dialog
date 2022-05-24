@@ -1,0 +1,39 @@
+{
+    "character": "kayn",
+    "id": "606257245",
+    "result": "不值得。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012702356,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.396]  不值得。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不值得。",
+                    "SliceSentence": "不 值得",
+                    "StartMs": 0,
+                    "EndMs": 1396,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "值得",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.396875
+        },
+        "RequestId": "d39a5763-78dc-4a1a-a0b3-b3cf414a7b50"
+    }
+}

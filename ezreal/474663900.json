@@ -1,0 +1,49 @@
+{
+    "character": "ezreal",
+    "id": "474663900",
+    "result": "辛苦了，一点也不。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012566673,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.579]  辛苦了，一点也不。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "辛苦了，一点也不。",
+                    "SliceSentence": "辛苦 了 一点 也不",
+                    "StartMs": 0,
+                    "EndMs": 2579,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "辛苦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "一点",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "也不",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.579938
+        },
+        "RequestId": "1735f56f-b0c3-473d-9b14-bd7a3c67ed36"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "gwen",
+    "id": "1511877877",
+    "result": "黑雾不会伤人，我保证。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012574233,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.109]  黑雾不会伤人，我保证。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "黑雾不会伤人，我保证。",
+                    "SliceSentence": "黑雾 不会 伤人 我 保证",
+                    "StartMs": 0,
+                    "EndMs": 4109,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "黑雾",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "伤人",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "保证",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.109313
+        },
+        "RequestId": "e27d9657-ff12-4d63-beb7-a3d0c1024bd2"
+    }
+}

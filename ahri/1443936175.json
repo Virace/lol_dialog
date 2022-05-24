@@ -1,0 +1,44 @@
+{
+    "character": "ahri",
+    "id": "1443936175",
+    "result": "大发慈悲，太迟了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012538334,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.098]  大发慈悲，太迟了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "大发慈悲，太迟了。",
+                    "SliceSentence": "大发慈悲 太迟 了",
+                    "StartMs": 0,
+                    "EndMs": 2098,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "大发慈悲",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "太迟",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.098875
+        },
+        "RequestId": "8778db99-dfd5-4bfc-a04a-c85f254970ce"
+    }
+}

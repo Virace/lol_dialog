@@ -1,0 +1,49 @@
+{
+    "character": "jax",
+    "id": "1297559690",
+    "result": "把他们也算上。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012683813,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.060,0:2.097]  把他们也算上。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "把他们也算上。",
+                    "SliceSentence": "把 他们 也 算上",
+                    "StartMs": 60,
+                    "EndMs": 2097,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "也",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "算上",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.097625
+        },
+        "RequestId": "f6e093cc-1b54-47ca-91ea-f850a26caecd"
+    }
+}

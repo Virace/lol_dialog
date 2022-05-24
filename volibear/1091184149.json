@@ -1,0 +1,44 @@
+{
+    "character": "volibear",
+    "id": "1091184149",
+    "result": "我不会被遗忘。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012815532,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.876]  我不会被遗忘。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不会被遗忘。",
+                    "SliceSentence": "我不 会被 遗忘",
+                    "StartMs": 0,
+                    "EndMs": 2876,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "会被",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "遗忘",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.876063
+        },
+        "RequestId": "be846ce7-a87e-4130-b83c-9a0aad671fc0"
+    }
+}

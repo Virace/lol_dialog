@@ -1,0 +1,39 @@
+{
+    "character": "zeri",
+    "id": "1791120273",
+    "result": "我说了算。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012851564,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.792]  我说了算。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我说了算。",
+                    "SliceSentence": "我 说了算",
+                    "StartMs": 0,
+                    "EndMs": 1792,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "说了算",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.792
+        },
+        "RequestId": "e0ee6810-c1e1-4e44-88d5-7475906988c6"
+    }
+}

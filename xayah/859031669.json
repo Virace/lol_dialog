@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "859031669",
+    "result": "我我再算。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012838081,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.542]  我我再算。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我我再算。",
+                    "SliceSentence": "我 我 再 算",
+                    "StartMs": 0,
+                    "EndMs": 1542,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "再",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "算",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.542813
+        },
+        "RequestId": "26ebfa9b-b2bc-4d25-a754-8a6a5618e22b"
+    }
+}

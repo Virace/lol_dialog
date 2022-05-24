@@ -1,0 +1,44 @@
+{
+    "character": "pyke",
+    "id": "938040352",
+    "result": "踩水可不是游泳。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012747009,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.087]  踩水可不是游泳。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "踩水可不是游泳。",
+                    "SliceSentence": "踩水 可不是 游泳",
+                    "StartMs": 0,
+                    "EndMs": 3087,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "踩水",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "可不是",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "游泳",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.08725
+        },
+        "RequestId": "019a850d-8090-4dbb-929a-440810b6c1e1"
+    }
+}

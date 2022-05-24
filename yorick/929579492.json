@@ -1,0 +1,54 @@
+{
+    "character": "yorick",
+    "id": "929579492",
+    "result": "没有希望，这里还有一些。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012846214,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.100,0:6.049]  没有希望，这里还有一些。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没有希望，这里还有一些。",
+                    "SliceSentence": "没有 希望 这里 还有 一些",
+                    "StartMs": 100,
+                    "EndMs": 6049,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "希望",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 3060
+                        },
+                        {
+                            "Word": "这里",
+                            "OffsetStartMs": 3090,
+                            "OffsetEndMs": 3900
+                        },
+                        {
+                            "Word": "还有",
+                            "OffsetStartMs": 3900,
+                            "OffsetEndMs": 4740
+                        },
+                        {
+                            "Word": "一些",
+                            "OffsetStartMs": 4740,
+                            "OffsetEndMs": 5820
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.049063
+        },
+        "RequestId": "03f0e98c-c539-46ac-b511-9208269602b3"
+    }
+}

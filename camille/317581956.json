@@ -1,0 +1,59 @@
+{
+    "character": "camille",
+    "id": "317581956",
+    "result": "我是唯一必须的武器。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552922,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.422]  我是唯一必须的武器。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我是唯一必须的武器。",
+                    "SliceSentence": "我 是 唯一 必须 的 武器",
+                    "StartMs": 0,
+                    "EndMs": 2422,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "唯一",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "必须",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "武器",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.422938
+        },
+        "RequestId": "d462569c-91e3-4beb-8142-bdfd59a326bd"
+    }
+}

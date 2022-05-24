@@ -1,0 +1,49 @@
+{
+    "character": "caitlyn",
+    "id": "56321136",
+    "result": "你想去哪儿呢？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551776,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.941]  你想去哪儿呢？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你想去哪儿呢？",
+                    "SliceSentence": "你 想去 哪儿 呢",
+                    "StartMs": 0,
+                    "EndMs": 1941,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "想去",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "哪儿",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.941313
+        },
+        "RequestId": "1d187c95-9db6-496b-98d5-903f72690d13"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "tahmkench",
+    "id": "224047978",
+    "result": "我要求上主菜。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012789376,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.539]  我要求上主菜。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要求上主菜。",
+                    "SliceSentence": "我 要求 上 主菜",
+                    "StartMs": 0,
+                    "EndMs": 2539,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "要求",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "上",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "主菜",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.539625
+        },
+        "RequestId": "4fd08662-39c2-4f92-a0b4-c2e24e138f82"
+    }
+}

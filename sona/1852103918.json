@@ -1,0 +1,44 @@
+{
+    "character": "sona",
+    "id": "1852103918",
+    "result": "不和谐意。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012781816,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.240]  不和谐意。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不和谐意。",
+                    "SliceSentence": "不和 谐 意",
+                    "StartMs": 0,
+                    "EndMs": 4240,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "不和",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "谐",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "意",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.022625
+        },
+        "RequestId": "10bda271-32ec-47be-ab86-a1d1fe85ca81"
+    }
+}

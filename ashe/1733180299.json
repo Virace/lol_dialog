@@ -1,0 +1,44 @@
+{
+    "character": "ashe",
+    "id": "1733180299",
+    "result": "出手要快。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012545287,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.509]  出手要快。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "出手要快。",
+                    "SliceSentence": "出手 要 快",
+                    "StartMs": 0,
+                    "EndMs": 1509,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "出手",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "快",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 750
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.509313
+        },
+        "RequestId": "6d2f7372-95d5-4371-bd1c-74fb5d4f383c"
+    }
+}

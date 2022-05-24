@@ -1,0 +1,49 @@
+{
+    "character": "gangplank",
+    "id": "246331371",
+    "result": "他们对悲惨一无所知。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012570604,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.519]  他们对悲惨一无所知。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们对悲惨一无所知。",
+                    "SliceSentence": "他们 对 悲惨 一无所知",
+                    "StartMs": 0,
+                    "EndMs": 3519,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "对",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "悲惨",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "一无所知",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2970
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.5195
+        },
+        "RequestId": "5ec5ffc7-390b-43aa-83cc-f07969d9b913"
+    }
+}

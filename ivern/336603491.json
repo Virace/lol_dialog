@@ -1,0 +1,34 @@
+{
+    "character": "ivern",
+    "id": "336603491",
+    "result": "你好。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012682190,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.548]  你好。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你好。",
+                    "SliceSentence": "你好",
+                    "StartMs": 0,
+                    "EndMs": 1548,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "你好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.548938
+        },
+        "RequestId": "2d27da13-ac7a-439a-9d03-157ffc3cd4d0"
+    }
+}

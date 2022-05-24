@@ -1,0 +1,59 @@
+{
+    "character": "braum",
+    "id": "471896692",
+    "result": "我们先战，然后再吃。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550424,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.749]  我们先战，然后再吃。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们先战，然后再吃。",
+                    "SliceSentence": "我们 先 战 然后 再 吃",
+                    "StartMs": 0,
+                    "EndMs": 2749,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "先",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "战",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "然后",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "再",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "吃",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2670
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.749375
+        },
+        "RequestId": "c96b2217-551b-4ac8-b4af-ad0b627825ba"
+    }
+}

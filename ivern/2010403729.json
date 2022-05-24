@@ -1,0 +1,44 @@
+{
+    "character": "ivern",
+    "id": "2010403729",
+    "result": "小菊来击掌。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012584927,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.309]  小菊来击掌。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "小菊来击掌。",
+                    "SliceSentence": "小菊 来 击掌",
+                    "StartMs": 0,
+                    "EndMs": 2309,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "小菊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "击掌",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.30925
+        },
+        "RequestId": "1d056d3c-d5e6-471b-9413-151916019c91"
+    }
+}

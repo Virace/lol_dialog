@@ -1,0 +1,54 @@
+{
+    "character": "ryze",
+    "id": "807143334",
+    "result": "我只是一尊容器。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012765466,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.626]  我只是一尊容器。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我只是一尊容器。",
+                    "SliceSentence": "我 只是 一 尊 容器",
+                    "StartMs": 0,
+                    "EndMs": 1626,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "只是",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "一",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "尊",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "容器",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.6265
+        },
+        "RequestId": "096173b5-0ebd-4de9-ba1b-ea4bf65106ff"
+    }
+}

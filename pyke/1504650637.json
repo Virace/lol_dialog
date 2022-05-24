@@ -1,0 +1,54 @@
+{
+    "character": "pyke",
+    "id": "1504650637",
+    "result": "我更擅长集体行动。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745118,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.860]  我更擅长集体行动。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我更擅长集体行动。",
+                    "SliceSentence": "我 更 擅长 集体 行动",
+                    "StartMs": 0,
+                    "EndMs": 2860,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "更",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "擅长",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "集体",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "行动",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.86025
+        },
+        "RequestId": "881d7bb7-752c-49c8-9ad0-6c38d84ea0a5"
+    }
+}

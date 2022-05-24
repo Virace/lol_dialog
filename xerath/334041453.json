@@ -1,0 +1,54 @@
+{
+    "character": "xerath",
+    "id": "334041453",
+    "result": "这些锁链关不住我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012839489,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.409]  这些锁链关不住我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这些锁链关不住我。",
+                    "SliceSentence": "这些 锁链 关 不住 我",
+                    "StartMs": 0,
+                    "EndMs": 4409,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这些",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "锁链",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "关",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2760
+                        },
+                        {
+                            "Word": "不住",
+                            "OffsetStartMs": 2760,
+                            "OffsetEndMs": 3240
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 3240,
+                            "OffsetEndMs": 4290
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.409688
+        },
+        "RequestId": "79b07a66-7366-4c12-853c-095469786f0f"
+    }
+}

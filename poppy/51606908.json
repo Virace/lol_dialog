@@ -1,0 +1,44 @@
+{
+    "character": "poppy",
+    "id": "51606908",
+    "result": "记得打个滚。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012743271,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.690]  记得打个滚。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "记得打个滚。",
+                    "SliceSentence": "记得 打个 滚",
+                    "StartMs": 0,
+                    "EndMs": 1690,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "记得",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "打个",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "滚",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.69025
+        },
+        "RequestId": "45d32443-8159-4dec-8c90-a7a51a08440e"
+    }
+}

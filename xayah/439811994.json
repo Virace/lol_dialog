@@ -1,0 +1,64 @@
+{
+    "character": "xayah",
+    "id": "439811994",
+    "result": "比昨天多一点儿，比明天少一点。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012836675,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.673]  比昨天多一点儿，比明天少一点。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "比昨天多一点儿，比明天少一点。",
+                    "SliceSentence": "比 昨天 多 一点儿 比 明天 少一点",
+                    "StartMs": 0,
+                    "EndMs": 2673,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "比",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "昨天",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "多",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "一点儿",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "比",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "明天",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "少一点",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 7.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.6735
+        },
+        "RequestId": "0227f492-6aac-47eb-8572-c750338bdd70"
+    }
+}

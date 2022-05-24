@@ -1,0 +1,49 @@
+{
+    "character": "irelia",
+    "id": "518958315",
+    "result": "他们留了活口。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012582344,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.485]  他们留了活口。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们留了活口。",
+                    "SliceSentence": "他们 留 了 活口",
+                    "StartMs": 0,
+                    "EndMs": 1485,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "留",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "活口",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.485375
+        },
+        "RequestId": "cd022859-cf19-4205-a1dc-393f0e142c03"
+    }
+}

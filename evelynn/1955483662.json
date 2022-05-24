@@ -1,0 +1,44 @@
+{
+    "character": "evelynn",
+    "id": "1955483662",
+    "result": "用力点没问题。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012562841,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.600]  用力点没问题。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "用力点没问题。",
+                    "SliceSentence": "用力 点 没问题",
+                    "StartMs": 0,
+                    "EndMs": 4600,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "用力",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "点",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "没问题",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 3180
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.664125
+        },
+        "RequestId": "04911428-c408-4b41-8eb9-3fb54cf25955"
+    }
+}

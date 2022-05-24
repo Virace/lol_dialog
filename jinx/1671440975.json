@@ -1,0 +1,44 @@
+{
+    "character": "jinx",
+    "id": "1671440975",
+    "result": "人总有一死。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012687124,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.275]  人总有一死。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "人总有一死。",
+                    "SliceSentence": "人 总有 一死",
+                    "StartMs": 0,
+                    "EndMs": 1275,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "人",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "总有",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "一死",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.2755
+        },
+        "RequestId": "39bc91ca-3c3e-44f2-babf-ee329da81df6"
+    }
+}

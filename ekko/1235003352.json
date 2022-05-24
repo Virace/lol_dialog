@@ -1,0 +1,44 @@
+{
+    "character": "ekko",
+    "id": "1235003352",
+    "result": "哇哦哇哦哇哦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012559284,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.266]  哇哦哇哦哇哦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哇哦哇哦哇哦。",
+                    "SliceSentence": "哇哦 哇哦 哇哦",
+                    "StartMs": 0,
+                    "EndMs": 5266,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哇哦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "哇哦",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "哇哦",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 5190
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.266875
+        },
+        "RequestId": "6082fbf6-961f-4102-bcf2-d945273944cf"
+    }
+}

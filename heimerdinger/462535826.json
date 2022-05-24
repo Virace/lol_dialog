@@ -1,0 +1,59 @@
+{
+    "character": "heimerdinger",
+    "id": "462535826",
+    "result": "嗯嗯，让我来修复那个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012576644,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.136]  嗯嗯，让我来修复那个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯嗯，让我来修复那个。",
+                    "SliceSentence": "嗯 嗯 让我 来 修复 那个",
+                    "StartMs": 0,
+                    "EndMs": 2136,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "让我",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "修复",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "那个",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.136375
+        },
+        "RequestId": "4be9c61d-7024-4efe-96c4-5cab4e42f999"
+    }
+}

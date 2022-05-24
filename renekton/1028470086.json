@@ -1,0 +1,44 @@
+{
+    "character": "renekton",
+    "id": "1028470086",
+    "result": "屠杀永不终结。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012761240,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.822]  屠杀永不终结。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "屠杀永不终结。",
+                    "SliceSentence": "屠杀 永不 终结",
+                    "StartMs": 0,
+                    "EndMs": 2822,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "屠杀",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "永不",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "终结",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.8225
+        },
+        "RequestId": "a5575960-8d6e-48ac-bf7a-80943dbfe629"
+    }
+}

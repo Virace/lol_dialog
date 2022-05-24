@@ -1,0 +1,44 @@
+{
+    "character": "sion",
+    "id": "150375711",
+    "result": "我要消灭你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012776090,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.696]  我要消灭你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要消灭你。",
+                    "SliceSentence": "我要 消灭 你",
+                    "StartMs": 0,
+                    "EndMs": 2696,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "消灭",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.6965
+        },
+        "RequestId": "763828eb-a3e9-4cea-adf3-03e957dc6b41"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "malzahar",
+    "id": "1910760062",
+    "result": "我们要求现金。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012720470,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.030]  我们要求现金。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们要求现金。",
+                    "SliceSentence": "我们 要求 现金",
+                    "StartMs": 0,
+                    "EndMs": 4030,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "要求",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "现金",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.030063
+        },
+        "RequestId": "666e26ab-b9bf-4cf1-8901-fc74b256bad2"
+    }
+}

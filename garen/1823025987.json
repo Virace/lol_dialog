@@ -1,0 +1,44 @@
+{
+    "character": "garen",
+    "id": "1823025987",
+    "result": "接受制裁吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012572083,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.858]  接受制裁吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "接受制裁吧。",
+                    "SliceSentence": "接受 制裁 吧",
+                    "StartMs": 0,
+                    "EndMs": 1858,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "接受",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "制裁",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.8585
+        },
+        "RequestId": "7351d56d-1bc0-4031-ad81-7b777631ebed"
+    }
+}

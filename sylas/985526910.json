@@ -1,0 +1,49 @@
+{
+    "character": "sylas",
+    "id": "985526910",
+    "result": "小王子，我让你一招。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012788316,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.783]  小王子，我让你一招。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "小王子，我让你一招。",
+                    "SliceSentence": "小王子 我让 你 一招",
+                    "StartMs": 0,
+                    "EndMs": 2783,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "小王子",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "我让",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "一招",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2700
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.783875
+        },
+        "RequestId": "6d638c55-846a-4768-8879-8c7b87317e9f"
+    }
+}

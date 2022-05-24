@@ -1,0 +1,49 @@
+{
+    "character": "nocturne",
+    "id": "233863225",
+    "result": "哎，我不会啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012731784,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.822]  哎，我不会啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哎，我不会啊。",
+                    "SliceSentence": "哎 我 不会 啊",
+                    "StartMs": 0,
+                    "EndMs": 5822,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "哎",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2370
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 4500,
+                            "OffsetEndMs": 5040
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.822688
+        },
+        "RequestId": "aca646e4-d34c-4375-8317-79c155015ee0"
+    }
+}

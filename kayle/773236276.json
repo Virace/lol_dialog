@@ -1,0 +1,49 @@
+{
+    "character": "kayle",
+    "id": "773236276",
+    "result": "我判你无能。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012698717,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.453]  我判你无能。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我判你无能。",
+                    "SliceSentence": "我 判 你 无能",
+                    "StartMs": 0,
+                    "EndMs": 2453,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "判",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "无能",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.453938
+        },
+        "RequestId": "35ff917d-fd3a-46c4-9e23-1b40428cab54"
+    }
+}

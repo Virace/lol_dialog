@@ -1,0 +1,54 @@
+{
+    "character": "galio",
+    "id": "902193522",
+    "result": "我的翅膀，你的脸。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012570038,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.853]  我的翅膀，你的脸。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的翅膀，你的脸。",
+                    "SliceSentence": "我 的 翅膀 你的 脸",
+                    "StartMs": 0,
+                    "EndMs": 1853,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "翅膀",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "脸",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.853438
+        },
+        "RequestId": "615b9f52-2618-4ec5-be2f-25db0eb8945b"
+    }
+}

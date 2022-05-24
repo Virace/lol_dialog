@@ -1,0 +1,54 @@
+{
+    "character": "senna",
+    "id": "1116567096",
+    "result": "掉队了，跟着尖叫声走。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012768225,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.436]  掉队了，跟着尖叫声走。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "掉队了，跟着尖叫声走。",
+                    "SliceSentence": "掉队 了 跟着 尖叫声 走",
+                    "StartMs": 0,
+                    "EndMs": 3436,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "掉队",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "跟着",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "尖叫声",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "走",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 2760
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.436563
+        },
+        "RequestId": "a84f1548-1c9b-49c9-a1a4-1f6d8bc86e8a"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "character": "jhin",
+    "id": "1528725667",
+    "result": "我服务于一个挑剔的客户。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012685143,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.693]  我服务于一个挑剔的客户。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我服务于一个挑剔的客户。",
+                    "SliceSentence": "我 服务 于 一个 挑剔 的 客户",
+                    "StartMs": 0,
+                    "EndMs": 3693,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "服务",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "于",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "挑剔",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2490
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2490,
+                            "OffsetEndMs": 2610
+                        },
+                        {
+                            "Word": "客户",
+                            "OffsetStartMs": 2610,
+                            "OffsetEndMs": 3360
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.693
+        },
+        "RequestId": "c631d415-7460-4340-adcb-9cf8dba8c59c"
+    }
+}

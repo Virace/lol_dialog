@@ -1,0 +1,49 @@
+{
+    "character": "lux",
+    "id": "377576693",
+    "result": "嘿，你说谁是小妞？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012719309,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.178]  嘿，你说谁是小妞？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘿，你说谁是小妞？",
+                    "SliceSentence": "嘿 你说 谁是 小妞",
+                    "StartMs": 0,
+                    "EndMs": 2178,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "嘿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "你说",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "谁是",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "小妞",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.178938
+        },
+        "RequestId": "eab9fa0b-3f2a-4ceb-b9ac-c329be16b9fe"
+    }
+}

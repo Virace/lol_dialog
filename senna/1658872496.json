@@ -1,0 +1,39 @@
+{
+    "character": "senna",
+    "id": "1658872496",
+    "result": "你真贴心。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012768842,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.043]  你真贴心。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你真贴心。",
+                    "SliceSentence": "你真 贴心",
+                    "StartMs": 0,
+                    "EndMs": 2043,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "你真",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "贴心",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.043375
+        },
+        "RequestId": "30642844-b28a-4bae-96c2-6441afde5961"
+    }
+}

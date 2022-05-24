@@ -1,0 +1,54 @@
+{
+    "character": "fiora",
+    "id": "132352512",
+    "result": "如此不入流的风格。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012567289,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.832]  如此不入流的风格。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "如此不入流的风格。",
+                    "SliceSentence": "如此 不入 流 的 风格",
+                    "StartMs": 0,
+                    "EndMs": 2832,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "如此",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "不入",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "流",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "风格",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2700
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.832875
+        },
+        "RequestId": "139c773e-3862-4394-b4e7-42d99f7d5c36"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "2062064819",
+    "result": "我们上吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012752654,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.901]  我们上吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们上吧。",
+                    "SliceSentence": "我们 上 吧",
+                    "StartMs": 0,
+                    "EndMs": 901,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "上",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 720
+                        }
+                    ],
+                    "SpeechSpeed": 7.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.901313
+        },
+        "RequestId": "4602af8a-6545-4809-b24a-e569db07f4b6"
+    }
+}

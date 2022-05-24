@@ -1,0 +1,59 @@
+{
+    "character": "akali",
+    "id": "1814308728",
+    "result": "我自己的路自己走。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012539225,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.866]  我自己的路自己走。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我自己的路自己走。",
+                    "SliceSentence": "我 自己 的 路 自己 走",
+                    "StartMs": 0,
+                    "EndMs": 1866,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "自己",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "路",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "自己",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "走",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 7.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.866875
+        },
+        "RequestId": "4c7f7f4a-b751-478a-986b-ab5edf6eafea"
+    }
+}

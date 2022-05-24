@@ -1,0 +1,54 @@
+{
+    "character": "taliyah",
+    "id": "142333284",
+    "result": "你抓错线头了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012791914,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.486]  你抓错线头了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你抓错线头了。",
+                    "SliceSentence": "你 抓 错 线头 了",
+                    "StartMs": 0,
+                    "EndMs": 1486,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "抓",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "错",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "线头",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.486813
+        },
+        "RequestId": "1f8591ac-ad7b-4573-87e5-18dd73419629"
+    }
+}

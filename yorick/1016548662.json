@@ -1,0 +1,54 @@
+{
+    "character": "yorick",
+    "id": "1016548662",
+    "result": "我看见了冷零。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012843617,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.048]  我看见了冷零。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我看见了冷零。",
+                    "SliceSentence": "我 看见 了 冷 零",
+                    "StartMs": 0,
+                    "EndMs": 3048,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "看见",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "冷",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "零",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2700
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.048688
+        },
+        "RequestId": "c7a92a4b-7b9f-456e-ac6d-0c4b1a445392"
+    }
+}

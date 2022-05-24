@@ -1,0 +1,59 @@
+{
+    "character": "kaisa",
+    "id": "803071341",
+    "result": "我回来了，铁强了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012692049,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.542]  我回来了，铁强了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我回来了，铁强了。",
+                    "SliceSentence": "我 回来 了 铁 强 了",
+                    "StartMs": 0,
+                    "EndMs": 2542,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "回来",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "铁",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "强",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.542125
+        },
+        "RequestId": "92ecb985-210a-4945-8289-b5d3c3135a23"
+    }
+}

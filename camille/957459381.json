@@ -1,0 +1,49 @@
+{
+    "character": "camille",
+    "id": "957459381",
+    "result": "哦，丑陋的小东西。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554535,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.849]  哦，丑陋的小东西。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哦，丑陋的小东西。",
+                    "SliceSentence": "哦 丑陋 的 小东西",
+                    "StartMs": 0,
+                    "EndMs": 2849,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "哦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "丑陋",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "小东西",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2790
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.849625
+        },
+        "RequestId": "f058189e-588a-4211-a25a-02cf7b48d1c1"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "vi",
+    "id": "333193824",
+    "result": "嘿，杰斯强力一击。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012812524,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.403]  嘿，杰斯强力一击。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘿，杰斯强力一击。",
+                    "SliceSentence": "嘿 杰斯 强力 一击",
+                    "StartMs": 0,
+                    "EndMs": 2403,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "嘿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "杰斯",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "强力",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "一击",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.403125
+        },
+        "RequestId": "ebd1418a-c2c1-4f26-af36-9e40130de46a"
+    }
+}

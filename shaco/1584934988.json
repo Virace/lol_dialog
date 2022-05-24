@@ -1,0 +1,44 @@
+{
+    "character": "shaco",
+    "id": "1584934988",
+    "result": "我们上吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012773921,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.824]  我们上吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们上吧。",
+                    "SliceSentence": "我们 上 吧",
+                    "StartMs": 0,
+                    "EndMs": 1824,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "上",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.8245
+        },
+        "RequestId": "e0b4dd6d-0f19-4cb0-b21d-6948f5060932"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "character": "leona",
+    "id": "1023808789",
+    "result": "嗯嗯。呃。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012714022,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.600]  嗯嗯。\n[0:2.600,0:4.320]  呃。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯嗯。",
+                    "SliceSentence": "嗯 嗯",
+                    "StartMs": 0,
+                    "EndMs": 2600,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "呃。",
+                    "SliceSentence": "呃",
+                    "StartMs": 2600,
+                    "EndMs": 4320,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "呃",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 1.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.550063
+        },
+        "RequestId": "3642321b-a47d-4b43-81f4-2057ad688509"
+    }
+}

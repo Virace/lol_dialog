@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "4545585",
+    "result": "你待会想做什么？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012753516,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.310]  你待会想做什么？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你待会想做什么？",
+                    "SliceSentence": "你 待会 想做 什么",
+                    "StartMs": 0,
+                    "EndMs": 1310,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "待会",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "想做",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 8.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.310688
+        },
+        "RequestId": "dd70b480-e34d-4228-a377-75811c2b92cd"
+    }
+}

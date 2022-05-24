@@ -1,0 +1,59 @@
+{
+    "character": "ivern",
+    "id": "1146530391",
+    "result": "老青蛙，这不是跨栏比赛。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012583334,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.996]  老青蛙，这不是跨栏比赛。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "老青蛙，这不是跨栏比赛。",
+                    "SliceSentence": "老 青蛙 这 不是 跨栏 比赛",
+                    "StartMs": 0,
+                    "EndMs": 2996,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "老",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "青蛙",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "跨栏",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "比赛",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2700
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.996438
+        },
+        "RequestId": "b21379a4-d0a4-4636-8889-ffa101ff25c1"
+    }
+}

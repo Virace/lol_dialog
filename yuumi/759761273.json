@@ -1,0 +1,49 @@
+{
+    "character": "yuumi",
+    "id": "759761273",
+    "result": "再快点，再快点。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012848016,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.610]  再快点，再快点。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "再快点，再快点。",
+                    "SliceSentence": "再 快点 再 快点",
+                    "StartMs": 0,
+                    "EndMs": 1610,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "再",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "快点",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "再",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "快点",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.610375
+        },
+        "RequestId": "e5d35882-a8f3-4265-9055-25b9c6b94139"
+    }
+}

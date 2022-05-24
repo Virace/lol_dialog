@@ -1,0 +1,39 @@
+{
+    "character": "xayah",
+    "id": "1012454344",
+    "result": "注意安全。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012833427,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.029]  注意安全。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "注意安全。",
+                    "SliceSentence": "注意 安全",
+                    "StartMs": 0,
+                    "EndMs": 1029,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "注意",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "安全",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.029313
+        },
+        "RequestId": "f7d203a1-f1c7-4cd0-ab6d-d0e87d84ecfb"
+    }
+}

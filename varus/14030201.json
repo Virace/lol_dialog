@@ -1,0 +1,39 @@
+{
+    "character": "varus",
+    "id": "14030201",
+    "result": "绝不回头。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012807934,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.160]  绝不回头。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "绝不回头。",
+                    "SliceSentence": "绝不 回头",
+                    "StartMs": 0,
+                    "EndMs": 3160,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "绝不",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "回头",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 3090
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.476875
+        },
+        "RequestId": "bd4d55e9-315b-4136-9a7f-b5a53fbff1d6"
+    }
+}

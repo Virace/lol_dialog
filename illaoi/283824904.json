@@ -1,0 +1,54 @@
+{
+    "character": "illaoi",
+    "id": "283824904",
+    "result": "每分每秒都是听力所得。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012577626,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.425]  每分每秒都是听力所得。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "每分每秒都是听力所得。",
+                    "SliceSentence": "每分 每秒 都是 听力 所得",
+                    "StartMs": 0,
+                    "EndMs": 3425,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "每分",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "每秒",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "都是",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "听力",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2730
+                        },
+                        {
+                            "Word": "所得",
+                            "OffsetStartMs": 2730,
+                            "OffsetEndMs": 3360
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.425438
+        },
+        "RequestId": "0d6c0271-f4e8-47c1-84cf-f306e2fb141d"
+    }
+}

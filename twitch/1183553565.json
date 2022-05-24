@@ -1,0 +1,39 @@
+{
+    "character": "twitch",
+    "id": "1183553565",
+    "result": "哼哼哼哼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012802726,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.459]  哼哼哼哼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼哼哼。",
+                    "SliceSentence": "哼哼 哼哼",
+                    "StartMs": 0,
+                    "EndMs": 3459,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.459813
+        },
+        "RequestId": "1df22c35-d840-41b7-9709-f62e6d3dda7e"
+    }
+}

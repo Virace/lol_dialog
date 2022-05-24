@@ -1,0 +1,54 @@
+{
+    "character": "ornn",
+    "id": "826142942",
+    "result": "容易造，也容易砸。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012740085,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.532]  容易造，也容易砸。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "容易造，也容易砸。",
+                    "SliceSentence": "容易 造 也 容易 砸",
+                    "StartMs": 0,
+                    "EndMs": 2532,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "容易",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "造",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "也",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "容易",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "砸",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.532125
+        },
+        "RequestId": "dd9a5203-9f50-4ac2-893b-a3456169e400"
+    }
+}

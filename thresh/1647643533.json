@@ -1,0 +1,60 @@
+{
+    "character": "thresh",
+    "id": "1647643533",
+    "result": "我疯了。很有可能。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012798550,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.040]  我疯了。\n[0:3.040,0:7.542]  很有可能。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我疯了。",
+                    "SliceSentence": "我 疯了",
+                    "StartMs": 0,
+                    "EndMs": 3040,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "疯了",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "很有可能。",
+                    "SliceSentence": "很 有可能",
+                    "StartMs": 3040,
+                    "EndMs": 7542,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "很",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2460
+                        },
+                        {
+                            "Word": "有可能",
+                            "OffsetStartMs": 2460,
+                            "OffsetEndMs": 4110
+                        }
+                    ],
+                    "SpeechSpeed": 1.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.542938
+        },
+        "RequestId": "7d075d21-7426-4082-bf25-b012be8d391c"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "volibear",
+    "id": "1741570570",
+    "result": "新鲜的肉食。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012816132,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.309]  新鲜的肉食。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "新鲜的肉食。",
+                    "SliceSentence": "新鲜 的 肉食",
+                    "StartMs": 0,
+                    "EndMs": 3309,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "新鲜",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "肉食",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.309813
+        },
+        "RequestId": "469ecc27-29e9-4d26-b09e-3e91b5a5d8a1"
+    }
+}

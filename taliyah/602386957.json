@@ -1,0 +1,49 @@
+{
+    "character": "taliyah",
+    "id": "602386957",
+    "result": "好的，交给我啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012793887,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.933]  好的，交给我啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好的，交给我啦。",
+                    "SliceSentence": "好的 交给 我 啦",
+                    "StartMs": 0,
+                    "EndMs": 1933,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "好的",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "交给",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.933125
+        },
+        "RequestId": "52de23ad-a8ce-4dcc-9d02-c6cf2c741685"
+    }
+}

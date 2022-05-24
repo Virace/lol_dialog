@@ -1,0 +1,44 @@
+{
+    "character": "annie",
+    "id": "828469072",
+    "result": "走这边儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542723,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.041]  走这边儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "走这边儿。",
+                    "SliceSentence": "走 这边 儿",
+                    "StartMs": 0,
+                    "EndMs": 1041,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "走",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "这边",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "儿",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.04175
+        },
+        "RequestId": "02cbc076-64d3-4ec6-9cd4-1379930ea825"
+    }
+}

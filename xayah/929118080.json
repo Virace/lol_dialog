@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "929118080",
+    "result": "必须要这样。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012838230,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.107]  必须要这样。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "必须要这样。",
+                    "SliceSentence": "必须 要 这样",
+                    "StartMs": 0,
+                    "EndMs": 1107,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "必须",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "这样",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 7.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.1075
+        },
+        "RequestId": "ac990f11-6efc-4bd1-bf96-024ceb9d820d"
+    }
+}

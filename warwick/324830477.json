@@ -1,0 +1,39 @@
+{
+    "character": "warwick",
+    "id": "324830477",
+    "result": "嗯嗯。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012817768,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.260,0:2.271]  嗯嗯。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯嗯。",
+                    "SliceSentence": "嗯 嗯",
+                    "StartMs": 260,
+                    "EndMs": 2271,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.271
+        },
+        "RequestId": "8af621f6-5657-47f1-a4be-e723b517adb4"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "ornn",
+    "id": "994004672",
+    "result": "我的锤子更好。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012740286,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.796]  我的锤子更好。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的锤子更好。",
+                    "SliceSentence": "我 的 锤子 更好",
+                    "StartMs": 0,
+                    "EndMs": 1796,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "锤子",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "更好",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.796063
+        },
+        "RequestId": "5078a5e8-a1ea-4897-a06d-0cc40d515880"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "gangplank",
+    "id": "506381600",
+    "result": "连中三桶。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012571126,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.002]  连中三桶。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "连中三桶。",
+                    "SliceSentence": "连 中 三 桶",
+                    "StartMs": 0,
+                    "EndMs": 2002,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "连",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "中",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "三",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "桶",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.002625
+        },
+        "RequestId": "3487d0c5-593b-40f0-b09f-5ffedc3658c8"
+    }
+}

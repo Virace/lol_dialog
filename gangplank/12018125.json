@@ -1,0 +1,44 @@
+{
+    "character": "gangplank",
+    "id": "12018125",
+    "result": "覆盖每一个角度。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012570424,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.864]  覆盖每一个角度。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "覆盖每一个角度。",
+                    "SliceSentence": "覆盖 每一个 角度",
+                    "StartMs": 0,
+                    "EndMs": 2864,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "覆盖",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "每一个",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "角度",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.864813
+        },
+        "RequestId": "132e289f-c613-4a9b-9fbf-bccdf623feaa"
+    }
+}

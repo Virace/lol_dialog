@@ -1,0 +1,59 @@
+{
+    "character": "taliyah",
+    "id": "836050465",
+    "result": "总有一天，这一切都将带我回家。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012795028,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.454]  总有一天，这一切都将带我回家。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "总有一天，这一切都将带我回家。",
+                    "SliceSentence": "总有 一天 这一切 都将 带我 回家",
+                    "StartMs": 0,
+                    "EndMs": 3454,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "总有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "一天",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "这一切",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "都将",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "带我",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 2580
+                        },
+                        {
+                            "Word": "回家",
+                            "OffsetStartMs": 2580,
+                            "OffsetEndMs": 3240
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.454375
+        },
+        "RequestId": "9724bccd-3b15-47df-a40d-799701bdd9bd"
+    }
+}

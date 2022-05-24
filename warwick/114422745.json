@@ -1,0 +1,49 @@
+{
+    "character": "warwick",
+    "id": "114422745",
+    "result": "野兽更强壮啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012817428,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.850]  野兽更强壮啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "野兽更强壮啦。",
+                    "SliceSentence": "野兽 更强 壮 啦",
+                    "StartMs": 0,
+                    "EndMs": 3850,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "野兽",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "更强",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "壮",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 3150
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.850688
+        },
+        "RequestId": "cb7f48b4-26db-4ce2-bd6a-772cc387d433"
+    }
+}

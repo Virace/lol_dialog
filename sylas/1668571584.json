@@ -1,0 +1,44 @@
+{
+    "character": "sylas",
+    "id": "1668571584",
+    "result": "这才是真理。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786776,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.832]  这才是真理。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这才是真理。",
+                    "SliceSentence": "这 才是 真理",
+                    "StartMs": 0,
+                    "EndMs": 1832,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "才是",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "真理",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.832188
+        },
+        "RequestId": "0564f6ef-8811-4162-85b6-6d56d66876f6"
+    }
+}

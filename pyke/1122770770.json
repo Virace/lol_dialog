@@ -1,0 +1,44 @@
+{
+    "character": "pyke",
+    "id": "1122770770",
+    "result": "阴暗如我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744578,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.033]  阴暗如我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "阴暗如我。",
+                    "SliceSentence": "阴暗 如 我",
+                    "StartMs": 0,
+                    "EndMs": 3033,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "阴暗",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "如",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.033188
+        },
+        "RequestId": "80f5e875-cf59-4980-9412-9b7e44342b51"
+    }
+}

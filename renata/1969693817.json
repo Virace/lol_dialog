@@ -1,0 +1,49 @@
+{
+    "character": "renata",
+    "id": "1969693817",
+    "result": "你知道该怎么做。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012760272,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.380]  你知道该怎么做。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你知道该怎么做。",
+                    "SliceSentence": "你 知道 该 怎么做",
+                    "StartMs": 0,
+                    "EndMs": 2380,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "该",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "怎么做",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.609188
+        },
+        "RequestId": "98782159-a6bb-441b-9754-b337a7a3f429"
+    }
+}

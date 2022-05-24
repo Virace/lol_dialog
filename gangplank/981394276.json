@@ -1,0 +1,49 @@
+{
+    "character": "gangplank",
+    "id": "981394276",
+    "result": "剁碎他们的骨头。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012571883,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.240]  剁碎他们的骨头。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "剁碎他们的骨头。",
+                    "SliceSentence": "剁碎 他们 的 骨头",
+                    "StartMs": 0,
+                    "EndMs": 2240,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "剁碎",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "骨头",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.240438
+        },
+        "RequestId": "174892bf-7abd-43a0-9b69-1549f0ccd6e0"
+    }
+}

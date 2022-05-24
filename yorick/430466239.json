@@ -1,0 +1,59 @@
+{
+    "character": "yorick",
+    "id": "430466239",
+    "result": "只不过是破布，很快就会消散。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012844841,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.582]  只不过是破布，很快就会消散。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "只不过是破布，很快就会消散。",
+                    "SliceSentence": "只不过 是 破布 很快 就会 消散",
+                    "StartMs": 0,
+                    "EndMs": 4582,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "只不过",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "破布",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "很快",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 3180
+                        },
+                        {
+                            "Word": "就会",
+                            "OffsetStartMs": 3180,
+                            "OffsetEndMs": 3570
+                        },
+                        {
+                            "Word": "消散",
+                            "OffsetStartMs": 3570,
+                            "OffsetEndMs": 4470
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.582125
+        },
+        "RequestId": "1164fd35-1cef-4599-866b-f95fb29137dd"
+    }
+}

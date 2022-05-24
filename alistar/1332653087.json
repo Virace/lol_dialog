@@ -1,0 +1,49 @@
+{
+    "character": "alistar",
+    "id": "1332653087",
+    "result": "你必须跟斩。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012541753,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.529]  你必须跟斩。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你必须跟斩。",
+                    "SliceSentence": "你 必须 跟 斩",
+                    "StartMs": 0,
+                    "EndMs": 2529,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "必须",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "跟",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "斩",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.5295
+        },
+        "RequestId": "00f6804f-f89d-40f0-9f3a-09c5ba3ac651"
+    }
+}

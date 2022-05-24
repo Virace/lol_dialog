@@ -1,0 +1,54 @@
+{
+    "character": "tristana",
+    "id": "1052352319",
+    "result": "哦，他看起来真酷。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012798957,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.856]  哦，他看起来真酷。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哦，他看起来真酷。",
+                    "SliceSentence": "哦 他 看起来 真 酷",
+                    "StartMs": 0,
+                    "EndMs": 1856,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "哦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "他",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "看起来",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "真",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "酷",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.856875
+        },
+        "RequestId": "16e74a6f-5db0-4c0b-aa6b-5aef17e42cb0"
+    }
+}

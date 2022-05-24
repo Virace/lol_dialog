@@ -1,0 +1,59 @@
+{
+    "character": "camille",
+    "id": "309351907",
+    "result": "你也许是个不错的陪练。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552878,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.078]  你也许是个不错的陪练。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你也许是个不错的陪练。",
+                    "SliceSentence": "你 也许 是个 不错 的 陪练",
+                    "StartMs": 0,
+                    "EndMs": 2078,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 60
+                        },
+                        {
+                            "Word": "也许",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "是个",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "不错",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "陪练",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 7.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.078688
+        },
+        "RequestId": "acb54bb7-74db-4b9a-adef-056a11fc6905"
+    }
+}

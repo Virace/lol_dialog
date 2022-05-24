@@ -1,0 +1,49 @@
+{
+    "character": "drmundo",
+    "id": "2142963852",
+    "result": "别忘了定期复查。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012558257,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.306]  别忘了定期复查。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别忘了定期复查。",
+                    "SliceSentence": "别 忘了 定期 复查",
+                    "StartMs": 0,
+                    "EndMs": 2306,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "忘了",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "定期",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "复查",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.306563
+        },
+        "RequestId": "c1de0475-0ab0-47b6-a063-1a707693eef8"
+    }
+}

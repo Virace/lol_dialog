@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "1448928449",
+    "result": "这里隔绝了阳光。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745087,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.851]  这里隔绝了阳光。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这里隔绝了阳光。",
+                    "SliceSentence": "这里 隔绝 了 阳光",
+                    "StartMs": 0,
+                    "EndMs": 2851,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这里",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "隔绝",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "阳光",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.851938
+        },
+        "RequestId": "d40aaeca-08ad-43fc-8fdd-35c7f7cae96e"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "thresh",
+    "id": "178477006",
+    "result": "你是我的了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012798605,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.759]  你是我的了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你是我的了。",
+                    "SliceSentence": "你 是我 的 了",
+                    "StartMs": 0,
+                    "EndMs": 3759,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2340,
+                            "OffsetEndMs": 2580
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2580,
+                            "OffsetEndMs": 3540
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.759188
+        },
+        "RequestId": "702b4ebd-6683-4605-8d79-1c63319163fd"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "vex",
+    "id": "994751818",
+    "result": "这还有呢？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012811668,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.325]  这还有呢？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这还有呢？",
+                    "SliceSentence": "这 还有 呢",
+                    "StartMs": 0,
+                    "EndMs": 2325,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "还有",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.325
+        },
+        "RequestId": "d372cf58-d589-4a5a-80cf-30f0a916fffc"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "ornn",
+    "id": "419286068",
+    "result": "我有一个硬脑袋。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012739482,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.839]  我有一个硬脑袋。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我有一个硬脑袋。",
+                    "SliceSentence": "我 有一 个 硬 脑袋",
+                    "StartMs": 0,
+                    "EndMs": 1839,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "有一",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "个",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "硬",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "脑袋",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.839063
+        },
+        "RequestId": "554e556f-4583-4091-bb94-90c2a46e4fce"
+    }
+}

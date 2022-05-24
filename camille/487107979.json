@@ -1,0 +1,44 @@
+{
+    "character": "camille",
+    "id": "487107979",
+    "result": "哼哼，哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553423,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.020,0:4.355]  哼哼，哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼，哈哈哈哈。",
+                    "SliceSentence": "哼哼 哈哈 哈哈",
+                    "StartMs": 20,
+                    "EndMs": 4355,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2880
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.355375
+        },
+        "RequestId": "c946040c-b0ae-45ba-8cac-2a383f5d87b0"
+    }
+}

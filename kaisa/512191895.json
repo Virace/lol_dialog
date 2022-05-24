@@ -1,0 +1,39 @@
+{
+    "character": "kaisa",
+    "id": "512191895",
+    "result": "你不值一提。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012690835,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.511]  你不值一提。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你不值一提。",
+                    "SliceSentence": "你 不值一提",
+                    "StartMs": 0,
+                    "EndMs": 1511,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "不值一提",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.511438
+        },
+        "RequestId": "02beec1e-f223-40fe-ab64-341d7523c5e8"
+    }
+}

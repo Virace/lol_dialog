@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "294944609",
+    "result": "你去哪里？你要去哪里？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012753054,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.645]  你去哪里？你要去哪里？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你去哪里？你要去哪里？",
+                    "SliceSentence": "你去 哪里 你要 去 哪里",
+                    "StartMs": 0,
+                    "EndMs": 2645,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你去",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "哪里",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "你要",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "哪里",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.64575
+        },
+        "RequestId": "6b1ede1b-908f-49ab-8f1c-7e82a44a0034"
+    }
+}

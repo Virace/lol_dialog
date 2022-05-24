@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "178172130",
+    "result": "我想念下。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012751581,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.500,0:3.150]  我想念下。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我想念下。",
+                    "SliceSentence": "我 想念 下",
+                    "StartMs": 500,
+                    "EndMs": 3150,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "想念",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "下",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2580
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.150688
+        },
+        "RequestId": "a3d577cc-83d2-4828-88b6-09d246014514"
+    }
+}

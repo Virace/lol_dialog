@@ -1,0 +1,49 @@
+{
+    "character": "ornn",
+    "id": "2002736012",
+    "result": "我看着呢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012738991,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.129]  我看着呢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我看着呢。",
+                    "SliceSentence": "我 看 着 呢",
+                    "StartMs": 0,
+                    "EndMs": 1129,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "看",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "着",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 870
+                        }
+                    ],
+                    "SpeechSpeed": 7.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.129438
+        },
+        "RequestId": "b1707e66-bbd5-4fad-ac10-8327424fa647"
+    }
+}

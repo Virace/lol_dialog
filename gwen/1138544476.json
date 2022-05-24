@@ -1,0 +1,39 @@
+{
+    "character": "gwen",
+    "id": "1138544476",
+    "result": "剪开剪开。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012573880,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.390]  剪开剪开。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "剪开剪开。",
+                    "SliceSentence": "剪开 剪开",
+                    "StartMs": 0,
+                    "EndMs": 2390,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "剪开",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "剪开",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.3905
+        },
+        "RequestId": "6058b9d1-1950-408c-bed1-49912dc35c4e"
+    }
+}

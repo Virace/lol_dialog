@@ -1,0 +1,39 @@
+{
+    "character": "katarina",
+    "id": "1070664934",
+    "result": "我很乐意。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012696851,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.425]  我很乐意。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我很乐意。",
+                    "SliceSentence": "我很 乐意",
+                    "StartMs": 0,
+                    "EndMs": 1425,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我很",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "乐意",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.42575
+        },
+        "RequestId": "b9d16359-fede-444e-a233-ba160dd1e950"
+    }
+}

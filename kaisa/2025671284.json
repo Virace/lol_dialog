@@ -1,0 +1,66 @@
+{
+    "character": "kaisa",
+    "id": "2025671284",
+    "result": "啊？嗯。哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689769,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.740]  啊？\n[0:2.360,0:4.100]  嗯。\n[0:4.800,0:5.486]  哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊？",
+                    "SliceSentence": "啊",
+                    "StartMs": 0,
+                    "EndMs": 1740,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 1.1,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "嗯。",
+                    "SliceSentence": "嗯",
+                    "StartMs": 2360,
+                    "EndMs": 4100,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 870
+                        }
+                    ],
+                    "SpeechSpeed": 1.1,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "哈。",
+                    "SliceSentence": "哈",
+                    "StartMs": 4800,
+                    "EndMs": 5486,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "哈",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 570
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.486
+        },
+        "RequestId": "5c467c18-a7d3-4c77-bb8d-b85765434a53"
+    }
+}

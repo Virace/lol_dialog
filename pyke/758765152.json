@@ -1,0 +1,44 @@
+{
+    "character": "pyke",
+    "id": "758765152",
+    "result": "鱼上钩啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746855,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.537]  鱼上钩啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "鱼上钩啦。",
+                    "SliceSentence": "鱼 上钩 啦",
+                    "StartMs": 0,
+                    "EndMs": 2537,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "鱼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "上钩",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.537
+        },
+        "RequestId": "909b19b0-d1f2-4ffc-8119-08e60cbe6fc2"
+    }
+}

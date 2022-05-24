@@ -1,0 +1,59 @@
+{
+    "character": "braum",
+    "id": "1944797181",
+    "result": "哎哟，有点冷到我了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550276,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.091]  哎哟，有点冷到我了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哎哟，有点冷到我了。",
+                    "SliceSentence": "哎哟 有点 冷 到 我 了",
+                    "StartMs": 0,
+                    "EndMs": 2091,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "哎哟",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "有点",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "冷",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.091875
+        },
+        "RequestId": "1a21a840-8d01-4393-8608-9585c5661ffc"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "xayah",
+    "id": "363853458",
+    "result": "我来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012836505,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.092]  我来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我来了。",
+                    "SliceSentence": "我来 了",
+                    "StartMs": 0,
+                    "EndMs": 1092,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 840
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.092125
+        },
+        "RequestId": "bf06a7bd-f433-40bd-8e84-3c5857f26da4"
+    }
+}

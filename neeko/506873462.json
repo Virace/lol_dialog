@@ -1,0 +1,44 @@
+{
+    "character": "neeko",
+    "id": "506873462",
+    "result": "呼呼，闹鬼了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012730645,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.600]  呼呼，闹鬼了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "呼呼，闹鬼了。",
+                    "SliceSentence": "呼呼 闹鬼 了",
+                    "StartMs": 0,
+                    "EndMs": 4600,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "呼呼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "闹鬼",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 2880
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.849875
+        },
+        "RequestId": "605c3049-c4db-4efb-8c06-096478f4d601"
+    }
+}

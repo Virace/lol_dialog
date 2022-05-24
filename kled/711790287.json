@@ -1,0 +1,54 @@
+{
+    "character": "kled",
+    "id": "711790287",
+    "result": "我老觉得你会说话。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012709106,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.953]  我老觉得你会说话。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我老觉得你会说话。",
+                    "SliceSentence": "我 老 觉得 你会 说话",
+                    "StartMs": 0,
+                    "EndMs": 1953,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "老",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "觉得",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "你会",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "说话",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.953938
+        },
+        "RequestId": "ad974639-e393-4585-a97f-b56a5af2c5c6"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "sivir",
+    "id": "2059974958",
+    "result": "耶，我感觉很棒。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012778929,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.250]  耶，我感觉很棒。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "耶，我感觉很棒。",
+                    "SliceSentence": "耶 我 感觉 很棒",
+                    "StartMs": 0,
+                    "EndMs": 2250,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "耶",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "感觉",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "很棒",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.25
+        },
+        "RequestId": "aff91b3d-cdf4-4fe7-9987-bd1882e67545"
+    }
+}

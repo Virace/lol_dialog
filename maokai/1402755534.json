@@ -1,0 +1,49 @@
+{
+    "character": "maokai",
+    "id": "1402755534",
+    "result": "花园，花园在召唤。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012721124,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.478]  花园，花园在召唤。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "花园，花园在召唤。",
+                    "SliceSentence": "花园 花园 在 召唤",
+                    "StartMs": 0,
+                    "EndMs": 3478,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "花园",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "花园",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "召唤",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.47875
+        },
+        "RequestId": "7d6722e6-1fc6-42d4-81e7-d038a42a7fb5"
+    }
+}

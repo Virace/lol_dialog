@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "446782856",
+    "result": "看好了报。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012753465,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.602]  看好了报。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "看好了报。",
+                    "SliceSentence": "看好 了 报",
+                    "StartMs": 0,
+                    "EndMs": 1602,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "看好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "报",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.60225
+        },
+        "RequestId": "f094f3fe-b061-46c7-86cb-3bb9637efb3e"
+    }
+}

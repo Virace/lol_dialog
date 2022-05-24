@@ -1,0 +1,54 @@
+{
+    "character": "drmundo",
+    "id": "1687071204",
+    "result": "医生，医生，咱们就是医生。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012557881,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.868]  医生，医生，咱们就是医生。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "医生，医生，咱们就是医生。",
+                    "SliceSentence": "医生 医生 咱们 就是 医生",
+                    "StartMs": 0,
+                    "EndMs": 3868,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "医生",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "医生",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "咱们",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "医生",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 3720
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.868875
+        },
+        "RequestId": "d435abac-6419-49ce-a8ef-4b14da1f0697"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "vex",
+    "id": "560821195",
+    "result": "伤心的来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012811408,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.532]  伤心的来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "伤心的来了。",
+                    "SliceSentence": "伤心 的 来了",
+                    "StartMs": 0,
+                    "EndMs": 2532,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "伤心",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "来了",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.532625
+        },
+        "RequestId": "7c731492-c94f-4047-af3a-c58e29c1619f"
+    }
+}

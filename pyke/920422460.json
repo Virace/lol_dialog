@@ -1,0 +1,59 @@
+{
+    "character": "pyke",
+    "id": "920422460",
+    "result": "我最后一口喝的是无价之宝。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746906,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.043]  我最后一口喝的是无价之宝。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我最后一口喝的是无价之宝。",
+                    "SliceSentence": "我最 后 一口 喝 的是 无价之宝",
+                    "StartMs": 0,
+                    "EndMs": 4043,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我最",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "后",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "一口",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "喝",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "的是",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "无价之宝",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 3630
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.043125
+        },
+        "RequestId": "7b6f6796-d906-42b0-a62e-eebcb127d759"
+    }
+}

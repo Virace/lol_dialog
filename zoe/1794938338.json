@@ -1,0 +1,39 @@
+{
+    "character": "zoe",
+    "id": "1794938338",
+    "result": "试试这个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012855113,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.628]  试试这个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "试试这个。",
+                    "SliceSentence": "试试 这个",
+                    "StartMs": 0,
+                    "EndMs": 1628,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "试试",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.628688
+        },
+        "RequestId": "da8aef0b-782c-42ed-8f6b-5bdb8962149f"
+    }
+}

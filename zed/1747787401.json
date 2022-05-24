@@ -1,0 +1,39 @@
+{
+    "character": "zed",
+    "id": "1747787401",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012849943,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.367]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 3367,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 3300
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.367625
+        },
+        "RequestId": "779b3031-5b62-433c-b9f2-68182baf2f86"
+    }
+}

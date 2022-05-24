@@ -1,0 +1,49 @@
+{
+    "character": "kayn",
+    "id": "444189109",
+    "result": "把他们撕成渣渣。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012701908,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.252]  把他们撕成渣渣。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "把他们撕成渣渣。",
+                    "SliceSentence": "把 他们 撕成 渣渣",
+                    "StartMs": 0,
+                    "EndMs": 2252,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "撕成",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "渣渣",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.252875
+        },
+        "RequestId": "641fe085-c431-489f-a4db-4650f8bec1d3"
+    }
+}

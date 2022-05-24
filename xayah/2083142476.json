@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "2083142476",
+    "result": "按计划来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012836115,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.940]  按计划来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "按计划来。",
+                    "SliceSentence": "按 计划 来",
+                    "StartMs": 0,
+                    "EndMs": 940,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "按",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "计划",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 690
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.940188
+        },
+        "RequestId": "0b7b017d-906f-4c88-8e35-2c15225ce765"
+    }
+}

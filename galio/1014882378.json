@@ -1,0 +1,44 @@
+{
+    "character": "galio",
+    "id": "1014882378",
+    "result": "德玛西亚在召唤。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568131,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.830]  德玛西亚在召唤。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "德玛西亚在召唤。",
+                    "SliceSentence": "德玛西亚 在 召唤",
+                    "StartMs": 0,
+                    "EndMs": 1830,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "德玛西亚",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "召唤",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.830125
+        },
+        "RequestId": "576bee8f-d648-4529-aa22-00b7fb1020c6"
+    }
+}

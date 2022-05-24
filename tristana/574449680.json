@@ -1,0 +1,39 @@
+{
+    "character": "tristana",
+    "id": "574449680",
+    "result": "开始简介。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012800006,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.947]  开始简介。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "开始简介。",
+                    "SliceSentence": "开始 简介",
+                    "StartMs": 0,
+                    "EndMs": 947,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "开始",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "简介",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 870
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.947313
+        },
+        "RequestId": "f2916fcc-9ee6-4c73-937d-06ebaf56788e"
+    }
+}

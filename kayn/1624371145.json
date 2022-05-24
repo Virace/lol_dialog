@@ -1,0 +1,54 @@
+{
+    "character": "kayn",
+    "id": "1624371145",
+    "result": "你的族群就到此为止了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012699910,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.707]  你的族群就到此为止了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你的族群就到此为止了。",
+                    "SliceSentence": "你的 族群 就 到此为止 了",
+                    "StartMs": 0,
+                    "EndMs": 2707,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "族群",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "到此为止",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.707313
+        },
+        "RequestId": "7b6eadcd-7092-4cd9-ad21-a899f71189a1"
+    }
+}

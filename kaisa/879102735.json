@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "879102735",
+    "result": "别被骗了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012692393,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.076]  别被骗了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别被骗了。",
+                    "SliceSentence": "别 被骗 了",
+                    "StartMs": 0,
+                    "EndMs": 1076,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "被骗",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 870
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.076063
+        },
+        "RequestId": "d89a0281-ff73-4868-9856-69a5f8bf4afc"
+    }
+}

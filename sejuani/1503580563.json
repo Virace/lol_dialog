@@ -1,0 +1,49 @@
+{
+    "character": "sejuani",
+    "id": "1503580563",
+    "result": "逃跑是没有用的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012767668,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.623]  逃跑是没有用的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "逃跑是没有用的。",
+                    "SliceSentence": "逃跑 是 没有 用的",
+                    "StartMs": 0,
+                    "EndMs": 2623,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "逃跑",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "用的",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.623875
+        },
+        "RequestId": "d5cad228-d053-4038-b3ae-5f8ee15d3eda"
+    }
+}

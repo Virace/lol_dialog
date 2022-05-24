@@ -1,0 +1,44 @@
+{
+    "character": "fiora",
+    "id": "1575182005",
+    "result": "我从不退缩。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012567361,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.716]  我从不退缩。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我从不退缩。",
+                    "SliceSentence": "我 从不 退缩",
+                    "StartMs": 0,
+                    "EndMs": 2716,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "从不",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "退缩",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.71675
+        },
+        "RequestId": "c181213b-6294-4187-bbb2-010dfa27ecab"
+    }
+}

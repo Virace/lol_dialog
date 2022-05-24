@@ -1,0 +1,44 @@
+{
+    "character": "illaoi",
+    "id": "360738790",
+    "result": "你们毫无动作。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012577807,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.454]  你们毫无动作。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你们毫无动作。",
+                    "SliceSentence": "你们 毫无 动作",
+                    "StartMs": 0,
+                    "EndMs": 1454,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "毫无",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "动作",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.454438
+        },
+        "RequestId": "3d88f0c9-70e9-4a87-9005-66f63f0ba778"
+    }
+}

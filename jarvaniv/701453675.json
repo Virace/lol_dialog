@@ -1,0 +1,44 @@
+{
+    "character": "jarvaniv",
+    "id": "701453675",
+    "result": "哼哼，哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012683764,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.294]  哼哼，哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼，哈哈哈哈。",
+                    "SliceSentence": "哼哼 哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 5294,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 2520
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 2520,
+                            "OffsetEndMs": 2880
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 2880,
+                            "OffsetEndMs": 4560
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.294188
+        },
+        "RequestId": "a23185f7-102b-4c4f-8e98-b8538462a022"
+    }
+}

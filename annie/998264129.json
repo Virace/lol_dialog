@@ -1,0 +1,44 @@
+{
+    "character": "annie",
+    "id": "998264129",
+    "result": "这个真好玩儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542734,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.710]  这个真好玩儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这个真好玩儿。",
+                    "SliceSentence": "这个 真好 玩儿",
+                    "StartMs": 0,
+                    "EndMs": 1710,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "真好",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "玩儿",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.710125
+        },
+        "RequestId": "62d61437-79e5-4702-822d-c24890e9606c"
+    }
+}

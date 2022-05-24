@@ -1,0 +1,44 @@
+{
+    "character": "sylas",
+    "id": "1187438183",
+    "result": "疾风由我指使。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786259,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.178]  疾风由我指使。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "疾风由我指使。",
+                    "SliceSentence": "疾风 由我 指使",
+                    "StartMs": 0,
+                    "EndMs": 2178,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "疾风",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "由我",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "指使",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.178813
+        },
+        "RequestId": "4f9c55db-78ed-4b5c-9125-18db18dc4dd4"
+    }
+}

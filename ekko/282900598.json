@@ -1,0 +1,50 @@
+{
+    "character": "ekko",
+    "id": "282900598",
+    "result": "He。啊？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012559881,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.320]  He。\n[0:2.840,0:4.016]  啊？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "He。",
+                    "SliceSentence": "He",
+                    "StartMs": 0,
+                    "EndMs": 1320,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "He",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "啊？",
+                    "SliceSentence": "啊",
+                    "StartMs": 2840,
+                    "EndMs": 4016,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.016875
+        },
+        "RequestId": "31259c34-41f7-4400-a220-23dce7c6230c"
+    }
+}

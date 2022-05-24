@@ -1,0 +1,54 @@
+{
+    "character": "ornn",
+    "id": "530767387",
+    "result": "我喜欢来点惊喜。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012739605,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.936]  我喜欢来点惊喜。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我喜欢来点惊喜。",
+                    "SliceSentence": "我 喜欢 来 点 惊喜",
+                    "StartMs": 0,
+                    "EndMs": 1936,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "点",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "惊喜",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.9365
+        },
+        "RequestId": "9da7bf69-ed1e-4d01-94c4-bb000284929e"
+    }
+}

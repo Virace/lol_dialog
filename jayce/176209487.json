@@ -1,0 +1,49 @@
+{
+    "character": "jayce",
+    "id": "176209487",
+    "result": "这是进步的力量。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012684071,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.182]  这是进步的力量。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是进步的力量。",
+                    "SliceSentence": "这是 进步 的 力量",
+                    "StartMs": 0,
+                    "EndMs": 2182,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "进步",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "力量",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.182688
+        },
+        "RequestId": "1dea661c-31c9-42f6-85bf-5df6b90c6ed5"
+    }
+}

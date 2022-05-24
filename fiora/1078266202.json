@@ -1,0 +1,44 @@
+{
+    "character": "fiora",
+    "id": "1078266202",
+    "result": "状态真差。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012567221,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.973]  状态真差。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "状态真差。",
+                    "SliceSentence": "状态 真 差",
+                    "StartMs": 0,
+                    "EndMs": 1973,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "状态",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "真",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "差",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.973688
+        },
+        "RequestId": "5e8d43da-9f3d-4c68-8bd3-a234b2e5a86d"
+    }
+}

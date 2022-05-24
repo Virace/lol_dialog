@@ -1,0 +1,50 @@
+{
+    "character": "ekko",
+    "id": "1057621960",
+    "result": "啊？哎呀。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012559094,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.400]  啊？\n[0:3.380,0:4.278]  哎呀。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊？",
+                    "SliceSentence": "啊",
+                    "StartMs": 0,
+                    "EndMs": 1400,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        }
+                    ],
+                    "SpeechSpeed": 1.4,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "哎呀。",
+                    "SliceSentence": "哎呀",
+                    "StartMs": 3380,
+                    "EndMs": 4278,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "哎呀",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.278
+        },
+        "RequestId": "aceb660e-e313-4ae0-a790-87d791589385"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "character": "kayle",
+    "id": "1363303563",
+    "result": "我记得痛苦。让我变得脆弱。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012697544,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.200]  我记得痛苦。\n[0:2.200,0:4.232]  让我变得脆弱。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我记得痛苦。",
+                    "SliceSentence": "我记得 痛苦",
+                    "StartMs": 0,
+                    "EndMs": 2200,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我记得",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "痛苦",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "让我变得脆弱。",
+                    "SliceSentence": "让我 变得 脆弱",
+                    "StartMs": 2200,
+                    "EndMs": 4232,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "让我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "变得",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "脆弱",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.23225
+        },
+        "RequestId": "a9cdbc58-3fd8-4431-989b-35ebe838a4eb"
+    }
+}

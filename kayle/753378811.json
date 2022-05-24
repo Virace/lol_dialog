@@ -1,0 +1,54 @@
+{
+    "character": "kayle",
+    "id": "753378811",
+    "result": "你的行径，唤我前来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012698697,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.081]  你的行径，唤我前来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你的行径，唤我前来。",
+                    "SliceSentence": "你的 行径 唤 我 前来",
+                    "StartMs": 0,
+                    "EndMs": 3081,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "行径",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "唤",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "前来",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.081063
+        },
+        "RequestId": "d9009ee3-3e65-4d1a-ae4a-25f1513983a0"
+    }
+}

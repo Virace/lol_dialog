@@ -1,0 +1,49 @@
+{
+    "character": "nautilus",
+    "id": "118832846",
+    "result": "远处而来的回音。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012728999,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.060]  远处而来的回音。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "远处而来的回音。",
+                    "SliceSentence": "远处 而来 的 回音",
+                    "StartMs": 0,
+                    "EndMs": 4060,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "远处",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "而来",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "回音",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2880
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.724375
+        },
+        "RequestId": "d46fe26a-7f79-471e-adfc-cc7367aec6c9"
+    }
+}

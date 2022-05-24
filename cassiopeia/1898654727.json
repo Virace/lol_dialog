@@ -1,0 +1,91 @@
+{
+    "character": "cassiopeia",
+    "id": "1898654727",
+    "result": "没有脊梁骨不对。灵动柔韧。非常对。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554875,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.160]  没有脊梁骨不对。\n[0:3.160,0:5.120]  灵动柔韧。\n[0:5.120,0:6.673]  非常对。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没有脊梁骨不对。",
+                    "SliceSentence": "没有 脊梁 骨 不对",
+                    "StartMs": 0,
+                    "EndMs": 3160,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "脊梁",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "骨",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "不对",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "灵动柔韧。",
+                    "SliceSentence": "灵动 柔韧",
+                    "StartMs": 3160,
+                    "EndMs": 5120,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "灵动",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "柔韧",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "非常对。",
+                    "SliceSentence": "非常 对",
+                    "StartMs": 5120,
+                    "EndMs": 6673,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "非常",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "对",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.6735
+        },
+        "RequestId": "659508e3-20b0-4e06-af97-ffe8748e1b7a"
+    }
+}

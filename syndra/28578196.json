@@ -1,0 +1,44 @@
+{
+    "character": "syndra",
+    "id": "28578196",
+    "result": "我不会退缩。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012788489,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.200,0:3.245]  我不会退缩。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不会退缩。",
+                    "SliceSentence": "我 不会 退缩",
+                    "StartMs": 200,
+                    "EndMs": 3245,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "退缩",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.245063
+        },
+        "RequestId": "2fa24abb-1dc1-4943-a7d4-d1a9ad7ed0ba"
+    }
+}

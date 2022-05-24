@@ -1,0 +1,49 @@
+{
+    "character": "gwen",
+    "id": "1702847411",
+    "result": "我可以加入吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012574347,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.660]  我可以加入吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我可以加入吗？",
+                    "SliceSentence": "我 可以 加入 吗",
+                    "StartMs": 0,
+                    "EndMs": 2660,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "加入",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.660063
+        },
+        "RequestId": "815f5289-8e62-4387-8b26-e4b1fdf931aa"
+    }
+}

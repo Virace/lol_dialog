@@ -1,0 +1,49 @@
+{
+    "character": "galio",
+    "id": "1006889565",
+    "result": "该打打出手了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568123,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.696]  该打打出手了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "该打打出手了。",
+                    "SliceSentence": "该 打打 出手 了",
+                    "StartMs": 0,
+                    "EndMs": 1696,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "该",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "打打",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "出手",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.6965
+        },
+        "RequestId": "8e4dab56-46d8-4231-a196-ad433d99d23f"
+    }
+}

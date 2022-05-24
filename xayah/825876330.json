@@ -1,0 +1,54 @@
+{
+    "character": "xayah",
+    "id": "825876330",
+    "result": "你在说我可爱，试试？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012837998,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.860]  你在说我可爱，试试？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你在说我可爱，试试？",
+                    "SliceSentence": "你在 说 我 可爱 试试",
+                    "StartMs": 0,
+                    "EndMs": 1860,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "可爱",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "试试",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.86025
+        },
+        "RequestId": "dbe912ae-912b-41e4-8764-904a5ef4701a"
+    }
+}

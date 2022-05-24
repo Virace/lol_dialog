@@ -1,0 +1,44 @@
+{
+    "character": "ornn",
+    "id": "1570513596",
+    "result": "亮了吧？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012738517,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.806]  亮了吧？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "亮了吧？",
+                    "SliceSentence": "亮 了 吧",
+                    "StartMs": 0,
+                    "EndMs": 806,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "亮",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 600
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.806
+        },
+        "RequestId": "b77cd997-416c-4594-bee2-d816cbd03878"
+    }
+}

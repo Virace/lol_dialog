@@ -1,0 +1,59 @@
+{
+    "character": "rakan",
+    "id": "2029401216",
+    "result": "我已经没药救啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012752343,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.540]  我已经没药救啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我已经没药救啦。",
+                    "SliceSentence": "我 已经 没 药 救 啦",
+                    "StartMs": 0,
+                    "EndMs": 1540,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "没",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "药",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "救",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 8.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.540375
+        },
+        "RequestId": "e3e89be2-48f8-4740-bc21-1aa4a49affc4"
+    }
+}

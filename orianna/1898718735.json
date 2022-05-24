@@ -1,0 +1,39 @@
+{
+    "character": "orianna",
+    "id": "1898718735",
+    "result": "上发条。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012737460,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.306]  上发条。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "上发条。",
+                    "SliceSentence": "上 发条",
+                    "StartMs": 0,
+                    "EndMs": 1306,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "上",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "发条",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.306125
+        },
+        "RequestId": "ee305c8c-3cc4-451b-a7cb-6d573eb49e3e"
+    }
+}

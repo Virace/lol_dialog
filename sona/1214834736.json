@@ -1,0 +1,49 @@
+{
+    "character": "sona",
+    "id": "1214834736",
+    "result": "这是给你的表演。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012780955,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.640]  这是给你的表演。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是给你的表演。",
+                    "SliceSentence": "这是 给 你的 表演",
+                    "StartMs": 0,
+                    "EndMs": 4640,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "给",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "表演",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.214563
+        },
+        "RequestId": "0649ebe2-18c3-44a5-a1e5-21fd2f80cf28"
+    }
+}

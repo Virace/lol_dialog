@@ -1,0 +1,49 @@
+{
+    "character": "azir",
+    "id": "459023413",
+    "result": "我意已决。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012548888,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.592]  我意已决。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我意已决。",
+                    "SliceSentence": "我 意 已 决",
+                    "StartMs": 0,
+                    "EndMs": 1592,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "意",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "已",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "决",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.592875
+        },
+        "RequestId": "41b1d39c-9bb9-4059-b0f7-8b6fec24e816"
+    }
+}

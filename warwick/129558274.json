@@ -1,0 +1,49 @@
+{
+    "character": "warwick",
+    "id": "129558274",
+    "result": "向野兽屈服吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012817530,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.520]  向野兽屈服吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "向野兽屈服吧。",
+                    "SliceSentence": "向 野兽 屈服 吧",
+                    "StartMs": 0,
+                    "EndMs": 3520,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "向",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "野兽",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "屈服",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2700
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.52
+        },
+        "RequestId": "f7dff289-0be6-4113-9e58-d6b04fa3cadd"
+    }
+}

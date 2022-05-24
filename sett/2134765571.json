@@ -1,0 +1,49 @@
+{
+    "character": "sett",
+    "id": "2134765571",
+    "result": "下巴要保不住了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012773049,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.577]  下巴要保不住了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "下巴要保不住了。",
+                    "SliceSentence": "下巴 要 保不住 了",
+                    "StartMs": 0,
+                    "EndMs": 2577,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "下巴",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "保不住",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.577438
+        },
+        "RequestId": "8de6ded4-1dde-45d0-96b4-a5fd0850f8f2"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "pantheon",
+    "id": "1167014067",
+    "result": "啊啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012740451,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.456]  啊啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊啊。",
+                    "SliceSentence": "啊 啊",
+                    "StartMs": 0,
+                    "EndMs": 3456,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 2610
+                        }
+                    ],
+                    "SpeechSpeed": 1.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.456
+        },
+        "RequestId": "d9fa70e4-3b73-4b9d-90e7-e64ac27344fc"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "zeri",
+    "id": "124783697",
+    "result": "哇哦，好刺激。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012850752,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.880]  哇哦，好刺激。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哇哦，好刺激。",
+                    "SliceSentence": "哇哦 好 刺激",
+                    "StartMs": 0,
+                    "EndMs": 2880,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哇哦",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "刺激",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.88
+        },
+        "RequestId": "497ddd45-1450-458f-8208-0d2bf3f5a1c2"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "sion",
+    "id": "466981839",
+    "result": "就这样而已吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012777079,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.256]  就这样而已吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "就这样而已吗？",
+                    "SliceSentence": "就这 样 而已 吗",
+                    "StartMs": 0,
+                    "EndMs": 3256,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "就这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "样",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "而已",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 3030
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.256375
+        },
+        "RequestId": "6eb359e8-84ea-4b42-8e8f-bae994a1cee6"
+    }
+}

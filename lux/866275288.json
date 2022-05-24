@@ -1,0 +1,59 @@
+{
+    "character": "lux",
+    "id": "866275288",
+    "result": "光这种东西永远不会消失。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012719748,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.776]  光这种东西永远不会消失。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "光这种东西永远不会消失。",
+                    "SliceSentence": "光 这种 东西 永远 不会 消失",
+                    "StartMs": 0,
+                    "EndMs": 2776,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "光",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "这种",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "永远",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "消失",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.776875
+        },
+        "RequestId": "2531cbdf-47ab-4972-9404-d9e014591fac"
+    }
+}

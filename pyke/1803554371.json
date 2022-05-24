@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "1803554371",
+    "result": "不游就淹死。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745477,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.965]  不游就淹死。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不游就淹死。",
+                    "SliceSentence": "不 游 就 淹死",
+                    "StartMs": 0,
+                    "EndMs": 2965,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "游",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "淹死",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.965375
+        },
+        "RequestId": "03c88ff1-76e5-48cb-a3cd-5047035751e4"
+    }
+}

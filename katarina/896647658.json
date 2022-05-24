@@ -1,0 +1,39 @@
+{
+    "character": "katarina",
+    "id": "896647658",
+    "result": "我喜欢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012697179,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.435]  我喜欢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我喜欢。",
+                    "SliceSentence": "我 喜欢",
+                    "StartMs": 0,
+                    "EndMs": 1435,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.435688
+        },
+        "RequestId": "eeb46c9e-4256-4eca-8ae1-d8af8853c3b6"
+    }
+}

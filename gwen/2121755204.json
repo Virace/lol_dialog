@@ -1,0 +1,49 @@
+{
+    "character": "gwen",
+    "id": "2121755204",
+    "result": "快呀快呀。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012574801,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.118]  快呀快呀。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "快呀快呀。",
+                    "SliceSentence": "快 呀 快 呀",
+                    "StartMs": 0,
+                    "EndMs": 2118,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "快",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "呀",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "快",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "呀",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.118688
+        },
+        "RequestId": "659e4c26-707b-430d-a910-ddc71f7f137c"
+    }
+}

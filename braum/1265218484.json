@@ -1,0 +1,69 @@
+{
+    "character": "braum",
+    "id": "1265218484",
+    "result": "我早就想来一件着火的斗篷了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550082,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.770]  我早就想来一件着火的斗篷了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我早就想来一件着火的斗篷了。",
+                    "SliceSentence": "我 早就 想来 一件 着火 的 斗篷 了",
+                    "StartMs": 0,
+                    "EndMs": 2770,
+                    "WordsNum": 8,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "早就",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "想来",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "一件",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "着火",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "斗篷",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 7.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.770875
+        },
+        "RequestId": "c57c359b-da2b-473e-a3ac-436e12627953"
+    }
+}

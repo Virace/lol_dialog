@@ -1,0 +1,44 @@
+{
+    "character": "sion",
+    "id": "1001908886",
+    "result": "它会有用的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012775838,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.249]  它会有用的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "它会有用的。",
+                    "SliceSentence": "它 会有 用的",
+                    "StartMs": 0,
+                    "EndMs": 2249,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "它",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "会有",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "用的",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.249313
+        },
+        "RequestId": "27ec3103-b745-4d3e-91f4-4cb839629c88"
+    }
+}

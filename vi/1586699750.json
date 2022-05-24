@@ -1,0 +1,49 @@
+{
+    "character": "vi",
+    "id": "1586699750",
+    "result": "我让双手替我发言。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012812097,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.239]  我让双手替我发言。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我让双手替我发言。",
+                    "SliceSentence": "我让 双手 替我 发言",
+                    "StartMs": 0,
+                    "EndMs": 2239,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我让",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "双手",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "替我",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "发言",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.239438
+        },
+        "RequestId": "de873882-800a-418d-af33-1b83d704ba32"
+    }
+}

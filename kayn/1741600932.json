@@ -1,0 +1,59 @@
+{
+    "character": "kayn",
+    "id": "1741600932",
+    "result": "我太喜欢这招了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012700309,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.392]  我太喜欢这招了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我太喜欢这招了。",
+                    "SliceSentence": "我 太 喜欢 这 招 了",
+                    "StartMs": 0,
+                    "EndMs": 2392,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "太",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "招",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.392375
+        },
+        "RequestId": "53633f9c-437f-45bd-8934-3b843ddc700b"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "kayn",
+    "id": "1492610770",
+    "result": "徒劳的逃亡。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012699693,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.283]  徒劳的逃亡。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "徒劳的逃亡。",
+                    "SliceSentence": "徒劳 的 逃亡",
+                    "StartMs": 0,
+                    "EndMs": 2283,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "徒劳",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "逃亡",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.28325
+        },
+        "RequestId": "188445c1-85a4-4160-81e5-d7b9ecdba7d4"
+    }
+}

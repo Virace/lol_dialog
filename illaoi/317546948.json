@@ -1,0 +1,65 @@
+{
+    "character": "illaoi",
+    "id": "317546948",
+    "result": "我看重真义。还有烤肉。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012577681,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.280]  我看重真义。\n[0:2.280,0:3.644]  还有烤肉。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我看重真义。",
+                    "SliceSentence": "我 看重 真义",
+                    "StartMs": 0,
+                    "EndMs": 2280,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "看重",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "真义",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "还有烤肉。",
+                    "SliceSentence": "还有 烤肉",
+                    "StartMs": 2280,
+                    "EndMs": 3644,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "还有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "烤肉",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.644313
+        },
+        "RequestId": "07ca2b8b-95ec-49a0-bc5a-e12cb0d0bc4b"
+    }
+}

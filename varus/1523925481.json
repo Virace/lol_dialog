@@ -1,0 +1,44 @@
+{
+    "character": "varus",
+    "id": "1523925481",
+    "result": "血债血偿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012807957,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.442]  血债血偿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "血债血偿。",
+                    "SliceSentence": "血债 血 偿",
+                    "StartMs": 0,
+                    "EndMs": 4442,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "血债",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "血",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "偿",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 3390
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.442625
+        },
+        "RequestId": "87ebb469-ee78-4127-bdd1-468bcf4fc536"
+    }
+}

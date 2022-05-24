@@ -1,0 +1,44 @@
+{
+    "character": "jarvaniv",
+    "id": "917104592",
+    "result": "我不能死。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012683799,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:9.264]  我不能死。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不能死。",
+                    "SliceSentence": "我 不能 死",
+                    "StartMs": 0,
+                    "EndMs": 9264,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 3330,
+                            "OffsetEndMs": 3750
+                        },
+                        {
+                            "Word": "不能",
+                            "OffsetStartMs": 3750,
+                            "OffsetEndMs": 4350
+                        },
+                        {
+                            "Word": "死",
+                            "OffsetStartMs": 4350,
+                            "OffsetEndMs": 5310
+                        }
+                    ],
+                    "SpeechSpeed": 0.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 9.264938
+        },
+        "RequestId": "a653984a-574e-4c77-8bc8-0858d9fa1f31"
+    }
+}

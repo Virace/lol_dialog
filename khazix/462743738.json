@@ -1,0 +1,44 @@
+{
+    "character": "khazix",
+    "id": "462743738",
+    "result": "此，陈怡川。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012703819,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.640]  此，陈怡川。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "此，陈怡川。",
+                    "SliceSentence": "此 陈怡 川",
+                    "StartMs": 0,
+                    "EndMs": 3640,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "此",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "陈怡",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "川",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.024125
+        },
+        "RequestId": "90d17cf8-092f-46d2-9b7a-9928c29ef52e"
+    }
+}

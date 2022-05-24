@@ -1,0 +1,54 @@
+{
+    "character": "kaisa",
+    "id": "9272347",
+    "result": "你不属于这地方。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012692876,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.811]  你不属于这地方。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你不属于这地方。",
+                    "SliceSentence": "你 不属 于 这 地方",
+                    "StartMs": 0,
+                    "EndMs": 1811,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "不属",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "于",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "地方",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.811688
+        },
+        "RequestId": "e15a92cb-10ea-4963-8ac1-9baff0237285"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "gangplank",
+    "id": "888990125",
+    "result": "憎恨事，小孩子的用词。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012571746,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.593]  憎恨事，小孩子的用词。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "憎恨事，小孩子的用词。",
+                    "SliceSentence": "憎恨 事 小孩子 的 用词",
+                    "StartMs": 0,
+                    "EndMs": 3593,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "憎恨",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "事",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "小孩子",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2370
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2370,
+                            "OffsetEndMs": 2460
+                        },
+                        {
+                            "Word": "用词",
+                            "OffsetStartMs": 2460,
+                            "OffsetEndMs": 3480
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.593625
+        },
+        "RequestId": "5e453661-0bea-449c-8111-b57d590ce835"
+    }
+}

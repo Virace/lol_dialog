@@ -1,0 +1,49 @@
+{
+    "character": "senna",
+    "id": "789804665",
+    "result": "目前看来很管用。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012769957,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.136]  目前看来很管用。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "目前看来很管用。",
+                    "SliceSentence": "目前 看来 很 管用",
+                    "StartMs": 0,
+                    "EndMs": 2136,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "目前",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "看来",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "很",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "管用",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.13625
+        },
+        "RequestId": "a440cb3c-70d7-4716-86c8-590bc226e3e3"
+    }
+}

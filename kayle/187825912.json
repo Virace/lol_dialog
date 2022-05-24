@@ -1,0 +1,44 @@
+{
+    "character": "kayle",
+    "id": "187825912",
+    "result": "你将功亏一篑。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012697943,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.337]  你将功亏一篑。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你将功亏一篑。",
+                    "SliceSentence": "你 将 功亏一篑",
+                    "StartMs": 0,
+                    "EndMs": 2337,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "将",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "功亏一篑",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.337375
+        },
+        "RequestId": "f35bed0f-70a8-4454-b0ba-1e86202f21a5"
+    }
+}

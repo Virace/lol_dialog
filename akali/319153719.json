@@ -1,0 +1,49 @@
+{
+    "character": "akali",
+    "id": "319153719",
+    "result": "影子也跟不上我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012539529,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.623]  影子也跟不上我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "影子也跟不上我。",
+                    "SliceSentence": "影子 也 跟不上 我",
+                    "StartMs": 0,
+                    "EndMs": 1623,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "影子",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "也",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "跟不上",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 6.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.623313
+        },
+        "RequestId": "38993e80-0c05-4407-bf6a-28bc3d7349e9"
+    }
+}

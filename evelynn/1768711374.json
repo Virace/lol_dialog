@@ -1,0 +1,44 @@
+{
+    "character": "evelynn",
+    "id": "1768711374",
+    "result": "咱们藏起来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012562495,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.140]  咱们藏起来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "咱们藏起来。",
+                    "SliceSentence": "咱们 藏起 来",
+                    "StartMs": 0,
+                    "EndMs": 3140,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "咱们",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "藏起",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.41025
+        },
+        "RequestId": "7edafc39-2f63-4d7e-823f-4a880c82bb60"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "kaisa",
+    "id": "565991791",
+    "result": "这是我活下来的目的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012691104,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.048]  这是我活下来的目的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是我活下来的目的。",
+                    "SliceSentence": "这是 我 活 下来 的 目的",
+                    "StartMs": 0,
+                    "EndMs": 2048,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "活",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "下来",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "目的",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 7.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.0485
+        },
+        "RequestId": "567bc495-a2fe-40b1-b5dc-2bab87b2d0db"
+    }
+}

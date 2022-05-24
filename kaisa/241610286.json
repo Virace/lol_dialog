@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "241610286",
+    "result": "是我的啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689991,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.502]  是我的啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "是我的啦。",
+                    "SliceSentence": "是我 的 啦",
+                    "StartMs": 0,
+                    "EndMs": 1502,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.502875
+        },
+        "RequestId": "4e78c643-27c6-46f2-a98e-ad1d18fa83fd"
+    }
+}

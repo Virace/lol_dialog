@@ -1,0 +1,49 @@
+{
+    "character": "camille",
+    "id": "608386009",
+    "result": "你的策略缺乏变化。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553667,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.925]  你的策略缺乏变化。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你的策略缺乏变化。",
+                    "SliceSentence": "你的 策略 缺乏 变化",
+                    "StartMs": 0,
+                    "EndMs": 1925,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "策略",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "缺乏",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "变化",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.925813
+        },
+        "RequestId": "b08d1ee2-c8b1-446d-81aa-20efb51db4e1"
+    }
+}

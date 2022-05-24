@@ -1,0 +1,44 @@
+{
+    "character": "kindred",
+    "id": "621120691",
+    "result": "回归虚无吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012705219,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.412]  回归虚无吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "回归虚无吧。",
+                    "SliceSentence": "回归 虚无 吧",
+                    "StartMs": 0,
+                    "EndMs": 1412,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "回归",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "虚无",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.41225
+        },
+        "RequestId": "c177afa6-bcf2-4e2d-846d-6298881dd7fc"
+    }
+}

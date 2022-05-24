@@ -1,0 +1,39 @@
+{
+    "character": "lulu",
+    "id": "1543242123",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718807,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.949]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 3949,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 3210
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 3210,
+                            "OffsetEndMs": 3870
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.94975
+        },
+        "RequestId": "04ca8df7-d381-4c87-9591-238b5226f663"
+    }
+}

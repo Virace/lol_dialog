@@ -1,0 +1,54 @@
+{
+    "character": "camille",
+    "id": "149552411",
+    "result": "我没说你可以走了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552433,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.672]  我没说你可以走了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我没说你可以走了。",
+                    "SliceSentence": "我 没说 你 可以 走了",
+                    "StartMs": 0,
+                    "EndMs": 1672,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "没说",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "走了",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 7.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.672813
+        },
+        "RequestId": "ebe67947-f7cc-4eca-a650-d55232e60815"
+    }
+}

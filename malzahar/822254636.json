@@ -1,0 +1,49 @@
+{
+    "character": "malzahar",
+    "id": "822254636",
+    "result": "我们不受岁月左右。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012720636,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.172]  我们不受岁月左右。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们不受岁月左右。",
+                    "SliceSentence": "我们 不受 岁月 左右",
+                    "StartMs": 0,
+                    "EndMs": 4172,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "不受",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "岁月",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "左右",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 3360
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.172125
+        },
+        "RequestId": "d3222840-05c8-4808-91a5-601647ce9027"
+    }
+}

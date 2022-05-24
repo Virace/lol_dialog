@@ -1,0 +1,54 @@
+{
+    "character": "kindred",
+    "id": "39070724",
+    "result": "别动恶狼，不要射我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012704805,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.775]  别动恶狼，不要射我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别动恶狼，不要射我。",
+                    "SliceSentence": "别动 恶狼 不要 射 我",
+                    "StartMs": 0,
+                    "EndMs": 2775,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "别动",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "恶狼",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "射",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 2670
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.775438
+        },
+        "RequestId": "5e8f44e1-b26a-4f5e-9c7a-11ce3cf91143"
+    }
+}

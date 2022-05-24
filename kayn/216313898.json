@@ -1,0 +1,49 @@
+{
+    "character": "kayn",
+    "id": "216313898",
+    "result": "敢挡我试试？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012700881,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.956]  敢挡我试试？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "敢挡我试试？",
+                    "SliceSentence": "敢 挡 我 试试",
+                    "StartMs": 0,
+                    "EndMs": 1956,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "敢",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "挡",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "试试",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.956563
+        },
+        "RequestId": "a6a16d92-9661-457c-9d09-8757f4227f2a"
+    }
+}

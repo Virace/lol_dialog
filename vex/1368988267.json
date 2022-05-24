@@ -1,0 +1,59 @@
+{
+    "character": "vex",
+    "id": "1368988267",
+    "result": "我要把每张笑脸都拉长。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012810395,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.658]  我要把每张笑脸都拉长。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要把每张笑脸都拉长。",
+                    "SliceSentence": "我要 把 每张 笑脸 都 拉长",
+                    "StartMs": 0,
+                    "EndMs": 3658,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "每张",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "笑脸",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "都",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "拉长",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 3180
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.65825
+        },
+        "RequestId": "de9a0ce4-5a40-48cd-95f1-0c6d05ec1f38"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "aphelios",
+    "id": "1041519641",
+    "result": "嘘呦，呃呦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542791,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.967]  嘘呦，呃呦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘘呦，呃呦。",
+                    "SliceSentence": "嘘 呦 呃 呦",
+                    "StartMs": 0,
+                    "EndMs": 5967,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "嘘",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "呦",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2880
+                        },
+                        {
+                            "Word": "呃",
+                            "OffsetStartMs": 3660,
+                            "OffsetEndMs": 4530
+                        },
+                        {
+                            "Word": "呦",
+                            "OffsetStartMs": 4650,
+                            "OffsetEndMs": 5550
+                        }
+                    ],
+                    "SpeechSpeed": 1.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.967563
+        },
+        "RequestId": "64e6c3e9-b747-4e43-80f0-7aa987b3cf8a"
+    }
+}

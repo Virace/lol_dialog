@@ -1,0 +1,54 @@
+{
+    "character": "yasuo",
+    "id": "654457228",
+    "result": "死亡而已，没什么大不了的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012840892,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.020,0:4.244]  死亡而已，没什么大不了的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "死亡而已，没什么大不了的。",
+                    "SliceSentence": "死亡 而已 没什么 大不了 的",
+                    "StartMs": 20,
+                    "EndMs": 4244,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "死亡",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "而已",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "没什么",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 3060
+                        },
+                        {
+                            "Word": "大不了",
+                            "OffsetStartMs": 3060,
+                            "OffsetEndMs": 3570
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 3570,
+                            "OffsetEndMs": 3840
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.244938
+        },
+        "RequestId": "7c091a39-37da-4a76-b00d-2b8ec75d4fd1"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "kled",
+    "id": "99346012",
+    "result": "Scar，我不用帮手。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012710739,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.047]  Scar，我不用帮手。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "Scar，我不用帮手。",
+                    "SliceSentence": "Scar 我不 用 帮手",
+                    "StartMs": 0,
+                    "EndMs": 3047,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "Scar",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "用",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "帮手",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2850
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.047063
+        },
+        "RequestId": "546f5f68-5f23-4fe1-96b0-e54068107185"
+    }
+}

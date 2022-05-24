@@ -1,0 +1,44 @@
+{
+    "character": "heimerdinger",
+    "id": "401380592",
+    "result": "嗯，非常有趣。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012576603,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.157]  嗯，非常有趣。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯，非常有趣。",
+                    "SliceSentence": "嗯 非常 有趣",
+                    "StartMs": 0,
+                    "EndMs": 2157,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "非常",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "有趣",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.157125
+        },
+        "RequestId": "e2dc3ca2-0ba5-4bf5-8bea-dfa2c5b1fc1b"
+    }
+}

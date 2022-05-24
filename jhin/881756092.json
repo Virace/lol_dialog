@@ -1,0 +1,80 @@
+{
+    "character": "jhin",
+    "id": "881756092",
+    "result": "只有完美啊。只有完美才是可接受的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012686722,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:7.220]  只有完美啊。\n[0:7.220,0:11.164]  只有完美才是可接受的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "只有完美啊。",
+                    "SliceSentence": "只有 完美 啊",
+                    "StartMs": 0,
+                    "EndMs": 7220,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "只有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "完美",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 2820,
+                            "OffsetEndMs": 4260
+                        }
+                    ],
+                    "SpeechSpeed": 1.1,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "只有完美才是可接受的。",
+                    "SliceSentence": "只有 完美 才是 可接受 的",
+                    "StartMs": 7220,
+                    "EndMs": 11164,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "只有",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "完美",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "才是",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2520
+                        },
+                        {
+                            "Word": "可接受",
+                            "OffsetStartMs": 2520,
+                            "OffsetEndMs": 3630
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 3630,
+                            "OffsetEndMs": 3870
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 11.164563
+        },
+        "RequestId": "b0e17219-83b7-4486-a14b-c0fc1e346443"
+    }
+}

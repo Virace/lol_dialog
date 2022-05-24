@@ -1,0 +1,49 @@
+{
+    "character": "diana",
+    "id": "1463880508",
+    "result": "愚蠢的奴隶们。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556097,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.493]  愚蠢的奴隶们。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "愚蠢的奴隶们。",
+                    "SliceSentence": "愚蠢 的 奴隶 们",
+                    "StartMs": 0,
+                    "EndMs": 1493,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "愚蠢",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "奴隶",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "们",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.493125
+        },
+        "RequestId": "25531866-d112-4542-9163-67a3faed7124"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "warwick",
+    "id": "666713770",
+    "result": "下一个就是你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012832858,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.076]  下一个就是你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "下一个就是你。",
+                    "SliceSentence": "下一个 就是 你",
+                    "StartMs": 0,
+                    "EndMs": 3076,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "下一个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.076
+        },
+        "RequestId": "7fb30e4a-4e77-4ac9-898c-7dbb6aa5c026"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "character": "seraphine",
+    "id": "1705459676",
+    "result": "刚才那个结尾可以写得更精彩。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012770692,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.400]  刚才那个结尾可以写得更精彩。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "刚才那个结尾可以写得更精彩。",
+                    "SliceSentence": "刚才 那个 结尾 可以 写得 更 精彩",
+                    "StartMs": 0,
+                    "EndMs": 3400,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "刚才",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "那个",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "结尾",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "写得",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "更",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "精彩",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.94275
+        },
+        "RequestId": "8768ab77-af97-40b8-8618-6a9823044adc"
+    }
+}

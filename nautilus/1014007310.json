@@ -1,0 +1,49 @@
+{
+    "character": "nautilus",
+    "id": "1014007310",
+    "result": "感受一下怒海吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012729009,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.743]  感受一下怒海吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "感受一下怒海吧。",
+                    "SliceSentence": "感受 一下 怒海 吧",
+                    "StartMs": 0,
+                    "EndMs": 5743,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "感受",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "一下",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "怒海",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 2640,
+                            "OffsetEndMs": 3720
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.743375
+        },
+        "RequestId": "c7a887a2-e8d8-43f1-b883-20f87993544a"
+    }
+}

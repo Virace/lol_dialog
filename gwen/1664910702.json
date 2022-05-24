@@ -1,0 +1,49 @@
+{
+    "character": "gwen",
+    "id": "1664910702",
+    "result": "你要找裁缝吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012574324,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.576]  你要找裁缝吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你要找裁缝吗？",
+                    "SliceSentence": "你要 找 裁缝 吗",
+                    "StartMs": 0,
+                    "EndMs": 2576,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "找",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "裁缝",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.576938
+        },
+        "RequestId": "42a224cd-8f1d-4bf2-8520-8ce06bf075cf"
+    }
+}

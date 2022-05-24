@@ -1,0 +1,59 @@
+{
+    "character": "jhin",
+    "id": "1476518865",
+    "result": "动静有时大音希声。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012685132,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.320]  动静有时大音希声。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "动静有时大音希声。",
+                    "SliceSentence": "动静 有时 大 音 希 声",
+                    "StartMs": 0,
+                    "EndMs": 5320,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "动静",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "有时",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "大",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "音",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "希",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 2730
+                        },
+                        {
+                            "Word": "声",
+                            "OffsetStartMs": 2730,
+                            "OffsetEndMs": 3120
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.584688
+        },
+        "RequestId": "c9009e1e-8598-41f9-8b06-90aa5d6d1ec4"
+    }
+}

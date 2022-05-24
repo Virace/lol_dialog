@@ -1,0 +1,39 @@
+{
+    "character": "warwick",
+    "id": "626164948",
+    "result": "跑快点。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012832739,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.525]  跑快点。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "跑快点。",
+                    "SliceSentence": "跑 快点",
+                    "StartMs": 0,
+                    "EndMs": 3525,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "跑",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "快点",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 2670
+                        }
+                    ],
+                    "SpeechSpeed": 1.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.525375
+        },
+        "RequestId": "7a22280d-3d4e-4a2e-8984-df3b81de51c9"
+    }
+}

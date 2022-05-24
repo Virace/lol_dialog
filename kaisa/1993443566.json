@@ -1,0 +1,54 @@
+{
+    "character": "kaisa",
+    "id": "1993443566",
+    "result": "跑位只是计划的一半。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689741,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.296]  跑位只是计划的一半。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "跑位只是计划的一半。",
+                    "SliceSentence": "跑位 只是 计划 的 一半",
+                    "StartMs": 0,
+                    "EndMs": 2296,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "跑位",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "只是",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "计划",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "一半",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.296313
+        },
+        "RequestId": "c1bfd679-6819-4351-8560-67058761c033"
+    }
+}

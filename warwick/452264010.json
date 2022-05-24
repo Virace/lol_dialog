@@ -1,0 +1,39 @@
+{
+    "character": "warwick",
+    "id": "452264010",
+    "result": "还手啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012832264,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.338]  还手啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "还手啊。",
+                    "SliceSentence": "还手 啊",
+                    "StartMs": 0,
+                    "EndMs": 2338,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "还手",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.338688
+        },
+        "RequestId": "562f01eb-c03c-4e65-835a-4dcb5f68c613"
+    }
+}

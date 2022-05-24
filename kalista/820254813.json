@@ -1,0 +1,49 @@
+{
+    "character": "kalista",
+    "id": "820254813",
+    "result": "我们从来不会射偏。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012694815,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.360]  我们从来不会射偏。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们从来不会射偏。",
+                    "SliceSentence": "我们 从来 不会 射偏",
+                    "StartMs": 0,
+                    "EndMs": 3360,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "从来",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "射偏",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 3030
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.526063
+        },
+        "RequestId": "92b717ec-b630-4b02-8195-f0c2736dd6ad"
+    }
+}

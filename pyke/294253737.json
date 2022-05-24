@@ -1,0 +1,44 @@
+{
+    "character": "pyke",
+    "id": "294253737",
+    "result": "人人都在漂泊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745963,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.643]  人人都在漂泊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "人人都在漂泊。",
+                    "SliceSentence": "人人 都在 漂泊",
+                    "StartMs": 0,
+                    "EndMs": 2643,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "人人",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "都在",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "漂泊",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.643375
+        },
+        "RequestId": "2de33e64-906e-44aa-a600-220d0cfc876b"
+    }
+}

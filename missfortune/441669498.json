@@ -1,0 +1,54 @@
+{
+    "character": "missfortune",
+    "id": "441669498",
+    "result": "我知道我在做什么。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012723522,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.113]  我知道我在做什么。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我知道我在做什么。",
+                    "SliceSentence": "我 知道 我 在做 什么",
+                    "StartMs": 0,
+                    "EndMs": 2113,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "在做",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.113
+        },
+        "RequestId": "be96a073-501c-496b-b14b-18a4e021c25c"
+    }
+}

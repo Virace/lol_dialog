@@ -1,0 +1,44 @@
+{
+    "character": "zoe",
+    "id": "295081948",
+    "result": "我好厉害呀。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012855552,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.861]  我好厉害呀。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我好厉害呀。",
+                    "SliceSentence": "我 好厉害 呀",
+                    "StartMs": 0,
+                    "EndMs": 1861,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "好厉害",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "呀",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.861688
+        },
+        "RequestId": "bbc7592e-58ca-4608-b318-8852e1606603"
+    }
+}

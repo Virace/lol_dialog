@@ -1,0 +1,59 @@
+{
+    "character": "yasuo",
+    "id": "8273191",
+    "result": "我还在寻找回家的路。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012841038,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.533]  我还在寻找回家的路。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我还在寻找回家的路。",
+                    "SliceSentence": "我 还在 寻找 回家 的 路",
+                    "StartMs": 0,
+                    "EndMs": 3533,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "还在",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "寻找",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "回家",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2340,
+                            "OffsetEndMs": 2460
+                        },
+                        {
+                            "Word": "路",
+                            "OffsetStartMs": 2460,
+                            "OffsetEndMs": 3060
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.533375
+        },
+        "RequestId": "eb5f8f62-fa4b-4bcd-a0d7-78d236a1df8b"
+    }
+}

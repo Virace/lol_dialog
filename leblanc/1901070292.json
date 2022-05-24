@@ -1,0 +1,44 @@
+{
+    "character": "leblanc",
+    "id": "1901070292",
+    "result": "该现身啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012711692,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.631]  该现身啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "该现身啦。",
+                    "SliceSentence": "该 现身 啦",
+                    "StartMs": 0,
+                    "EndMs": 1631,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "该",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "现身",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 840
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.6315
+        },
+        "RequestId": "d7b676b0-42f1-429c-89e2-cc04cefa00b8"
+    }
+}

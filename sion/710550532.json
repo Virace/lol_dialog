@@ -1,0 +1,44 @@
+{
+    "character": "sion",
+    "id": "710550532",
+    "result": "给我找个敌人。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012777628,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.772]  给我找个敌人。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "给我找个敌人。",
+                    "SliceSentence": "给我 找个 敌人",
+                    "StartMs": 0,
+                    "EndMs": 2772,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "给我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "找个",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "敌人",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.772375
+        },
+        "RequestId": "24b4c324-ad80-4732-8f0e-f9eae8077939"
+    }
+}

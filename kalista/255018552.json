@@ -1,0 +1,44 @@
+{
+    "character": "kalista",
+    "id": "255018552",
+    "result": "你的死亡已成定局。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012693790,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.435]  你的死亡已成定局。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你的死亡已成定局。",
+                    "SliceSentence": "你的 死亡 已成定局",
+                    "StartMs": 0,
+                    "EndMs": 4435,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "死亡",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "已成定局",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 4020
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.435563
+        },
+        "RequestId": "c8af1885-1fd4-4e56-af4e-b0f0fa0d0c0c"
+    }
+}

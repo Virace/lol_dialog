@@ -1,0 +1,44 @@
+{
+    "character": "varus",
+    "id": "1189141633",
+    "result": "嗯，是啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012807841,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.770]  嗯，是啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯，是啊。",
+                    "SliceSentence": "嗯 是 啊",
+                    "StartMs": 0,
+                    "EndMs": 1770,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.770438
+        },
+        "RequestId": "6302e5a1-f859-401c-9c5a-933e651bc052"
+    }
+}

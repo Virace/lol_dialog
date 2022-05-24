@@ -1,0 +1,49 @@
+{
+    "character": "orianna",
+    "id": "996845975",
+    "result": "我们是一体的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012737638,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.979]  我们是一体的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们是一体的。",
+                    "SliceSentence": "我们 是 一体 的",
+                    "StartMs": 0,
+                    "EndMs": 1979,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "一体",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.979813
+        },
+        "RequestId": "ec79efd6-7311-4679-add2-e72d203f7f5a"
+    }
+}

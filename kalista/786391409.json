@@ -1,0 +1,49 @@
+{
+    "character": "kalista",
+    "id": "786391409",
+    "result": "我们无法被阻拦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012694800,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.676]  我们无法被阻拦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们无法被阻拦。",
+                    "SliceSentence": "我们 无法 被 阻拦",
+                    "StartMs": 0,
+                    "EndMs": 3676,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "无法",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "被",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "阻拦",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 3120
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.6765
+        },
+        "RequestId": "100a783f-df75-469e-b5cd-4bb624fa90ad"
+    }
+}

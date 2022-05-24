@@ -1,0 +1,54 @@
+{
+    "character": "yasuo",
+    "id": "437656413",
+    "result": "我会给你个痛快的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012840639,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.517]  我会给你个痛快的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会给你个痛快的。",
+                    "SliceSentence": "我会 给你 个 痛快 的",
+                    "StartMs": 0,
+                    "EndMs": 2517,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "给你",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "个",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "痛快",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.517563
+        },
+        "RequestId": "c768dbc4-d755-4eb9-bdce-56a43127708c"
+    }
+}

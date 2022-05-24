@@ -1,0 +1,44 @@
+{
+    "character": "kindred",
+    "id": "1059100095",
+    "result": "追杀那只猫。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012704308,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.351]  追杀那只猫。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "追杀那只猫。",
+                    "SliceSentence": "追杀 那只 猫",
+                    "StartMs": 0,
+                    "EndMs": 1351,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "追杀",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "那只",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "猫",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.351938
+        },
+        "RequestId": "84f3bc76-60da-476d-8bf2-f8758f4f69c2"
+    }
+}

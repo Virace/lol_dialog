@@ -1,0 +1,49 @@
+{
+    "character": "ornn",
+    "id": "592677356",
+    "result": "这个响声肯定好听。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012739690,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.350]  这个响声肯定好听。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这个响声肯定好听。",
+                    "SliceSentence": "这个 响声 肯定 好听",
+                    "StartMs": 0,
+                    "EndMs": 2350,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "响声",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "肯定",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "好听",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.350375
+        },
+        "RequestId": "5117d664-b750-463b-a764-d6e90d20b0cb"
+    }
+}

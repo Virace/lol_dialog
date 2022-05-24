@@ -1,0 +1,44 @@
+{
+    "character": "ziggs",
+    "id": "602788155",
+    "result": "火要灭了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012853656,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.704]  火要灭了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "火要灭了。",
+                    "SliceSentence": "火 要 灭了",
+                    "StartMs": 0,
+                    "EndMs": 1704,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "火",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "灭了",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.704438
+        },
+        "RequestId": "02f7593e-9eb6-45ea-89d1-a0955d13a917"
+    }
+}

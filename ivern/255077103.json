@@ -1,0 +1,54 @@
+{
+    "character": "ivern",
+    "id": "255077103",
+    "result": "森林保护着我们所有人。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012585167,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.201]  森林保护着我们所有人。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "森林保护着我们所有人。",
+                    "SliceSentence": "森林 保护 着 我们 所有人",
+                    "StartMs": 0,
+                    "EndMs": 3201,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "森林",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "保护",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "着",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "所有人",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2940
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.201688
+        },
+        "RequestId": "b91ba97d-e114-43be-9eec-1d48c8577854"
+    }
+}

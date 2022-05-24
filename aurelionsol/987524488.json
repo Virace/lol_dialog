@@ -1,0 +1,44 @@
+{
+    "character": "aurelionsol",
+    "id": "987524488",
+    "result": "星轨错位不合时宜。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012548391,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.678]  星轨错位不合时宜。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "星轨错位不合时宜。",
+                    "SliceSentence": "星轨 错位 不合时宜",
+                    "StartMs": 0,
+                    "EndMs": 4678,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "星轨",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "错位",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "不合时宜",
+                            "OffsetStartMs": 2460,
+                            "OffsetEndMs": 3780
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.678813
+        },
+        "RequestId": "0365ffda-255f-48af-84e2-06225f36e86a"
+    }
+}

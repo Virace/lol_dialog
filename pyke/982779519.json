@@ -1,0 +1,44 @@
+{
+    "character": "pyke",
+    "id": "982779519",
+    "result": "我上来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012747031,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.446]  我上来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我上来了。",
+                    "SliceSentence": "我 上来 了",
+                    "StartMs": 0,
+                    "EndMs": 1446,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "上来",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.446625
+        },
+        "RequestId": "cae47b9e-ce93-4092-8cee-8150f6f5ad05"
+    }
+}

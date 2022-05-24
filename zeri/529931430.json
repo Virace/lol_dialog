@@ -1,0 +1,44 @@
+{
+    "character": "zeri",
+    "id": "529931430",
+    "result": "撂倒一个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012852492,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.706]  撂倒一个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "撂倒一个。",
+                    "SliceSentence": "撂 倒 一个",
+                    "StartMs": 0,
+                    "EndMs": 1706,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "撂",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "倒",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.706688
+        },
+        "RequestId": "6f09c577-6573-4768-b533-623566116cdd"
+    }
+}

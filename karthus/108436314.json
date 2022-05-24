@@ -1,0 +1,54 @@
+{
+    "character": "karthus",
+    "id": "108436314",
+    "result": "你不会独自死去的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012695590,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.574]  你不会独自死去的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你不会独自死去的。",
+                    "SliceSentence": "你 不会 独自 死去 的",
+                    "StartMs": 0,
+                    "EndMs": 4574,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "独自",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "死去",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 3060
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 3060,
+                            "OffsetEndMs": 3600
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.574813
+        },
+        "RequestId": "2452c14c-4200-4433-8cf1-14eeceb3a7b6"
+    }
+}

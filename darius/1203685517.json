@@ -1,0 +1,39 @@
+{
+    "character": "darius",
+    "id": "1203685517",
+    "result": "从不后撤。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012555645,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.996]  从不后撤。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "从不后撤。",
+                    "SliceSentence": "从不 后撤",
+                    "StartMs": 0,
+                    "EndMs": 1996,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "从不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "后撤",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.996938
+        },
+        "RequestId": "a8f48a81-63b0-4973-b54f-407a735741f7"
+    }
+}

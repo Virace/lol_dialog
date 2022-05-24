@@ -1,0 +1,59 @@
+{
+    "character": "rakan",
+    "id": "2010364623",
+    "result": "你好，事件我现在单身啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012752293,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.760]  你好，事件我现在单身啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你好，事件我现在单身啦。",
+                    "SliceSentence": "你好 事件 我 现在 单身 啦",
+                    "StartMs": 0,
+                    "EndMs": 3760,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "事件",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "单身",
+                            "OffsetStartMs": 2340,
+                            "OffsetEndMs": 3000
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 3000,
+                            "OffsetEndMs": 3600
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.760125
+        },
+        "RequestId": "908c3271-e050-478d-9fc8-38c161194798"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "akshan",
+    "id": "1967182027",
+    "result": "哼，打扰到你了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012541061,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.346]  哼，打扰到你了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼，打扰到你了。",
+                    "SliceSentence": "哼 打扰 到 你 了",
+                    "StartMs": 0,
+                    "EndMs": 2346,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "打扰",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.346688
+        },
+        "RequestId": "736765bb-c6f2-4682-958a-c42a72de73ba"
+    }
+}

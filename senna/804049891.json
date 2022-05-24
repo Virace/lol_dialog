@@ -1,0 +1,54 @@
+{
+    "character": "senna",
+    "id": "804049891",
+    "result": "黑雾不是我的敌人。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012769987,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.647]  黑雾不是我的敌人。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "黑雾不是我的敌人。",
+                    "SliceSentence": "黑雾 不是 我 的 敌人",
+                    "StartMs": 0,
+                    "EndMs": 2647,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "黑雾",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "敌人",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.647063
+        },
+        "RequestId": "7b0281b8-2bda-42c1-9b58-131b359674e3"
+    }
+}

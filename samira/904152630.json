@@ -1,0 +1,54 @@
+{
+    "character": "samira",
+    "id": "904152630",
+    "result": "我有自己的节奏。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012767383,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.670]  我有自己的节奏。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我有自己的节奏。",
+                    "SliceSentence": "我 有 自己 的 节奏",
+                    "StartMs": 0,
+                    "EndMs": 2670,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "自己",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "节奏",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.670313
+        },
+        "RequestId": "a8c36f7f-7935-420b-a874-c74b0928a322"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "karthus",
+    "id": "1000237245",
+    "result": "死去了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012695475,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.254]  死去了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "死去了。",
+                    "SliceSentence": "死去 了",
+                    "StartMs": 0,
+                    "EndMs": 3254,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "死去",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.2545
+        },
+        "RequestId": "d0b70436-84f8-45b1-b269-ecbde53dd3a4"
+    }
+}

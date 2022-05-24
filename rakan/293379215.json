@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "293379215",
+    "result": "拦不住我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012753004,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.295]  拦不住我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "拦不住我。",
+                    "SliceSentence": "拦 不住 我",
+                    "StartMs": 0,
+                    "EndMs": 1295,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "拦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "不住",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.29525
+        },
+        "RequestId": "f99a9157-a14c-4c2e-89e5-825cb38f5b2a"
+    }
+}

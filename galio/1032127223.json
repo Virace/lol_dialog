@@ -1,0 +1,39 @@
+{
+    "character": "galio",
+    "id": "1032127223",
+    "result": "动手吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568153,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.658]  动手吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "动手吧。",
+                    "SliceSentence": "动手 吧",
+                    "StartMs": 0,
+                    "EndMs": 658,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "动手",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 600
+                        }
+                    ],
+                    "SpeechSpeed": 7.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.658
+        },
+        "RequestId": "227bc04c-a055-4a27-b2ff-835a1b8fad3c"
+    }
+}

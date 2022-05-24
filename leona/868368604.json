@@ -1,0 +1,64 @@
+{
+    "character": "leona",
+    "id": "868368604",
+    "result": "啊，指甲断了，呵呵，不是我的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012714439,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:7.640]  啊，指甲断了，呵呵，不是我的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，指甲断了，呵呵，不是我的。",
+                    "SliceSentence": "啊 指甲 断了 呵呵 不 是我 的",
+                    "StartMs": 0,
+                    "EndMs": 7640,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "指甲",
+                            "OffsetStartMs": 2850,
+                            "OffsetEndMs": 3240
+                        },
+                        {
+                            "Word": "断了",
+                            "OffsetStartMs": 3240,
+                            "OffsetEndMs": 3810
+                        },
+                        {
+                            "Word": "呵呵",
+                            "OffsetStartMs": 4560,
+                            "OffsetEndMs": 5520
+                        },
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 5850,
+                            "OffsetEndMs": 6090
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 6090,
+                            "OffsetEndMs": 6540
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 6540,
+                            "OffsetEndMs": 7350
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.9655
+        },
+        "RequestId": "4e1d5e1a-b5a6-4d05-96f4-330d1fe00e3e"
+    }
+}

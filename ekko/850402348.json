@@ -1,0 +1,44 @@
+{
+    "character": "ekko",
+    "id": "850402348",
+    "result": "放马过来啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560377,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.030]  放马过来啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "放马过来啊。",
+                    "SliceSentence": "放马 过来 啊",
+                    "StartMs": 0,
+                    "EndMs": 1030,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "放马",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "过来",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 7.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.030688
+        },
+        "RequestId": "d592edea-3313-4666-ad9c-021c5130fd31"
+    }
+}

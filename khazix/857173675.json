@@ -1,0 +1,44 @@
+{
+    "character": "khazix",
+    "id": "857173675",
+    "result": "这个世界美味无穷。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012704164,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.313]  这个世界美味无穷。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这个世界美味无穷。",
+                    "SliceSentence": "这个世界 美味 无穷",
+                    "StartMs": 0,
+                    "EndMs": 4313,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这个世界",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "美味",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "无穷",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 3300
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.313875
+        },
+        "RequestId": "a36241da-7b1f-429a-9299-5c67c18768c1"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "seraphine",
+    "id": "541544903",
+    "result": "轮到你发光了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012771438,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.500]  轮到你发光了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "轮到你发光了。",
+                    "SliceSentence": "轮到 你 发光 了",
+                    "StartMs": 0,
+                    "EndMs": 2500,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "轮到",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "发光",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.121563
+        },
+        "RequestId": "5dfa5d39-dc7b-4712-a345-4a9381b4a12b"
+    }
+}

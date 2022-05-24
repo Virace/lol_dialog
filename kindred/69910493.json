@@ -1,0 +1,49 @@
+{
+    "character": "kindred",
+    "id": "69910493",
+    "result": "这一个准备好了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012705355,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.537]  这一个准备好了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这一个准备好了。",
+                    "SliceSentence": "这一 个 准备 好了",
+                    "StartMs": 0,
+                    "EndMs": 1537,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这一",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "个",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "准备",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "好了",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 7.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.537625
+        },
+        "RequestId": "5f1c70b0-aca0-4b82-871d-e2a956658b97"
+    }
+}

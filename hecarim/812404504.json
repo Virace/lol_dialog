@@ -1,0 +1,44 @@
+{
+    "character": "hecarim",
+    "id": "812404504",
+    "result": "欢迎正在逼近。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012575926,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.288]  欢迎正在逼近。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "欢迎正在逼近。",
+                    "SliceSentence": "欢迎 正在 逼近",
+                    "StartMs": 0,
+                    "EndMs": 4288,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "欢迎",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2820
+                        },
+                        {
+                            "Word": "逼近",
+                            "OffsetStartMs": 2820,
+                            "OffsetEndMs": 3690
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.288125
+        },
+        "RequestId": "56748948-8c9d-44b1-8033-c275dd63a465"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "zoe",
+    "id": "1540721976",
+    "result": "还不够呢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012854781,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.600]  还不够呢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "还不够呢。",
+                    "SliceSentence": "还不够 呢",
+                    "StartMs": 0,
+                    "EndMs": 1600,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "还不够",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.600688
+        },
+        "RequestId": "631cc535-db42-475f-bd94-30f33fdea727"
+    }
+}

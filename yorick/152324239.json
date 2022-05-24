@@ -1,0 +1,54 @@
+{
+    "character": "yorick",
+    "id": "152324239",
+    "result": "生命之火，燃于其中。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012843899,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.377]  生命之火，燃于其中。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "生命之火，燃于其中。",
+                    "SliceSentence": "生命 之火 燃 于 其中",
+                    "StartMs": 0,
+                    "EndMs": 4377,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "生命",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "之火",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "燃",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2760
+                        },
+                        {
+                            "Word": "于",
+                            "OffsetStartMs": 2760,
+                            "OffsetEndMs": 3120
+                        },
+                        {
+                            "Word": "其中",
+                            "OffsetStartMs": 3120,
+                            "OffsetEndMs": 4140
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.377375
+        },
+        "RequestId": "c7c7d2bd-8100-487c-9905-be3e5689b84c"
+    }
+}

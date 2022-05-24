@@ -1,0 +1,59 @@
+{
+    "character": "swain",
+    "id": "1056618979",
+    "result": "他的力量为我们所用。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012783388,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.626]  他的力量为我们所用。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他的力量为我们所用。",
+                    "SliceSentence": "他 的 力量 为 我们 所用",
+                    "StartMs": 0,
+                    "EndMs": 2626,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "他",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "力量",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "为",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "所用",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.626125
+        },
+        "RequestId": "f240218e-0f51-4420-8914-57b87b423212"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "sion",
+    "id": "791739147",
+    "result": "我必须得到满足。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012777903,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.835]  我必须得到满足。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我必须得到满足。",
+                    "SliceSentence": "我 必须 得到 满足",
+                    "StartMs": 0,
+                    "EndMs": 3835,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "必须",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "得到",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2460
+                        },
+                        {
+                            "Word": "满足",
+                            "OffsetStartMs": 2460,
+                            "OffsetEndMs": 3630
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.835938
+        },
+        "RequestId": "1a764d77-0ef8-4d42-91bf-49c7f35a0763"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "urgot",
+    "id": "1156712801",
+    "result": "我不是你的敌人。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012805061,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.950]  我不是你的敌人。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不是你的敌人。",
+                    "SliceSentence": "我 不是 你的 敌人",
+                    "StartMs": 0,
+                    "EndMs": 3950,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "敌人",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2760
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.950125
+        },
+        "RequestId": "c3e3b223-f7db-449d-ad40-96e70eb89989"
+    }
+}

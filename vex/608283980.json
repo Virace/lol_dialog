@@ -1,0 +1,39 @@
+{
+    "character": "vex",
+    "id": "608283980",
+    "result": "行吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012811439,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.745]  行吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "行吧。",
+                    "SliceSentence": "行 吧",
+                    "StartMs": 0,
+                    "EndMs": 1745,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "行",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.745813
+        },
+        "RequestId": "848c907f-6e29-460e-b66c-ee1abd48ca05"
+    }
+}

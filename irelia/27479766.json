@@ -1,0 +1,49 @@
+{
+    "character": "irelia",
+    "id": "27479766",
+    "result": "注意，我要反击了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012581798,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.666]  注意，我要反击了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "注意，我要反击了。",
+                    "SliceSentence": "注意 我要 反击 了",
+                    "StartMs": 0,
+                    "EndMs": 1666,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "注意",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "反击",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.666188
+        },
+        "RequestId": "f2b69fbf-beb0-4e6f-aa84-91541d5e7a1a"
+    }
+}

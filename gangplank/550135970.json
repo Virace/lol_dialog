@@ -1,0 +1,49 @@
+{
+    "character": "gangplank",
+    "id": "550135970",
+    "result": "同中之鱼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012571152,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.874]  同中之鱼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "同中之鱼。",
+                    "SliceSentence": "同 中 之 鱼",
+                    "StartMs": 0,
+                    "EndMs": 1874,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "同",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "中",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "之",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "鱼",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.874625
+        },
+        "RequestId": "092bca96-378a-468a-9402-e47611be164d"
+    }
+}

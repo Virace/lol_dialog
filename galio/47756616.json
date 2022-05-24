@@ -1,0 +1,44 @@
+{
+    "character": "galio",
+    "id": "47756616",
+    "result": "呵呵，小不点儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012569131,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.062]  呵呵，小不点儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "呵呵，小不点儿。",
+                    "SliceSentence": "呵呵 小不点 儿",
+                    "StartMs": 0,
+                    "EndMs": 2062,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "呵呵",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "小不点",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "儿",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.062938
+        },
+        "RequestId": "c3767569-236f-43ef-b4fe-ed7d83522ba6"
+    }
+}

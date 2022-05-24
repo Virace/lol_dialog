@@ -1,0 +1,59 @@
+{
+    "character": "kled",
+    "id": "507503373",
+    "result": "我觉得你吃不了他。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012708144,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.929]  我觉得你吃不了他。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我觉得你吃不了他。",
+                    "SliceSentence": "我 觉得 你 吃 不了 他",
+                    "StartMs": 0,
+                    "EndMs": 1929,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "觉得",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "吃",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "不了",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "他",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 7.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.929938
+        },
+        "RequestId": "ea281faf-afdf-41f0-8031-84d77be20c99"
+    }
+}

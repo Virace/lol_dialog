@@ -1,0 +1,49 @@
+{
+    "character": "ekko",
+    "id": "712176048",
+    "result": "你们选错了邻居？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560244,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.318]  你们选错了邻居？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你们选错了邻居？",
+                    "SliceSentence": "你们 选错 了 邻居",
+                    "StartMs": 0,
+                    "EndMs": 1318,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "选错",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "邻居",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 8.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.318375
+        },
+        "RequestId": "8fa78567-32a5-4c1e-893c-82671907b0f8"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "yone",
+    "id": "1136465925",
+    "result": "无休无眠，时间所剩无几。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012841529,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.154]  无休无眠，时间所剩无几。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "无休无眠，时间所剩无几。",
+                    "SliceSentence": "无休 无眠 时间 所剩无几",
+                    "StartMs": 0,
+                    "EndMs": 5154,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "无休",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "无眠",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 2340,
+                            "OffsetEndMs": 2910
+                        },
+                        {
+                            "Word": "所剩无几",
+                            "OffsetStartMs": 2910,
+                            "OffsetEndMs": 4350
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.154813
+        },
+        "RequestId": "43cf37b4-180a-4557-84ca-127d561ff3bd"
+    }
+}

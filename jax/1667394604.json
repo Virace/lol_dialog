@@ -1,0 +1,39 @@
+{
+    "character": "jax",
+    "id": "1667394604",
+    "result": "看皱。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012683816,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.431]  看皱。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "看皱。",
+                    "SliceSentence": "看 皱",
+                    "StartMs": 0,
+                    "EndMs": 1431,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "看",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "皱",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.431813
+        },
+        "RequestId": "6cc73269-a725-48b6-b9c1-4f22f06f68b5"
+    }
+}

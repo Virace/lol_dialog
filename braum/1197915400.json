@@ -1,0 +1,49 @@
+{
+    "character": "braum",
+    "id": "1197915400",
+    "result": "火焰对身体有益。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550022,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.877]  火焰对身体有益。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "火焰对身体有益。",
+                    "SliceSentence": "火焰 对 身体 有益",
+                    "StartMs": 0,
+                    "EndMs": 1877,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "火焰",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "对",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "身体",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "有益",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.877125
+        },
+        "RequestId": "3a7fbf19-6279-44b1-8d4c-350667f52ff9"
+    }
+}

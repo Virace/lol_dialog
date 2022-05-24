@@ -1,0 +1,55 @@
+{
+    "character": "ahri",
+    "id": "1265506116",
+    "result": "啊？呃，那。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012538201,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.760]  啊？\n[0:2.760,0:4.596]  呃，那。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊？",
+                    "SliceSentence": "啊",
+                    "StartMs": 0,
+                    "EndMs": 2760,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 0.7,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "呃，那。",
+                    "SliceSentence": "呃 那",
+                    "StartMs": 2760,
+                    "EndMs": 4596,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "呃",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "那",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.5965
+        },
+        "RequestId": "90a00661-4444-4142-a929-0136bf47665f"
+    }
+}

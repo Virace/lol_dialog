@@ -1,0 +1,49 @@
+{
+    "character": "kalista",
+    "id": "1022059706",
+    "result": "我们时刻警醒着。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012693252,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.680]  我们时刻警醒着。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们时刻警醒着。",
+                    "SliceSentence": "我们 时刻 警醒 着",
+                    "StartMs": 0,
+                    "EndMs": 3680,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "时刻",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "警醒",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "着",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 3540
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.804875
+        },
+        "RequestId": "522d371d-8f56-41ad-a83e-f047dd6319af"
+    }
+}

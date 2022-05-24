@@ -1,0 +1,54 @@
+{
+    "character": "sion",
+    "id": "247306845",
+    "result": "你不是我的将军。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012776522,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.813]  你不是我的将军。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你不是我的将军。",
+                    "SliceSentence": "你 不是 我 的 将军",
+                    "StartMs": 0,
+                    "EndMs": 3813,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "将军",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 3600
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.813625
+        },
+        "RequestId": "31ed6fbe-8421-45f5-a75b-05047320035f"
+    }
+}

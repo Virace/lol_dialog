@@ -1,0 +1,44 @@
+{
+    "character": "rell",
+    "id": "846055854",
+    "result": "我生气啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012759071,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.396]  我生气啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我生气啦。",
+                    "SliceSentence": "我 生气 啦",
+                    "StartMs": 0,
+                    "EndMs": 1396,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "生气",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.396063
+        },
+        "RequestId": "d542a0e5-7eb2-406a-ad59-f9c4bb78bd95"
+    }
+}

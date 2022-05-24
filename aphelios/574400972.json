@@ -1,0 +1,49 @@
+{
+    "character": "aphelios",
+    "id": "574400972",
+    "result": "我不会让你离去。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012544034,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.100]  我不会让你离去。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不会让你离去。",
+                    "SliceSentence": "我 不会 让你 离去",
+                    "StartMs": 0,
+                    "EndMs": 4100,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "让你",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "离去",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.07025
+        },
+        "RequestId": "764f8048-77d3-43b5-bdc2-28f511fbaa1d"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "1070712991",
+    "result": "我们来拭目以待吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749334,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.796]  我们来拭目以待吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们来拭目以待吧。",
+                    "SliceSentence": "我们 来 拭目以待 吧",
+                    "StartMs": 0,
+                    "EndMs": 1796,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "拭目以待",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.796688
+        },
+        "RequestId": "5033526f-0b33-47dd-9323-0ca952253e46"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "ivern",
+    "id": "2073051227",
+    "result": "你是我的小子小蓝。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012585010,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.263]  你是我的小子小蓝。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你是我的小子小蓝。",
+                    "SliceSentence": "你是 我 的 小子 小蓝",
+                    "StartMs": 0,
+                    "EndMs": 3263,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你是",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "小子",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "小蓝",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 3030
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.2635
+        },
+        "RequestId": "908cad13-bcb1-4436-974f-81901c400bd0"
+    }
+}

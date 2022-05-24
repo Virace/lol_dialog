@@ -1,0 +1,85 @@
+{
+    "character": "vi",
+    "id": "963993554",
+    "result": "不许动。动就动吧，反正我也无所谓。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012812593,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.220]  不许动。\n[0:1.680,0:4.769]  动就动吧，反正我也无所谓。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不许动。",
+                    "SliceSentence": "不许 动",
+                    "StartMs": 0,
+                    "EndMs": 1220,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "不许",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "动",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 570
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "动就动吧，反正我也无所谓。",
+                    "SliceSentence": "动 就 动 吧 反正 我也 无所谓",
+                    "StartMs": 1680,
+                    "EndMs": 4769,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "动",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "动",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "反正",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "我也",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "无所谓",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 2970
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.769625
+        },
+        "RequestId": "a5e03035-f8c4-4ee8-a67a-48a3e990b3c9"
+    }
+}

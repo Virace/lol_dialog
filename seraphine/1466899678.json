@@ -1,0 +1,49 @@
+{
+    "character": "seraphine",
+    "id": "1466899678",
+    "result": "得跟着音乐动起来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012770390,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.240]  得跟着音乐动起来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "得跟着音乐动起来。",
+                    "SliceSentence": "得 跟着 音乐 动起来",
+                    "StartMs": 0,
+                    "EndMs": 4240,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "得",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "跟着",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "音乐",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "动起来",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2910
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.701375
+        },
+        "RequestId": "e45f7d3b-2dda-47a1-bc51-130caa460f3d"
+    }
+}

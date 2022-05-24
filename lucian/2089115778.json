@@ -1,0 +1,49 @@
+{
+    "character": "lucian",
+    "id": "2089115778",
+    "result": "啊，我失败啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718016,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.620]  啊，我失败啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，我失败啦。",
+                    "SliceSentence": "啊 我 失败 啦",
+                    "StartMs": 0,
+                    "EndMs": 4620,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "失败",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 3180
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 3180,
+                            "OffsetEndMs": 3840
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.620813
+        },
+        "RequestId": "d5885869-aedb-425b-a2e7-da269504e4f9"
+    }
+}

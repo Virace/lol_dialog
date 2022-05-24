@@ -1,0 +1,59 @@
+{
+    "character": "nami",
+    "id": "589097525",
+    "result": "在此处游泳，后果自负哟。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012727986,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.513]  在此处游泳，后果自负哟。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "在此处游泳，后果自负哟。",
+                    "SliceSentence": "在此 处 游泳 后果 自负 哟",
+                    "StartMs": 0,
+                    "EndMs": 3513,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "在此",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "处",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "游泳",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "后果",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2370
+                        },
+                        {
+                            "Word": "自负",
+                            "OffsetStartMs": 2370,
+                            "OffsetEndMs": 2910
+                        },
+                        {
+                            "Word": "哟",
+                            "OffsetStartMs": 2910,
+                            "OffsetEndMs": 3300
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.513688
+        },
+        "RequestId": "bff40e79-fa39-4563-838b-3d7590d5414d"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "ornn",
+    "id": "208486694",
+    "result": "敲碎了，融化了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012739143,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.338]  敲碎了，融化了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "敲碎了，融化了。",
+                    "SliceSentence": "敲碎 了 融化 了",
+                    "StartMs": 0,
+                    "EndMs": 2338,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "敲碎",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "融化",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.338438
+        },
+        "RequestId": "72dfd63c-f5ce-4b17-8ec6-d964ac3f3cde"
+    }
+}

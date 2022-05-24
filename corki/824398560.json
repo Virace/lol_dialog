@@ -1,0 +1,44 @@
+{
+    "character": "corki",
+    "id": "824398560",
+    "result": "随时可以起飞。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012555604,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.040,0:2.275]  随时可以起飞。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "随时可以起飞。",
+                    "SliceSentence": "随时 可以 起飞",
+                    "StartMs": 40,
+                    "EndMs": 2275,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "随时",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "起飞",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.275563
+        },
+        "RequestId": "c3626f4f-ecae-4ab0-9b92-136824a0ddda"
+    }
+}

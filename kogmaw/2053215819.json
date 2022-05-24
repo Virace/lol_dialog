@@ -1,0 +1,49 @@
+{
+    "character": "kogmaw",
+    "id": "2053215819",
+    "result": "我的胃空空如也。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012711130,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.579]  我的胃空空如也。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的胃空空如也。",
+                    "SliceSentence": "我 的 胃 空空如也",
+                    "StartMs": 0,
+                    "EndMs": 4579,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "胃",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "空空如也",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 3420
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.579375
+        },
+        "RequestId": "dc1fbbac-d6a7-47d0-898b-cff2c06f7df3"
+    }
+}

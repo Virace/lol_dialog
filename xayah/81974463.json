@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "81974463",
+    "result": "亲爱的，你在做什么？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012838006,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.734]  亲爱的，你在做什么？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "亲爱的，你在做什么？",
+                    "SliceSentence": "亲爱的 你在 做 什么",
+                    "StartMs": 0,
+                    "EndMs": 1734,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "亲爱的",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "你在",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "做",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.734438
+        },
+        "RequestId": "f01a54e7-6005-4f32-b4cc-0fb51ec6083f"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "leesin",
+    "id": "2080264445",
+    "result": "一个失误导致你的败亡。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012713269,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.280]  一个失误导致你的败亡。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一个失误导致你的败亡。",
+                    "SliceSentence": "一个 失误 导致 你的 败亡",
+                    "StartMs": 0,
+                    "EndMs": 4280,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "失误",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "导致",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "败亡",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 3660
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.945875
+        },
+        "RequestId": "e12b0008-513a-4f99-8b90-aa4121b2c60f"
+    }
+}

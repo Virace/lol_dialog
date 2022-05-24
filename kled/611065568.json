@@ -1,0 +1,39 @@
+{
+    "character": "kled",
+    "id": "611065568",
+    "result": "别过去。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012708669,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.435]  别过去。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别过去。",
+                    "SliceSentence": "别 过去",
+                    "StartMs": 0,
+                    "EndMs": 1435,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "过去",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.43575
+        },
+        "RequestId": "390911eb-1320-4c10-9932-d94ce4b2f562"
+    }
+}

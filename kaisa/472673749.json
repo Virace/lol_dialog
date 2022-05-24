@@ -1,0 +1,49 @@
+{
+    "character": "kaisa",
+    "id": "472673749",
+    "result": "这就是我要的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012690714,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.401]  这就是我要的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这就是我要的。",
+                    "SliceSentence": "这就 是我 要 的",
+                    "StartMs": 0,
+                    "EndMs": 1401,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这就",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 7.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.401125
+        },
+        "RequestId": "1b71cc71-f654-453a-9ded-916f239d0e5f"
+    }
+}

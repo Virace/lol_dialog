@@ -1,0 +1,44 @@
+{
+    "character": "sona",
+    "id": "110613070",
+    "result": "强音连奏。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012780794,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.420]  强音连奏。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "强音连奏。",
+                    "SliceSentence": "强音 连 奏",
+                    "StartMs": 0,
+                    "EndMs": 3420,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "强音",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "连",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "奏",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.405438
+        },
+        "RequestId": "9bef660f-31a3-4330-a3a8-16196c38fb34"
+    }
+}

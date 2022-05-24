@@ -1,0 +1,39 @@
+{
+    "character": "gragas",
+    "id": "1590374393",
+    "result": "尝尝这个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012573210,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.031]  尝尝这个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "尝尝这个。",
+                    "SliceSentence": "尝尝 这个",
+                    "StartMs": 0,
+                    "EndMs": 2031,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "尝尝",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.03175
+        },
+        "RequestId": "42c257d5-510a-4665-87c6-b950612f8583"
+    }
+}

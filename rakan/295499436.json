@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "295499436",
+    "result": "我非常容易让人分心。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012753047,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.644]  我非常容易让人分心。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我非常容易让人分心。",
+                    "SliceSentence": "我 非常 容易 让人 分心",
+                    "StartMs": 0,
+                    "EndMs": 1644,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "非常",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "容易",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "让人",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "分心",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 8.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.644375
+        },
+        "RequestId": "4dd8d15e-3ca1-4248-ac6e-692ccee93a97"
+    }
+}

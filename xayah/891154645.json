@@ -1,0 +1,54 @@
+{
+    "character": "xayah",
+    "id": "891154645",
+    "result": "我的羽毛是无价之宝。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012838192,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.830]  我的羽毛是无价之宝。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的羽毛是无价之宝。",
+                    "SliceSentence": "我 的 羽毛 是 无价之宝",
+                    "StartMs": 0,
+                    "EndMs": 2830,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "羽毛",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "无价之宝",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 2670
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.830375
+        },
+        "RequestId": "48ab831b-f7fa-4e7a-9187-651c6dc9ba2c"
+    }
+}

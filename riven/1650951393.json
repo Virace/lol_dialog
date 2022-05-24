@@ -1,0 +1,54 @@
+{
+    "character": "riven",
+    "id": "1650951393",
+    "result": "我知道我想要什么。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012762829,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.745]  我知道我想要什么。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我知道我想要什么。",
+                    "SliceSentence": "我 知道 我 想要 什么",
+                    "StartMs": 0,
+                    "EndMs": 1745,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "想要",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.745875
+        },
+        "RequestId": "c735bce7-ab6d-4370-91f8-4fcb549ea265"
+    }
+}

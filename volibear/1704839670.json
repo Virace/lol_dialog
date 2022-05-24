@@ -1,0 +1,49 @@
+{
+    "character": "volibear",
+    "id": "1704839670",
+    "result": "天空在召唤我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012816110,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.096]  天空在召唤我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "天空在召唤我。",
+                    "SliceSentence": "天空 在 召唤 我",
+                    "StartMs": 0,
+                    "EndMs": 4096,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "天空",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "召唤",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 2910
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.096063
+        },
+        "RequestId": "6cae3cb0-d3f3-4891-a737-209d924842c9"
+    }
+}

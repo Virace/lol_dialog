@@ -1,0 +1,59 @@
+{
+    "character": "kayn",
+    "id": "547260160",
+    "result": "与我相对就是一个错误。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012702202,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.430]  与我相对就是一个错误。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "与我相对就是一个错误。",
+                    "SliceSentence": "与 我 相对 就是 一个 错误",
+                    "StartMs": 0,
+                    "EndMs": 2430,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "与",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "相对",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "错误",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.430563
+        },
+        "RequestId": "59e353d5-bf3e-4862-ade8-06b9127c6612"
+    }
+}

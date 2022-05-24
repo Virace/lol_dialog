@@ -1,0 +1,59 @@
+{
+    "character": "swain",
+    "id": "304915785",
+    "result": "我的鸟儿们都饿了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012785092,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.524]  我的鸟儿们都饿了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的鸟儿们都饿了。",
+                    "SliceSentence": "我 的 鸟儿 们 都 饿了",
+                    "StartMs": 0,
+                    "EndMs": 2524,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "鸟儿",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "们",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "都",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "饿了",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.524125
+        },
+        "RequestId": "269f20f7-35f1-446a-b546-6d5024fcbe69"
+    }
+}

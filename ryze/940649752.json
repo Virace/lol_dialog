@@ -1,0 +1,39 @@
+{
+    "character": "ryze",
+    "id": "940649752",
+    "result": "标记一下。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012765728,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.771]  标记一下。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "标记一下。",
+                    "SliceSentence": "标记 一下",
+                    "StartMs": 0,
+                    "EndMs": 771,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "标记",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "一下",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 690
+                        }
+                    ],
+                    "SpeechSpeed": 7.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.771563
+        },
+        "RequestId": "6e1c6a9b-b9b7-40f1-a1ad-6272203aeb7a"
+    }
+}

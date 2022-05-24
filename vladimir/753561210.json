@@ -1,0 +1,49 @@
+{
+    "character": "vladimir",
+    "id": "753561210",
+    "result": "啊，可口的静脉。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012815422,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.308]  啊，可口的静脉。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，可口的静脉。",
+                    "SliceSentence": "啊 可口 的 静脉",
+                    "StartMs": 0,
+                    "EndMs": 4308,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "可口",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2640
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2640,
+                            "OffsetEndMs": 2790
+                        },
+                        {
+                            "Word": "静脉",
+                            "OffsetStartMs": 2790,
+                            "OffsetEndMs": 4050
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.308063
+        },
+        "RequestId": "19fe7401-efd7-4bf5-9760-4d9c893bcaf2"
+    }
+}

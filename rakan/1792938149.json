@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "1792938149",
+    "result": "哎呀呀，你已经死了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012751599,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.828]  哎呀呀，你已经死了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哎呀呀，你已经死了。",
+                    "SliceSentence": "哎呀呀 你 已经 死 了",
+                    "StartMs": 0,
+                    "EndMs": 2828,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "哎呀呀",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "死",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2700
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.828063
+        },
+        "RequestId": "929ed81f-0663-46ca-88f4-35a2dbb71208"
+    }
+}

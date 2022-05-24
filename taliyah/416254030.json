@@ -1,0 +1,54 @@
+{
+    "character": "taliyah",
+    "id": "416254030",
+    "result": "我们的未来仍在编织。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012793042,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.243]  我们的未来仍在编织。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们的未来仍在编织。",
+                    "SliceSentence": "我们 的 未来 仍在 编织",
+                    "StartMs": 0,
+                    "EndMs": 2243,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "未来",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "仍在",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "编织",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.2435
+        },
+        "RequestId": "362e4204-f53a-486e-ad81-f0fb6f2d4560"
+    }
+}

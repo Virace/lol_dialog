@@ -1,0 +1,59 @@
+{
+    "character": "trundle",
+    "id": "1864560419",
+    "result": "我是有计划的巨母。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012801234,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.020,0:4.540]  我是有计划的巨母。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我是有计划的巨母。",
+                    "SliceSentence": "我 是有 计划 的 巨 母",
+                    "StartMs": 20,
+                    "EndMs": 4540,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "是有",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "计划",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2460
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2460,
+                            "OffsetEndMs": 2640
+                        },
+                        {
+                            "Word": "巨",
+                            "OffsetStartMs": 2640,
+                            "OffsetEndMs": 2940
+                        },
+                        {
+                            "Word": "母",
+                            "OffsetStartMs": 2940,
+                            "OffsetEndMs": 3960
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.837125
+        },
+        "RequestId": "5163f530-b1e5-4b42-a54c-1d66b357c735"
+    }
+}

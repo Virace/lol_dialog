@@ -1,0 +1,44 @@
+{
+    "character": "lissandra",
+    "id": "878555297",
+    "result": "我绝不停歇。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012716939,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.939]  我绝不停歇。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我绝不停歇。",
+                    "SliceSentence": "我 绝不 停歇",
+                    "StartMs": 0,
+                    "EndMs": 3939,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "绝不",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "停歇",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 3150
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.939875
+        },
+        "RequestId": "9fa0df9d-3877-4603-bff3-4bc021b071d0"
+    }
+}

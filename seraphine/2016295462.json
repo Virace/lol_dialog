@@ -1,0 +1,39 @@
+{
+    "character": "seraphine",
+    "id": "2016295462",
+    "result": "不要退缩。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012770961,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.220]  不要退缩。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要退缩。",
+                    "SliceSentence": "不要 退缩",
+                    "StartMs": 0,
+                    "EndMs": 2220,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "退缩",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.95625
+        },
+        "RequestId": "207549f0-b523-432c-b329-dc6a6722fdcb"
+    }
+}

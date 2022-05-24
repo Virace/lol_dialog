@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "992030564",
+    "result": "你在看什么？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012755018,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.137]  你在看什么？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你在看什么？",
+                    "SliceSentence": "你在 看 什么",
+                    "StartMs": 0,
+                    "EndMs": 1137,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "看",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.137063
+        },
+        "RequestId": "52593e10-b378-4a66-9512-788c7e3cd9da"
+    }
+}

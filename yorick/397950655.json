@@ -1,0 +1,54 @@
+{
+    "character": "yorick",
+    "id": "397950655",
+    "result": "有时，死人也会死于生命。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012844783,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.683]  有时，死人也会死于生命。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "有时，死人也会死于生命。",
+                    "SliceSentence": "有时 死人 也会 死于 生命",
+                    "StartMs": 0,
+                    "EndMs": 3683,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "有时",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "死人",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "也会",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "死于",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2490
+                        },
+                        {
+                            "Word": "生命",
+                            "OffsetStartMs": 2490,
+                            "OffsetEndMs": 3450
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.683125
+        },
+        "RequestId": "49ab293f-8c26-49c1-92a6-bfc376184b5d"
+    }
+}

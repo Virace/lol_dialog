@@ -1,0 +1,54 @@
+{
+    "character": "rengar",
+    "id": "1797592850",
+    "result": "我找到你了，怪兽。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012762249,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.360]  我找到你了，怪兽。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我找到你了，怪兽。",
+                    "SliceSentence": "我 找到 你 了 怪兽",
+                    "StartMs": 0,
+                    "EndMs": 4360,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "找到",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "怪兽",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2880
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.694813
+        },
+        "RequestId": "8e042de3-cc0e-439d-b175-f8d9a1830baa"
+    }
+}

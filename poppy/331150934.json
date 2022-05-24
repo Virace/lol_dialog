@@ -1,0 +1,39 @@
+{
+    "character": "poppy",
+    "id": "331150934",
+    "result": "你真德玛西亚。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012742915,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.176]  你真德玛西亚。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你真德玛西亚。",
+                    "SliceSentence": "你真 德玛西亚",
+                    "StartMs": 0,
+                    "EndMs": 2176,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "你真",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "德玛西亚",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.176625
+        },
+        "RequestId": "4d6b9356-bf4e-42ee-a052-4b7fd568be91"
+    }
+}

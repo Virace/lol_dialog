@@ -1,0 +1,44 @@
+{
+    "character": "caitlyn",
+    "id": "701510392",
+    "result": "盯住目标了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551843,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.325]  盯住目标了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "盯住目标了。",
+                    "SliceSentence": "盯住 目标 了",
+                    "StartMs": 0,
+                    "EndMs": 2325,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "盯住",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "目标",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.325313
+        },
+        "RequestId": "e86db525-d61b-4126-8f74-e332dba2ae1e"
+    }
+}

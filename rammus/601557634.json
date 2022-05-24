@@ -1,0 +1,44 @@
+{
+    "character": "rammus",
+    "id": "601557634",
+    "result": "别挡道。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012755489,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.509]  别挡道。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别挡道。",
+                    "SliceSentence": "别 挡 道",
+                    "StartMs": 0,
+                    "EndMs": 1509,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "挡",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "道",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.509313
+        },
+        "RequestId": "45f8d3fd-cfdb-4a57-8fa0-8202cc1ae8f6"
+    }
+}

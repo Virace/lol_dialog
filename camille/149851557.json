@@ -1,0 +1,39 @@
+{
+    "character": "camille",
+    "id": "149851557",
+    "result": "多么粗野。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552440,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.495]  多么粗野。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "多么粗野。",
+                    "SliceSentence": "多么 粗野",
+                    "StartMs": 0,
+                    "EndMs": 1495,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "多么",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "粗野",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.495875
+        },
+        "RequestId": "259f5435-43ac-42c3-8b16-e4bc39eb036b"
+    }
+}

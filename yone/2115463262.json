@@ -1,0 +1,70 @@
+{
+    "character": "yone",
+    "id": "2115463262",
+    "result": "自愿迎接恶魔加身。迁址，愚不可及。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012842988,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.160]  自愿迎接恶魔加身。\n[0:3.160,0:6.153]  迁址，愚不可及。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "自愿迎接恶魔加身。",
+                    "SliceSentence": "自愿 迎接 恶魔 加身",
+                    "StartMs": 0,
+                    "EndMs": 3160,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "自愿",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "迎接",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "恶魔",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "加身",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2700
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "迁址，愚不可及。",
+                    "SliceSentence": "迁址 愚不可及",
+                    "StartMs": 3160,
+                    "EndMs": 6153,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "迁址",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "愚不可及",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.153313
+        },
+        "RequestId": "61b933dd-178a-4297-81eb-ed9d68312164"
+    }
+}

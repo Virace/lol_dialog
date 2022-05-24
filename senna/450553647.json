@@ -1,0 +1,49 @@
+{
+    "character": "senna",
+    "id": "450553647",
+    "result": "那就来硬的吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012769672,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.904]  那就来硬的吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "那就来硬的吧。",
+                    "SliceSentence": "那就 来 硬的 吧",
+                    "StartMs": 0,
+                    "EndMs": 1904,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "那就",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "硬的",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.904063
+        },
+        "RequestId": "45e2917d-f57d-40d7-a904-46a48fd2c958"
+    }
+}

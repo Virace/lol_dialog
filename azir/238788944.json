@@ -1,0 +1,49 @@
+{
+    "character": "azir",
+    "id": "238788944",
+    "result": "从沙砾中归来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012548693,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.483]  从沙砾中归来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "从沙砾中归来。",
+                    "SliceSentence": "从 沙砾 中 归来",
+                    "StartMs": 0,
+                    "EndMs": 2483,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "从",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "沙砾",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "中",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "归来",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.48325
+        },
+        "RequestId": "7f628e5c-eecb-4d84-8fed-0f290496c5d8"
+    }
+}

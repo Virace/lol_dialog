@@ -1,0 +1,54 @@
+{
+    "character": "kled",
+    "id": "534802392",
+    "result": "我们还没完事儿呢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012708304,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.959]  我们还没完事儿呢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们还没完事儿呢。",
+                    "SliceSentence": "我们 还 没完 事儿 呢",
+                    "StartMs": 0,
+                    "EndMs": 2959,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "还",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "没完",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "事儿",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 2730
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.959313
+        },
+        "RequestId": "2abbd80b-e65c-4abf-b1e3-0757eba02f40"
+    }
+}

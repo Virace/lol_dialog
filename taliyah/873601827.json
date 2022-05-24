@@ -1,0 +1,44 @@
+{
+    "character": "taliyah",
+    "id": "873601827",
+    "result": "美味堪比羊奶。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012795004,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.597]  美味堪比羊奶。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "美味堪比羊奶。",
+                    "SliceSentence": "美味 堪比 羊奶",
+                    "StartMs": 0,
+                    "EndMs": 1597,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "美味",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "堪比",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "羊奶",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.597563
+        },
+        "RequestId": "a2c96940-6af8-47b3-ba2b-dbb701c9c487"
+    }
+}

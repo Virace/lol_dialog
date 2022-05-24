@@ -1,0 +1,75 @@
+{
+    "character": "illaoi",
+    "id": "14291319",
+    "result": "武汉才有世界。勿忘shells开啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012577133,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.620]  武汉才有世界。\n[0:2.620,0:5.013]  勿忘shells开啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "武汉才有世界。",
+                    "SliceSentence": "武汉 才有 世界",
+                    "StartMs": 0,
+                    "EndMs": 2620,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "武汉",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "才有",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "世界",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "勿忘shells开啊。",
+                    "SliceSentence": "勿忘 shells 开 啊",
+                    "StartMs": 2620,
+                    "EndMs": 5013,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "勿忘",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "shells",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "开",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.01325
+        },
+        "RequestId": "5a81f70a-e994-46a4-abf6-629d649556e3"
+    }
+}

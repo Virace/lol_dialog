@@ -1,0 +1,44 @@
+{
+    "character": "qiyana",
+    "id": "1331453875",
+    "result": "你太放肆了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012747364,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.020]  你太放肆了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你太放肆了。",
+                    "SliceSentence": "你太 放肆 了",
+                    "StartMs": 0,
+                    "EndMs": 2020,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你太",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "放肆",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.020125
+        },
+        "RequestId": "e70695f5-ed41-4e04-a6f2-7f3816c23781"
+    }
+}

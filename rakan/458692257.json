@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "458692257",
+    "result": "是时候开始啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012753572,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.057]  是时候开始啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "是时候开始啦。",
+                    "SliceSentence": "是 时候 开始 啦",
+                    "StartMs": 0,
+                    "EndMs": 2057,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "时候",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "开始",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.05775
+        },
+        "RequestId": "46c41115-2705-4725-a0ea-827ca3629de3"
+    }
+}

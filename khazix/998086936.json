@@ -1,0 +1,54 @@
+{
+    "character": "khazix",
+    "id": "998086936",
+    "result": "他们无法坚持下去了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012704265,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.474]  他们无法坚持下去了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们无法坚持下去了。",
+                    "SliceSentence": "他们 无法 坚持 下去 了",
+                    "StartMs": 0,
+                    "EndMs": 3474,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "无法",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "坚持",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "下去",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.474188
+        },
+        "RequestId": "8a79a618-63dd-44fb-8010-35729690e106"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "sivir",
+    "id": "61864309",
+    "result": "你们的死是免费的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012779228,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.290]  你们的死是免费的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你们的死是免费的。",
+                    "SliceSentence": "你们 的 死 是 免费 的",
+                    "StartMs": 0,
+                    "EndMs": 3290,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你们",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "死",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "免费",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2760
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2760,
+                            "OffsetEndMs": 3090
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.290188
+        },
+        "RequestId": "ace117b5-5efd-484a-b198-7c891c68ea3d"
+    }
+}

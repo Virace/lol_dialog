@@ -1,0 +1,54 @@
+{
+    "character": "ekko",
+    "id": "2080575976",
+    "result": "我们别再那么做了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012559820,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.601]  我们别再那么做了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们别再那么做了。",
+                    "SliceSentence": "我们 别再 那么 做 了",
+                    "StartMs": 0,
+                    "EndMs": 1601,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "别再",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "那么",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "做",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 8.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.601375
+        },
+        "RequestId": "0ce11331-58c9-4097-a515-56d0a3bbc0ef"
+    }
+}

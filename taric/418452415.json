@@ -1,0 +1,39 @@
+{
+    "character": "taric",
+    "id": "418452415",
+    "result": "为了美。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012796823,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.874]  为了美。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "为了美。",
+                    "SliceSentence": "为了 美",
+                    "StartMs": 0,
+                    "EndMs": 1874,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "为了",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "美",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.874063
+        },
+        "RequestId": "82b20dde-7e41-4767-9a77-7a74996427bb"
+    }
+}

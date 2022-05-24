@@ -1,0 +1,44 @@
+{
+    "character": "zoe",
+    "id": "231507649",
+    "result": "他们叫我佐伊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012855387,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.288]  他们叫我佐伊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们叫我佐伊。",
+                    "SliceSentence": "他们 叫我 佐伊",
+                    "StartMs": 0,
+                    "EndMs": 2288,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "叫我",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "佐伊",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.288938
+        },
+        "RequestId": "6854c056-84dd-4b02-817e-2322f4b4bd42"
+    }
+}

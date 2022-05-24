@@ -1,0 +1,49 @@
+{
+    "character": "yorick",
+    "id": "1036917898",
+    "result": "醒来，你有新的任务。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012843799,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.307]  醒来，你有新的任务。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "醒来，你有新的任务。",
+                    "SliceSentence": "醒来 你有 新的 任务",
+                    "StartMs": 0,
+                    "EndMs": 4307,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "醒来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "你有",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2550
+                        },
+                        {
+                            "Word": "新的",
+                            "OffsetStartMs": 2550,
+                            "OffsetEndMs": 3210
+                        },
+                        {
+                            "Word": "任务",
+                            "OffsetStartMs": 3210,
+                            "OffsetEndMs": 4230
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.307125
+        },
+        "RequestId": "63d4454b-9862-46c5-80cf-4bd61de5071b"
+    }
+}

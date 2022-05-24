@@ -1,0 +1,39 @@
+{
+    "character": "azir",
+    "id": "52224094",
+    "result": "相信我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012548951,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.331]  相信我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "相信我。",
+                    "SliceSentence": "相信 我",
+                    "StartMs": 0,
+                    "EndMs": 1331,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "相信",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.331125
+        },
+        "RequestId": "ebc3361e-006a-4f03-be71-652a6044ed51"
+    }
+}

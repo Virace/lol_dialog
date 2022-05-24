@@ -1,0 +1,44 @@
+{
+    "character": "zeri",
+    "id": "1626320144",
+    "result": "交给我啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012851407,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.770]  交给我啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "交给我啦。",
+                    "SliceSentence": "交给 我 啦",
+                    "StartMs": 0,
+                    "EndMs": 1770,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "交给",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.770688
+        },
+        "RequestId": "9bc6da78-43b1-4f08-a5ba-34d2459c8753"
+    }
+}

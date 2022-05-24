@@ -1,0 +1,54 @@
+{
+    "character": "zoe",
+    "id": "1321893106",
+    "result": "是该接受改变了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012854423,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.034]  是该接受改变了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "是该接受改变了。",
+                    "SliceSentence": "是 该 接受 改变 了",
+                    "StartMs": 0,
+                    "EndMs": 2034,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "该",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "接受",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "改变",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.034438
+        },
+        "RequestId": "fac55e3f-f612-437c-af38-e99b1a271af7"
+    }
+}

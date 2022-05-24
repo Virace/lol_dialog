@@ -1,0 +1,44 @@
+{
+    "character": "kayn",
+    "id": "1025972070",
+    "result": "完美只差一步。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012698928,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.035]  完美只差一步。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "完美只差一步。",
+                    "SliceSentence": "完美 只差 一步",
+                    "StartMs": 0,
+                    "EndMs": 2035,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "完美",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "只差",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "一步",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.035813
+        },
+        "RequestId": "af9ad8bd-5e06-4be9-b957-48ae41470f48"
+    }
+}

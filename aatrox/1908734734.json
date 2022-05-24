@@ -1,0 +1,80 @@
+{
+    "character": "aatrox",
+    "id": "1908734734",
+    "result": "复活无尽的生命循环。一只死鸟。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012532552,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.660]  复活无尽的生命循环。\n[0:5.660,0:8.002]  一只死鸟。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "复活无尽的生命循环。",
+                    "SliceSentence": "复活 无尽 的 生命 循环",
+                    "StartMs": 0,
+                    "EndMs": 5660,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "复活",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "无尽",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2730
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2730,
+                            "OffsetEndMs": 2850
+                        },
+                        {
+                            "Word": "生命",
+                            "OffsetStartMs": 2850,
+                            "OffsetEndMs": 3600
+                        },
+                        {
+                            "Word": "循环",
+                            "OffsetStartMs": 3600,
+                            "OffsetEndMs": 4830
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "一只死鸟。",
+                    "SliceSentence": "一只 死 鸟",
+                    "StartMs": 5660,
+                    "EndMs": 8002,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "一只",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "死",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "鸟",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 8.002625
+        },
+        "RequestId": "1c2389bd-50ba-4796-a305-2154f4a6c197"
+    }
+}

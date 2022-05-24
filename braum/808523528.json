@@ -1,0 +1,49 @@
+{
+    "character": "braum",
+    "id": "808523528",
+    "result": "跟我来，朋友们。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550602,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.613]  跟我来，朋友们。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "跟我来，朋友们。",
+                    "SliceSentence": "跟我 来 朋友 们",
+                    "StartMs": 0,
+                    "EndMs": 1613,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "跟我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "朋友",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "们",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.613563
+        },
+        "RequestId": "e1f3fdf4-310c-4e79-9474-0f42d60e9355"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "pyke",
+    "id": "384010653",
+    "result": "我的单子越记越长。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746063,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.221]  我的单子越记越长。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的单子越记越长。",
+                    "SliceSentence": "我 的 单子 越 记 越长",
+                    "StartMs": 0,
+                    "EndMs": 3221,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "单子",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "越",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "记",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "越长",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.221688
+        },
+        "RequestId": "fd267a89-4f20-4253-879f-332cc9f2c8c3"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "illaoi",
+    "id": "256948084",
+    "result": "普朗克会找到你的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012577486,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.171]  普朗克会找到你的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "普朗克会找到你的。",
+                    "SliceSentence": "普朗克 会 找到 你的",
+                    "StartMs": 0,
+                    "EndMs": 2171,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "普朗克",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "找到",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.171313
+        },
+        "RequestId": "5c7c8185-052a-4d6f-aa88-096affa3c57c"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "akshan",
+    "id": "251031593",
+    "result": "抓到了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012541108,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.770]  抓到了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "抓到了。",
+                    "SliceSentence": "抓到 了",
+                    "StartMs": 0,
+                    "EndMs": 1770,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "抓到",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.770688
+        },
+        "RequestId": "19a266bf-426f-4a62-bc5f-202562645344"
+    }
+}

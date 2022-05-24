@@ -1,0 +1,59 @@
+{
+    "character": "poppy",
+    "id": "206649955",
+    "result": "我走的路当然很多。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012742737,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.983]  我走的路当然很多。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我走的路当然很多。",
+                    "SliceSentence": "我 走 的 路 当然 很多",
+                    "StartMs": 0,
+                    "EndMs": 1983,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "走",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "路",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "当然",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "很多",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 7.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.983938
+        },
+        "RequestId": "cbc5a0aa-7dc1-4190-90aa-ab6e9844f9a0"
+    }
+}

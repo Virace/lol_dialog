@@ -1,0 +1,54 @@
+{
+    "character": "braum",
+    "id": "1189468123",
+    "result": "给我看看你的真本事。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550009,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.858]  给我看看你的真本事。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "给我看看你的真本事。",
+                    "SliceSentence": "给我 看看 你的 真 本事",
+                    "StartMs": 0,
+                    "EndMs": 1858,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "给我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "看看",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "真",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "本事",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 7.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.858688
+        },
+        "RequestId": "320309f2-32f1-4463-9702-feddb6bee09a"
+    }
+}

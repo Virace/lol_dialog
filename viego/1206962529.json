@@ -1,0 +1,44 @@
+{
+    "character": "viego",
+    "id": "1206962529",
+    "result": "正合她愿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012812989,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.168]  正合她愿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "正合她愿。",
+                    "SliceSentence": "正合 她 愿",
+                    "StartMs": 0,
+                    "EndMs": 3168,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "正合",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "她",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "愿",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.168125
+        },
+        "RequestId": "fed7e7a1-d907-408e-856a-3a156bdef44c"
+    }
+}

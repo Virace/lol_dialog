@@ -1,0 +1,39 @@
+{
+    "character": "quinn",
+    "id": "415096453",
+    "result": "保持警惕。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749015,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.298]  保持警惕。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "保持警惕。",
+                    "SliceSentence": "保持 警惕",
+                    "StartMs": 0,
+                    "EndMs": 2298,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "保持",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "警惕",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.298813
+        },
+        "RequestId": "4813a372-2987-4f80-84db-b6bde02a30db"
+    }
+}

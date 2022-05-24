@@ -1,0 +1,49 @@
+{
+    "character": "akshan",
+    "id": "1873647909",
+    "result": "为我开恩吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012540981,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.285]  为我开恩吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "为我开恩吧。",
+                    "SliceSentence": "为 我 开恩 吧",
+                    "StartMs": 0,
+                    "EndMs": 3285,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "为",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "开恩",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.285313
+        },
+        "RequestId": "8fce67ae-968c-4b1c-9fc5-8d90ae02af2f"
+    }
+}

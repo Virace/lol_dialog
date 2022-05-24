@@ -1,0 +1,39 @@
+{
+    "character": "heimerdinger",
+    "id": "178475089",
+    "result": "正在进行测试。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012576326,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.563]  正在进行测试。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "正在进行测试。",
+                    "SliceSentence": "正在进行 测试",
+                    "StartMs": 0,
+                    "EndMs": 1563,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "正在进行",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "测试",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.563
+        },
+        "RequestId": "48a436fc-a862-48f7-bd07-def7f5bb54f9"
+    }
+}

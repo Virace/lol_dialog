@@ -1,0 +1,39 @@
+{
+    "character": "viego",
+    "id": "1738945783",
+    "result": "任我通行。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012813553,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.894]  任我通行。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "任我通行。",
+                    "SliceSentence": "任我 通行",
+                    "StartMs": 0,
+                    "EndMs": 2894,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "任我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "通行",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.894
+        },
+        "RequestId": "2f8b459e-6b13-4a59-80ce-fe3c6ddad0e3"
+    }
+}

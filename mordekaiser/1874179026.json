@@ -1,0 +1,44 @@
+{
+    "character": "mordekaiser",
+    "id": "1874179026",
+    "result": "有趣，真有趣。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012724831,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.327]  有趣，真有趣。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "有趣，真有趣。",
+                    "SliceSentence": "有趣 真有 趣",
+                    "StartMs": 0,
+                    "EndMs": 5327,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "有趣",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "真有",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 3240
+                        },
+                        {
+                            "Word": "趣",
+                            "OffsetStartMs": 3240,
+                            "OffsetEndMs": 3750
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.327313
+        },
+        "RequestId": "86cc2155-f005-44f0-a744-038b459e0d0e"
+    }
+}

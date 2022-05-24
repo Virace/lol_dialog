@@ -1,0 +1,44 @@
+{
+    "character": "talon",
+    "id": "981691947",
+    "result": "不要妨碍我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012795974,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.189]  不要妨碍我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要妨碍我。",
+                    "SliceSentence": "不要 妨碍 我",
+                    "StartMs": 0,
+                    "EndMs": 2189,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "妨碍",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.18975
+        },
+        "RequestId": "38525e3e-d884-4d26-8c65-2b44227597bf"
+    }
+}

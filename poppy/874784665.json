@@ -1,0 +1,59 @@
+{
+    "character": "poppy",
+    "id": "874784665",
+    "result": "好吧，我承认我迷路了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744105,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.127]  好吧，我承认我迷路了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好吧，我承认我迷路了。",
+                    "SliceSentence": "好吧 我 承认 我 迷路 了",
+                    "StartMs": 0,
+                    "EndMs": 3127,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "好吧",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "承认",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "迷路",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2460
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2460,
+                            "OffsetEndMs": 2970
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.12775
+        },
+        "RequestId": "70468457-d464-45c3-abbb-62e80a88096f"
+    }
+}

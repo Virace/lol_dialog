@@ -1,0 +1,44 @@
+{
+    "character": "seraphine",
+    "id": "1935738656",
+    "result": "坐下认真听。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012770860,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.520]  坐下认真听。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "坐下认真听。",
+                    "SliceSentence": "坐下 认真 听",
+                    "StartMs": 0,
+                    "EndMs": 2520,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "坐下",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "认真",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "听",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.930438
+        },
+        "RequestId": "89bbb5e8-ab40-4b07-8b0c-24d8159dea31"
+    }
+}

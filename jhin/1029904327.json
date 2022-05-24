@@ -1,0 +1,44 @@
+{
+    "character": "jhin",
+    "id": "1029904327",
+    "result": "美丽既是痛苦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012684374,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.229]  美丽既是痛苦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "美丽既是痛苦。",
+                    "SliceSentence": "美丽 既是 痛苦",
+                    "StartMs": 0,
+                    "EndMs": 3229,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "美丽",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "既是",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "痛苦",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 3150
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.229
+        },
+        "RequestId": "9f19dd7f-f44a-43f9-9296-01bb553b3865"
+    }
+}

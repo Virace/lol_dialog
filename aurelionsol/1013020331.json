@@ -1,0 +1,59 @@
+{
+    "character": "aurelionsol",
+    "id": "1013020331",
+    "result": "我足不沾地，脚步声呢？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012545869,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.001]  我足不沾地，脚步声呢？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我足不沾地，脚步声呢？",
+                    "SliceSentence": "我 足 不沾 地 脚步声 呢",
+                    "StartMs": 0,
+                    "EndMs": 4001,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "足",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "不沾",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "地",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "脚步声",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 3210
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 3210,
+                            "OffsetEndMs": 3450
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.001438
+        },
+        "RequestId": "8906b5fa-7cd6-4aca-928b-2ac89d9ba324"
+    }
+}

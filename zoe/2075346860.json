@@ -1,0 +1,49 @@
+{
+    "character": "zoe",
+    "id": "2075346860",
+    "result": "到我了吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012855358,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.549]  到我了吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "到我了吧。",
+                    "SliceSentence": "到 我 了 吧",
+                    "StartMs": 0,
+                    "EndMs": 2549,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.549
+        },
+        "RequestId": "511454b4-f46c-488a-b4e6-ba06964ff118"
+    }
+}

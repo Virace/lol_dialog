@@ -1,0 +1,39 @@
+{
+    "character": "monkeyking",
+    "id": "514384972",
+    "result": "哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012723893,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.600]  哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈。",
+                    "SliceSentence": "哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 600,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 540
+                        }
+                    ],
+                    "SpeechSpeed": 8.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.600813
+        },
+        "RequestId": "58f5f1ad-38a4-4c9b-b98d-2a7bc2d27b89"
+    }
+}

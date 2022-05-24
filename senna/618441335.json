@@ -1,0 +1,44 @@
+{
+    "character": "senna",
+    "id": "618441335",
+    "result": "为你默哀。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012769752,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.927]  为你默哀。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "为你默哀。",
+                    "SliceSentence": "为 你 默哀",
+                    "StartMs": 0,
+                    "EndMs": 1927,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "为",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "默哀",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.92725
+        },
+        "RequestId": "f3e242d5-6f6c-4508-8f2b-1e74ae727ca3"
+    }
+}

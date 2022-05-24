@@ -1,0 +1,59 @@
+{
+    "character": "warwick",
+    "id": "49854325",
+    "result": "我要拿你的腿来剔牙。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012832240,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.373]  我要拿你的腿来剔牙。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要拿你的腿来剔牙。",
+                    "SliceSentence": "我要 拿 你的 腿 来 剔牙",
+                    "StartMs": 0,
+                    "EndMs": 3373,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "拿",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "腿",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "剔牙",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2580
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.373375
+        },
+        "RequestId": "a2d5ca98-fa30-49f5-89f4-2c2256afac64"
+    }
+}

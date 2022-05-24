@@ -1,0 +1,59 @@
+{
+    "character": "kaisa",
+    "id": "356686243",
+    "result": "我喜欢这里，说不定会留下来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012690393,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.713]  我喜欢这里，说不定会留下来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我喜欢这里，说不定会留下来。",
+                    "SliceSentence": "我 喜欢 这里 说不 定会 留下来",
+                    "StartMs": 0,
+                    "EndMs": 2713,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "这里",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "说不",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "定会",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "留下来",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.713063
+        },
+        "RequestId": "eccecd04-b49c-4216-a350-16534a903fc3"
+    }
+}

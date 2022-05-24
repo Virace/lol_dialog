@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "346037625",
+    "result": "悬在水底的心跳。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746034,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.671]  悬在水底的心跳。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "悬在水底的心跳。",
+                    "SliceSentence": "悬在 水底 的心 跳",
+                    "StartMs": 0,
+                    "EndMs": 2671,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "悬在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "水底",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "的心",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "跳",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.67175
+        },
+        "RequestId": "c1bae94b-9bf0-4525-930b-5824b5714464"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "urgot",
+    "id": "275687261",
+    "result": "你令我很失望。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012806994,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.229]  你令我很失望。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你令我很失望。",
+                    "SliceSentence": "你 令我 很 失望",
+                    "StartMs": 0,
+                    "EndMs": 4229,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "令我",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "很",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "失望",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 3750
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.229375
+        },
+        "RequestId": "dc1d7c97-25b9-4e11-b4a8-2c45b6f3ba4b"
+    }
+}

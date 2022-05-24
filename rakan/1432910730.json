@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "1432910730",
+    "result": "我可以动手了吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012750499,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.313]  我可以动手了吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我可以动手了吗？",
+                    "SliceSentence": "我 可以 动手 了 吗",
+                    "StartMs": 0,
+                    "EndMs": 1313,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "动手",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 9.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.313813
+        },
+        "RequestId": "3684ec7f-bc01-42d1-8ea9-8cfaf34653ae"
+    }
+}

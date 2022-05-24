@@ -1,0 +1,64 @@
+{
+    "character": "thresh",
+    "id": "1612854463",
+    "result": "我说结束了，那就结束了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012798529,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.719]  我说结束了，那就结束了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我说结束了，那就结束了。",
+                    "SliceSentence": "我 说 结束 了 那就 结束 了",
+                    "StartMs": 0,
+                    "EndMs": 4719,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "结束",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "那就",
+                            "OffsetStartMs": 2670,
+                            "OffsetEndMs": 3300
+                        },
+                        {
+                            "Word": "结束",
+                            "OffsetStartMs": 3300,
+                            "OffsetEndMs": 4200
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 4200,
+                            "OffsetEndMs": 4650
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.719438
+        },
+        "RequestId": "d2a792fc-6c73-4f4e-9f3f-d175e694ed12"
+    }
+}

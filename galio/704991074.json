@@ -1,0 +1,54 @@
+{
+    "character": "galio",
+    "id": "704991074",
+    "result": "我个子大，要求高。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012569606,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.580]  我个子大，要求高。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我个子大，要求高。",
+                    "SliceSentence": "我 个子 大 要求 高",
+                    "StartMs": 0,
+                    "EndMs": 2580,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "个子",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "大",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "要求",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "高",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.58075
+        },
+        "RequestId": "6e4215ae-eb12-4db0-a265-ea2678e54ded"
+    }
+}

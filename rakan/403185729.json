@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "403185729",
+    "result": "我打谁？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012753298,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.870]  我打谁？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我打谁？",
+                    "SliceSentence": "我 打 谁",
+                    "StartMs": 0,
+                    "EndMs": 870,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "打",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "谁",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 750
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.870938
+        },
+        "RequestId": "cea2ce6e-3c17-4340-ad1b-e309630430a8"
+    }
+}

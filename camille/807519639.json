@@ -1,0 +1,49 @@
+{
+    "character": "camille",
+    "id": "807519639",
+    "result": "看这里，小狗狗。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554192,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.556]  看这里，小狗狗。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "看这里，小狗狗。",
+                    "SliceSentence": "看 这里 小 狗狗",
+                    "StartMs": 0,
+                    "EndMs": 2556,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "看",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "这里",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "小",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "狗狗",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.556
+        },
+        "RequestId": "641cd1a8-d855-4a83-91cb-9483f1c057dc"
+    }
+}

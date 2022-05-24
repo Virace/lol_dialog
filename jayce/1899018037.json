@@ -1,0 +1,44 @@
+{
+    "character": "jayce",
+    "id": "1899018037",
+    "result": "绝对不要回头。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012684135,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.089]  绝对不要回头。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "绝对不要回头。",
+                    "SliceSentence": "绝对 不要 回头",
+                    "StartMs": 0,
+                    "EndMs": 2089,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "绝对",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "回头",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.089813
+        },
+        "RequestId": "e9baa9f3-098f-49fe-9f42-8550de13a82d"
+    }
+}

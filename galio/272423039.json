@@ -1,0 +1,49 @@
+{
+    "character": "galio",
+    "id": "272423039",
+    "result": "最好的防守是我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568624,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.097]  最好的防守是我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "最好的防守是我。",
+                    "SliceSentence": "最好 的 防守 是我",
+                    "StartMs": 0,
+                    "EndMs": 3097,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "最好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "防守",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 3030
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.097313
+        },
+        "RequestId": "f84b9e31-55f1-4d78-8c22-82c04c763381"
+    }
+}

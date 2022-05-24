@@ -1,0 +1,49 @@
+{
+    "character": "lissandra",
+    "id": "1439732884",
+    "result": "没有人会记得他们。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012716538,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.359]  没有人会记得他们。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没有人会记得他们。",
+                    "SliceSentence": "没有 人会 记得 他们",
+                    "StartMs": 0,
+                    "EndMs": 3359,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "人会",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "记得",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.359438
+        },
+        "RequestId": "afc0c73f-903e-494b-a9d2-545e7c27fd01"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "renata",
+    "id": "325485374",
+    "result": "可怜的小东西。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012760533,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.679]  可怜的小东西。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "可怜的小东西。",
+                    "SliceSentence": "可怜 的 小东西",
+                    "StartMs": 0,
+                    "EndMs": 2679,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "可怜",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "小东西",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 2580
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.679688
+        },
+        "RequestId": "226d6c09-46a8-4559-9165-58d8d43b174a"
+    }
+}

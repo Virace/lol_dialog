@@ -1,0 +1,44 @@
+{
+    "character": "diana",
+    "id": "1698515369",
+    "result": "把太阳击落。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556177,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.088]  把太阳击落。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "把太阳击落。",
+                    "SliceSentence": "把 太阳 击落",
+                    "StartMs": 0,
+                    "EndMs": 2088,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 60
+                        },
+                        {
+                            "Word": "太阳",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "击落",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.088813
+        },
+        "RequestId": "963b0e38-ed01-4282-bb6e-b7112a870815"
+    }
+}

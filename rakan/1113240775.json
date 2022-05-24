@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "1113240775",
+    "result": "你会知道痛的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749538,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.449]  你会知道痛的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你会知道痛的。",
+                    "SliceSentence": "你会 知道 痛 的",
+                    "StartMs": 0,
+                    "EndMs": 1449,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你会",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "痛",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.449188
+        },
+        "RequestId": "c1b690a4-47b6-4a9d-9f43-08f07986e49b"
+    }
+}

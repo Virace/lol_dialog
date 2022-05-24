@@ -1,0 +1,44 @@
+{
+    "character": "leona",
+    "id": "1335417082",
+    "result": "黎明就在眼前。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012714157,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.420]  黎明就在眼前。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "黎明就在眼前。",
+                    "SliceSentence": "黎明 就在 眼前",
+                    "StartMs": 0,
+                    "EndMs": 2420,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "黎明",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "就在",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "眼前",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.629375
+        },
+        "RequestId": "5d02dda3-3583-4480-acf1-c3d198c8b1b8"
+    }
+}

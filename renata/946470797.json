@@ -1,0 +1,49 @@
+{
+    "character": "renata",
+    "id": "946470797",
+    "result": "有人会需要的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012761208,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.640]  有人会需要的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "有人会需要的。",
+                    "SliceSentence": "有人 会 需要 的",
+                    "StartMs": 0,
+                    "EndMs": 2640,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "有人",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.64
+        },
+        "RequestId": "4813187e-b3bf-484f-b3c1-8c376e1d52ff"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "sion",
+    "id": "769745606",
+    "result": "我会砍翻你的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012777770,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.788]  我会砍翻你的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会砍翻你的。",
+                    "SliceSentence": "我会 砍 翻 你的",
+                    "StartMs": 0,
+                    "EndMs": 3788,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "砍",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "翻",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 3510
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.788875
+        },
+        "RequestId": "dac3e9d1-48fb-4645-adfa-6b2e54cee3ce"
+    }
+}

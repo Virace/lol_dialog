@@ -1,0 +1,39 @@
+{
+    "character": "caitlyn",
+    "id": "780625346",
+    "result": "正在校准。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551898,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.984]  正在校准。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "正在校准。",
+                    "SliceSentence": "正在 校准",
+                    "StartMs": 0,
+                    "EndMs": 1984,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "校准",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.984
+        },
+        "RequestId": "be092be2-4c4d-483c-83c8-f4273c2c3f5e"
+    }
+}

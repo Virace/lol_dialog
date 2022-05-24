@@ -1,0 +1,49 @@
+{
+    "character": "kassadin",
+    "id": "1402724244",
+    "result": "你的魔法对我无效。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012696690,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.277]  你的魔法对我无效。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你的魔法对我无效。",
+                    "SliceSentence": "你的 魔法 对我 无效",
+                    "StartMs": 0,
+                    "EndMs": 3277,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "魔法",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "对我",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "无效",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.277875
+        },
+        "RequestId": "1e48ace0-d759-42ed-8541-997ebda86a3a"
+    }
+}

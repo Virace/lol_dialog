@@ -1,0 +1,49 @@
+{
+    "character": "galio",
+    "id": "906623636",
+    "result": "黑石头打石头。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012570067,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.324]  黑石头打石头。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "黑石头打石头。",
+                    "SliceSentence": "黑 石头 打 石头",
+                    "StartMs": 0,
+                    "EndMs": 2324,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "黑",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "石头",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "打",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "石头",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.324813
+        },
+        "RequestId": "acfb0e44-dd02-4572-afef-265977888168"
+    }
+}

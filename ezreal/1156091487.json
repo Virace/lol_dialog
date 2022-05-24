@@ -1,0 +1,54 @@
+{
+    "character": "ezreal",
+    "id": "1156091487",
+    "result": "小子，时间任你挑。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012565483,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.123]  小子，时间任你挑。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "小子，时间任你挑。",
+                    "SliceSentence": "小子 时间 任 你 挑",
+                    "StartMs": 0,
+                    "EndMs": 2123,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "小子",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "任",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "挑",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.12325
+        },
+        "RequestId": "4551f44d-70df-4460-a096-320d40ec12c7"
+    }
+}

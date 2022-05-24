@@ -1,0 +1,44 @@
+{
+    "character": "annie",
+    "id": "1961652472",
+    "result": "别掉队哟。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542601,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.448]  别掉队哟。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别掉队哟。",
+                    "SliceSentence": "别 掉队 哟",
+                    "StartMs": 0,
+                    "EndMs": 1448,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "掉队",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "哟",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.4485
+        },
+        "RequestId": "10b272e3-2cc6-43d1-b587-c5a264ef3a04"
+    }
+}

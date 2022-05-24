@@ -1,0 +1,49 @@
+{
+    "character": "ekko",
+    "id": "1203051427",
+    "result": "我讨厌担负责任。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012559252,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.361]  我讨厌担负责任。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我讨厌担负责任。",
+                    "SliceSentence": "我 讨厌 担负 责任",
+                    "StartMs": 0,
+                    "EndMs": 1361,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "讨厌",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "担负",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "责任",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 8.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.361375
+        },
+        "RequestId": "b806d688-39ad-46f2-91ab-a2af279007e2"
+    }
+}

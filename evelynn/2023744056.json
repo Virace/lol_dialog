@@ -1,0 +1,59 @@
+{
+    "character": "evelynn",
+    "id": "2023744056",
+    "result": "我只要一个就够喽。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012562915,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.680]  我只要一个就够喽。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我只要一个就够喽。",
+                    "SliceSentence": "我 只要 一个 就 够 喽",
+                    "StartMs": 0,
+                    "EndMs": 4680,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "只要",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "够",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 2730
+                        },
+                        {
+                            "Word": "喽",
+                            "OffsetStartMs": 2730,
+                            "OffsetEndMs": 4200
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.78025
+        },
+        "RequestId": "7f48259f-300d-404f-8cc7-0e9b811743ce"
+    }
+}

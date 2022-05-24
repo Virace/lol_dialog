@@ -1,0 +1,39 @@
+{
+    "character": "warwick",
+    "id": "346366421",
+    "result": "啊，不。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012818072,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.084]  啊，不。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，不。",
+                    "SliceSentence": "啊 不",
+                    "StartMs": 0,
+                    "EndMs": 1084,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 570
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.084063
+        },
+        "RequestId": "78754518-820b-4cea-89db-a1eb3e625684"
+    }
+}

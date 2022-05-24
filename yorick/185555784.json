@@ -1,0 +1,44 @@
+{
+    "character": "yorick",
+    "id": "185555784",
+    "result": "这是必要的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012844082,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.020,0:4.949]  这是必要的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是必要的。",
+                    "SliceSentence": "这是 必要 的",
+                    "StartMs": 20,
+                    "EndMs": 4949,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 2850,
+                            "OffsetEndMs": 3420
+                        },
+                        {
+                            "Word": "必要",
+                            "OffsetStartMs": 3420,
+                            "OffsetEndMs": 4290
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 4290,
+                            "OffsetEndMs": 4650
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.949063
+        },
+        "RequestId": "51123a12-ee10-450a-b654-eae154a50ce5"
+    }
+}

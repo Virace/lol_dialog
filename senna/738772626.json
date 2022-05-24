@@ -1,0 +1,85 @@
+{
+    "character": "senna",
+    "id": "738772626",
+    "result": "发生了那么多事。我只想让一切有意义。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012769836,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.240]  发生了那么多事。\n[0:2.240,0:4.527]  我只想让一切有意义。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "发生了那么多事。",
+                    "SliceSentence": "发生了 那么 多事",
+                    "StartMs": 0,
+                    "EndMs": 2240,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "发生了",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "那么",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "多事",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "我只想让一切有意义。",
+                    "SliceSentence": "我 只 想 让 一切 有意义",
+                    "StartMs": 2240,
+                    "EndMs": 4527,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "只",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "想",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "让",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "一切",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "有意义",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.527875
+        },
+        "RequestId": "9907e9da-8625-493b-943d-95455b036eab"
+    }
+}

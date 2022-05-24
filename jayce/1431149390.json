@@ -1,0 +1,39 @@
+{
+    "character": "jayce",
+    "id": "1431149390",
+    "result": "正在充电。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012684021,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.602]  正在充电。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "正在充电。",
+                    "SliceSentence": "正在 充电",
+                    "StartMs": 0,
+                    "EndMs": 1602,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "充电",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.602188
+        },
+        "RequestId": "a7ee695a-6052-4ae2-b445-59e45882b8dd"
+    }
+}

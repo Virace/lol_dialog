@@ -1,0 +1,39 @@
+{
+    "character": "pantheon",
+    "id": "745592037",
+    "result": "不要放弃。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012742263,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.345]  不要放弃。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要放弃。",
+                    "SliceSentence": "不要 放弃",
+                    "StartMs": 0,
+                    "EndMs": 2345,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "放弃",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.34525
+        },
+        "RequestId": "cce59759-7b9c-4bde-8d47-912fc566eec6"
+    }
+}

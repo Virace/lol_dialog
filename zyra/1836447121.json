@@ -1,0 +1,44 @@
+{
+    "character": "zyra",
+    "id": "1836447121",
+    "result": "要谨慎行驶。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012857443,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.590]  要谨慎行驶。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "要谨慎行驶。",
+                    "SliceSentence": "要 谨慎 行驶",
+                    "StartMs": 0,
+                    "EndMs": 2590,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "谨慎",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "行驶",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.590625
+        },
+        "RequestId": "d1e9eef0-60a5-47fa-9ed2-1815c0df770d"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "1025631194",
+    "result": "我跳舞是因为我自由。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749216,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.002]  我跳舞是因为我自由。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我跳舞是因为我自由。",
+                    "SliceSentence": "我 跳舞 是因为 我 自由",
+                    "StartMs": 0,
+                    "EndMs": 2002,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "跳舞",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "是因为",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "自由",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.002313
+        },
+        "RequestId": "3b2f845b-441c-4e34-a722-5ee3602f6fe7"
+    }
+}

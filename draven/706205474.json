@@ -1,0 +1,44 @@
+{
+    "character": "draven",
+    "id": "706205474",
+    "result": "完美，我有了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556951,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.640]  完美，我有了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "完美，我有了。",
+                    "SliceSentence": "完美 我 有了",
+                    "StartMs": 0,
+                    "EndMs": 3640,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "完美",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "有了",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 3150
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.296
+        },
+        "RequestId": "9f3e45df-af07-42b7-819c-f4651fb55fe3"
+    }
+}

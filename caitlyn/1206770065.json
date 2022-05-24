@@ -1,0 +1,49 @@
+{
+    "character": "caitlyn",
+    "id": "1206770065",
+    "result": "周边区域已安全。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550850,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.197]  周边区域已安全。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "周边区域已安全。",
+                    "SliceSentence": "周边 区域 已 安全",
+                    "StartMs": 0,
+                    "EndMs": 2197,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "周边",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "区域",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "已",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "安全",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.197313
+        },
+        "RequestId": "ac7cdfc2-0239-41fc-8385-5d48743b06b8"
+    }
+}

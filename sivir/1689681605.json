@@ -1,0 +1,49 @@
+{
+    "character": "sivir",
+    "id": "1689681605",
+    "result": "这一刀，我请客。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012778759,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.346]  这一刀，我请客。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这一刀，我请客。",
+                    "SliceSentence": "这一 刀 我 请客",
+                    "StartMs": 0,
+                    "EndMs": 2346,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这一",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "刀",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "请客",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.346375
+        },
+        "RequestId": "8c903042-6641-457b-9b55-66c3070baf15"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "1511335984",
+    "result": "找到了，干掉了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012834827,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.704]  找到了，干掉了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "找到了，干掉了。",
+                    "SliceSentence": "找到了 干掉 了",
+                    "StartMs": 0,
+                    "EndMs": 1704,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "找到了",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "干掉",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.70425
+        },
+        "RequestId": "70a91dba-bb16-4584-8186-35f3b07a8d2e"
+    }
+}

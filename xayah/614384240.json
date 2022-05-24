@@ -1,0 +1,54 @@
+{
+    "character": "xayah",
+    "id": "614384240",
+    "result": "我要让你死上1000回。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012837283,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.571]  我要让你死上1000回。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要让你死上1000回。",
+                    "SliceSentence": "我要 让你 死 上1 000回",
+                    "StartMs": 0,
+                    "EndMs": 2571,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "让你",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "死",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "上1",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "000回",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.571313
+        },
+        "RequestId": "9b1abad6-e8d8-424c-b38b-341d65b34132"
+    }
+}

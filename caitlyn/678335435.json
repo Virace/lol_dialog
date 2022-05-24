@@ -1,0 +1,39 @@
+{
+    "character": "caitlyn",
+    "id": "678335435",
+    "result": "我们走走。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551832,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.322]  我们走走。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们走走。",
+                    "SliceSentence": "我们 走走",
+                    "StartMs": 0,
+                    "EndMs": 1322,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "走走",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.322688
+        },
+        "RequestId": "0264964c-dd6a-4382-8347-e6d138e23051"
+    }
+}

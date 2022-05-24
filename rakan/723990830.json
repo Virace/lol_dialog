@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "723990830",
+    "result": "我们跳舞吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012754174,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.314]  我们跳舞吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们跳舞吧。",
+                    "SliceSentence": "我们 跳舞 吧",
+                    "StartMs": 0,
+                    "EndMs": 1314,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "跳舞",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.314438
+        },
+        "RequestId": "abc9818b-cab9-4334-bbc4-83c974f27a31"
+    }
+}

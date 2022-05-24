@@ -1,0 +1,59 @@
+{
+    "character": "samira",
+    "id": "2088849041",
+    "result": "我的枪已经烫了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012766679,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.182]  我的枪已经烫了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的枪已经烫了。",
+                    "SliceSentence": "我 的 枪 已经 烫 了",
+                    "StartMs": 0,
+                    "EndMs": 2182,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "枪",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "烫",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.182688
+        },
+        "RequestId": "4d5c3d2a-02b7-483f-ae23-28ea5057c5d8"
+    }
+}

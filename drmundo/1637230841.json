@@ -1,0 +1,49 @@
+{
+    "character": "drmundo",
+    "id": "1637230841",
+    "result": "瞧，好多了吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012557852,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.898]  瞧，好多了吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "瞧，好多了吧。",
+                    "SliceSentence": "瞧 好 多了 吧",
+                    "StartMs": 0,
+                    "EndMs": 2898,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "瞧",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "多了",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.898438
+        },
+        "RequestId": "24bd62bd-c02f-4219-834a-da2b6b7e2eee"
+    }
+}

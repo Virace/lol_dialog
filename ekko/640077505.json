@@ -1,0 +1,80 @@
+{
+    "character": "ekko",
+    "id": "640077505",
+    "result": "我其实死不了的。但还是谢了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560190,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.840]  我其实死不了的。\n[0:1.840,0:2.768]  但还是谢了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我其实死不了的。",
+                    "SliceSentence": "我 其实 死不了 的",
+                    "StartMs": 0,
+                    "EndMs": 1840,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "其实",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "死不了",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "但还是谢了。",
+                    "SliceSentence": "但 还是 谢 了",
+                    "StartMs": 1840,
+                    "EndMs": 2768,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "但",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "还是",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "谢",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 870
+                        }
+                    ],
+                    "SpeechSpeed": 9.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.768688
+        },
+        "RequestId": "7a3f8dd5-ddd4-4b3a-8ced-196905901d41"
+    }
+}

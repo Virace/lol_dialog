@@ -1,0 +1,39 @@
+{
+    "character": "rell",
+    "id": "1753194998",
+    "result": "给我滚开。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012757439,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.380]  给我滚开。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "给我滚开。",
+                    "SliceSentence": "给我 滚开",
+                    "StartMs": 0,
+                    "EndMs": 1380,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "给我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "滚开",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.380063
+        },
+        "RequestId": "825dfac9-48db-4dc6-b37b-8ccd87f14092"
+    }
+}

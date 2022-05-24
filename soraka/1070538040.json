@@ -1,0 +1,39 @@
+{
+    "character": "soraka",
+    "id": "1070538040",
+    "result": "为了生命。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012783040,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.140,0:2.740]  为了生命。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "为了生命。",
+                    "SliceSentence": "为了 生命",
+                    "StartMs": 140,
+                    "EndMs": 2740,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "为了",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "生命",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.562188
+        },
+        "RequestId": "fcf848d8-b443-4ce9-b238-b82d330f166f"
+    }
+}

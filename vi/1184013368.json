@@ -1,0 +1,39 @@
+{
+    "character": "vi",
+    "id": "1184013368",
+    "result": "哦，哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012812001,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.398]  哦，哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哦，哈哈。",
+                    "SliceSentence": "哦 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 2398,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哦",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.398375
+        },
+        "RequestId": "8621228e-c98d-45e2-9876-4465ddf9892e"
+    }
+}

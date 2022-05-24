@@ -1,0 +1,49 @@
+{
+    "character": "shyvana",
+    "id": "262699883",
+    "result": "我闻到恐惧啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012774924,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.433]  我闻到恐惧啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我闻到恐惧啦。",
+                    "SliceSentence": "我 闻到 恐惧 啦",
+                    "StartMs": 0,
+                    "EndMs": 2433,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "闻到",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "恐惧",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.43325
+        },
+        "RequestId": "59602bc0-bd37-404b-95c1-a5d1350ea3e8"
+    }
+}

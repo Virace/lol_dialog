@@ -1,0 +1,54 @@
+{
+    "character": "renata",
+    "id": "631135000",
+    "result": "别挡我的路。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012760968,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.000]  别挡我的路。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别挡我的路。",
+                    "SliceSentence": "别 挡 我 的 路",
+                    "StartMs": 0,
+                    "EndMs": 2000,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "挡",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "路",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.197
+        },
+        "RequestId": "7eb766f9-d807-4277-83ee-4588578c0994"
+    }
+}

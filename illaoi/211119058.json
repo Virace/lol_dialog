@@ -1,0 +1,80 @@
+{
+    "character": "illaoi",
+    "id": "211119058",
+    "result": "She used to like apples。Negative是谁，Shock？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012577300,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.220]  She used to like apples。\n[0:2.220,0:4.836]  Negative是谁，Shock？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "She used to like apples。",
+                    "SliceSentence": "She used to like apples",
+                    "StartMs": 0,
+                    "EndMs": 2220,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "She",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "used",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "to",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "like",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "apples",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 10.8,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "Negative是谁，Shock？",
+                    "SliceSentence": "Negative 是谁 Shock",
+                    "StartMs": 2220,
+                    "EndMs": 4836,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "Negative",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "是谁",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "Shock",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.836938
+        },
+        "RequestId": "890e4075-989e-4690-91c4-c99f2cd88cc9"
+    }
+}

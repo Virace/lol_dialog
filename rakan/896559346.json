@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "896559346",
+    "result": "你会爱死这个的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012754749,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.631]  你会爱死这个的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你会爱死这个的。",
+                    "SliceSentence": "你会 爱 死 这个 的",
+                    "StartMs": 0,
+                    "EndMs": 1631,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你会",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "爱",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "死",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.631938
+        },
+        "RequestId": "54678170-f1c8-4886-b962-dba6fa936182"
+    }
+}

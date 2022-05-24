@@ -1,0 +1,59 @@
+{
+    "character": "kalista",
+    "id": "509423099",
+    "result": "我们的连接保护了你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012694412,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.880]  我们的连接保护了你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们的连接保护了你。",
+                    "SliceSentence": "我们 的 连接 保护 了 你",
+                    "StartMs": 0,
+                    "EndMs": 3880,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "连接",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "保护",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2490
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2490,
+                            "OffsetEndMs": 2610
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 2610,
+                            "OffsetEndMs": 3060
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.033125
+        },
+        "RequestId": "a759d5ae-e265-420a-9ed1-1af70c8465b2"
+    }
+}

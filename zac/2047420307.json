@@ -1,0 +1,39 @@
+{
+    "character": "zac",
+    "id": "2047420307",
+    "result": "又来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012849057,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.899]  又来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "又来了。",
+                    "SliceSentence": "又 来了",
+                    "StartMs": 0,
+                    "EndMs": 899,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "又",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "来了",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 840
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.89975
+        },
+        "RequestId": "e03fc30a-35bc-450b-9dd4-11027255ff60"
+    }
+}

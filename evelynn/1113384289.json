@@ -1,0 +1,59 @@
+{
+    "character": "evelynn",
+    "id": "1113384289",
+    "result": "喊出来，这样才更美妙。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012561513,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.380]  喊出来，这样才更美妙。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "喊出来，这样才更美妙。",
+                    "SliceSentence": "喊出 来 这样 才 更 美妙",
+                    "StartMs": 0,
+                    "EndMs": 5380,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "喊出",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "这样",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "才",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 2520
+                        },
+                        {
+                            "Word": "更",
+                            "OffsetStartMs": 2520,
+                            "OffsetEndMs": 2910
+                        },
+                        {
+                            "Word": "美妙",
+                            "OffsetStartMs": 2910,
+                            "OffsetEndMs": 3600
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.7555
+        },
+        "RequestId": "b4a8dd8a-6c09-4f94-8546-5bcb69eb50cc"
+    }
+}

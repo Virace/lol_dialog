@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "701210048",
+    "result": "狠狠的打。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012691563,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.364]  狠狠的打。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "狠狠的打。",
+                    "SliceSentence": "狠狠 的 打",
+                    "StartMs": 0,
+                    "EndMs": 1364,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "狠狠",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "打",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.364063
+        },
+        "RequestId": "de37dee5-bdc4-4174-b997-6f0132958920"
+    }
+}

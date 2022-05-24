@@ -1,0 +1,39 @@
+{
+    "character": "tristana",
+    "id": "1070093841",
+    "result": "拿着这个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012799034,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.802]  拿着这个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "拿着这个。",
+                    "SliceSentence": "拿着 这个",
+                    "StartMs": 0,
+                    "EndMs": 802,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "拿着",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 660
+                        }
+                    ],
+                    "SpeechSpeed": 7.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.802938
+        },
+        "RequestId": "f65544bd-932b-4bb5-83ee-3ff660f8d5c1"
+    }
+}

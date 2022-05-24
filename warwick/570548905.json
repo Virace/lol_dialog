@@ -1,0 +1,49 @@
+{
+    "character": "warwick",
+    "id": "570548905",
+    "result": "这就是我的本性。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012832321,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.748]  这就是我的本性。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这就是我的本性。",
+                    "SliceSentence": "这就 是我 的 本性",
+                    "StartMs": 0,
+                    "EndMs": 3748,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这就",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "本性",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 3090
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.748
+        },
+        "RequestId": "ea2b648c-c136-471a-8ab7-5f8b1d959328"
+    }
+}

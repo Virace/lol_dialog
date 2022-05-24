@@ -1,0 +1,39 @@
+{
+    "character": "olaf",
+    "id": "281362138",
+    "result": "啊啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012737239,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.768]  啊啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊啊。",
+                    "SliceSentence": "啊 啊",
+                    "StartMs": 0,
+                    "EndMs": 2768,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 1.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.768125
+        },
+        "RequestId": "085f60bd-c920-4d09-86f7-b7b078939e6b"
+    }
+}

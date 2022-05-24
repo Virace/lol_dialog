@@ -1,0 +1,39 @@
+{
+    "character": "sona",
+    "id": "1919386370",
+    "result": "演奏继续。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012781992,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.440]  演奏继续。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "演奏继续。",
+                    "SliceSentence": "演奏 继续",
+                    "StartMs": 0,
+                    "EndMs": 4440,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "演奏",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "继续",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 1.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.073188
+        },
+        "RequestId": "d752bbdd-85dd-445a-a4ad-d951fb44d5fd"
+    }
+}

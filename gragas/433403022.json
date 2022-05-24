@@ -1,0 +1,65 @@
+{
+    "character": "gragas",
+    "id": "433403022",
+    "result": "来一杯吧。哎呀呀咯。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012573269,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.240]  来一杯吧。\n[0:2.300,0:4.611]  哎呀呀咯。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "来一杯吧。",
+                    "SliceSentence": "来 一杯 吧",
+                    "StartMs": 0,
+                    "EndMs": 2240,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "一杯",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "哎呀呀咯。",
+                    "SliceSentence": "哎呀呀 咯",
+                    "StartMs": 2300,
+                    "EndMs": 4611,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哎呀呀",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "咯",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.61175
+        },
+        "RequestId": "8fc48d0c-4c2d-4751-b62f-e54b27561751"
+    }
+}

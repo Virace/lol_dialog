@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "969465948",
+    "result": "洛真的很热情。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012838354,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.613]  洛真的很热情。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "洛真的很热情。",
+                    "SliceSentence": "洛 真的 很热 情",
+                    "StartMs": 0,
+                    "EndMs": 1613,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "洛",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "真的",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "很热",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "情",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.613
+        },
+        "RequestId": "8c2d95b0-6228-4c21-851b-608181859448"
+    }
+}

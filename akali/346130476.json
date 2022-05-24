@@ -1,0 +1,54 @@
+{
+    "character": "akali",
+    "id": "346130476",
+    "result": "别碍我的事。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012539552,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.159]  别碍我的事。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别碍我的事。",
+                    "SliceSentence": "别 碍 我 的 事",
+                    "StartMs": 0,
+                    "EndMs": 1159,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "碍",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "事",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 720
+                        }
+                    ],
+                    "SpeechSpeed": 8.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.159188
+        },
+        "RequestId": "bc458823-1ff8-42ae-a8fd-a1cc9011d838"
+    }
+}

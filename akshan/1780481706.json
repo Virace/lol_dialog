@@ -1,0 +1,49 @@
+{
+    "character": "akshan",
+    "id": "1780481706",
+    "result": "呵呵，我先不要来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012540965,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.538]  呵呵，我先不要来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "呵呵，我先不要来了。",
+                    "SliceSentence": "呵呵 我先 不要 来了",
+                    "StartMs": 0,
+                    "EndMs": 2538,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "呵呵",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "我先",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "来了",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.538688
+        },
+        "RequestId": "f57b7166-fcfd-4fc9-af07-17f2568c4755"
+    }
+}

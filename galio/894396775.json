@@ -1,0 +1,44 @@
+{
+    "character": "galio",
+    "id": "894396775",
+    "result": "来，吃点儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012570039,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.170]  来，吃点儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "来，吃点儿。",
+                    "SliceSentence": "来 吃 点儿",
+                    "StartMs": 0,
+                    "EndMs": 1170,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "吃",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "点儿",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.170875
+        },
+        "RequestId": "2ccf0bc6-137a-4b7b-8f10-ac72c0ce3262"
+    }
+}

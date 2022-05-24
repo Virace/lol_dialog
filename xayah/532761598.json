@@ -1,0 +1,59 @@
+{
+    "character": "xayah",
+    "id": "532761598",
+    "result": "小心你的舌头，还有你的头。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012837093,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.236]  小心你的舌头，还有你的头。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "小心你的舌头，还有你的头。",
+                    "SliceSentence": "小心 你的 舌头 还有 你的 头",
+                    "StartMs": 0,
+                    "EndMs": 3236,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "小心",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "舌头",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "还有",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 2490
+                        },
+                        {
+                            "Word": "头",
+                            "OffsetStartMs": 2490,
+                            "OffsetEndMs": 3150
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.236625
+        },
+        "RequestId": "914e97fb-5249-4cad-b418-3f994ff56754"
+    }
+}

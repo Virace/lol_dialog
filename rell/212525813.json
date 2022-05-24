@@ -1,0 +1,39 @@
+{
+    "character": "rell",
+    "id": "212525813",
+    "result": "哼啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012758025,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.206]  哼啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼啊。",
+                    "SliceSentence": "哼 啊",
+                    "StartMs": 0,
+                    "EndMs": 2206,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.20675
+        },
+        "RequestId": "4a91591d-3dd9-4b9d-95a4-b3805d35c062"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "senna",
+    "id": "1067056033",
+    "result": "生命来自死亡。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012768167,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.391]  生命来自死亡。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "生命来自死亡。",
+                    "SliceSentence": "生命 来自 死亡",
+                    "StartMs": 0,
+                    "EndMs": 2391,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "生命",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "来自",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "死亡",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.391688
+        },
+        "RequestId": "5dc4e2c4-ad14-40f6-8068-e220a047bc38"
+    }
+}

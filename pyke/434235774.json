@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "434235774",
+    "result": "祝你采水顺利。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746106,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.671]  祝你采水顺利。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "祝你采水顺利。",
+                    "SliceSentence": "祝你 采 水 顺利",
+                    "StartMs": 0,
+                    "EndMs": 2671,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "祝你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "采",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "水",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "顺利",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.671875
+        },
+        "RequestId": "645823b1-37c3-40a6-a5d3-b44b42ea820f"
+    }
+}

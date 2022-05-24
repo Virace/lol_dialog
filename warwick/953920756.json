@@ -1,0 +1,44 @@
+{
+    "character": "warwick",
+    "id": "953920756",
+    "result": "鲜血让人狂热。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012833318,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.250]  鲜血让人狂热。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "鲜血让人狂热。",
+                    "SliceSentence": "鲜血 让人 狂热",
+                    "StartMs": 0,
+                    "EndMs": 3250,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "鲜血",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "让人",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "狂热",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.250688
+        },
+        "RequestId": "d9be291f-d54d-4441-977f-b1fb70bcac4b"
+    }
+}

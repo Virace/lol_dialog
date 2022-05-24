@@ -1,0 +1,39 @@
+{
+    "character": "annie",
+    "id": "760396217",
+    "result": "啊啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542717,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.234]  啊啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊啊。",
+                    "SliceSentence": "啊 啊",
+                    "StartMs": 0,
+                    "EndMs": 2234,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.234625
+        },
+        "RequestId": "baf23b5a-f790-4e21-bdd3-1511042517a6"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "lillia",
+    "id": "1043455992",
+    "result": "醒醒，快醒醒。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012714497,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.840]  醒醒，快醒醒。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "醒醒，快醒醒。",
+                    "SliceSentence": "醒醒 快 醒醒",
+                    "StartMs": 0,
+                    "EndMs": 3840,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "醒醒",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "快",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "醒醒",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 3060
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.551125
+        },
+        "RequestId": "23155ec5-61d5-44df-aa46-c237c2c38201"
+    }
+}

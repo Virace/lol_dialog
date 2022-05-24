@@ -1,0 +1,54 @@
+{
+    "character": "pyke",
+    "id": "1968574744",
+    "result": "哦，嘘，该休息了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745694,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.977]  哦，嘘，该休息了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哦，嘘，该休息了。",
+                    "SliceSentence": "哦 嘘 该 休息 了",
+                    "StartMs": 0,
+                    "EndMs": 3977,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "哦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "嘘",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "该",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "休息",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 3210
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 3210,
+                            "OffsetEndMs": 3600
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.977938
+        },
+        "RequestId": "8755c35e-f238-4bb9-ad8c-34b8b8a990f5"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "zeri",
+    "id": "1942800622",
+    "result": "火花还不够。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012851892,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.984]  火花还不够。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "火花还不够。",
+                    "SliceSentence": "火花 还不够",
+                    "StartMs": 0,
+                    "EndMs": 1984,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "火花",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "还不够",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.984
+        },
+        "RequestId": "6131953a-a74b-4cdf-9ed3-1ef94a065a99"
+    }
+}

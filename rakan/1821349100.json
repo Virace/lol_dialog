@@ -1,0 +1,39 @@
+{
+    "character": "rakan",
+    "id": "1821349100",
+    "result": "什么错？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012751683,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.939]  什么错？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "什么错？",
+                    "SliceSentence": "什么 错",
+                    "StartMs": 0,
+                    "EndMs": 939,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "错",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 630
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.939438
+        },
+        "RequestId": "a7fcb7d8-c6ab-4fc7-bbce-6e20bc23e5c6"
+    }
+}

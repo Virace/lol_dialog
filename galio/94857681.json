@@ -1,0 +1,49 @@
+{
+    "character": "galio",
+    "id": "94857681",
+    "result": "我轻易打不坏。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012570114,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.825]  我轻易打不坏。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我轻易打不坏。",
+                    "SliceSentence": "我 轻易 打 不坏",
+                    "StartMs": 0,
+                    "EndMs": 1825,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "轻易",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "打",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "不坏",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.825438
+        },
+        "RequestId": "fa23bbe0-a537-4649-99ae-0e79ffe5ff9a"
+    }
+}

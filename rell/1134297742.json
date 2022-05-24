@@ -1,0 +1,44 @@
+{
+    "character": "rell",
+    "id": "1134297742",
+    "result": "我心坚如铁。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012756851,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.940]  我心坚如铁。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我心坚如铁。",
+                    "SliceSentence": "我心 坚 如铁",
+                    "StartMs": 0,
+                    "EndMs": 1940,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我心",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "坚",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "如铁",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.940063
+        },
+        "RequestId": "425fa004-6323-4555-a148-aa6c298a9eff"
+    }
+}

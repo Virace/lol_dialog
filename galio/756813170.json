@@ -1,0 +1,39 @@
+{
+    "character": "galio",
+    "id": "756813170",
+    "result": "嘿嘿嘿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012569724,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.376]  嘿嘿嘿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘿嘿嘿。",
+                    "SliceSentence": "嘿 嘿嘿",
+                    "StartMs": 0,
+                    "EndMs": 2376,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "嘿",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "嘿嘿",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.376
+        },
+        "RequestId": "3051ff45-904e-406d-b517-bf536d1fc721"
+    }
+}

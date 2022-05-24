@@ -1,0 +1,49 @@
+{
+    "character": "camille",
+    "id": "914791796",
+    "result": "我说过了，日安。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554425,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.495]  我说过了，日安。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我说过了，日安。",
+                    "SliceSentence": "我 说 过了 日安",
+                    "StartMs": 0,
+                    "EndMs": 2495,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "过了",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "日安",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.495
+        },
+        "RequestId": "79fcce06-6c8a-4cbe-9e98-168d1014aad3"
+    }
+}

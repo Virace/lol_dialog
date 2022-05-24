@@ -1,0 +1,39 @@
+{
+    "character": "ornn",
+    "id": "1374688104",
+    "result": "好，没错。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012738269,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.641]  好，没错。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好，没错。",
+                    "SliceSentence": "好 没错",
+                    "StartMs": 0,
+                    "EndMs": 1641,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "没错",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.641875
+        },
+        "RequestId": "21041af7-7d5e-4ed4-a4ec-50d220292daf"
+    }
+}

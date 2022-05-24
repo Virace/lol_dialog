@@ -1,0 +1,39 @@
+{
+    "character": "braum",
+    "id": "1345104031",
+    "result": "布隆在此。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550107,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.564]  布隆在此。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "布隆在此。",
+                    "SliceSentence": "布隆 在此",
+                    "StartMs": 0,
+                    "EndMs": 1564,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "布隆",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "在此",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.5645
+        },
+        "RequestId": "798df091-1f30-412e-9f9d-1a88d7fdb39d"
+    }
+}

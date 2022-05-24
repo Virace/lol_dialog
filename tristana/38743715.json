@@ -1,0 +1,49 @@
+{
+    "character": "tristana",
+    "id": "38743715",
+    "result": "A，你要去哪儿？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012799561,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.393]  A，你要去哪儿？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "A，你要去哪儿？",
+                    "SliceSentence": "A 你要 去 哪儿",
+                    "StartMs": 0,
+                    "EndMs": 1393,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "A",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "你要",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "哪儿",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 7.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.393125
+        },
+        "RequestId": "db0456d6-7266-4af1-914a-ccbb1e5b8bdc"
+    }
+}

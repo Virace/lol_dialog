@@ -1,0 +1,39 @@
+{
+    "character": "camille",
+    "id": "45816866",
+    "result": "你很邋遢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553334,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.193]  你很邋遢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你很邋遢。",
+                    "SliceSentence": "你很 邋遢",
+                    "StartMs": 0,
+                    "EndMs": 2193,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "你很",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "邋遢",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.19375
+        },
+        "RequestId": "13c88ff9-b51e-40a1-80bf-91ada913629c"
+    }
+}

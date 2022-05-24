@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "2065020699",
+    "result": "这是真的吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689923,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.144]  这是真的吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是真的吗？",
+                    "SliceSentence": "这是 真的 吗",
+                    "StartMs": 0,
+                    "EndMs": 2144,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "真的",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.144188
+        },
+        "RequestId": "e39a3c41-1973-4b8e-a96a-8d75e0ef616d"
+    }
+}

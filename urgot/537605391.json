@@ -1,0 +1,49 @@
+{
+    "character": "urgot",
+    "id": "537605391",
+    "result": "我帮你舍生取义。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012807211,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.502]  我帮你舍生取义。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我帮你舍生取义。",
+                    "SliceSentence": "我帮你 舍生 取 义",
+                    "StartMs": 0,
+                    "EndMs": 4502,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我帮你",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "舍生",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "取",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 2820
+                        },
+                        {
+                            "Word": "义",
+                            "OffsetStartMs": 2820,
+                            "OffsetEndMs": 3570
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.50275
+        },
+        "RequestId": "87e9a003-c7ef-4a08-8dc2-77350be456b9"
+    }
+}

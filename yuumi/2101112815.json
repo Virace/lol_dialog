@@ -1,0 +1,74 @@
+{
+    "character": "yuumi",
+    "id": "2101112815",
+    "result": "走这边不对，这边哦行吧，那边也行。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012847450,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.564]  走这边不对，这边哦行吧，那边也行。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "走这边不对，这边哦行吧，那边也行。",
+                    "SliceSentence": "走 这边 不对 这边 哦 行 吧 那边 也行",
+                    "StartMs": 0,
+                    "EndMs": 4564,
+                    "WordsNum": 9,
+                    "Words": [
+                        {
+                            "Word": "走",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "这边",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "不对",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "这边",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "哦",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 2820
+                        },
+                        {
+                            "Word": "行",
+                            "OffsetStartMs": 2820,
+                            "OffsetEndMs": 3180
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 3180,
+                            "OffsetEndMs": 3390
+                        },
+                        {
+                            "Word": "那边",
+                            "OffsetStartMs": 3510,
+                            "OffsetEndMs": 3990
+                        },
+                        {
+                            "Word": "也行",
+                            "OffsetStartMs": 3990,
+                            "OffsetEndMs": 4320
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.564813
+        },
+        "RequestId": "aabc7243-33ff-4d96-b497-b9fa91105bb1"
+    }
+}

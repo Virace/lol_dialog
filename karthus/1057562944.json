@@ -1,0 +1,44 @@
+{
+    "character": "karthus",
+    "id": "1057562944",
+    "result": "起来，然后歌唱。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012695572,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.958]  起来，然后歌唱。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "起来，然后歌唱。",
+                    "SliceSentence": "起来 然后 歌唱",
+                    "StartMs": 0,
+                    "EndMs": 4958,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "起来",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "然后",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2370
+                        },
+                        {
+                            "Word": "歌唱",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 3750
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.9585
+        },
+        "RequestId": "229be8a7-4dce-44ca-a9d5-86e904cce096"
+    }
+}

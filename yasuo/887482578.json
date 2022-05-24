@@ -1,0 +1,50 @@
+{
+    "character": "yasuo",
+    "id": "887482578",
+    "result": "啊？啊？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012841202,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.140]  啊？\n[0:2.140,0:3.199]  啊？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊？",
+                    "SliceSentence": "啊",
+                    "StartMs": 0,
+                    "EndMs": 2140,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 0.9,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "啊？",
+                    "SliceSentence": "啊",
+                    "StartMs": 2140,
+                    "EndMs": 3199,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.199125
+        },
+        "RequestId": "2306d665-9f88-462e-b09d-17330f614d59"
+    }
+}

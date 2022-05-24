@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "706589229",
+    "result": "看不见他们了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012837565,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.109]  看不见他们了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "看不见他们了。",
+                    "SliceSentence": "看不见 他们 了",
+                    "StartMs": 0,
+                    "EndMs": 1109,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "看不见",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 8.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.109063
+        },
+        "RequestId": "f4d9a1ec-be0b-4882-a3d1-dcb6e87bd467"
+    }
+}

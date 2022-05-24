@@ -1,0 +1,39 @@
+{
+    "character": "thresh",
+    "id": "1686151507",
+    "result": "这边儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012798562,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.888]  这边儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这边儿。",
+                    "SliceSentence": "这边 儿",
+                    "StartMs": 0,
+                    "EndMs": 1888,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "这边",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "儿",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.888125
+        },
+        "RequestId": "ebda9796-4296-4566-852e-dbe404960497"
+    }
+}

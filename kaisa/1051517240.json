@@ -1,0 +1,49 @@
+{
+    "character": "kaisa",
+    "id": "1051517240",
+    "result": "我是你的怪物。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012687926,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.581]  我是你的怪物。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我是你的怪物。",
+                    "SliceSentence": "我 是 你的 怪物",
+                    "StartMs": 0,
+                    "EndMs": 1581,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "怪物",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.581125
+        },
+        "RequestId": "9a3ab340-a59c-46f4-81c5-bcadd0e6442b"
+    }
+}

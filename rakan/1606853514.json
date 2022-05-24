@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "1606853514",
+    "result": "我掩护你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012751112,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.014]  我掩护你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我掩护你。",
+                    "SliceSentence": "我 掩护 你",
+                    "StartMs": 0,
+                    "EndMs": 1014,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "掩护",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 690
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.014
+        },
+        "RequestId": "f82271b0-7317-407a-bf35-20497291dcd1"
+    }
+}

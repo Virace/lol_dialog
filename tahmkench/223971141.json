@@ -1,0 +1,54 @@
+{
+    "character": "tahmkench",
+    "id": "223971141",
+    "result": "我是贪婪之兆。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012789377,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.076]  我是贪婪之兆。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我是贪婪之兆。",
+                    "SliceSentence": "我 是 贪婪 之 兆",
+                    "StartMs": 0,
+                    "EndMs": 3076,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "贪婪",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "之",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "兆",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.076063
+        },
+        "RequestId": "e5bc4c1e-1efb-4d61-874a-dfd4288bab01"
+    }
+}

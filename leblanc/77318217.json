@@ -1,0 +1,44 @@
+{
+    "character": "leblanc",
+    "id": "77318217",
+    "result": "只不过是镜花水月。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012711961,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.145]  只不过是镜花水月。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "只不过是镜花水月。",
+                    "SliceSentence": "只不过 是 镜花水月",
+                    "StartMs": 0,
+                    "EndMs": 3145,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "只不过",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "镜花水月",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.145813
+        },
+        "RequestId": "8358dd04-6dee-41db-96a6-7ba3724d0237"
+    }
+}

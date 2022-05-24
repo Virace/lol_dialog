@@ -1,0 +1,49 @@
+{
+    "character": "vex",
+    "id": "1143340454",
+    "result": "你根本不懂我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012810159,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.629]  你根本不懂我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你根本不懂我。",
+                    "SliceSentence": "你 根本 不懂 我",
+                    "StartMs": 0,
+                    "EndMs": 2629,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "根本",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "不懂",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.629125
+        },
+        "RequestId": "40f80ba4-0bd2-4156-ba84-cb234f5ac989"
+    }
+}

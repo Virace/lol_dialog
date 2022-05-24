@@ -1,0 +1,44 @@
+{
+    "character": "kayn",
+    "id": "1394528477",
+    "result": "是你的错？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012699548,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.729]  是你的错？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "是你的错？",
+                    "SliceSentence": "是 你的 错",
+                    "StartMs": 0,
+                    "EndMs": 1729,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "错",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.729125
+        },
+        "RequestId": "c02946d1-d993-4712-8dd6-320b7275a95f"
+    }
+}

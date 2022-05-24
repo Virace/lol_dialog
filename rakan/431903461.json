@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "431903461",
+    "result": "哈哈，压力好大。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012753418,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.947]  哈哈，压力好大。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈，压力好大。",
+                    "SliceSentence": "哈哈 压力 好大",
+                    "StartMs": 0,
+                    "EndMs": 1947,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "压力",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "好大",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.947875
+        },
+        "RequestId": "8aa1f0a9-7bd0-49ec-8cfa-a96ae604f6dd"
+    }
+}

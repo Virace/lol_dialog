@@ -1,0 +1,39 @@
+{
+    "character": "tristana",
+    "id": "648088441",
+    "result": "正在倒数。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012800302,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.003]  正在倒数。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "正在倒数。",
+                    "SliceSentence": "正在 倒数",
+                    "StartMs": 0,
+                    "EndMs": 1003,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "倒数",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.003938
+        },
+        "RequestId": "ff2d2225-9904-41dc-85c9-209ad892c273"
+    }
+}

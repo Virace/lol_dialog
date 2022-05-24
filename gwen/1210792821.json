@@ -1,0 +1,39 @@
+{
+    "character": "gwen",
+    "id": "1210792821",
+    "result": "剪刀飞快。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012573956,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.688]  剪刀飞快。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "剪刀飞快。",
+                    "SliceSentence": "剪刀 飞快",
+                    "StartMs": 0,
+                    "EndMs": 2688,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "剪刀",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "飞快",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.68825
+        },
+        "RequestId": "d313ea0e-54d2-4fe8-9b12-4a47055f93f6"
+    }
+}

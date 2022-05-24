@@ -1,0 +1,44 @@
+{
+    "character": "mordekaiser",
+    "id": "1102786586",
+    "result": "穿过黑暗之门。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012724181,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.562]  穿过黑暗之门。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "穿过黑暗之门。",
+                    "SliceSentence": "穿过 黑暗 之门",
+                    "StartMs": 0,
+                    "EndMs": 3562,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "穿过",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "黑暗",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "之门",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.562063
+        },
+        "RequestId": "e6eebfff-b7c5-4d89-857c-624a7c812de3"
+    }
+}

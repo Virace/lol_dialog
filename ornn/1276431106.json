@@ -1,0 +1,59 @@
+{
+    "character": "ornn",
+    "id": "1276431106",
+    "result": "嗯，这条河需要一座大坝。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012738016,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.310]  嗯，这条河需要一座大坝。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯，这条河需要一座大坝。",
+                    "SliceSentence": "嗯 这条 河 需要 一座 大坝",
+                    "StartMs": 0,
+                    "EndMs": 3310,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "这条",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "河",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "一座",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2370
+                        },
+                        {
+                            "Word": "大坝",
+                            "OffsetStartMs": 2370,
+                            "OffsetEndMs": 3120
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.31075
+        },
+        "RequestId": "3c9e72b0-630a-4618-be67-80fb51ec4709"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "kayle",
+    "id": "1043945128",
+    "result": "你是在跟踪我吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012697302,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.065]  你是在跟踪我吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你是在跟踪我吗？",
+                    "SliceSentence": "你 是在 跟踪 我 吗",
+                    "StartMs": 0,
+                    "EndMs": 2065,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "是在",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "跟踪",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.065813
+        },
+        "RequestId": "97b40445-19c7-48d3-933d-004aab02aff5"
+    }
+}

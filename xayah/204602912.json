@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "204602912",
+    "result": "他拉好啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012835931,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.225]  他拉好啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他拉好啊。",
+                    "SliceSentence": "他 拉 好啊",
+                    "StartMs": 0,
+                    "EndMs": 3225,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "他",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "拉",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "好啊",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2940
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.225188
+        },
+        "RequestId": "8d662ae6-ff93-4c02-a2ea-f47c1cd9c763"
+    }
+}

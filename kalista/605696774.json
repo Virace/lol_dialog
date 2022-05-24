@@ -1,0 +1,49 @@
+{
+    "character": "kalista",
+    "id": "605696774",
+    "result": "我们会回来的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012694492,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.540]  我们会回来的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们会回来的。",
+                    "SliceSentence": "我们 会 回来 的",
+                    "StartMs": 0,
+                    "EndMs": 3540,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "回来",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2730
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2760,
+                            "OffsetEndMs": 3210
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.540813
+        },
+        "RequestId": "3b9fa4d8-3350-4880-8cf5-6c6137b101d9"
+    }
+}

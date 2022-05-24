@@ -1,0 +1,59 @@
+{
+    "character": "twitch",
+    "id": "1396812595",
+    "result": "很闪光，闪不了多久了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012803077,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.900]  很闪光，闪不了多久了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "很闪光，闪不了多久了。",
+                    "SliceSentence": "很 闪光 闪 不了 多久 了",
+                    "StartMs": 0,
+                    "EndMs": 3900,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "很",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "闪光",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "闪",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "不了",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "多久",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 2850
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2850,
+                            "OffsetEndMs": 3240
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.900938
+        },
+        "RequestId": "7ab8dc50-76ce-416a-b466-fa6441aeb13e"
+    }
+}

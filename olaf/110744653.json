@@ -1,0 +1,49 @@
+{
+    "character": "olaf",
+    "id": "110744653",
+    "result": "吃我一斧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012736813,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.623]  吃我一斧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "吃我一斧。",
+                    "SliceSentence": "吃 我 一 斧",
+                    "StartMs": 0,
+                    "EndMs": 1623,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "吃",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "一",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "斧",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.623188
+        },
+        "RequestId": "22e15ef1-386b-45fc-a74d-0230702a5983"
+    }
+}

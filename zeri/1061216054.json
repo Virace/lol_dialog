@@ -1,0 +1,44 @@
+{
+    "character": "zeri",
+    "id": "1061216054",
+    "result": "不可能慢下来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012850560,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.877]  不可能慢下来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不可能慢下来。",
+                    "SliceSentence": "不可能 慢 下来",
+                    "StartMs": 0,
+                    "EndMs": 1877,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "不可能",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "慢",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "下来",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.877313
+        },
+        "RequestId": "7e7e6c8d-c291-4566-8f80-155b3fe46321"
+    }
+}

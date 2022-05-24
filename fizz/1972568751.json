@@ -1,0 +1,44 @@
+{
+    "character": "fizz",
+    "id": "1972568751",
+    "result": "嗯，有些鱼腥味。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012567881,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.642]  嗯，有些鱼腥味。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯，有些鱼腥味。",
+                    "SliceSentence": "嗯 有些 鱼腥味",
+                    "StartMs": 0,
+                    "EndMs": 5642,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "有些",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "鱼腥味",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.642438
+        },
+        "RequestId": "5769bdc8-a255-48b1-8c3d-782b621421d1"
+    }
+}

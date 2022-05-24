@@ -1,0 +1,49 @@
+{
+    "character": "elise",
+    "id": "2134205192",
+    "result": "简单而言，很美味。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560763,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.099]  简单而言，很美味。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "简单而言，很美味。",
+                    "SliceSentence": "简单 而言 很 美味",
+                    "StartMs": 0,
+                    "EndMs": 5099,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "简单",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "而言",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "很",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 3210
+                        },
+                        {
+                            "Word": "美味",
+                            "OffsetStartMs": 3240,
+                            "OffsetEndMs": 4440
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.099375
+        },
+        "RequestId": "fb068d27-30c0-4cc8-b9a6-dc5b850ea139"
+    }
+}

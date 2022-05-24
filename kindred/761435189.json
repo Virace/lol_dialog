@@ -1,0 +1,44 @@
+{
+    "character": "kindred",
+    "id": "761435189",
+    "result": "我渴望更多。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012705532,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.667]  我渴望更多。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我渴望更多。",
+                    "SliceSentence": "我 渴望 更多",
+                    "StartMs": 0,
+                    "EndMs": 1667,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "渴望",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "更多",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.667375
+        },
+        "RequestId": "4fb6bfe2-8833-4253-9781-bc9b6ab55fc0"
+    }
+}

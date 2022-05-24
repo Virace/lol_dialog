@@ -1,0 +1,44 @@
+{
+    "character": "taliyah",
+    "id": "723242558",
+    "result": "说的不错。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012794285,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.776]  说的不错。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "说的不错。",
+                    "SliceSentence": "说 的 不错",
+                    "StartMs": 0,
+                    "EndMs": 2776,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "不错",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2670
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.776438
+        },
+        "RequestId": "a5c1b155-a387-4be0-9dac-e8a8a0430c8d"
+    }
+}

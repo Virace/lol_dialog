@@ -1,0 +1,39 @@
+{
+    "character": "gnar",
+    "id": "505404829",
+    "result": "卖卖。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012572741,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.159]  卖卖。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "卖卖。",
+                    "SliceSentence": "卖 卖",
+                    "StartMs": 0,
+                    "EndMs": 2159,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "卖",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "卖",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.159625
+        },
+        "RequestId": "ff06b5bf-6161-42d1-b166-3e5fb30eef08"
+    }
+}

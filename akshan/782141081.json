@@ -1,0 +1,49 @@
+{
+    "character": "akshan",
+    "id": "782141081",
+    "result": "想悔过太迟了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012541591,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.538]  想悔过太迟了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "想悔过太迟了。",
+                    "SliceSentence": "想 悔过 太迟 了",
+                    "StartMs": 0,
+                    "EndMs": 2538,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "想",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "悔过",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "太迟",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.538688
+        },
+        "RequestId": "cb87c377-b62c-48ed-8464-28d768f96a6d"
+    }
+}

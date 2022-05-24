@@ -1,0 +1,44 @@
+{
+    "character": "nunu",
+    "id": "2040233061",
+    "result": "我来唱战歌。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012734548,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.052]  我来唱战歌。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我来唱战歌。",
+                    "SliceSentence": "我来 唱 战歌",
+                    "StartMs": 0,
+                    "EndMs": 2052,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "唱",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "战歌",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.05275
+        },
+        "RequestId": "ae35be04-57e8-490f-b804-7193dc203c0c"
+    }
+}

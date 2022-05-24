@@ -1,0 +1,44 @@
+{
+    "character": "morgana",
+    "id": "175215915",
+    "result": "正义多么无趣。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012726564,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.130]  正义多么无趣。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "正义多么无趣。",
+                    "SliceSentence": "正义 多么 无趣",
+                    "StartMs": 0,
+                    "EndMs": 3130,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "正义",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "多么",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "无趣",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 3000
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.130813
+        },
+        "RequestId": "a6793046-b1df-4ed8-9668-c4317d2ca3ce"
+    }
+}

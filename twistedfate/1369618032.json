@@ -1,0 +1,44 @@
+{
+    "character": "twistedfate",
+    "id": "1369618032",
+    "result": "我走掉了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012801767,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.846]  我走掉了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我走掉了。",
+                    "SliceSentence": "我 走掉 了",
+                    "StartMs": 0,
+                    "EndMs": 2846,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "走掉",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.846313
+        },
+        "RequestId": "53162cb2-01b2-4f66-b3db-af60b241c67b"
+    }
+}

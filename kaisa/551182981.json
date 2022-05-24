@@ -1,0 +1,75 @@
+{
+    "character": "kaisa",
+    "id": "551182981",
+    "result": "这个地方很美。我必须出手拯救。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012691039,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.740]  这个地方很美。\n[0:1.740,0:3.442]  我必须出手拯救。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这个地方很美。",
+                    "SliceSentence": "这个 地方 很美",
+                    "StartMs": 0,
+                    "EndMs": 1740,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "地方",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "很美",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "我必须出手拯救。",
+                    "SliceSentence": "我 必须 出手 拯救",
+                    "StartMs": 1740,
+                    "EndMs": 3442,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "必须",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "出手",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "拯救",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.442188
+        },
+        "RequestId": "ccd61326-51ce-49d6-87f3-1d6975a6b6b9"
+    }
+}

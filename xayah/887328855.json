@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "887328855",
+    "result": "一个也别放过。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012838162,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.450]  一个也别放过。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一个也别放过。",
+                    "SliceSentence": "一个 也 别 放过",
+                    "StartMs": 0,
+                    "EndMs": 1450,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "也",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "放过",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.4505
+        },
+        "RequestId": "d77a5a3d-7e93-4b8e-8964-7e9ab187b065"
+    }
+}

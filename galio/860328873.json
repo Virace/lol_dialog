@@ -1,0 +1,39 @@
+{
+    "character": "galio",
+    "id": "860328873",
+    "result": "自由传。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012569942,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.155]  自由传。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "自由传。",
+                    "SliceSentence": "自由 传",
+                    "StartMs": 0,
+                    "EndMs": 1155,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "自由",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "传",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.155438
+        },
+        "RequestId": "848d41cb-0673-4fc5-9e21-5703248a629f"
+    }
+}

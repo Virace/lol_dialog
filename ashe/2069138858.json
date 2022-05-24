@@ -1,0 +1,44 @@
+{
+    "character": "ashe",
+    "id": "2069138858",
+    "result": "我是成功。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012545438,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.345]  我是成功。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我是成功。",
+                    "SliceSentence": "我 是 成功",
+                    "StartMs": 0,
+                    "EndMs": 2345,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "成功",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.34525
+        },
+        "RequestId": "a57dfbd4-8003-47a0-80d3-d3e51fb00608"
+    }
+}

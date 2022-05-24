@@ -1,0 +1,70 @@
+{
+    "character": "sett",
+    "id": "2146332959",
+    "result": "告诉我吧。我恨他。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012773068,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.880]  告诉我吧。\n[0:1.880,0:3.854]  我恨他。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "告诉我吧。",
+                    "SliceSentence": "告诉 我 吧",
+                    "StartMs": 0,
+                    "EndMs": 1880,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "告诉",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "我恨他。",
+                    "SliceSentence": "我 恨 他",
+                    "StartMs": 1880,
+                    "EndMs": 3854,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "恨",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "他",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.8545
+        },
+        "RequestId": "edacbaaa-bd1c-4522-b5fe-fb8570063d63"
+    }
+}

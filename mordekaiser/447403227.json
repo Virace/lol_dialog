@@ -1,0 +1,54 @@
+{
+    "character": "mordekaiser",
+    "id": "447403227",
+    "result": "一切将死，一切归我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012725298,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:6.454]  一切将死，一切归我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一切将死，一切归我。",
+                    "SliceSentence": "一切 将死 一切 归 我",
+                    "StartMs": 0,
+                    "EndMs": 6454,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "一切",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "将死",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 2520
+                        },
+                        {
+                            "Word": "一切",
+                            "OffsetStartMs": 2820,
+                            "OffsetEndMs": 3870
+                        },
+                        {
+                            "Word": "归",
+                            "OffsetStartMs": 3870,
+                            "OffsetEndMs": 4350
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 4350,
+                            "OffsetEndMs": 5160
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.454375
+        },
+        "RequestId": "074349fb-8b1f-4c1c-83bd-8bbb9938f895"
+    }
+}

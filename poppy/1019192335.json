@@ -1,0 +1,49 @@
+{
+    "character": "poppy",
+    "id": "1019192335",
+    "result": "我希望这个管用。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012742451,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.494]  我希望这个管用。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我希望这个管用。",
+                    "SliceSentence": "我 希望 这个 管用",
+                    "StartMs": 0,
+                    "EndMs": 1494,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "希望",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "管用",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.494625
+        },
+        "RequestId": "69b67f30-2e89-4554-b0ef-0a56e2d32df1"
+    }
+}

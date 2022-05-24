@@ -1,0 +1,39 @@
+{
+    "character": "tahmkench",
+    "id": "818835450",
+    "result": "这边儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012790946,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.756]  这边儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这边儿。",
+                    "SliceSentence": "这边 儿",
+                    "StartMs": 0,
+                    "EndMs": 756,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "这边",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "儿",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 690
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.756
+        },
+        "RequestId": "6a679fa2-bfde-4a6a-bdc6-c92ec1423915"
+    }
+}

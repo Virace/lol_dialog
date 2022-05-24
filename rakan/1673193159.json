@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "1673193159",
+    "result": "我要放纵自己啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012751317,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.787]  我要放纵自己啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要放纵自己啦。",
+                    "SliceSentence": "我要 放纵 自己 啦",
+                    "StartMs": 0,
+                    "EndMs": 1787,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "放纵",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "自己",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.787563
+        },
+        "RequestId": "849cf42d-cbe0-45f8-bd2c-1d813353810f"
+    }
+}

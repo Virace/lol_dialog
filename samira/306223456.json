@@ -1,0 +1,44 @@
+{
+    "character": "samira",
+    "id": "306223456",
+    "result": "脑子转快点。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012766830,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.880]  脑子转快点。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "脑子转快点。",
+                    "SliceSentence": "脑子 转 快点",
+                    "StartMs": 0,
+                    "EndMs": 1880,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "脑子",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "转",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "快点",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.880813
+        },
+        "RequestId": "a5697133-a6c0-45ed-9292-e674fd329ba4"
+    }
+}

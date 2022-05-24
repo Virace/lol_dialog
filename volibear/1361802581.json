@@ -1,0 +1,54 @@
+{
+    "character": "volibear",
+    "id": "1361802581",
+    "result": "又一个懦夫死了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012815701,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.680]  又一个懦夫死了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "又一个懦夫死了。",
+                    "SliceSentence": "又一 个 懦夫 死 了",
+                    "StartMs": 0,
+                    "EndMs": 3680,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "又一",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "个",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "懦夫",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "死",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.680875
+        },
+        "RequestId": "2767bb42-a0fb-4c7f-b76d-acee8200aa8e"
+    }
+}

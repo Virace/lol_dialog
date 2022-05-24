@@ -1,0 +1,59 @@
+{
+    "character": "kalista",
+    "id": "92049125",
+    "result": "我们和你还没完呢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012694963,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.020,0:3.280]  我们和你还没完呢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们和你还没完呢。",
+                    "SliceSentence": "我们 和 你 还没 完 呢",
+                    "StartMs": 20,
+                    "EndMs": 3280,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "和",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "还没",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "完",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.765125
+        },
+        "RequestId": "dae5c884-12bc-4e20-afdf-4930af4d8320"
+    }
+}

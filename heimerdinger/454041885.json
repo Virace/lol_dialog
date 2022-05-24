@@ -1,0 +1,49 @@
+{
+    "character": "heimerdinger",
+    "id": "454041885",
+    "result": "不，不，都是飞弹。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012576617,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.067]  不，不，都是飞弹。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不，不，都是飞弹。",
+                    "SliceSentence": "不 不 都是 飞弹",
+                    "StartMs": 0,
+                    "EndMs": 2067,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "都是",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "飞弹",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.067625
+        },
+        "RequestId": "4229fe56-e0ef-400d-8bfc-c6b1497814a7"
+    }
+}

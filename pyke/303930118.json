@@ -1,0 +1,54 @@
+{
+    "character": "pyke",
+    "id": "303930118",
+    "result": "J，事儿还没完呢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745988,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.032]  J，事儿还没完呢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "J，事儿还没完呢。",
+                    "SliceSentence": "J 事儿 还 没完 呢",
+                    "StartMs": 0,
+                    "EndMs": 3032,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "J",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "事儿",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "还",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "没完",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.032938
+        },
+        "RequestId": "3e042bee-eaaa-4f0c-875b-033a67e156de"
+    }
+}

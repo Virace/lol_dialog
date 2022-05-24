@@ -1,0 +1,49 @@
+{
+    "character": "poppy",
+    "id": "306697000",
+    "result": "那伙计飞起来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012742846,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.913]  那伙计飞起来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "那伙计飞起来了。",
+                    "SliceSentence": "那 伙计 飞起 来了",
+                    "StartMs": 0,
+                    "EndMs": 1913,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "那",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "伙计",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "飞起",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "来了",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.913125
+        },
+        "RequestId": "47c7d85c-81da-4d68-88a1-20f182534924"
+    }
+}

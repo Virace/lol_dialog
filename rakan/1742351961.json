@@ -1,0 +1,59 @@
+{
+    "character": "rakan",
+    "id": "1742351961",
+    "result": "你这耳光挨定了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012751518,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.462]  你这耳光挨定了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你这耳光挨定了。",
+                    "SliceSentence": "你 这 耳光 挨 定 了",
+                    "StartMs": 0,
+                    "EndMs": 1462,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "耳光",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "挨",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "定",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 8.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.462563
+        },
+        "RequestId": "302f0853-8aa5-4fbe-a5ae-547744b057bd"
+    }
+}

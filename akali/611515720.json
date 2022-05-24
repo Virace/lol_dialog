@@ -1,0 +1,49 @@
+{
+    "character": "akali",
+    "id": "611515720",
+    "result": "我只是刚热身。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012539961,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.460]  我只是刚热身。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我只是刚热身。",
+                    "SliceSentence": "我 只是 刚 热身",
+                    "StartMs": 0,
+                    "EndMs": 1460,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "只是",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "刚",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "热身",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 6.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.4605
+        },
+        "RequestId": "0ef52513-9209-48d5-a2f5-06bf6a257310"
+    }
+}

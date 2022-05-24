@@ -1,0 +1,44 @@
+{
+    "character": "seraphine",
+    "id": "2020642542",
+    "result": "演出还没结束。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012770985,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.120]  演出还没结束。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "演出还没结束。",
+                    "SliceSentence": "演出 还没 结束",
+                    "StartMs": 0,
+                    "EndMs": 3120,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "演出",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "还没",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "结束",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.513938
+        },
+        "RequestId": "b9fbb473-68bb-4318-bf86-5c04085ac6e7"
+    }
+}

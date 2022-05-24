@@ -1,0 +1,44 @@
+{
+    "character": "warwick",
+    "id": "1029302064",
+    "result": "快藏起来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012817364,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.674]  快藏起来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "快藏起来。",
+                    "SliceSentence": "快 藏 起来",
+                    "StartMs": 0,
+                    "EndMs": 2674,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "快",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "藏",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "起来",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.674688
+        },
+        "RequestId": "d3e5dbdc-935b-47bb-8fb2-37b24d19ad19"
+    }
+}

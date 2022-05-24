@@ -1,0 +1,49 @@
+{
+    "character": "ivern",
+    "id": "2138445527",
+    "result": "蝎子也该歇歇了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012585041,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.562]  蝎子也该歇歇了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "蝎子也该歇歇了。",
+                    "SliceSentence": "蝎子 也该 歇歇 了",
+                    "StartMs": 0,
+                    "EndMs": 2562,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "蝎子",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "也该",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "歇歇",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.562688
+        },
+        "RequestId": "683d9aa1-3aa3-45fb-918b-c168d4396085"
+    }
+}

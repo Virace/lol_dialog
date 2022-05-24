@@ -1,0 +1,39 @@
+{
+    "character": "xayah",
+    "id": "1895792405",
+    "result": "等等我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012835668,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.163]  等等我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "等等我。",
+                    "SliceSentence": "等 等我",
+                    "StartMs": 0,
+                    "EndMs": 1163,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "等",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "等我",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.163688
+        },
+        "RequestId": "d09e4e58-5588-4152-92ef-2de9e0b0c18a"
+    }
+}

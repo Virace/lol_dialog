@@ -1,0 +1,44 @@
+{
+    "character": "aphelios",
+    "id": "559246419",
+    "result": "我与你同在。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012544028,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.400]  我与你同在。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我与你同在。",
+                    "SliceSentence": "我与 你 同在",
+                    "StartMs": 0,
+                    "EndMs": 4400,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我与",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "同在",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.83025
+        },
+        "RequestId": "cf593923-55c0-44f3-b3a4-d8eddbb277de"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "trundle",
+    "id": "215530844",
+    "result": "砸个粉碎。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012801325,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.846]  砸个粉碎。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "砸个粉碎。",
+                    "SliceSentence": "砸 个 粉碎",
+                    "StartMs": 0,
+                    "EndMs": 1846,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "砸",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "个",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "粉碎",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.84625
+        },
+        "RequestId": "93bfc20c-f8bb-4816-b869-4d6eb7125ac8"
+    }
+}

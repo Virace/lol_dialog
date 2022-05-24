@@ -1,0 +1,60 @@
+{
+    "character": "nidalee",
+    "id": "108406959",
+    "result": "嗯。懦夫的味道。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012731133,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.720]  嗯。\n[0:1.820,0:3.485]  懦夫的味道。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯。",
+                    "SliceSentence": "嗯",
+                    "StartMs": 0,
+                    "EndMs": 1720,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 750
+                        }
+                    ],
+                    "SpeechSpeed": 1.2,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "懦夫的味道。",
+                    "SliceSentence": "懦夫 的 味道",
+                    "StartMs": 1820,
+                    "EndMs": 3485,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "懦夫",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "味道",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.485563
+        },
+        "RequestId": "0bca0a0f-949d-4943-9bca-fcd944175b7d"
+    }
+}

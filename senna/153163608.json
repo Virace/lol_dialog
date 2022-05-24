@@ -1,0 +1,49 @@
+{
+    "character": "senna",
+    "id": "153163608",
+    "result": "不，我们一起来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012768632,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.600]  不，我们一起来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不，我们一起来。",
+                    "SliceSentence": "不 我们 一起 来",
+                    "StartMs": 0,
+                    "EndMs": 2600,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "一起",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.600625
+        },
+        "RequestId": "c27929dc-538c-413d-a9eb-265cb08878b3"
+    }
+}

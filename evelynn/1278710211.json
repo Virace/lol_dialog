@@ -1,0 +1,54 @@
+{
+    "character": "evelynn",
+    "id": "1278710211",
+    "result": "先上天堂，再下地狱。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012561731,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.280]  先上天堂，再下地狱。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "先上天堂，再下地狱。",
+                    "SliceSentence": "先 上天 堂 再 下地狱",
+                    "StartMs": 0,
+                    "EndMs": 4280,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "先",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "上天",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "堂",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "再",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "下地狱",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 3300
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.664125
+        },
+        "RequestId": "2af2f3ca-35b3-4a8c-b759-f6181c69a4b0"
+    }
+}

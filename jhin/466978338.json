@@ -1,0 +1,59 @@
+{
+    "character": "jhin",
+    "id": "466978338",
+    "result": "我的批评家们通常短命。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012686101,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.626]  我的批评家们通常短命。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的批评家们通常短命。",
+                    "SliceSentence": "我 的 批评家 们 通常 短命",
+                    "StartMs": 0,
+                    "EndMs": 4626,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "批评家",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "们",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "通常",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "短命",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 3240
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.62675
+        },
+        "RequestId": "c58cc893-c14a-4264-b7ab-04aaf6149c44"
+    }
+}

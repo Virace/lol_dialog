@@ -1,0 +1,60 @@
+{
+    "character": "jhin",
+    "id": "1931053564",
+    "result": "连杀大戏。由我领衔。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012685616,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.240]  连杀大戏。\n[0:2.240,0:5.193]  由我领衔。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "连杀大戏。",
+                    "SliceSentence": "连杀 大戏",
+                    "StartMs": 0,
+                    "EndMs": 2240,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "连杀",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "大戏",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "由我领衔。",
+                    "SliceSentence": "由我 领衔",
+                    "StartMs": 2240,
+                    "EndMs": 5193,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "由我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "领衔",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.193438
+        },
+        "RequestId": "84f4d73b-7a23-4c87-8536-8b5edf886942"
+    }
+}

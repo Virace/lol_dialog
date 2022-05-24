@@ -1,0 +1,54 @@
+{
+    "character": "jhin",
+    "id": "1117918569",
+    "result": "我绝不能错过你的表演。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012684532,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.300]  我绝不能错过你的表演。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我绝不能错过你的表演。",
+                    "SliceSentence": "我 绝不能 错过 你的 表演",
+                    "StartMs": 0,
+                    "EndMs": 3300,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "绝不能",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "错过",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "表演",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.009188
+        },
+        "RequestId": "a15da0ad-e179-4e9b-bb9d-1258413626b3"
+    }
+}

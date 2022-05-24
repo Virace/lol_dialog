@@ -1,0 +1,59 @@
+{
+    "character": "cassiopeia",
+    "id": "646200503",
+    "result": "我会料理好一切的，哼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012555035,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.914]  我会料理好一切的，哼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会料理好一切的，哼。",
+                    "SliceSentence": "我会 料理 好 一切 的 哼",
+                    "StartMs": 0,
+                    "EndMs": 2914,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "料理",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "一切",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "哼",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 2850
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.914313
+        },
+        "RequestId": "d07daa9e-0924-4eff-98b3-4ab4365b7c16"
+    }
+}

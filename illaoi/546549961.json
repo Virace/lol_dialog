@@ -1,0 +1,59 @@
+{
+    "character": "illaoi",
+    "id": "546549961",
+    "result": "我的名字是俄洛依。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012578601,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.628]  我的名字是俄洛依。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的名字是俄洛依。",
+                    "SliceSentence": "我 的 名字 是 俄 洛依",
+                    "StartMs": 0,
+                    "EndMs": 3628,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "名字",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "俄",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2610
+                        },
+                        {
+                            "Word": "洛依",
+                            "OffsetStartMs": 2610,
+                            "OffsetEndMs": 3570
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.628938
+        },
+        "RequestId": "f16b40e5-4fa3-4ece-b345-19588d72d906"
+    }
+}

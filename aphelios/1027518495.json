@@ -1,0 +1,44 @@
+{
+    "character": "aphelios",
+    "id": "1027518495",
+    "result": "啊哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542765,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.970]  啊哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊哈哈哈哈。",
+                    "SliceSentence": "啊 哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 3970,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.970625
+        },
+        "RequestId": "41ea4e2f-a3f4-4bcb-9701-f00b6a1dcaaf"
+    }
+}

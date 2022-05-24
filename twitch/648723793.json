@@ -1,0 +1,39 @@
+{
+    "character": "twitch",
+    "id": "648723793",
+    "result": "尝尝这个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012804010,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.577]  尝尝这个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "尝尝这个。",
+                    "SliceSentence": "尝尝 这个",
+                    "StartMs": 0,
+                    "EndMs": 2577,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "尝尝",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.577438
+        },
+        "RequestId": "1e8a7098-a005-4c73-b7a8-67ccd7a609d2"
+    }
+}

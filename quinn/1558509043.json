@@ -1,0 +1,54 @@
+{
+    "character": "quinn",
+    "id": "1558509043",
+    "result": "德玛西亚在期待着我们。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012748843,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.322]  德玛西亚在期待着我们。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "德玛西亚在期待着我们。",
+                    "SliceSentence": "德玛西亚 在 期待 着 我们",
+                    "StartMs": 0,
+                    "EndMs": 2322,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "德玛西亚",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "期待",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "着",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.322
+        },
+        "RequestId": "faf9fbb0-ef76-496b-82f3-ed02c50da245"
+    }
+}

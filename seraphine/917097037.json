@@ -1,0 +1,54 @@
+{
+    "character": "seraphine",
+    "id": "917097037",
+    "result": "准备好再唱一曲。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012771938,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.680]  准备好再唱一曲。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "准备好再唱一曲。",
+                    "SliceSentence": "准备 好 再 唱 一曲",
+                    "StartMs": 0,
+                    "EndMs": 2680,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "准备",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "再",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "唱",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "一曲",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.155438
+        },
+        "RequestId": "f179ebe4-e482-4261-8ece-362ff4b93e20"
+    }
+}

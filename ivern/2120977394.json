@@ -1,0 +1,44 @@
+{
+    "character": "ivern",
+    "id": "2120977394",
+    "result": "树倒啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012585019,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.645]  树倒啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "树倒啦。",
+                    "SliceSentence": "树 倒 啦",
+                    "StartMs": 0,
+                    "EndMs": 2645,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "树",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "倒",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.64575
+        },
+        "RequestId": "41c15725-644c-46e9-92b4-c55c61d2ad8c"
+    }
+}

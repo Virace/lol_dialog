@@ -1,0 +1,59 @@
+{
+    "character": "evelynn",
+    "id": "1970314632",
+    "result": "想要一个吻吻吻吻。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012562847,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.140]  想要一个吻吻吻吻。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "想要一个吻吻吻吻。",
+                    "SliceSentence": "想要 一个 吻 吻 吻 吻",
+                    "StartMs": 0,
+                    "EndMs": 3140,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "想要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "吻",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "吻",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "吻",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "吻",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 3060
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.108375
+        },
+        "RequestId": "00079f80-2aaf-495d-adc4-09366017811e"
+    }
+}

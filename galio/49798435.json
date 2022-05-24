@@ -1,0 +1,44 @@
+{
+    "character": "galio",
+    "id": "49798435",
+    "result": "哈哈，真是屡试不爽。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012569216,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.979]  哈哈，真是屡试不爽。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈，真是屡试不爽。",
+                    "SliceSentence": "哈哈 真是 屡试不爽",
+                    "StartMs": 0,
+                    "EndMs": 2979,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "真是",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "屡试不爽",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2880
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.979375
+        },
+        "RequestId": "89c4d455-81c4-43c9-be7b-42383898a426"
+    }
+}

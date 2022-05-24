@@ -1,0 +1,54 @@
+{
+    "character": "drmundo",
+    "id": "1692153179",
+    "result": "瞧你一朵小红花。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012557888,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.240]  瞧你一朵小红花。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "瞧你一朵小红花。",
+                    "SliceSentence": "瞧 你 一朵 小 红花",
+                    "StartMs": 0,
+                    "EndMs": 2240,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "瞧",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "一朵",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "小",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "红花",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.240188
+        },
+        "RequestId": "375a1ed9-cd82-40e2-a837-245898c55c68"
+    }
+}

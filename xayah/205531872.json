@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "205531872",
+    "result": "不，我不喜欢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012835961,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.841]  不，我不喜欢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不，我不喜欢。",
+                    "SliceSentence": "不 我不 喜欢",
+                    "StartMs": 0,
+                    "EndMs": 1841,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.841188
+        },
+        "RequestId": "641c462e-5606-422c-ae0d-0e37061a9cc1"
+    }
+}

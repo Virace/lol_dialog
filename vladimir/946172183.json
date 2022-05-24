@@ -1,0 +1,54 @@
+{
+    "character": "vladimir",
+    "id": "946172183",
+    "result": "血块儿变厚了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012815420,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.645]  血块儿变厚了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "血块儿变厚了。",
+                    "SliceSentence": "血块 儿 变 厚 了",
+                    "StartMs": 0,
+                    "EndMs": 2645,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "血块",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "儿",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "变",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "厚",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.645313
+        },
+        "RequestId": "811a6ba0-b1ac-472d-85bc-828344690504"
+    }
+}

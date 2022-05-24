@@ -1,0 +1,54 @@
+{
+    "character": "xayah",
+    "id": "1692582905",
+    "result": "我只要跳舞，就要领舞。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012835238,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.150]  我只要跳舞，就要领舞。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我只要跳舞，就要领舞。",
+                    "SliceSentence": "我 只要 跳舞 就要 领舞",
+                    "StartMs": 0,
+                    "EndMs": 2150,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "只要",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "跳舞",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "就要",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "领舞",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.150313
+        },
+        "RequestId": "dc2e768e-5c2d-4f68-9c6f-9386acf6b152"
+    }
+}

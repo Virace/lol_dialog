@@ -1,0 +1,54 @@
+{
+    "character": "ornn",
+    "id": "1658824095",
+    "result": "老熔炉又燃起火了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012738633,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.389]  老熔炉又燃起火了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "老熔炉又燃起火了。",
+                    "SliceSentence": "老 熔炉 又 燃起 火了",
+                    "StartMs": 0,
+                    "EndMs": 2389,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "老",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "熔炉",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "又",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "燃起",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "火了",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.389188
+        },
+        "RequestId": "d5ea0e9e-be13-4f8f-9e52-1a65936b64c0"
+    }
+}

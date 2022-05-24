@@ -1,0 +1,54 @@
+{
+    "character": "sylas",
+    "id": "7591693",
+    "result": "你辜负了这份为例。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012788096,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.887]  你辜负了这份为例。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你辜负了这份为例。",
+                    "SliceSentence": "你 辜负 了 这份 为例",
+                    "StartMs": 0,
+                    "EndMs": 1887,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "辜负",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "这份",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "为例",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.887125
+        },
+        "RequestId": "a638da08-8b3d-4d7c-bfd1-7776b6a0e033"
+    }
+}

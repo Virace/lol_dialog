@@ -1,0 +1,70 @@
+{
+    "character": "jhin",
+    "id": "680441681",
+    "result": "这门艺术源于强迫。我无法抗拒。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012686240,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.400]  这门艺术源于强迫。\n[0:3.400,0:5.966]  我无法抗拒。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这门艺术源于强迫。",
+                    "SliceSentence": "这门 艺术 源于 强迫",
+                    "StartMs": 0,
+                    "EndMs": 3400,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这门",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "艺术",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "源于",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "强迫",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2730
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "我无法抗拒。",
+                    "SliceSentence": "我 无法抗拒",
+                    "StartMs": 3400,
+                    "EndMs": 5966,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "无法抗拒",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.966313
+        },
+        "RequestId": "1af8e621-503b-4fd3-a2c8-f4948472285f"
+    }
+}

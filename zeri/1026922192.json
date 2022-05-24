@@ -1,0 +1,49 @@
+{
+    "character": "zeri",
+    "id": "1026922192",
+    "result": "快呀，快充电。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012850493,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.517]  快呀，快充电。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "快呀，快充电。",
+                    "SliceSentence": "快 呀 快 充电",
+                    "StartMs": 0,
+                    "EndMs": 2517,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "快",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "呀",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "快",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "充电",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.517313
+        },
+        "RequestId": "9726c971-98dd-4565-a1be-ea98325b03a5"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "sona",
+    "id": "1206154438",
+    "result": "生命是一首优美的歌谣。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012780907,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:6.260]  生命是一首优美的歌谣。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "生命是一首优美的歌谣。",
+                    "SliceSentence": "生命 是 一首 优美 的 歌谣",
+                    "StartMs": 0,
+                    "EndMs": 6260,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "生命",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "一首",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "优美",
+                            "OffsetStartMs": 2340,
+                            "OffsetEndMs": 2910
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2910,
+                            "OffsetEndMs": 3030
+                        },
+                        {
+                            "Word": "歌谣",
+                            "OffsetStartMs": 3030,
+                            "OffsetEndMs": 3900
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.550375
+        },
+        "RequestId": "5c4df7c3-faf2-4422-a028-aa733b10d7c0"
+    }
+}

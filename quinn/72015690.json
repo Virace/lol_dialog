@@ -1,0 +1,49 @@
+{
+    "character": "quinn",
+    "id": "72015690",
+    "result": "我上头有朋友。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749142,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.857]  我上头有朋友。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我上头有朋友。",
+                    "SliceSentence": "我 上头 有 朋友",
+                    "StartMs": 0,
+                    "EndMs": 1857,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "上头",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "朋友",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.857625
+        },
+        "RequestId": "8953df97-9453-4ced-ac40-a9c4395ac885"
+    }
+}

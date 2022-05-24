@@ -1,0 +1,54 @@
+{
+    "character": "trundle",
+    "id": "775478177",
+    "result": "这家伙以为他是谁？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012801422,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.431]  这家伙以为他是谁？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这家伙以为他是谁？",
+                    "SliceSentence": "这 家伙 以为 他 是谁",
+                    "StartMs": 0,
+                    "EndMs": 2431,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "家伙",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "以为",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "他",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "是谁",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.431438
+        },
+        "RequestId": "00796ce1-60a5-4e50-8500-d7bd280c777e"
+    }
+}

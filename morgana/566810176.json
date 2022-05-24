@@ -1,0 +1,59 @@
+{
+    "character": "morgana",
+    "id": "566810176",
+    "result": "我经历过更可怕的事情。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012727260,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.686]  我经历过更可怕的事情。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我经历过更可怕的事情。",
+                    "SliceSentence": "我 经历 过 更 可怕的 事情",
+                    "StartMs": 0,
+                    "EndMs": 2686,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "经历",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "过",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "更",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "可怕的",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "事情",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.686625
+        },
+        "RequestId": "10b27066-d8e1-4014-b3a7-5569011ceec5"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "leblanc",
+    "id": "1267695724",
+    "result": "嗯哼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012711551,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.328]  嗯哼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯哼。",
+                    "SliceSentence": "嗯 哼",
+                    "StartMs": 0,
+                    "EndMs": 2328,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "哼",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.328438
+        },
+        "RequestId": "d4f20d36-aa1b-4417-ab29-23e795779b4e"
+    }
+}

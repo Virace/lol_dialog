@@ -1,0 +1,44 @@
+{
+    "character": "ornn",
+    "id": "1208105052",
+    "result": "你呆在这儿？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012737948,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.197]  你呆在这儿？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你呆在这儿？",
+                    "SliceSentence": "你 呆在 这儿",
+                    "StartMs": 0,
+                    "EndMs": 1197,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "呆在",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "这儿",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.197563
+        },
+        "RequestId": "a89802d8-1eff-45f4-b560-1e70e4370ed9"
+    }
+}

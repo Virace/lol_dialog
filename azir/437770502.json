@@ -1,0 +1,39 @@
+{
+    "character": "azir",
+    "id": "437770502",
+    "result": "服侍我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012548885,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.486]  服侍我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "服侍我。",
+                    "SliceSentence": "服侍 我",
+                    "StartMs": 0,
+                    "EndMs": 1486,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "服侍",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.486813
+        },
+        "RequestId": "a498d12c-42d6-4f0c-8bc2-63e8b4dd19b9"
+    }
+}

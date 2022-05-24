@@ -1,0 +1,44 @@
+{
+    "character": "diana",
+    "id": "582797176",
+    "result": "我只说真话。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556335,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.489]  我只说真话。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我只说真话。",
+                    "SliceSentence": "我 只说 真话",
+                    "StartMs": 0,
+                    "EndMs": 1489,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "只说",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "真话",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.489375
+        },
+        "RequestId": "5da9bbc0-e23f-45db-975d-96fb7cd025e9"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "karthus",
+    "id": "554592950",
+    "result": "我的孩子，闷唱吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012696116,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.869]  我的孩子，闷唱吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的孩子，闷唱吧。",
+                    "SliceSentence": "我 的 孩子 闷 唱吧",
+                    "StartMs": 0,
+                    "EndMs": 4869,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "孩子",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "闷",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "唱吧",
+                            "OffsetStartMs": 2490,
+                            "OffsetEndMs": 3600
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.869375
+        },
+        "RequestId": "3120afe6-3b22-4cf0-95e7-5e212cb73f15"
+    }
+}

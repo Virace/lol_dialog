@@ -1,0 +1,49 @@
+{
+    "character": "ivern",
+    "id": "713195669",
+    "result": "安静点儿，小鸟们。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012682705,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.369]  安静点儿，小鸟们。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "安静点儿，小鸟们。",
+                    "SliceSentence": "安静 点儿 小鸟 们",
+                    "StartMs": 0,
+                    "EndMs": 2369,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "安静",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "点儿",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "小鸟",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "们",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.369438
+        },
+        "RequestId": "db9d3616-e5a1-4ae0-aa19-bad230a0bdc7"
+    }
+}

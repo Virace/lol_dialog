@@ -1,0 +1,54 @@
+{
+    "character": "annie",
+    "id": "1690580653",
+    "result": "你们好犀利，败给小萝莉。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542561,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.140,0:5.046]  你们好犀利，败给小萝莉。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你们好犀利，败给小萝莉。",
+                    "SliceSentence": "你们 好 犀利 败给 小萝莉",
+                    "StartMs": 140,
+                    "EndMs": 5046,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你们",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "犀利",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "败给",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 2940
+                        },
+                        {
+                            "Word": "小萝莉",
+                            "OffsetStartMs": 2940,
+                            "OffsetEndMs": 4470
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.046875
+        },
+        "RequestId": "1e68b21f-7335-4ee2-97fa-b3680fbaf0b9"
+    }
+}

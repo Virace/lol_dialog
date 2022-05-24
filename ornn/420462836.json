@@ -1,0 +1,60 @@
+{
+    "character": "ornn",
+    "id": "420462836",
+    "result": "哼哼。嗯嗯，啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012739520,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:3.320,0:6.300]  哼哼。\n[0:6.840,0:11.287]  嗯嗯，啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼。",
+                    "SliceSentence": "哼哼",
+                    "StartMs": 3320,
+                    "EndMs": 6300,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 1.0,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "嗯嗯，啊。",
+                    "SliceSentence": "嗯 嗯 啊",
+                    "StartMs": 6840,
+                    "EndMs": 11287,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 2370,
+                            "OffsetEndMs": 2940
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 3480,
+                            "OffsetEndMs": 4320
+                        }
+                    ],
+                    "SpeechSpeed": 1.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 11.287688
+        },
+        "RequestId": "a1e63de1-2eac-41ee-b23d-5e7a00c1d95f"
+    }
+}

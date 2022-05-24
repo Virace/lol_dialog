@@ -1,0 +1,44 @@
+{
+    "character": "galio",
+    "id": "976120123",
+    "result": "咱们闹起来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012570220,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.496]  咱们闹起来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "咱们闹起来。",
+                    "SliceSentence": "咱们 闹 起来",
+                    "StartMs": 0,
+                    "EndMs": 1496,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "咱们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "闹",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "起来",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.496938
+        },
+        "RequestId": "83638ecf-c207-489b-8220-a1feaed3e8bf"
+    }
+}

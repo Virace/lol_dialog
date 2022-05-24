@@ -1,0 +1,44 @@
+{
+    "character": "camille",
+    "id": "756994077",
+    "result": "我就是陷阱。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554097,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.931]  我就是陷阱。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我就是陷阱。",
+                    "SliceSentence": "我 就是 陷阱",
+                    "StartMs": 0,
+                    "EndMs": 1931,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "陷阱",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.931813
+        },
+        "RequestId": "b3cd656e-b4fe-4a36-9d68-1e74b566b5e2"
+    }
+}

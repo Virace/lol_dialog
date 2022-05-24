@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "624620586",
+    "result": "你注意到天空了吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012753974,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.573]  你注意到天空了吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你注意到天空了吗？",
+                    "SliceSentence": "你 注意到 天空 了 吗",
+                    "StartMs": 0,
+                    "EndMs": 1573,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "注意到",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "天空",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 8.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.573188
+        },
+        "RequestId": "ed3d36be-8cea-4ef3-b4f6-71569948e6a6"
+    }
+}

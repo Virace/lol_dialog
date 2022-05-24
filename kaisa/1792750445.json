@@ -1,0 +1,49 @@
+{
+    "character": "kaisa",
+    "id": "1792750445",
+    "result": "我不会忘记的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689258,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.418]  我不会忘记的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不会忘记的。",
+                    "SliceSentence": "我 不会 忘记 的",
+                    "StartMs": 0,
+                    "EndMs": 1418,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "忘记",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 7.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.418563
+        },
+        "RequestId": "b7268c9f-6d72-423d-b3f2-bf8304aaaf50"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "diana",
+    "id": "447445175",
+    "result": "别再说谎啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556333,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.812]  别再说谎啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别再说谎啦。",
+                    "SliceSentence": "别再 说谎 啦",
+                    "StartMs": 0,
+                    "EndMs": 1812,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "别再",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "说谎",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.812813
+        },
+        "RequestId": "3c7f35f3-2f19-4917-941b-9d13fb6237b8"
+    }
+}

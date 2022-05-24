@@ -1,0 +1,34 @@
+{
+    "character": "kled",
+    "id": "857245590",
+    "result": "Hello。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012709822,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.156]  Hello。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "Hello。",
+                    "SliceSentence": "Hello",
+                    "StartMs": 0,
+                    "EndMs": 1156,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "Hello",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.156625
+        },
+        "RequestId": "5523e4e8-53c5-4e70-b2c3-421eb42fcd85"
+    }
+}

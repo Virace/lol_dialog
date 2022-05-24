@@ -1,0 +1,49 @@
+{
+    "character": "akali",
+    "id": "501115708",
+    "result": "一整天都不会腻。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012539772,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.698]  一整天都不会腻。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一整天都不会腻。",
+                    "SliceSentence": "一整天 都 不会 腻",
+                    "StartMs": 0,
+                    "EndMs": 1698,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "一整天",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "都",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "腻",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.698438
+        },
+        "RequestId": "444cd9e8-928c-468f-b2a5-8b5c26935ad2"
+    }
+}

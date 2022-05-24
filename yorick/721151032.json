@@ -1,0 +1,54 @@
+{
+    "character": "yorick",
+    "id": "721151032",
+    "result": "我才不要穿着它死去。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012845680,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.738]  我才不要穿着它死去。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我才不要穿着它死去。",
+                    "SliceSentence": "我才 不要 穿着 它 死去",
+                    "StartMs": 0,
+                    "EndMs": 2738,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我才",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "穿着",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "它",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "死去",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2580
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.738563
+        },
+        "RequestId": "e0888f68-46ff-4712-bae0-08a70041013b"
+    }
+}

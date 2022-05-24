@@ -1,0 +1,39 @@
+{
+    "character": "yone",
+    "id": "512584525",
+    "result": "斩邪。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012843223,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.182]  斩邪。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "斩邪。",
+                    "SliceSentence": "斩 邪",
+                    "StartMs": 0,
+                    "EndMs": 2182,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "斩",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "邪",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.182688
+        },
+        "RequestId": "6e1c2e14-4508-4bfe-92d0-9aa301311f6b"
+    }
+}

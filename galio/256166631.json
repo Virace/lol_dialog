@@ -1,0 +1,44 @@
+{
+    "character": "galio",
+    "id": "256166631",
+    "result": "抓到你了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568575,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.849]  抓到你了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "抓到你了。",
+                    "SliceSentence": "抓到 你 了",
+                    "StartMs": 0,
+                    "EndMs": 849,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "抓到",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 750
+                        }
+                    ],
+                    "SpeechSpeed": 8.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.849188
+        },
+        "RequestId": "2a421a85-9949-4554-9655-b5b1246822dd"
+    }
+}

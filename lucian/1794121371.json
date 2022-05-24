@@ -1,0 +1,59 @@
+{
+    "character": "lucian",
+    "id": "1794121371",
+    "result": "我看到了彼岸，不太喜欢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012717703,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.552]  我看到了彼岸，不太喜欢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我看到了彼岸，不太喜欢。",
+                    "SliceSentence": "我 看到 了 彼岸 不太 喜欢",
+                    "StartMs": 0,
+                    "EndMs": 3552,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "看到",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "彼岸",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "不太",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2670
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.552688
+        },
+        "RequestId": "1c8c209b-34fc-4ec4-bd10-7f69d0fa12d3"
+    }
+}

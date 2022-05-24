@@ -1,0 +1,44 @@
+{
+    "character": "yuumi",
+    "id": "1298950871",
+    "result": "魔典不喜欢你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012846595,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.151]  魔典不喜欢你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "魔典不喜欢你。",
+                    "SliceSentence": "魔典 不喜欢 你",
+                    "StartMs": 0,
+                    "EndMs": 1151,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "魔典",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "不喜欢",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 7.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.151438
+        },
+        "RequestId": "b620c627-b038-4f1c-aa16-e644d4b7a1cf"
+    }
+}

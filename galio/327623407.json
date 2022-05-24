@@ -1,0 +1,54 @@
+{
+    "character": "galio",
+    "id": "327623407",
+    "result": "接下来我打算什么东西？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568781,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.680]  接下来我打算什么东西？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "接下来我打算什么东西？",
+                    "SliceSentence": "接下来 我 打算 什么 东西",
+                    "StartMs": 0,
+                    "EndMs": 1680,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "接下来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "打算",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 8.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.68075
+        },
+        "RequestId": "481ae644-49c5-4f7a-82b8-ab9e5bca556a"
+    }
+}

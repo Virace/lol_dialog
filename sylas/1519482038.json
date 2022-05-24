@@ -1,0 +1,44 @@
+{
+    "character": "sylas",
+    "id": "1519482038",
+    "result": "魔法上涌。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786577,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.283]  魔法上涌。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "魔法上涌。",
+                    "SliceSentence": "魔法 上 涌",
+                    "StartMs": 0,
+                    "EndMs": 1283,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "魔法",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "上",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "涌",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.28325
+        },
+        "RequestId": "9a0e81fd-7e49-4d3a-8d02-212a42a8904e"
+    }
+}

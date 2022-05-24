@@ -1,0 +1,49 @@
+{
+    "character": "veigar",
+    "id": "393210856",
+    "result": "我会吞掉你的灵魂。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012809151,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.612]  我会吞掉你的灵魂。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会吞掉你的灵魂。",
+                    "SliceSentence": "我会 吞掉 你的 灵魂",
+                    "StartMs": 0,
+                    "EndMs": 2612,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "吞掉",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "灵魂",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.612625
+        },
+        "RequestId": "05367a84-a7d2-4062-9844-5adb8ef5e18e"
+    }
+}

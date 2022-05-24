@@ -1,0 +1,54 @@
+{
+    "character": "xayah",
+    "id": "1288633876",
+    "result": "你你知道行不行。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012834295,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.004]  你你知道行不行。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你你知道行不行。",
+                    "SliceSentence": "你 你 知道 行 不行",
+                    "StartMs": 0,
+                    "EndMs": 2004,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "行",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "不行",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.004688
+        },
+        "RequestId": "3ee74732-3d36-43b7-89a4-a03dfc92e00c"
+    }
+}

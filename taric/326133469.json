@@ -1,0 +1,39 @@
+{
+    "character": "taric",
+    "id": "326133469",
+    "result": "非常合身。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012796671,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.491]  非常合身。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "非常合身。",
+                    "SliceSentence": "非常 合身",
+                    "StartMs": 0,
+                    "EndMs": 2491,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "非常",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "合身",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.491375
+        },
+        "RequestId": "199c41b5-2821-4747-8132-04c0cb5d3e2b"
+    }
+}

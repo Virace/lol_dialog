@@ -1,0 +1,49 @@
+{
+    "character": "zoe",
+    "id": "1034968241",
+    "result": "嘟嘟嘟嘟，巴拉BABA。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012854113,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.913]  嘟嘟嘟嘟，巴拉BABA。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘟嘟嘟嘟，巴拉BABA。",
+                    "SliceSentence": "嘟嘟 嘟嘟 巴拉 BABA",
+                    "StartMs": 0,
+                    "EndMs": 3913,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "嘟嘟",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "嘟嘟",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "巴拉",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "BABA",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.913063
+        },
+        "RequestId": "d802bbe1-e491-48c0-bab4-0716567c4411"
+    }
+}

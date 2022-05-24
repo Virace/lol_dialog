@@ -1,0 +1,44 @@
+{
+    "character": "braum",
+    "id": "472447724",
+    "result": "别这么快。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550422,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.929]  别这么快。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别这么快。",
+                    "SliceSentence": "别 这么 快",
+                    "StartMs": 0,
+                    "EndMs": 929,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "这么",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "快",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 840
+                        }
+                    ],
+                    "SpeechSpeed": 7.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.92925
+        },
+        "RequestId": "2d9c1040-f5b2-46ec-9deb-6b0f4efa1499"
+    }
+}

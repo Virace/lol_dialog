@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "1029127254",
+    "result": "你还好吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012833451,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.991]  你还好吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你还好吗？",
+                    "SliceSentence": "你 还好 吗",
+                    "StartMs": 0,
+                    "EndMs": 991,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "还好",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 7.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.991
+        },
+        "RequestId": "260db511-787b-4e30-ba05-443f6461b413"
+    }
+}

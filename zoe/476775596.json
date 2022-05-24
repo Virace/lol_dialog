@@ -1,0 +1,49 @@
+{
+    "character": "zoe",
+    "id": "476775596",
+    "result": "再精彩一点，快。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012856099,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.573]  再精彩一点，快。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "再精彩一点，快。",
+                    "SliceSentence": "再 精彩 一点 快",
+                    "StartMs": 0,
+                    "EndMs": 2573,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "再",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "精彩",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "一点",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "快",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.57375
+        },
+        "RequestId": "d7207924-70e2-4443-be88-1b5da82e1fa3"
+    }
+}

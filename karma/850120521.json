@@ -1,0 +1,44 @@
+{
+    "character": "karma",
+    "id": "850120521",
+    "result": "哈哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012695431,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.696]  哈哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 1696,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "哈",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.696125
+        },
+        "RequestId": "f234a10f-2092-4a22-816e-ca1bf6eb3793"
+    }
+}

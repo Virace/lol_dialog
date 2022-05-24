@@ -1,0 +1,39 @@
+{
+    "character": "evelynn",
+    "id": "107859570",
+    "result": "就是这样。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012561470,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.240]  就是这样。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "就是这样。",
+                    "SliceSentence": "就是 这样",
+                    "StartMs": 0,
+                    "EndMs": 4240,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "这样",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 1.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.548063
+        },
+        "RequestId": "b5bb50ee-1f79-4d22-85be-9ae4f757b941"
+    }
+}

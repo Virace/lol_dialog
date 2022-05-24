@@ -1,0 +1,49 @@
+{
+    "character": "twistedfate",
+    "id": "1385406303",
+    "result": "今天是我的幸运日。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012802087,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.325]  今天是我的幸运日。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "今天是我的幸运日。",
+                    "SliceSentence": "今天 是我 的 幸运日",
+                    "StartMs": 0,
+                    "EndMs": 3325,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "今天",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "幸运日",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.325
+        },
+        "RequestId": "ea93f0aa-e118-49d9-837e-d92d7142b554"
+    }
+}

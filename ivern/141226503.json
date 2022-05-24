@@ -1,0 +1,49 @@
+{
+    "character": "ivern",
+    "id": "141226503",
+    "result": "来自森林的礼物。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012583842,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.683]  来自森林的礼物。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "来自森林的礼物。",
+                    "SliceSentence": "来自 森林 的 礼物",
+                    "StartMs": 0,
+                    "EndMs": 2683,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "来自",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "森林",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "礼物",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.683125
+        },
+        "RequestId": "00409c78-b6cc-42b8-a567-dc1c64867810"
+    }
+}

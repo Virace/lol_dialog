@@ -1,0 +1,49 @@
+{
+    "character": "pantheon",
+    "id": "1828147049",
+    "result": "过往，与我同行。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012741487,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.877]  过往，与我同行。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "过往，与我同行。",
+                    "SliceSentence": "过往 与 我 同行",
+                    "StartMs": 0,
+                    "EndMs": 3877,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "过往",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "与",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "同行",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 3000
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.87775
+        },
+        "RequestId": "0312edc7-611c-4723-8cf9-82ac3b9fe147"
+    }
+}

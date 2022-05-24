@@ -1,0 +1,59 @@
+{
+    "character": "lux",
+    "id": "157620353",
+    "result": "额，我从来没来过这里。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012719108,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.440]  额，我从来没来过这里。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "额，我从来没来过这里。",
+                    "SliceSentence": "额 我 从来 没 来过 这里",
+                    "StartMs": 0,
+                    "EndMs": 2440,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "额",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "从来",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "没",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "来过",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "这里",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.440188
+        },
+        "RequestId": "7dbdbbda-378c-4a89-8f4d-347218e688c8"
+    }
+}

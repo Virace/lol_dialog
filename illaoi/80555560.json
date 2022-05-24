@@ -1,0 +1,49 @@
+{
+    "character": "illaoi",
+    "id": "80555560",
+    "result": "终于，你动起来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012579391,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.553]  终于，你动起来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "终于，你动起来了。",
+                    "SliceSentence": "终于 你 动起来 了",
+                    "StartMs": 0,
+                    "EndMs": 2553,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "终于",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "动起来",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2340,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.5535
+        },
+        "RequestId": "8619ecd1-cd00-4ba0-8db1-2bcbcc7f4359"
+    }
+}

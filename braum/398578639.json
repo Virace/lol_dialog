@@ -1,0 +1,54 @@
+{
+    "character": "braum",
+    "id": "398578639",
+    "result": "吃吧，吃完就会茁壮成长。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550431,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.485]  吃吧，吃完就会茁壮成长。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "吃吧，吃完就会茁壮成长。",
+                    "SliceSentence": "吃 吧 吃完 就会 茁壮成长",
+                    "StartMs": 0,
+                    "EndMs": 3485,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "吃",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "吃完",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "就会",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "茁壮成长",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 3330
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.485438
+        },
+        "RequestId": "d64e86f9-e627-485c-899e-b32bcd6d63b6"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "sona",
+    "id": "520016069",
+    "result": "啊，这不在演出计划之内。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012782600,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.580]  啊，这不在演出计划之内。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，这不在演出计划之内。",
+                    "SliceSentence": "啊 这 不在 演出 计划 之内",
+                    "StartMs": 0,
+                    "EndMs": 5580,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "不在",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "演出",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "计划",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "之内",
+                            "OffsetStartMs": 2340,
+                            "OffsetEndMs": 2880
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.616625
+        },
+        "RequestId": "4317a2ba-90a0-4dbd-a37a-97904dcec7fb"
+    }
+}

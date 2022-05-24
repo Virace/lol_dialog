@@ -1,0 +1,49 @@
+{
+    "character": "evelynn",
+    "id": "1461606326",
+    "result": "祸不单行，与我同行。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012561959,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.120]  祸不单行，与我同行。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "祸不单行，与我同行。",
+                    "SliceSentence": "祸不单行 与 我 同行",
+                    "StartMs": 0,
+                    "EndMs": 5120,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "祸不单行",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "与",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2580
+                        },
+                        {
+                            "Word": "同行",
+                            "OffsetStartMs": 2580,
+                            "OffsetEndMs": 3300
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.3375
+        },
+        "RequestId": "66a897f3-56c0-4550-bba6-b735de1f97b4"
+    }
+}

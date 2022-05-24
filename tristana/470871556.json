@@ -1,0 +1,49 @@
+{
+    "character": "tristana",
+    "id": "470871556",
+    "result": "哈哈，有麻烦啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012799793,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.833]  哈哈，有麻烦啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈，有麻烦啦。",
+                    "SliceSentence": "哈哈 有 麻烦 啦",
+                    "StartMs": 0,
+                    "EndMs": 1833,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "麻烦",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.833438
+        },
+        "RequestId": "2254ee69-68a6-4d9d-900f-cda34e5f4b28"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "akshan",
+    "id": "1359237445",
+    "result": "现在你可以好好反省。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012540776,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.050]  现在你可以好好反省。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "现在你可以好好反省。",
+                    "SliceSentence": "现在 你 可以 好好 反省",
+                    "StartMs": 0,
+                    "EndMs": 3050,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "好好",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "反省",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.050688
+        },
+        "RequestId": "2169a39d-8e54-41d8-96d5-0f2a18c0b0b1"
+    }
+}

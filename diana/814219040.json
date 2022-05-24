@@ -1,0 +1,44 @@
+{
+    "character": "diana",
+    "id": "814219040",
+    "result": "这是必须的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556351,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.267]  这是必须的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是必须的。",
+                    "SliceSentence": "这是 必须 的",
+                    "StartMs": 0,
+                    "EndMs": 1267,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "必须",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.2675
+        },
+        "RequestId": "6016e320-ec32-4481-ba1d-d8ad1d35015e"
+    }
+}

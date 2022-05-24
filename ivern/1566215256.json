@@ -1,0 +1,64 @@
+{
+    "character": "ivern",
+    "id": "1566215256",
+    "result": "我听过他最好笑的笑话。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012584268,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.079]  我听过他最好笑的笑话。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我听过他最好笑的笑话。",
+                    "SliceSentence": "我 听过 他 最 好笑 的 笑话",
+                    "StartMs": 0,
+                    "EndMs": 4079,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "听过",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "他",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "最",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "好笑",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 2550
+                        },
+                        {
+                            "Word": "笑话",
+                            "OffsetStartMs": 2550,
+                            "OffsetEndMs": 3840
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.079813
+        },
+        "RequestId": "48b0ba65-99a6-4c73-aa2d-75a3f116f9e6"
+    }
+}

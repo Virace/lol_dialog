@@ -1,0 +1,54 @@
+{
+    "character": "sona",
+    "id": "1021447042",
+    "result": "喂，下一曲，做好准备。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012780628,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.080]  喂，下一曲，做好准备。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "喂，下一曲，做好准备。",
+                    "SliceSentence": "喂 下 一曲 做好 准备",
+                    "StartMs": 0,
+                    "EndMs": 4080,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "喂",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "下",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "一曲",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "做好",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "准备",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.107875
+        },
+        "RequestId": "aa342c35-1105-4d29-850b-408f3a3e70a5"
+    }
+}

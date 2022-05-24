@@ -1,0 +1,49 @@
+{
+    "character": "quinn",
+    "id": "1746191684",
+    "result": "从空中发起突击。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012748924,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.113]  从空中发起突击。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "从空中发起突击。",
+                    "SliceSentence": "从 空中 发起 突击",
+                    "StartMs": 0,
+                    "EndMs": 2113,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "从",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "空中",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "发起",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "突击",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.113
+        },
+        "RequestId": "786ab47b-c53e-4d05-8509-ab12ef01ac58"
+    }
+}

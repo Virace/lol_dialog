@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "1753534782",
+    "result": "最后红头发的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689228,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.310]  最后红头发的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "最后红头发的。",
+                    "SliceSentence": "最后 红头发 的",
+                    "StartMs": 0,
+                    "EndMs": 2310,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "最后",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "红头发",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.31
+        },
+        "RequestId": "1e32b27e-06d9-4326-a8dc-5ca342844ddb"
+    }
+}

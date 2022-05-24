@@ -1,0 +1,49 @@
+{
+    "character": "kayn",
+    "id": "1846854213",
+    "result": "好，这些都能派上用场。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012700464,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.151]  好，这些都能派上用场。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好，这些都能派上用场。",
+                    "SliceSentence": "好 这些 都能 派上用场",
+                    "StartMs": 0,
+                    "EndMs": 3151,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "这些",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "都能",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "派上用场",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 3090
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.151125
+        },
+        "RequestId": "c13e9608-b1ec-4e2f-8809-76d1a99febf3"
+    }
+}

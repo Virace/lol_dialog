@@ -1,0 +1,39 @@
+{
+    "character": "shen",
+    "id": "468512986",
+    "result": "嘿呀。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012774459,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.329]  嘿呀。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘿呀。",
+                    "SliceSentence": "嘿 呀",
+                    "StartMs": 0,
+                    "EndMs": 1329,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "嘿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "呀",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 540
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.329563
+        },
+        "RequestId": "f5d8d89b-b1c1-4130-8580-d2c1c339818b"
+    }
+}

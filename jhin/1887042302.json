@@ -1,0 +1,49 @@
+{
+    "character": "jhin",
+    "id": "1887042302",
+    "result": "你将饱含诗意。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012685566,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.823]  你将饱含诗意。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你将饱含诗意。",
+                    "SliceSentence": "你 将 饱含 诗意",
+                    "StartMs": 0,
+                    "EndMs": 3823,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "将",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "饱含",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "诗意",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 3300
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.823125
+        },
+        "RequestId": "e49036ff-f2ca-4bb9-bc78-7d8c0367df2c"
+    }
+}

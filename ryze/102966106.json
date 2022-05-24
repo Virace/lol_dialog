@@ -1,0 +1,49 @@
+{
+    "character": "ryze",
+    "id": "102966106",
+    "result": "你在跟踪我吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012763689,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.363]  你在跟踪我吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你在跟踪我吗？",
+                    "SliceSentence": "你在 跟踪 我 吗",
+                    "StartMs": 0,
+                    "EndMs": 1363,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "跟踪",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 7.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.363813
+        },
+        "RequestId": "c63ec56a-896f-4a5e-b4f1-102537a6ad35"
+    }
+}

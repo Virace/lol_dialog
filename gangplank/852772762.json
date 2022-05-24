@@ -1,0 +1,59 @@
+{
+    "character": "gangplank",
+    "id": "852772762",
+    "result": "我不会给好运留下任何东西。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012571705,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.686]  我不会给好运留下任何东西。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不会给好运留下任何东西。",
+                    "SliceSentence": "我不 会给 好运 留下 任何 东西",
+                    "StartMs": 0,
+                    "EndMs": 3686,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "会给",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "好运",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "留下",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "任何",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2520
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 2520,
+                            "OffsetEndMs": 3270
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.6865
+        },
+        "RequestId": "d7140351-ce92-4961-84bd-9c6732dedfb5"
+    }
+}

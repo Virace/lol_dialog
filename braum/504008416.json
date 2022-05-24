@@ -1,0 +1,44 @@
+{
+    "character": "braum",
+    "id": "504008416",
+    "result": "我们走罢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550436,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.207]  我们走罢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们走罢。",
+                    "SliceSentence": "我们 走 罢",
+                    "StartMs": 0,
+                    "EndMs": 1207,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "走",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "罢",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.207375
+        },
+        "RequestId": "9c2b75c7-786e-4444-b4bc-b703c85a5262"
+    }
+}

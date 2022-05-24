@@ -1,0 +1,44 @@
+{
+    "character": "tahmkench",
+    "id": "592399556",
+    "result": "哼哼，哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012790261,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.001]  哼哼，哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼，哈哈哈哈。",
+                    "SliceSentence": "哼哼 哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 2001,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.0015
+        },
+        "RequestId": "aaa4e698-9879-443b-b83b-cb9b77abebb1"
+    }
+}

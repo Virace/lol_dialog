@@ -1,0 +1,39 @@
+{
+    "character": "vex",
+    "id": "728841665",
+    "result": "我去。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012811454,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.997]  我去。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我去。",
+                    "SliceSentence": "我 去",
+                    "StartMs": 0,
+                    "EndMs": 1997,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.997125
+        },
+        "RequestId": "ff95ecf3-a46e-4799-afc4-37b54691411a"
+    }
+}

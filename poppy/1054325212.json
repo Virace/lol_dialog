@@ -1,0 +1,44 @@
+{
+    "character": "poppy",
+    "id": "1054325212",
+    "result": "然后呆在那儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012742472,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.167]  然后呆在那儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "然后呆在那儿。",
+                    "SliceSentence": "然后 呆在 那儿",
+                    "StartMs": 0,
+                    "EndMs": 2167,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "然后",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "呆在",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "那儿",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.167375
+        },
+        "RequestId": "a14d33a6-6acf-47ef-90c8-864be89f3584"
+    }
+}

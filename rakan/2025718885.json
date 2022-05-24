@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "2025718885",
+    "result": "对，我是最棒的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012752309,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.972]  对，我是最棒的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "对，我是最棒的。",
+                    "SliceSentence": "对我 是 最棒 的",
+                    "StartMs": 0,
+                    "EndMs": 1972,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "对我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "最棒",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.972563
+        },
+        "RequestId": "f4a5fe7c-e970-4f23-a03b-c2bb88da0a67"
+    }
+}

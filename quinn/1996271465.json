@@ -1,0 +1,54 @@
+{
+    "character": "quinn",
+    "id": "1996271465",
+    "result": "照计划执行，华洛。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012748995,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.414]  照计划执行，华洛。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "照计划执行，华洛。",
+                    "SliceSentence": "照 计划 执行 华 洛",
+                    "StartMs": 0,
+                    "EndMs": 2414,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "照",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "计划",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "执行",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "华",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "洛",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.414875
+        },
+        "RequestId": "6629e1f4-c355-4892-8122-9e34e0414ef3"
+    }
+}

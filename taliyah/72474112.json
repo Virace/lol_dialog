@@ -1,0 +1,44 @@
+{
+    "character": "taliyah",
+    "id": "72474112",
+    "result": "安心去吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012794324,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.163]  安心去吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "安心去吧。",
+                    "SliceSentence": "安心 去 吧",
+                    "StartMs": 0,
+                    "EndMs": 1163,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "安心",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.163125
+        },
+        "RequestId": "1ca711be-ece2-4575-ac7a-341cb6e262d9"
+    }
+}

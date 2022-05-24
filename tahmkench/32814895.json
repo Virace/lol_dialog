@@ -1,0 +1,39 @@
+{
+    "character": "tahmkench",
+    "id": "32814895",
+    "result": "签订契约。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012789604,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.307]  签订契约。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "签订契约。",
+                    "SliceSentence": "签订 契约",
+                    "StartMs": 0,
+                    "EndMs": 1307,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "签订",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "契约",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.307875
+        },
+        "RequestId": "d697b971-ad96-43e4-a888-32958867b402"
+    }
+}

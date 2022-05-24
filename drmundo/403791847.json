@@ -1,0 +1,59 @@
+{
+    "character": "drmundo",
+    "id": "403791847",
+    "result": "嗯，没事，我洗过手了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012558338,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.377]  嗯，没事，我洗过手了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯，没事，我洗过手了。",
+                    "SliceSentence": "嗯 没事 我 洗 过手 了",
+                    "StartMs": 0,
+                    "EndMs": 3377,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "没事",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "洗",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "过手",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2520
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2520,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.37725
+        },
+        "RequestId": "25a6cd86-4328-4ad7-8f2d-11b1880bbf1f"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "taliyah",
+    "id": "586341101",
+    "result": "你不可逾越黄沙。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012793745,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.745]  你不可逾越黄沙。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你不可逾越黄沙。",
+                    "SliceSentence": "你 不可逾越 黄沙",
+                    "StartMs": 0,
+                    "EndMs": 1745,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "不可逾越",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "黄沙",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.745688
+        },
+        "RequestId": "53d05b37-363c-4434-a934-fe7533eacf93"
+    }
+}

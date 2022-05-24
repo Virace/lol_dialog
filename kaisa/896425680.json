@@ -1,0 +1,39 @@
+{
+    "character": "kaisa",
+    "id": "896425680",
+    "result": "等我们。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012692539,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.093]  等我们。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "等我们。",
+                    "SliceSentence": "等 我们",
+                    "StartMs": 0,
+                    "EndMs": 1093,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "等",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 750
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.093875
+        },
+        "RequestId": "2f2582be-7086-49bf-9cc6-84ea96afdf33"
+    }
+}

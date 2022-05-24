@@ -1,0 +1,44 @@
+{
+    "character": "galio",
+    "id": "398510783",
+    "result": "我好残。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012569035,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.812]  我好残。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我好残。",
+                    "SliceSentence": "我 好 残",
+                    "StartMs": 0,
+                    "EndMs": 812,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "残",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 750
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.81275
+        },
+        "RequestId": "beaca34a-acc4-4b24-936a-6456ca58dfe7"
+    }
+}

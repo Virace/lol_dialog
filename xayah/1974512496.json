@@ -1,0 +1,91 @@
+{
+    "character": "xayah",
+    "id": "1974512496",
+    "result": "嘿嘿嘿。哈哈哈哈。啊，来我这儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012835821,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.200,0:1.860]  嘿嘿嘿。\n[0:2.760,0:4.980]  哈哈哈哈。\n[0:5.440,0:8.008]  啊，来我这儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘿嘿嘿。",
+                    "SliceSentence": "嘿 嘿嘿",
+                    "StartMs": 200,
+                    "EndMs": 1860,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "嘿",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "嘿嘿",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 2760,
+                    "EndMs": 4980,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "啊，来我这儿。",
+                    "SliceSentence": "啊 来 我 这儿",
+                    "StartMs": 5440,
+                    "EndMs": 8008,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "这儿",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 8.008375
+        },
+        "RequestId": "f2a1b5ee-80b4-4b36-bd00-62d808245215"
+    }
+}

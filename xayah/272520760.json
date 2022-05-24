@@ -1,0 +1,60 @@
+{
+    "character": "xayah",
+    "id": "272520760",
+    "result": "哼哼哼哼。啊，该死。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012836338,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.960]  哼哼哼哼。\n[0:4.560,0:7.857]  啊，该死。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼哼哼。",
+                    "SliceSentence": "哼哼 哼哼",
+                    "StartMs": 0,
+                    "EndMs": 2960,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "啊，该死。",
+                    "SliceSentence": "啊 该死",
+                    "StartMs": 4560,
+                    "EndMs": 7857,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "该死",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 3090
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.857438
+        },
+        "RequestId": "6ab85b03-e760-4746-a5a9-c4301f0c8ae1"
+    }
+}

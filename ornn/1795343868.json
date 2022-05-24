@@ -1,0 +1,49 @@
+{
+    "character": "ornn",
+    "id": "1795343868",
+    "result": "我还在干活呢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012738786,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.662]  我还在干活呢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我还在干活呢。",
+                    "SliceSentence": "我 还在 干活 呢",
+                    "StartMs": 0,
+                    "EndMs": 1662,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "还在",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "干活",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.662125
+        },
+        "RequestId": "a15ddfa4-69d2-4a23-9c2a-667e447383bc"
+    }
+}

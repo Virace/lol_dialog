@@ -1,0 +1,49 @@
+{
+    "character": "garen",
+    "id": "1899210500",
+    "result": "啊啊啊啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012572135,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.628]  啊啊啊啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊啊啊啊。",
+                    "SliceSentence": "啊 啊 啊 啊",
+                    "StartMs": 0,
+                    "EndMs": 4628,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 2490,
+                            "OffsetEndMs": 3060
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 3420,
+                            "OffsetEndMs": 4380
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.62825
+        },
+        "RequestId": "3eea063f-f3b1-44c2-8087-3a1221c50ad2"
+    }
+}

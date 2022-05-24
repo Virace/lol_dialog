@@ -1,0 +1,44 @@
+{
+    "character": "ziggs",
+    "id": "212333619",
+    "result": "啊，注意脚下。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012853472,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.577]  啊，注意脚下。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，注意脚下。",
+                    "SliceSentence": "啊 注意 脚下",
+                    "StartMs": 0,
+                    "EndMs": 1577,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "注意",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "脚下",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.57775
+        },
+        "RequestId": "e0a080d5-ff53-4a2d-86f8-c838c5d54a23"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "1539041146",
+    "result": "我们不会分开。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012750955,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.289]  我们不会分开。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们不会分开。",
+                    "SliceSentence": "我们 不会 分开",
+                    "StartMs": 0,
+                    "EndMs": 1289,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "分开",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.28975
+        },
+        "RequestId": "80d1dbec-ec32-4ffd-a330-237f8de5ec40"
+    }
+}

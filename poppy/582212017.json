@@ -1,0 +1,59 @@
+{
+    "character": "poppy",
+    "id": "582212017",
+    "result": "我希望那位英雄喜欢我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012743403,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.468]  我希望那位英雄喜欢我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我希望那位英雄喜欢我。",
+                    "SliceSentence": "我 希望 那位 英雄 喜欢 我",
+                    "StartMs": 0,
+                    "EndMs": 2468,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "希望",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "那位",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "英雄",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.468563
+        },
+        "RequestId": "00e165b4-d077-46de-a4ac-f40a47e739e1"
+    }
+}

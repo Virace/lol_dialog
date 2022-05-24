@@ -1,0 +1,44 @@
+{
+    "character": "amumu",
+    "id": "1997515801",
+    "result": "嘿，快回来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542171,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.205]  嘿，快回来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘿，快回来。",
+                    "SliceSentence": "嘿 快 回来",
+                    "StartMs": 0,
+                    "EndMs": 2205,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "嘿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "快",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "回来",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.205938
+        },
+        "RequestId": "ada2e10c-8581-4ce9-b4ce-9e9675e7ed2c"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "vex",
+    "id": "987758990",
+    "result": "我无所谓无所谓无所谓。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012811678,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.698]  我无所谓无所谓无所谓。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我无所谓无所谓无所谓。",
+                    "SliceSentence": "我 无所谓 无所谓 无所谓",
+                    "StartMs": 0,
+                    "EndMs": 4698,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "无所谓",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "无所谓",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "无所谓",
+                            "OffsetStartMs": 2670,
+                            "OffsetEndMs": 4350
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.6985
+        },
+        "RequestId": "6aec2029-59c7-4076-98ca-562be5c0fa2d"
+    }
+}

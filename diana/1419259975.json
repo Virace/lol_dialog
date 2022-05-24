@@ -1,0 +1,39 @@
+{
+    "character": "diana",
+    "id": "1419259975",
+    "result": "暮色消退。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556060,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.128]  暮色消退。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "暮色消退。",
+                    "SliceSentence": "暮色 消退",
+                    "StartMs": 0,
+                    "EndMs": 1128,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "暮色",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "消退",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.128438
+        },
+        "RequestId": "d1f6924e-76ad-4161-81cf-b52d44ba18b6"
+    }
+}

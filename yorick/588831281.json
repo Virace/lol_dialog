@@ -1,0 +1,54 @@
+{
+    "character": "yorick",
+    "id": "588831281",
+    "result": "去死，然后再次爬起。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012845358,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.938]  去死，然后再次爬起。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "去死，然后再次爬起。",
+                    "SliceSentence": "去死 然后 再次 爬 起",
+                    "StartMs": 0,
+                    "EndMs": 3938,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "去死",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "然后",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "再次",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2550
+                        },
+                        {
+                            "Word": "爬",
+                            "OffsetStartMs": 2550,
+                            "OffsetEndMs": 3030
+                        },
+                        {
+                            "Word": "起",
+                            "OffsetStartMs": 3030,
+                            "OffsetEndMs": 3840
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.93825
+        },
+        "RequestId": "9f53ce4e-2c5a-4b15-ac32-81fccfb72700"
+    }
+}

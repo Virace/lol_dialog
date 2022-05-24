@@ -1,0 +1,49 @@
+{
+    "character": "sylas",
+    "id": "1060286854",
+    "result": "没有谁阻止我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786085,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.416]  没有谁阻止我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没有谁阻止我。",
+                    "SliceSentence": "没有 谁 阻止 我",
+                    "StartMs": 0,
+                    "EndMs": 1416,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "谁",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "阻止",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 7.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.41625
+        },
+        "RequestId": "2b99c5e6-22e0-4e30-8e2c-19e4eab11e2b"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "rell",
+    "id": "726034854",
+    "result": "一嗨。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012758965,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.510]  一嗨。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一嗨。",
+                    "SliceSentence": "一 嗨",
+                    "StartMs": 0,
+                    "EndMs": 2510,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "一",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "嗨",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.51075
+        },
+        "RequestId": "12c88314-3889-4dc6-8a16-09100ee102fe"
+    }
+}

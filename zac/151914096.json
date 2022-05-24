@@ -1,0 +1,54 @@
+{
+    "character": "zac",
+    "id": "151914096",
+    "result": "哦，谢谢，我经常锻炼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012848510,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.966]  哦，谢谢，我经常锻炼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哦，谢谢，我经常锻炼。",
+                    "SliceSentence": "哦 谢谢 我 经常 锻炼",
+                    "StartMs": 0,
+                    "EndMs": 1966,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "哦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "谢谢",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "经常",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "锻炼",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.966188
+        },
+        "RequestId": "a28e58f5-da47-4b74-a57f-2192fb4a9b2c"
+    }
+}

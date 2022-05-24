@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "1144267387",
+    "result": "我倒是有些想法。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012833959,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.671]  我倒是有些想法。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我倒是有些想法。",
+                    "SliceSentence": "我 倒是 有些 想法",
+                    "StartMs": 0,
+                    "EndMs": 1671,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "倒是",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "有些",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "想法",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.67125
+        },
+        "RequestId": "b4ba91b4-ccfc-4544-8e1e-5803ff513e56"
+    }
+}

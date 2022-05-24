@@ -1,0 +1,54 @@
+{
+    "character": "senna",
+    "id": "288102968",
+    "result": "死亡对我们很熟。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012769480,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.529]  死亡对我们很熟。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "死亡对我们很熟。",
+                    "SliceSentence": "死亡 对 我们 很 熟",
+                    "StartMs": 0,
+                    "EndMs": 3529,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "死亡",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "对",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "很",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "熟",
+                            "OffsetStartMs": 2340,
+                            "OffsetEndMs": 3120
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.529438
+        },
+        "RequestId": "2fd9e93f-280d-495c-ae01-2251c3f3e122"
+    }
+}

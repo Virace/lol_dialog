@@ -1,0 +1,49 @@
+{
+    "character": "azir",
+    "id": "769378992",
+    "result": "野兽无法阻碍我们。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012549235,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.413]  野兽无法阻碍我们。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "野兽无法阻碍我们。",
+                    "SliceSentence": "野兽 无法 阻碍 我们",
+                    "StartMs": 0,
+                    "EndMs": 2413,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "野兽",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "无法",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "阻碍",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.413563
+        },
+        "RequestId": "4c1fa300-6972-4c35-9a54-946a6bd8c47b"
+    }
+}

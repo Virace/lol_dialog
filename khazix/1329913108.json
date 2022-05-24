@@ -1,0 +1,49 @@
+{
+    "character": "khazix",
+    "id": "1329913108",
+    "result": "我会教你善用。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012703641,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.619]  我会教你善用。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会教你善用。",
+                    "SliceSentence": "我会 教 你 善用",
+                    "StartMs": 0,
+                    "EndMs": 2619,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "教",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "善用",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.619938
+        },
+        "RequestId": "1ff67488-580e-4b5f-93fc-9e332afac09e"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "vi",
+    "id": "15252560",
+    "result": "有趣的东西来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012812076,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.166]  有趣的东西来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "有趣的东西来了。",
+                    "SliceSentence": "有趣 的 东西 来了",
+                    "StartMs": 0,
+                    "EndMs": 2166,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "有趣",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "来了",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.166438
+        },
+        "RequestId": "11a6c765-b3f1-43aa-a84a-d88b790bf185"
+    }
+}

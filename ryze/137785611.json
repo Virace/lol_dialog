@@ -1,0 +1,49 @@
+{
+    "character": "ryze",
+    "id": "137785611",
+    "result": "手别碰符文。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012763858,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.641]  手别碰符文。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "手别碰符文。",
+                    "SliceSentence": "手 别 碰 符文",
+                    "StartMs": 0,
+                    "EndMs": 1641,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "手",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "碰",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "符文",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.64125
+        },
+        "RequestId": "f1da262a-f892-4553-b67e-dd146e42c7ef"
+    }
+}

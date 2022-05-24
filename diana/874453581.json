@@ -1,0 +1,96 @@
+{
+    "character": "diana",
+    "id": "874453581",
+    "result": "我与推入横刀。给我成功。嗯，这个台词不错。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556385,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.580]  我与推入横刀。\n[0:2.580,0:4.800]  给我成功。\n[0:4.800,0:7.823]  嗯，这个台词不错。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我与推入横刀。",
+                    "SliceSentence": "我与 推入 横刀",
+                    "StartMs": 0,
+                    "EndMs": 2580,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我与",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "推入",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "横刀",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "给我成功。",
+                    "SliceSentence": "给我 成功",
+                    "StartMs": 2580,
+                    "EndMs": 4800,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "给我",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "成功",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "嗯，这个台词不错。",
+                    "SliceSentence": "嗯 这个 台词 不错",
+                    "StartMs": 4800,
+                    "EndMs": 7823,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "台词",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "不错",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 2940
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.823875
+        },
+        "RequestId": "523b7d23-d32f-4e5e-959b-7f29d5fbb5d2"
+    }
+}

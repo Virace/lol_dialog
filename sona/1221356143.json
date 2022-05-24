@@ -1,0 +1,49 @@
+{
+    "character": "sona",
+    "id": "1221356143",
+    "result": "说话声放低写。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012780944,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.500]  说话声放低写。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "说话声放低写。",
+                    "SliceSentence": "说话 声 放低 写",
+                    "StartMs": 0,
+                    "EndMs": 5500,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "说话",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "声",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "放低",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "写",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.024125
+        },
+        "RequestId": "17d8c38c-03e7-4a33-ab68-630b9f3d1416"
+    }
+}

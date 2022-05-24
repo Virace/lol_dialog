@@ -1,0 +1,54 @@
+{
+    "character": "pyke",
+    "id": "1121936306",
+    "result": "把你的手弄脏点。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744571,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.635]  把你的手弄脏点。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "把你的手弄脏点。",
+                    "SliceSentence": "把 你的 手 弄脏 点",
+                    "StartMs": 0,
+                    "EndMs": 2635,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "手",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "弄脏",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "点",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.635438
+        },
+        "RequestId": "7fdbf9a1-94b9-4ba2-ae75-22209d08b53d"
+    }
+}

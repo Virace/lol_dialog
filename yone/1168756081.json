@@ -1,0 +1,44 @@
+{
+    "character": "yone",
+    "id": "1168756081",
+    "result": "无处可藏。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012841531,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.120]  无处可藏。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "无处可藏。",
+                    "SliceSentence": "无处 可 藏",
+                    "StartMs": 0,
+                    "EndMs": 3120,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "无处",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "可",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "藏",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.4335
+        },
+        "RequestId": "2a875aeb-981c-4a68-861d-f7a8ab17d068"
+    }
+}

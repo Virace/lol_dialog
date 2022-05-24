@@ -1,0 +1,49 @@
+{
+    "character": "kaisa",
+    "id": "2003945036",
+    "result": "啊，迟钝了一点。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689732,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.358]  啊，迟钝了一点。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，迟钝了一点。",
+                    "SliceSentence": "啊 迟钝 了 一点",
+                    "StartMs": 0,
+                    "EndMs": 2358,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "迟钝",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "一点",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.358938
+        },
+        "RequestId": "c6f629de-5b54-42a3-bc38-c304615dd247"
+    }
+}

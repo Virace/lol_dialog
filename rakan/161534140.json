@@ -1,0 +1,39 @@
+{
+    "character": "rakan",
+    "id": "161534140",
+    "result": "不要不要。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012751162,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.446]  不要不要。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要不要。",
+                    "SliceSentence": "不要 不要",
+                    "StartMs": 0,
+                    "EndMs": 1446,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.446563
+        },
+        "RequestId": "774c2677-ad6c-439d-b8f7-c9ac19baa300"
+    }
+}

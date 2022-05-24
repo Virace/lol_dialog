@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "1009975590",
+    "result": "学着跳舞吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749164,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.343]  学着跳舞吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "学着跳舞吧。",
+                    "SliceSentence": "学 着 跳舞 吧",
+                    "StartMs": 0,
+                    "EndMs": 1343,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "学",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "着",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "跳舞",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.343438
+        },
+        "RequestId": "8c37f5f7-ecea-4e1c-b09c-f43a5c194b58"
+    }
+}

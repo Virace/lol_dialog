@@ -1,0 +1,59 @@
+{
+    "character": "anivia",
+    "id": "1012095866",
+    "result": "一些古老的东西在角度。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542199,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.483]  一些古老的东西在角度。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一些古老的东西在角度。",
+                    "SliceSentence": "一些 古老 的 东西 在 角度",
+                    "StartMs": 0,
+                    "EndMs": 3483,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "一些",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "古老",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "角度",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 3210
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.483
+        },
+        "RequestId": "66119bb4-424d-42c3-bfa5-b528e3904d3a"
+    }
+}

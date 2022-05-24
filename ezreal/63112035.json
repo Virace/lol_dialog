@@ -1,0 +1,54 @@
+{
+    "character": "ezreal",
+    "id": "63112035",
+    "result": "我会弄的看起来很轻松。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012566811,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.854]  我会弄的看起来很轻松。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会弄的看起来很轻松。",
+                    "SliceSentence": "我会 弄 的 看起来 很轻松",
+                    "StartMs": 0,
+                    "EndMs": 1854,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "弄",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "看起来",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "很轻松",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 8.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.854563
+        },
+        "RequestId": "fc421c7d-ad62-4582-8ad3-eeb7d2a97f44"
+    }
+}

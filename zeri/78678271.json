@@ -1,0 +1,39 @@
+{
+    "character": "zeri",
+    "id": "78678271",
+    "result": "有人触电？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012852791,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.877]  有人触电？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "有人触电？",
+                    "SliceSentence": "有人 触电",
+                    "StartMs": 0,
+                    "EndMs": 1877,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "有人",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "触电",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.877313
+        },
+        "RequestId": "74cdde36-759c-468e-b673-9460c85f6787"
+    }
+}

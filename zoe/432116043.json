@@ -1,0 +1,59 @@
+{
+    "character": "zoe",
+    "id": "432116043",
+    "result": "我们可以成为很好的朋友。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012855960,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.326]  我们可以成为很好的朋友。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们可以成为很好的朋友。",
+                    "SliceSentence": "我们 可以 成为 很 好的 朋友",
+                    "StartMs": 0,
+                    "EndMs": 3326,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "成为",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "很",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "好的",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "朋友",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.326813
+        },
+        "RequestId": "38939a1c-7bb0-4fa9-abbc-e4102f2fcbf0"
+    }
+}

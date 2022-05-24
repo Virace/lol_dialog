@@ -1,0 +1,49 @@
+{
+    "character": "yorick",
+    "id": "1072720330",
+    "result": "痛到无法铭记。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012843846,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.480]  痛到无法铭记。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "痛到无法铭记。",
+                    "SliceSentence": "痛 到 无法 铭记",
+                    "StartMs": 0,
+                    "EndMs": 2480,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "痛",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "无法",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "铭记",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.480813
+        },
+        "RequestId": "ca9944b9-2a80-4b44-b0ea-e60df72e03b7"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "sona",
+    "id": "313506401",
+    "result": "徐缓调。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012782346,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.920]  徐缓调。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "徐缓调。",
+                    "SliceSentence": "徐 缓 调",
+                    "StartMs": 0,
+                    "EndMs": 3920,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "徐",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "缓",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "调",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.9195
+        },
+        "RequestId": "baa40904-ee3f-45d1-8964-aa196870930a"
+    }
+}

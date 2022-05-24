@@ -1,0 +1,44 @@
+{
+    "character": "galio",
+    "id": "741023350",
+    "result": "抓住你的机会。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012569711,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.149]  抓住你的机会。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "抓住你的机会。",
+                    "SliceSentence": "抓住 你的 机会",
+                    "StartMs": 0,
+                    "EndMs": 1149,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "抓住",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "机会",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 7.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.149313
+        },
+        "RequestId": "4e427b15-7992-47f8-b4a7-ed5a3cbcaa64"
+    }
+}

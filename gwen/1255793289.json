@@ -1,0 +1,44 @@
+{
+    "character": "gwen",
+    "id": "1255793289",
+    "result": "我不会手软。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012573983,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.563]  我不会手软。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不会手软。",
+                    "SliceSentence": "我 不会 手软",
+                    "StartMs": 0,
+                    "EndMs": 2563,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "手软",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 840
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.563813
+        },
+        "RequestId": "101f85e6-4143-407e-b40e-260f9a1f67fc"
+    }
+}

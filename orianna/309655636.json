@@ -1,0 +1,49 @@
+{
+    "character": "orianna",
+    "id": "309655636",
+    "result": "他们跑什么呢？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012737538,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.985]  他们跑什么呢？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们跑什么呢？",
+                    "SliceSentence": "他们 跑 什么 呢",
+                    "StartMs": 0,
+                    "EndMs": 1985,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "跑",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.985313
+        },
+        "RequestId": "2c2f97b9-59ae-46d4-943f-06fff8393508"
+    }
+}

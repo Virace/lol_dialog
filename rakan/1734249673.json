@@ -1,0 +1,39 @@
+{
+    "character": "rakan",
+    "id": "1734249673",
+    "result": "接好了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012751491,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.931]  接好了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "接好了。",
+                    "SliceSentence": "接 好了",
+                    "StartMs": 0,
+                    "EndMs": 931,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "接",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "好了",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 660
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.931
+        },
+        "RequestId": "e4ac0a1e-f5f6-4879-98d5-5652489c3776"
+    }
+}

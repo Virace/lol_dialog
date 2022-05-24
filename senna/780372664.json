@@ -1,0 +1,49 @@
+{
+    "character": "senna",
+    "id": "780372664",
+    "result": "枪火就是我要说的话。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012769944,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.995]  枪火就是我要说的话。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "枪火就是我要说的话。",
+                    "SliceSentence": "枪火 就是 我要 说的话",
+                    "StartMs": 0,
+                    "EndMs": 2995,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "枪火",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "说的话",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.995375
+        },
+        "RequestId": "87af7699-d72e-431c-9f1e-7772c8efa6b1"
+    }
+}

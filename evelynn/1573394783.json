@@ -1,0 +1,59 @@
+{
+    "character": "evelynn",
+    "id": "1573394783",
+    "result": "不要对我说我不够美艳。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012562149,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.480]  不要对我说我不够美艳。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要对我说我不够美艳。",
+                    "SliceSentence": "不要 对我 说 我不 够 美艳",
+                    "StartMs": 0,
+                    "EndMs": 3480,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "对我",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "够",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "美艳",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.622313
+        },
+        "RequestId": "0485f6e7-b2ed-42b3-b2a0-b7338aff2d59"
+    }
+}

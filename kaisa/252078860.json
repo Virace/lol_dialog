@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "252078860",
+    "result": "我真厉害。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012690095,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.349]  我真厉害。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我真厉害。",
+                    "SliceSentence": "我 真 厉害",
+                    "StartMs": 0,
+                    "EndMs": 1349,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "真",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "厉害",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.349188
+        },
+        "RequestId": "e0a51957-8122-4ec2-b10d-1b384fb16cca"
+    }
+}

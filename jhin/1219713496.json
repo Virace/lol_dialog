@@ -1,0 +1,55 @@
+{
+    "character": "jhin",
+    "id": "1219713496",
+    "result": "啊？哎哎。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012684613,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.680]  啊？\n[0:2.820,0:5.569]  哎哎。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊？",
+                    "SliceSentence": "啊",
+                    "StartMs": 0,
+                    "EndMs": 1680,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 870
+                        }
+                    ],
+                    "SpeechSpeed": 1.2,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "哎哎。",
+                    "SliceSentence": "哎 哎",
+                    "StartMs": 2820,
+                    "EndMs": 5569,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哎",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "哎",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2670
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.569375
+        },
+        "RequestId": "7f5a5e09-e968-417c-8b25-b35ad477f7e4"
+    }
+}

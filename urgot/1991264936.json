@@ -1,0 +1,44 @@
+{
+    "character": "urgot",
+    "id": "1991264936",
+    "result": "时日不多了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012806737,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.345]  时日不多了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "时日不多了。",
+                    "SliceSentence": "时日 不多 了",
+                    "StartMs": 0,
+                    "EndMs": 3345,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "时日",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "不多",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2880
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.345063
+        },
+        "RequestId": "23335507-b41c-400a-9900-e887a8fe406d"
+    }
+}

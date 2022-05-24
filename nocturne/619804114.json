@@ -1,0 +1,44 @@
+{
+    "character": "nocturne",
+    "id": "619804114",
+    "result": "啊哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012732076,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:7.956]  啊哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊哈哈哈哈。",
+                    "SliceSentence": "啊 哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 7956,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 3120
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 3120,
+                            "OffsetEndMs": 4110
+                        }
+                    ],
+                    "SpeechSpeed": 1.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.956375
+        },
+        "RequestId": "61d5d52d-0b46-4fb7-9900-6a225bc29417"
+    }
+}

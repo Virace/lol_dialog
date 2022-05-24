@@ -1,0 +1,44 @@
+{
+    "character": "lillia",
+    "id": "1835588249",
+    "result": "对不起，对不起啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012715207,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.540]  对不起，对不起啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "对不起，对不起啊。",
+                    "SliceSentence": "对不起 对不起 啊",
+                    "StartMs": 0,
+                    "EndMs": 3540,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "对不起",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "对不起",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2700
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.45825
+        },
+        "RequestId": "efa7363c-9a17-419e-a998-57104d9786f6"
+    }
+}

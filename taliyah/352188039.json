@@ -1,0 +1,44 @@
+{
+    "character": "taliyah",
+    "id": "352188039",
+    "result": "我还在这里。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012792816,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.975]  我还在这里。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我还在这里。",
+                    "SliceSentence": "我 还在 这里",
+                    "StartMs": 0,
+                    "EndMs": 975,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "还在",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "这里",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 840
+                        }
+                    ],
+                    "SpeechSpeed": 8.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.975438
+        },
+        "RequestId": "d2c378d0-cac3-4008-9727-63615c74c522"
+    }
+}

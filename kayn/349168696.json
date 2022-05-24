@@ -1,0 +1,54 @@
+{
+    "character": "kayn",
+    "id": "349168696",
+    "result": "我怀念这刻太久了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012701475,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.953]  我怀念这刻太久了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我怀念这刻太久了。",
+                    "SliceSentence": "我 怀念 这刻 太久 了",
+                    "StartMs": 0,
+                    "EndMs": 2953,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "怀念",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "这刻",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "太久",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 2790
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.95325
+        },
+        "RequestId": "65dcd34b-052f-4f91-932e-05a73a676add"
+    }
+}

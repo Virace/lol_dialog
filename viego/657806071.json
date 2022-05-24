@@ -1,0 +1,49 @@
+{
+    "character": "viego",
+    "id": "657806071",
+    "result": "黑雾自会清算。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012814291,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.535]  黑雾自会清算。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "黑雾自会清算。",
+                    "SliceSentence": "黑雾 自 会 清算",
+                    "StartMs": 0,
+                    "EndMs": 3535,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "黑雾",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "自",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "清算",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.5355
+        },
+        "RequestId": "b59dcc91-ac40-4f8e-87bb-842344381cd3"
+    }
+}

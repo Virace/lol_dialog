@@ -1,0 +1,39 @@
+{
+    "character": "garen",
+    "id": "1965803031",
+    "result": "冲啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012572222,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.721]  冲啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "冲啊。",
+                    "SliceSentence": "冲 啊",
+                    "StartMs": 0,
+                    "EndMs": 1721,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "冲",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.721813
+        },
+        "RequestId": "fdcc4772-dee6-41ad-8676-14d560e4efb7"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "jhin",
+    "id": "277300564",
+    "result": "哼哼，哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012685913,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.613]  哼哼，哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼，哈哈哈哈。",
+                    "SliceSentence": "哼哼 哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 4613,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 3000
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 3000,
+                            "OffsetEndMs": 4290
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.613438
+        },
+        "RequestId": "347d0e9a-bc58-489b-95cb-ae21e1a10ccb"
+    }
+}

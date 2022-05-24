@@ -1,0 +1,49 @@
+{
+    "character": "yorick",
+    "id": "241545717",
+    "result": "啊，是的，我记得你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012844231,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.927]  啊，是的，我记得你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，是的，我记得你。",
+                    "SliceSentence": "啊 是的 我记得 你",
+                    "StartMs": 0,
+                    "EndMs": 3927,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "是的",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "我记得",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 3210
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 3210,
+                            "OffsetEndMs": 3690
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.927625
+        },
+        "RequestId": "7691557d-71ab-427d-a83b-b5ca137f3ae4"
+    }
+}

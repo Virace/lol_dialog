@@ -1,0 +1,44 @@
+{
+    "character": "heimerdinger",
+    "id": "1237949548",
+    "result": "我可以做得更好。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012576120,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.621]  我可以做得更好。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我可以做得更好。",
+                    "SliceSentence": "我 可以 做得更好",
+                    "StartMs": 0,
+                    "EndMs": 1621,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "做得更好",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.621813
+        },
+        "RequestId": "eb58d770-e76c-4f21-8253-6dfb0848d5bd"
+    }
+}

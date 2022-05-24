@@ -1,0 +1,49 @@
+{
+    "character": "ziggs",
+    "id": "213925351",
+    "result": "急性子？我才不是急性子。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012853484,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.117]  急性子？我才不是急性子。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "急性子？我才不是急性子。",
+                    "SliceSentence": "急性子 我才 不是 急性子",
+                    "StartMs": 0,
+                    "EndMs": 2117,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "急性子",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "我才",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "急性子",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.1175
+        },
+        "RequestId": "fb8c10b9-c4ea-48e8-8955-9f636153348a"
+    }
+}

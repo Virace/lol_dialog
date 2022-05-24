@@ -1,0 +1,59 @@
+{
+    "character": "cassiopeia",
+    "id": "1729333372",
+    "result": "很快他就会被完全吸收。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554831,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.404]  很快他就会被完全吸收。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "很快他就会被完全吸收。",
+                    "SliceSentence": "很快 他 就会 被 完全 吸收",
+                    "StartMs": 0,
+                    "EndMs": 3404,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "很快",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "他",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "就会",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "被",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "完全",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2520
+                        },
+                        {
+                            "Word": "吸收",
+                            "OffsetStartMs": 2520,
+                            "OffsetEndMs": 3330
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.404063
+        },
+        "RequestId": "7c529dde-4396-415c-b11d-224492a989f0"
+    }
+}

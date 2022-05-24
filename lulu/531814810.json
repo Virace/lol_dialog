@@ -1,0 +1,54 @@
+{
+    "character": "lulu",
+    "id": "531814810",
+    "result": "他们不会喜欢这个的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718955,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.464]  他们不会喜欢这个的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们不会喜欢这个的。",
+                    "SliceSentence": "他们 不会 喜欢 这个 的",
+                    "StartMs": 0,
+                    "EndMs": 2464,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.464188
+        },
+        "RequestId": "0baf15d2-6778-4828-9ce0-5d858f0b21f5"
+    }
+}

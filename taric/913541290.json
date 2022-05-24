@@ -1,0 +1,49 @@
+{
+    "character": "taric",
+    "id": "913541290",
+    "result": "这些烈阳真是误入歧途。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012797784,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.224]  这些烈阳真是误入歧途。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这些烈阳真是误入歧途。",
+                    "SliceSentence": "这些 烈阳 真是 误入歧途",
+                    "StartMs": 0,
+                    "EndMs": 4224,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这些",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "烈阳",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "真是",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "误入歧途",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 3180
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.224063
+        },
+        "RequestId": "b87289bb-932b-4c93-a180-0c62078fd924"
+    }
+}

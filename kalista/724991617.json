@@ -1,0 +1,49 @@
+{
+    "character": "kalista",
+    "id": "724991617",
+    "result": "我们不接受悔改。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012694731,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.000]  我们不接受悔改。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们不接受悔改。",
+                    "SliceSentence": "我们 不接 受 悔改",
+                    "StartMs": 0,
+                    "EndMs": 3000,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "不接",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "受",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "悔改",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.185
+        },
+        "RequestId": "768ea65a-2da8-4a75-879a-d69a5fe2ff5c"
+    }
+}

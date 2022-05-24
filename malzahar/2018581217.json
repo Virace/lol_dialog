@@ -1,0 +1,39 @@
+{
+    "character": "malzahar",
+    "id": "2018581217",
+    "result": "无可避免。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012720487,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.449]  无可避免。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "无可避免。",
+                    "SliceSentence": "无可 避免",
+                    "StartMs": 0,
+                    "EndMs": 3449,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "无可",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "避免",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.449
+        },
+        "RequestId": "6a3dad19-ba03-4ab4-9f8d-c73af4d81e10"
+    }
+}

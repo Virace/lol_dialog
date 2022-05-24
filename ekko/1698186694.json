@@ -1,0 +1,39 @@
+{
+    "character": "ekko",
+    "id": "1698186694",
+    "result": "再来一次。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012559533,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.803]  再来一次。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "再来一次。",
+                    "SliceSentence": "再来 一次",
+                    "StartMs": 0,
+                    "EndMs": 803,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "再来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "一次",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 720
+                        }
+                    ],
+                    "SpeechSpeed": 7.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.803375
+        },
+        "RequestId": "aa8ef879-4dba-484e-8216-4d9dc30b7397"
+    }
+}

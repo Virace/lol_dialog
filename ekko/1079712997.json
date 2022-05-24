@@ -1,0 +1,44 @@
+{
+    "character": "ekko",
+    "id": "1079712997",
+    "result": "怀疑我，我喜欢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012559116,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.064]  怀疑我，我喜欢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "怀疑我，我喜欢。",
+                    "SliceSentence": "怀疑 我我 喜欢",
+                    "StartMs": 0,
+                    "EndMs": 2064,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "怀疑",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "我我",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.064
+        },
+        "RequestId": "bc8736da-afef-4e3d-9499-294ae1baec18"
+    }
+}

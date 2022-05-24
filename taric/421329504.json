@@ -1,0 +1,59 @@
+{
+    "character": "taric",
+    "id": "421329504",
+    "result": "越暖和越好，越美越好。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012796839,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.045]  越暖和越好，越美越好。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "越暖和越好，越美越好。",
+                    "SliceSentence": "越 暖和 越好 越 美 越好",
+                    "StartMs": 0,
+                    "EndMs": 5045,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "越",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "暖和",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "越好",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "越",
+                            "OffsetStartMs": 2370,
+                            "OffsetEndMs": 2700
+                        },
+                        {
+                            "Word": "美",
+                            "OffsetStartMs": 2700,
+                            "OffsetEndMs": 3030
+                        },
+                        {
+                            "Word": "越好",
+                            "OffsetStartMs": 3030,
+                            "OffsetEndMs": 3930
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.045563
+        },
+        "RequestId": "65bb41c6-3708-4333-bdd5-69af28ad1237"
+    }
+}

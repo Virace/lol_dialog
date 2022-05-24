@@ -1,0 +1,49 @@
+{
+    "character": "poppy",
+    "id": "1007872714",
+    "result": "把盾放脸上。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012742411,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.545]  把盾放脸上。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "把盾放脸上。",
+                    "SliceSentence": "把 盾 放 脸上",
+                    "StartMs": 0,
+                    "EndMs": 1545,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "盾",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "放",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "脸上",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.545625
+        },
+        "RequestId": "4c7c8333-6259-462c-872d-26d3ef415995"
+    }
+}

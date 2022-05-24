@@ -1,0 +1,44 @@
+{
+    "character": "kindred",
+    "id": "347726692",
+    "result": "不用多说。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012704701,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.414]  不用多说。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不用多说。",
+                    "SliceSentence": "不用 多 说",
+                    "StartMs": 0,
+                    "EndMs": 1414,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "不用",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "多",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.4145
+        },
+        "RequestId": "2658801a-f8e3-4028-903f-ac9b3ba91ae3"
+    }
+}

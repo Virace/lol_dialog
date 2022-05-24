@@ -1,0 +1,59 @@
+{
+    "character": "swain",
+    "id": "345551443",
+    "result": "那女孩儿靠的太近了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012785141,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.844]  那女孩儿靠的太近了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "那女孩儿靠的太近了。",
+                    "SliceSentence": "那 女孩儿 靠 的 太近 了",
+                    "StartMs": 0,
+                    "EndMs": 2844,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "那",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "女孩儿",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "靠",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "太近",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.844375
+        },
+        "RequestId": "56ce62ce-1ed0-4791-b655-5d35a80146f1"
+    }
+}

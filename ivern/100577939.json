@@ -1,0 +1,44 @@
+{
+    "character": "ivern",
+    "id": "100577939",
+    "result": "嘿，好哇。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012583125,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.076]  嘿，好哇。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘿，好哇。",
+                    "SliceSentence": "嘿 好 哇",
+                    "StartMs": 0,
+                    "EndMs": 2076,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "嘿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "哇",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.076188
+        },
+        "RequestId": "6c2fb489-824e-411f-81c5-1100570da609"
+    }
+}

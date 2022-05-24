@@ -1,0 +1,79 @@
+{
+    "character": "yorick",
+    "id": "36721176",
+    "result": "我除了时间之外一无所有，给我看看其他的东西。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012844508,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:7.283]  我除了时间之外一无所有，给我看看其他的东西。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我除了时间之外一无所有，给我看看其他的东西。",
+                    "SliceSentence": "我 除了 时间 之外 一无所有 给我 看看 其他 的 东西",
+                    "StartMs": 0,
+                    "EndMs": 7283,
+                    "WordsNum": 10,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "除了",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "之外",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "一无所有",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 3750
+                        },
+                        {
+                            "Word": "给我",
+                            "OffsetStartMs": 4470,
+                            "OffsetEndMs": 4980
+                        },
+                        {
+                            "Word": "看看",
+                            "OffsetStartMs": 4980,
+                            "OffsetEndMs": 5490
+                        },
+                        {
+                            "Word": "其他",
+                            "OffsetStartMs": 5490,
+                            "OffsetEndMs": 6180
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 6180,
+                            "OffsetEndMs": 6360
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 6360,
+                            "OffsetEndMs": 7200
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.283188
+        },
+        "RequestId": "b1088fed-ecb9-4cc1-b912-d21d15c52547"
+    }
+}

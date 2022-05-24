@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "763097991",
+    "result": "我看到你了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746863,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.572]  我看到你了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我看到你了。",
+                    "SliceSentence": "我 看到 你 了",
+                    "StartMs": 0,
+                    "EndMs": 2572,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "看到",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.572375
+        },
+        "RequestId": "737252e3-58e1-41af-9562-d5a29bf1e445"
+    }
+}

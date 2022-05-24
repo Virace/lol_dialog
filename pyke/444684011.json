@@ -1,0 +1,44 @@
+{
+    "character": "pyke",
+    "id": "444684011",
+    "result": "我需要帮手。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746110,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.011]  我需要帮手。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我需要帮手。",
+                    "SliceSentence": "我 需要 帮手",
+                    "StartMs": 0,
+                    "EndMs": 2011,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "帮手",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.011
+        },
+        "RequestId": "55329500-986c-44b0-beed-199f80eac719"
+    }
+}

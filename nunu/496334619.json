@@ -1,0 +1,49 @@
+{
+    "character": "nunu",
+    "id": "496334619",
+    "result": "我真的不喜欢怪物。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012735853,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.090]  我真的不喜欢怪物。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我真的不喜欢怪物。",
+                    "SliceSentence": "我 真的 不喜欢 怪物",
+                    "StartMs": 0,
+                    "EndMs": 3090,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "真的",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "不喜欢",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "怪物",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 3000
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.090625
+        },
+        "RequestId": "79952d07-de1e-475c-b389-930654cee6ae"
+    }
+}

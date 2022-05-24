@@ -1,0 +1,39 @@
+{
+    "character": "zoe",
+    "id": "410061432",
+    "result": "你好呀。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012855883,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.876]  你好呀。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你好呀。",
+                    "SliceSentence": "你好 呀",
+                    "StartMs": 0,
+                    "EndMs": 1876,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "你好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "呀",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.876375
+        },
+        "RequestId": "c14644e2-8480-4ab9-af73-5a5d6226cd76"
+    }
+}

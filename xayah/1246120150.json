@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "1246120150",
+    "result": "情况有些棘手啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012834127,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.727]  情况有些棘手啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "情况有些棘手啦。",
+                    "SliceSentence": "情况 有些 棘手 啦",
+                    "StartMs": 0,
+                    "EndMs": 1727,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "情况",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "有些",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "棘手",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.727875
+        },
+        "RequestId": "57d5d59f-9a52-40e1-8278-49e58314e3b0"
+    }
+}

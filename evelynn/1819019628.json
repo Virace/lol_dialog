@@ -1,0 +1,44 @@
+{
+    "character": "evelynn",
+    "id": "1819019628",
+    "result": "闭嘴，尖叫，跳。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012562567,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.020]  闭嘴，尖叫，跳。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "闭嘴，尖叫，跳。",
+                    "SliceSentence": "闭嘴 尖叫 跳",
+                    "StartMs": 0,
+                    "EndMs": 4020,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "闭嘴",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "尖叫",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "跳",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.083625
+        },
+        "RequestId": "6026737e-9645-49d8-8c14-b0ee4731106c"
+    }
+}

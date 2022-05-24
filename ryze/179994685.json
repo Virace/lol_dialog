@@ -1,0 +1,64 @@
+{
+    "character": "ryze",
+    "id": "179994685",
+    "result": "我有遮脑袋的东西了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012764017,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.742]  我有遮脑袋的东西了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我有遮脑袋的东西了。",
+                    "SliceSentence": "我 有 遮 脑袋 的 东西 了",
+                    "StartMs": 0,
+                    "EndMs": 1742,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "遮",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "脑袋",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 9.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.742438
+        },
+        "RequestId": "8cd39425-1ab0-4d40-a87e-b3e4fb6282ce"
+    }
+}

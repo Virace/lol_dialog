@@ -1,0 +1,59 @@
+{
+    "character": "ekko",
+    "id": "1739946066",
+    "result": "我需要再想下事情。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012559623,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.328]  我需要再想下事情。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我需要再想下事情。",
+                    "SliceSentence": "我 需要 再 想 下 事情",
+                    "StartMs": 0,
+                    "EndMs": 1328,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "再",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "想",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "下",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "事情",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 10.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.328
+        },
+        "RequestId": "74cb4eee-d047-4d60-bc72-bc9ff35d3a5e"
+    }
+}

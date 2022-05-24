@@ -1,0 +1,54 @@
+{
+    "character": "jhin",
+    "id": "1990398646",
+    "result": "你该学习寂静的力量。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012685770,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.963]  你该学习寂静的力量。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你该学习寂静的力量。",
+                    "SliceSentence": "你该 学习 寂静 的 力量",
+                    "StartMs": 0,
+                    "EndMs": 2963,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你该",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "学习",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "寂静",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "力量",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 2880
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.963
+        },
+        "RequestId": "2cf29709-6cd1-42da-afd3-bf64227ddbc7"
+    }
+}

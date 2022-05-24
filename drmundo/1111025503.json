@@ -1,0 +1,54 @@
+{
+    "character": "drmundo",
+    "id": "1111025503",
+    "result": "健康的小伙子爱着神。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012557070,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.800]  健康的小伙子爱着神。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "健康的小伙子爱着神。",
+                    "SliceSentence": "健康 的 小伙子 爱着 神",
+                    "StartMs": 0,
+                    "EndMs": 3800,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "健康",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "小伙子",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "爱着",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2580
+                        },
+                        {
+                            "Word": "神",
+                            "OffsetStartMs": 2580,
+                            "OffsetEndMs": 3660
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.800313
+        },
+        "RequestId": "2dc45123-6931-4942-ac76-ba0e9ecddb21"
+    }
+}

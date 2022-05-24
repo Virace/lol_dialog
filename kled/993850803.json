@@ -1,0 +1,49 @@
+{
+    "character": "kled",
+    "id": "993850803",
+    "result": "对，我之后也要试试。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012710704,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.641]  对，我之后也要试试。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "对，我之后也要试试。",
+                    "SliceSentence": "对我 之后 也要 试试",
+                    "StartMs": 0,
+                    "EndMs": 2641,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "对我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "之后",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "也要",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "试试",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.641563
+        },
+        "RequestId": "226852b3-949d-4137-8ff6-e1ef4bb02f63"
+    }
+}

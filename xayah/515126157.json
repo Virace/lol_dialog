@@ -1,0 +1,64 @@
+{
+    "character": "xayah",
+    "id": "515126157",
+    "result": "我想把这家店全包了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012837090,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.602]  我想把这家店全包了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我想把这家店全包了。",
+                    "SliceSentence": "我 想 把 这家 店 全包 了",
+                    "StartMs": 0,
+                    "EndMs": 2602,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "想",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "这家",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "店",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "全包",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.602313
+        },
+        "RequestId": "0dc65c2f-b837-446c-b9d6-12ddfd38da87"
+    }
+}

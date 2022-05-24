@@ -1,0 +1,39 @@
+{
+    "character": "tristana",
+    "id": "226484783",
+    "result": "我要上楼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012799260,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.083]  我要上楼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要上楼。",
+                    "SliceSentence": "我要 上楼",
+                    "StartMs": 0,
+                    "EndMs": 1083,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "上楼",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.083438
+        },
+        "RequestId": "ba277c2f-65b0-44a5-a5a2-38332f90fc08"
+    }
+}

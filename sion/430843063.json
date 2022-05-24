@@ -1,0 +1,54 @@
+{
+    "character": "sion",
+    "id": "430843063",
+    "result": "一把缺少分量的剑。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012777034,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.112]  一把缺少分量的剑。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一把缺少分量的剑。",
+                    "SliceSentence": "一把 缺少 分量 的 剑",
+                    "StartMs": 0,
+                    "EndMs": 3112,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "一把",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "缺少",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "分量",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "剑",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2910
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.1125
+        },
+        "RequestId": "59a2ceee-3f84-42f7-8819-963212d05ab4"
+    }
+}

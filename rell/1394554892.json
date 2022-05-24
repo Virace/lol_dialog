@@ -1,0 +1,39 @@
+{
+    "character": "rell",
+    "id": "1394554892",
+    "result": "你有意见？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012757079,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.150]  你有意见？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你有意见？",
+                    "SliceSentence": "你 有意见",
+                    "StartMs": 0,
+                    "EndMs": 1150,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "有意见",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 840
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.15075
+        },
+        "RequestId": "e43456cb-37f6-4396-a6ce-2416e74786f1"
+    }
+}

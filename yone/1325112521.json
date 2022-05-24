@@ -1,0 +1,54 @@
+{
+    "character": "yone",
+    "id": "1325112521",
+    "result": "人说谎言，剑说真相。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012841677,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.992]  人说谎言，剑说真相。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "人说谎言，剑说真相。",
+                    "SliceSentence": "人说 谎言 剑 说 真相",
+                    "StartMs": 0,
+                    "EndMs": 4992,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "人说",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "谎言",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "剑",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2790
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 2790,
+                            "OffsetEndMs": 3120
+                        },
+                        {
+                            "Word": "真相",
+                            "OffsetStartMs": 3120,
+                            "OffsetEndMs": 3840
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.992313
+        },
+        "RequestId": "99a29b68-1349-4ec7-8291-f49645955060"
+    }
+}

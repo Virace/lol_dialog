@@ -1,0 +1,39 @@
+{
+    "character": "gwen",
+    "id": "257554989",
+    "result": "剪成碎片。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012574862,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.491]  剪成碎片。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "剪成碎片。",
+                    "SliceSentence": "剪成 碎片",
+                    "StartMs": 0,
+                    "EndMs": 2491,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "剪成",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "碎片",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.491125
+        },
+        "RequestId": "2edcc3d5-20a4-455f-a195-0313f97f239c"
+    }
+}

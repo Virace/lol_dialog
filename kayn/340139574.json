@@ -1,0 +1,44 @@
+{
+    "character": "kayn",
+    "id": "340139574",
+    "result": "该收割了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012701353,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.157]  该收割了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "该收割了。",
+                    "SliceSentence": "该 收割 了",
+                    "StartMs": 0,
+                    "EndMs": 2157,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "该",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "收割",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.157375
+        },
+        "RequestId": "c521f00d-67c7-4ee2-af23-1b9a5aee46b6"
+    }
+}

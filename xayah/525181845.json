@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "525181845",
+    "result": "霞要走了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012837068,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.345]  霞要走了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "霞要走了。",
+                    "SliceSentence": "霞 要 走了",
+                    "StartMs": 0,
+                    "EndMs": 1345,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "霞",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "走了",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.345438
+        },
+        "RequestId": "8e8cb1d4-2efd-4cfb-adb6-184a869ddbbf"
+    }
+}

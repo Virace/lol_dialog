@@ -1,0 +1,54 @@
+{
+    "character": "yorick",
+    "id": "580122243",
+    "result": "这迷雾已经变成了肌肤。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012845318,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.663]  这迷雾已经变成了肌肤。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这迷雾已经变成了肌肤。",
+                    "SliceSentence": "这 迷雾 已经 变成了 肌肤",
+                    "StartMs": 0,
+                    "EndMs": 4663,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "迷雾",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "变成了",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 3180
+                        },
+                        {
+                            "Word": "肌肤",
+                            "OffsetStartMs": 3180,
+                            "OffsetEndMs": 4590
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.663313
+        },
+        "RequestId": "745ae870-2869-421a-9425-a24ba4167dd1"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "929459587",
+    "result": "好了，下一个是谁？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012838224,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.872]  好了，下一个是谁？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好了，下一个是谁？",
+                    "SliceSentence": "好了 下一个 是谁",
+                    "StartMs": 0,
+                    "EndMs": 1872,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "好了",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "下一个",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "是谁",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.872313
+        },
+        "RequestId": "d3079e67-cbed-4a6b-b39b-7ce39064a0e9"
+    }
+}

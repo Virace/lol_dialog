@@ -1,0 +1,54 @@
+{
+    "character": "maokai",
+    "id": "1515816910",
+    "result": "这朵花很危险。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012721224,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.561]  这朵花很危险。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这朵花很危险。",
+                    "SliceSentence": "这 朵 花 很 危险",
+                    "StartMs": 0,
+                    "EndMs": 3561,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "朵",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "花",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "很",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "危险",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2670
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.5615
+        },
+        "RequestId": "424d060c-ac59-4023-9350-ca2e045f63fb"
+    }
+}

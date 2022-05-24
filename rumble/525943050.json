@@ -1,0 +1,49 @@
+{
+    "character": "rumble",
+    "id": "525943050",
+    "result": "你没时间提问？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012763381,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.486]  你没时间提问？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你没时间提问？",
+                    "SliceSentence": "你 没 时间 提问",
+                    "StartMs": 0,
+                    "EndMs": 1486,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "没",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "提问",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.486375
+        },
+        "RequestId": "8f4559c5-d946-4ec3-9dd9-3ecf64620ce4"
+    }
+}

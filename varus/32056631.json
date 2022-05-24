@@ -1,0 +1,44 @@
+{
+    "character": "varus",
+    "id": "32056631",
+    "result": "没有救赎可言。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012808313,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.060,0:4.100]  没有救赎可言。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没有救赎可言。",
+                    "SliceSentence": "没有 救赎 可言",
+                    "StartMs": 60,
+                    "EndMs": 4100,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "救赎",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "可言",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 3000
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.519938
+        },
+        "RequestId": "2aa9bdd4-ed7e-4c4d-ab49-9ee61351326f"
+    }
+}

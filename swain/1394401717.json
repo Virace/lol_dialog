@@ -1,0 +1,49 @@
+{
+    "character": "swain",
+    "id": "1394401717",
+    "result": "我一直在运筹。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012783858,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.243]  我一直在运筹。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我一直在运筹。",
+                    "SliceSentence": "我 一直 在 运筹",
+                    "StartMs": 0,
+                    "EndMs": 2243,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "一直",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "运筹",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.24375
+        },
+        "RequestId": "ee45777e-70b8-424f-8246-50451bf02845"
+    }
+}

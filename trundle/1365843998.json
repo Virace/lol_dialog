@@ -1,0 +1,59 @@
+{
+    "character": "trundle",
+    "id": "1365843998",
+    "result": "现在你在我的王国里。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012801059,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.038]  现在你在我的王国里。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "现在你在我的王国里。",
+                    "SliceSentence": "现在 你 在我 的 王国 里",
+                    "StartMs": 0,
+                    "EndMs": 4038,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "在我",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2700
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2700,
+                            "OffsetEndMs": 2790
+                        },
+                        {
+                            "Word": "王国",
+                            "OffsetStartMs": 2790,
+                            "OffsetEndMs": 3360
+                        },
+                        {
+                            "Word": "里",
+                            "OffsetStartMs": 3360,
+                            "OffsetEndMs": 3870
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.03875
+        },
+        "RequestId": "4c822c24-c86c-4eac-8b9f-05f3d4a7057d"
+    }
+}

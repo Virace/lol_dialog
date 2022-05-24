@@ -1,0 +1,44 @@
+{
+    "character": "kogmaw",
+    "id": "225124932",
+    "result": "该喂食啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012711101,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.507]  该喂食啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "该喂食啊。",
+                    "SliceSentence": "该 喂食 啊",
+                    "StartMs": 0,
+                    "EndMs": 2507,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "该",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "喂食",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.507375
+        },
+        "RequestId": "bfb8be8f-0932-4a4f-8bb6-57655a1b8a87"
+    }
+}

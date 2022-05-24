@@ -1,0 +1,49 @@
+{
+    "character": "akali",
+    "id": "228263910",
+    "result": "老办法是行不通的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012539488,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.785]  老办法是行不通的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "老办法是行不通的。",
+                    "SliceSentence": "老办法 是 行不通 的",
+                    "StartMs": 0,
+                    "EndMs": 1785,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "老办法",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "行不通",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.785375
+        },
+        "RequestId": "74b46acc-37e1-47c7-af2c-e7563d3e28d3"
+    }
+}

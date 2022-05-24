@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "2049324830",
+    "result": "我总能找到破绽。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012835929,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.176]  我总能找到破绽。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我总能找到破绽。",
+                    "SliceSentence": "我 总能 找到 破绽",
+                    "StartMs": 0,
+                    "EndMs": 2176,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "总能",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "找到",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "破绽",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.176813
+        },
+        "RequestId": "7dff937b-f73b-4783-948a-7dbeb51b97cc"
+    }
+}

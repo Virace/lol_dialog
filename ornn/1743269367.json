@@ -1,0 +1,54 @@
+{
+    "character": "ornn",
+    "id": "1743269367",
+    "result": "我的母语就是战斗。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012738770,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.035]  我的母语就是战斗。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的母语就是战斗。",
+                    "SliceSentence": "我 的 母语 就是 战斗",
+                    "StartMs": 0,
+                    "EndMs": 2035,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "母语",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "战斗",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.035688
+        },
+        "RequestId": "b15ff54a-437b-4887-82ff-a8d2799d6b54"
+    }
+}

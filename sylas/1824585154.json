@@ -1,0 +1,54 @@
+{
+    "character": "sylas",
+    "id": "1824585154",
+    "result": "我很抱歉，我的微光。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786955,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.363]  我很抱歉，我的微光。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我很抱歉，我的微光。",
+                    "SliceSentence": "我 很抱歉 我 的 微光",
+                    "StartMs": 0,
+                    "EndMs": 2363,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "很抱歉",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "微光",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.363063
+        },
+        "RequestId": "0c3e9ee7-7ddd-4a94-a4f9-82394bf0a6b4"
+    }
+}

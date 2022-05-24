@@ -1,0 +1,44 @@
+{
+    "character": "senna",
+    "id": "1563277240",
+    "result": "抓到你了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012768672,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.718]  抓到你了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "抓到你了。",
+                    "SliceSentence": "抓到 你 了",
+                    "StartMs": 0,
+                    "EndMs": 1718,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "抓到",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.718313
+        },
+        "RequestId": "7a401f78-bc42-47ee-b2ad-08e12389c640"
+    }
+}

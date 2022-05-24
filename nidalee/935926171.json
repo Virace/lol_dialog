@@ -1,0 +1,44 @@
+{
+    "character": "nidalee",
+    "id": "935926171",
+    "result": "哼哼哼哼哼哼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012731658,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.123]  哼哼哼哼哼哼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼哼哼哼哼。",
+                    "SliceSentence": "哼哼 哼哼 哼哼",
+                    "StartMs": 0,
+                    "EndMs": 2123,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.123313
+        },
+        "RequestId": "e0a8e52e-be05-4db5-bf9e-2f35f5121f85"
+    }
+}

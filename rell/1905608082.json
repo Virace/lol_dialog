@@ -1,0 +1,59 @@
+{
+    "character": "rell",
+    "id": "1905608082",
+    "result": "你别挡我的道。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012757631,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.201]  你别挡我的道。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你别挡我的道。",
+                    "SliceSentence": "你 别 挡 我 的 道",
+                    "StartMs": 0,
+                    "EndMs": 2201,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "挡",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "道",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.201438
+        },
+        "RequestId": "e0e72924-e86a-4ca9-9d30-35c1dc1f30a9"
+    }
+}

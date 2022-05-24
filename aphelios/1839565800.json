@@ -1,0 +1,44 @@
+{
+    "character": "aphelios",
+    "id": "1839565800",
+    "result": "你受伤了？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012543307,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.740]  你受伤了？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你受伤了？",
+                    "SliceSentence": "你 受伤 了",
+                    "StartMs": 0,
+                    "EndMs": 3740,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "受伤",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.387063
+        },
+        "RequestId": "39a7ce32-832f-4f71-b4eb-7799a80ca713"
+    }
+}

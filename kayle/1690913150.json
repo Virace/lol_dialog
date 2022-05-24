@@ -1,0 +1,49 @@
+{
+    "character": "kayle",
+    "id": "1690913150",
+    "result": "我的献身不可动摇。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012697716,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.423]  我的献身不可动摇。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的献身不可动摇。",
+                    "SliceSentence": "我 的 献身 不可动摇",
+                    "StartMs": 0,
+                    "EndMs": 3423,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "献身",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "不可动摇",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2790
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.423
+        },
+        "RequestId": "e0d543de-5ad4-48e9-b6f9-48b30e47e525"
+    }
+}

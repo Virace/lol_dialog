@@ -1,0 +1,49 @@
+{
+    "character": "rell",
+    "id": "1522293495",
+    "result": "你活不了了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012757159,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.518]  你活不了了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你活不了了。",
+                    "SliceSentence": "你 活 不 了了",
+                    "StartMs": 0,
+                    "EndMs": 1518,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "活",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "了了",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.51875
+        },
+        "RequestId": "54b86d8f-2750-4e59-addd-00ecf0a228e8"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "ashe",
+    "id": "1750420690",
+    "result": "要预判目标的位置。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012545309,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.275]  要预判目标的位置。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "要预判目标的位置。",
+                    "SliceSentence": "要 预判 目标 的 位置",
+                    "StartMs": 0,
+                    "EndMs": 2275,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "预判",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "目标",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "位置",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.275563
+        },
+        "RequestId": "8b02b870-f228-44f8-b7e4-69e118f0f8fa"
+    }
+}

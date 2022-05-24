@@ -1,0 +1,49 @@
+{
+    "character": "ornn",
+    "id": "350769423",
+    "result": "嗯，我不喜欢惊喜。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012739328,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.281]  嗯，我不喜欢惊喜。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯，我不喜欢惊喜。",
+                    "SliceSentence": "嗯 我不 喜欢 惊喜",
+                    "StartMs": 0,
+                    "EndMs": 2281,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "惊喜",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.28175
+        },
+        "RequestId": "587b2a8a-38cf-4455-a383-a40524b25e04"
+    }
+}

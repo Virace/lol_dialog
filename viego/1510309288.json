@@ -1,0 +1,64 @@
+{
+    "character": "viego",
+    "id": "1510309288",
+    "result": "我记得她沉入水中，然后，然后就。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012813246,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:6.658]  我记得她沉入水中，然后，然后就。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我记得她沉入水中，然后，然后就。",
+                    "SliceSentence": "我记得 她 沉入 水中 然后 然后 就",
+                    "StartMs": 0,
+                    "EndMs": 6658,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我记得",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "她",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "沉入",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "水中",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "然后",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 3240
+                        },
+                        {
+                            "Word": "然后",
+                            "OffsetStartMs": 4020,
+                            "OffsetEndMs": 4680
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 4680,
+                            "OffsetEndMs": 5130
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.658438
+        },
+        "RequestId": "99f9aba9-e708-4f75-ada7-efbff0112c31"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "warwick",
+    "id": "50307601",
+    "result": "看着你流血。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012832279,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.950]  看着你流血。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "看着你流血。",
+                    "SliceSentence": "看着 你 流血",
+                    "StartMs": 0,
+                    "EndMs": 2950,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "看着",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "流血",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.950375
+        },
+        "RequestId": "f133aa66-3753-4551-bce4-f43a094c1c08"
+    }
+}

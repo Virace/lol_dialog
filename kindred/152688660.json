@@ -1,0 +1,54 @@
+{
+    "character": "kindred",
+    "id": "152688660",
+    "result": "你能跑得有多快？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012704442,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.261]  你能跑得有多快？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你能跑得有多快？",
+                    "SliceSentence": "你能 跑 得 有 多快",
+                    "StartMs": 0,
+                    "EndMs": 2261,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你能",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "跑",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "得",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "多快",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.261125
+        },
+        "RequestId": "18acf61e-085c-4a0b-8310-00ba23bb1ae5"
+    }
+}

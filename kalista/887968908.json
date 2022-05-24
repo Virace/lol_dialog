@@ -1,0 +1,39 @@
+{
+    "character": "kalista",
+    "id": "887968908",
+    "result": "死破。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012694915,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.020,0:2.291]  死破。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "死破。",
+                    "SliceSentence": "死 破",
+                    "StartMs": 20,
+                    "EndMs": 2291,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "死",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "破",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.291125
+        },
+        "RequestId": "584416c2-bf8a-4a58-afcf-38bd42166f2d"
+    }
+}

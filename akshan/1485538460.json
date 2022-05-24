@@ -1,0 +1,59 @@
+{
+    "character": "akshan",
+    "id": "1485538460",
+    "result": "好，就是现在我上去了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012540847,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.816]  好，就是现在我上去了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好，就是现在我上去了。",
+                    "SliceSentence": "好 就是 现在 我 上去 了",
+                    "StartMs": 0,
+                    "EndMs": 2816,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "上去",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.816
+        },
+        "RequestId": "f5b6f49f-6afd-4263-a467-49f29dac6e87"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "498897610",
+    "result": "吃我一招。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012836792,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.983]  吃我一招。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "吃我一招。",
+                    "SliceSentence": "吃 我 一招",
+                    "StartMs": 0,
+                    "EndMs": 983,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "吃",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "一招",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 7.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.983
+        },
+        "RequestId": "543f6474-f6c4-4741-9d60-f6d3f196500b"
+    }
+}

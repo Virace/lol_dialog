@@ -1,0 +1,59 @@
+{
+    "character": "jhin",
+    "id": "1644308578",
+    "result": "这场表演需要更多的心血。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012685424,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.400]  这场表演需要更多的心血。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这场表演需要更多的心血。",
+                    "SliceSentence": "这场 表演 需要 更 多的 心血",
+                    "StartMs": 0,
+                    "EndMs": 5400,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "这场",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "表演",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "更",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "多的",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2610
+                        },
+                        {
+                            "Word": "心血",
+                            "OffsetStartMs": 2970,
+                            "OffsetEndMs": 4500
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.6955
+        },
+        "RequestId": "2192f134-2bc3-4b09-8087-70a610f255f8"
+    }
+}

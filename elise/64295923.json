@@ -1,0 +1,54 @@
+{
+    "character": "elise",
+    "id": "64295923",
+    "result": "在我的网中纠缠吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560976,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.843]  在我的网中纠缠吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "在我的网中纠缠吧。",
+                    "SliceSentence": "在我 的 网中 纠缠 吧",
+                    "StartMs": 0,
+                    "EndMs": 4843,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "在我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "网中",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "纠缠",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 3390
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 3390,
+                            "OffsetEndMs": 4080
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.843938
+        },
+        "RequestId": "427b4272-57f1-4ea0-a2b9-d5709dcecb30"
+    }
+}

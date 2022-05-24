@@ -1,0 +1,70 @@
+{
+    "character": "kaisa",
+    "id": "360562233",
+    "result": "危险很真切。恐惧只是幻觉。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012690403,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.960]  危险很真切。\n[0:1.960,0:4.613]  恐惧只是幻觉。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "危险很真切。",
+                    "SliceSentence": "危险 很 真切",
+                    "StartMs": 0,
+                    "EndMs": 1960,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "危险",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "很",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "真切",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "恐惧只是幻觉。",
+                    "SliceSentence": "恐惧 只是 幻觉",
+                    "StartMs": 1960,
+                    "EndMs": 4613,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "恐惧",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "只是",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "幻觉",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.613875
+        },
+        "RequestId": "21b7afa0-7c4d-47b2-93e1-379fdaec07fa"
+    }
+}

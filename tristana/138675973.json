@@ -1,0 +1,44 @@
+{
+    "character": "tristana",
+    "id": "138675973",
+    "result": "不要让它停。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012799081,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.889]  不要让它停。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要让它停。",
+                    "SliceSentence": "不要 让它 停",
+                    "StartMs": 0,
+                    "EndMs": 889,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "让它",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "停",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 9.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.889188
+        },
+        "RequestId": "e82d73a8-4ecb-4a65-aab7-4da0a1ea8658"
+    }
+}

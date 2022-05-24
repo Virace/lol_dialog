@@ -1,0 +1,54 @@
+{
+    "character": "yasuo",
+    "id": "966139354",
+    "result": "有些失误无法犯两次。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012841230,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.040]  有些失误无法犯两次。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "有些失误无法犯两次。",
+                    "SliceSentence": "有些 失误 无法 犯 两次",
+                    "StartMs": 0,
+                    "EndMs": 3040,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "有些",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "失误",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "无法",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "犯",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "两次",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.040563
+        },
+        "RequestId": "87c8af85-43ea-4e8a-8dc0-b30b44be5569"
+    }
+}

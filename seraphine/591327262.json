@@ -1,0 +1,49 @@
+{
+    "character": "seraphine",
+    "id": "591327262",
+    "result": "小心，咱们放慢一点。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012771686,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.960]  小心，咱们放慢一点。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "小心，咱们放慢一点。",
+                    "SliceSentence": "小心 咱们 放慢 一点",
+                    "StartMs": 0,
+                    "EndMs": 2960,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "小心",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "咱们",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "放慢",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "一点",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.556375
+        },
+        "RequestId": "b9cbe851-5ee0-4f51-81a8-095d3d519662"
+    }
+}

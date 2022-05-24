@@ -1,0 +1,59 @@
+{
+    "character": "swain",
+    "id": "1033237670",
+    "result": "又一颗棋子被吃掉了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012783360,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.594]  又一颗棋子被吃掉了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "又一颗棋子被吃掉了。",
+                    "SliceSentence": "又一 颗 棋子 被 吃掉 了",
+                    "StartMs": 0,
+                    "EndMs": 2594,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "又一",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "颗",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "棋子",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "被",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "吃掉",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.594938
+        },
+        "RequestId": "e099fc12-f16f-4c7e-9052-10fbfb51c758"
+    }
+}

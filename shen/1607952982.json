@@ -1,0 +1,49 @@
+{
+    "character": "shen",
+    "id": "1607952982",
+    "result": "我发现他们不值一提。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012774327,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.639]  我发现他们不值一提。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我发现他们不值一提。",
+                    "SliceSentence": "我 发现 他们 不值一提",
+                    "StartMs": 0,
+                    "EndMs": 2639,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "发现",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "不值一提",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.63975
+        },
+        "RequestId": "37d3ab90-ba46-4ecb-bbc7-fed41036ee31"
+    }
+}

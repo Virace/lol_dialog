@@ -1,0 +1,44 @@
+{
+    "character": "ekko",
+    "id": "10755558",
+    "result": "回去，继续前行。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012559088,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.212]  回去，继续前行。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "回去，继续前行。",
+                    "SliceSentence": "回去 继续 前行",
+                    "StartMs": 0,
+                    "EndMs": 1212,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "回去",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "继续",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "前行",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.2125
+        },
+        "RequestId": "c8efdce9-6cb8-4b9a-b45a-746cdcbc9987"
+    }
+}

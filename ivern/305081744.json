@@ -1,0 +1,44 @@
+{
+    "character": "ivern",
+    "id": "305081744",
+    "result": "我们精神合一。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012585213,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.559]  我们精神合一。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们精神合一。",
+                    "SliceSentence": "我们 精神 合一",
+                    "StartMs": 0,
+                    "EndMs": 2559,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "精神",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "合一",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.559313
+        },
+        "RequestId": "19adb96d-a1ac-4052-ab4a-2d62c89f1ed3"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "ivern",
+    "id": "304220445",
+    "result": "你一如既往的漂亮。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012585196,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.686]  你一如既往的漂亮。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你一如既往的漂亮。",
+                    "SliceSentence": "你 一如既往 的 漂亮",
+                    "StartMs": 0,
+                    "EndMs": 2686,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "一如既往",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "漂亮",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.686313
+        },
+        "RequestId": "8d8ffca8-e00f-45a1-aa63-eedf753a4f2a"
+    }
+}

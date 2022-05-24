@@ -1,0 +1,39 @@
+{
+    "character": "zac",
+    "id": "1216014517",
+    "result": "怎么样了？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012848205,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.653]  怎么样了？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "怎么样了？",
+                    "SliceSentence": "怎么样 了",
+                    "StartMs": 0,
+                    "EndMs": 653,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "怎么样",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 570
+                        }
+                    ],
+                    "SpeechSpeed": 9.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.65375
+        },
+        "RequestId": "929097cf-27f0-48b1-8435-e8c35d962bbc"
+    }
+}

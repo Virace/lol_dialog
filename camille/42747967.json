@@ -1,0 +1,49 @@
+{
+    "character": "camille",
+    "id": "42747967",
+    "result": "只有懦夫才会逃跑。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553268,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.135]  只有懦夫才会逃跑。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "只有懦夫才会逃跑。",
+                    "SliceSentence": "只有 懦夫 才会 逃跑",
+                    "StartMs": 0,
+                    "EndMs": 2135,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "只有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "懦夫",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "才会",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "逃跑",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.135188
+        },
+        "RequestId": "43813626-8dbb-4e96-8dff-d215287e5cd0"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "1556445650",
+    "result": "你说话呀。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012834904,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.313]  你说话呀。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你说话呀。",
+                    "SliceSentence": "你 说话 呀",
+                    "StartMs": 0,
+                    "EndMs": 1313,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "说话",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "呀",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.313313
+        },
+        "RequestId": "3e3910e7-3b65-4fc6-9d93-ad1d2a8261f2"
+    }
+}

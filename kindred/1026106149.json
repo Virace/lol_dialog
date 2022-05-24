@@ -1,0 +1,49 @@
+{
+    "character": "kindred",
+    "id": "1026106149",
+    "result": "把他们撕成碎片。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012704294,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.119]  把他们撕成碎片。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "把他们撕成碎片。",
+                    "SliceSentence": "把 他们 撕成 碎片",
+                    "StartMs": 0,
+                    "EndMs": 2119,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "撕成",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "碎片",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.119938
+        },
+        "RequestId": "1105bf29-eeec-40b8-81cc-16a266b2104c"
+    }
+}

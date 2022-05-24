@@ -1,0 +1,39 @@
+{
+    "character": "gangplank",
+    "id": "543012840",
+    "result": "不是今天。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012571129,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.322]  不是今天。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不是今天。",
+                    "SliceSentence": "不是 今天",
+                    "StartMs": 0,
+                    "EndMs": 1322,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "今天",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.322188
+        },
+        "RequestId": "968e0cf7-eb25-4950-90a8-a32d4792d17c"
+    }
+}

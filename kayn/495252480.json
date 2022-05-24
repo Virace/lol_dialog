@@ -1,0 +1,44 @@
+{
+    "character": "kayn",
+    "id": "495252480",
+    "result": "要有视野。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012702001,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.319]  要有视野。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "要有视野。",
+                    "SliceSentence": "要 有 视野",
+                    "StartMs": 0,
+                    "EndMs": 1319,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "视野",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.3195
+        },
+        "RequestId": "7ea0f72a-7219-459c-ba6e-12bb269a437c"
+    }
+}

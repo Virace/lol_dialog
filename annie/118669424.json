@@ -1,0 +1,49 @@
+{
+    "character": "annie",
+    "id": "118669424",
+    "result": "小妞妞放火球。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542513,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.501]  小妞妞放火球。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "小妞妞放火球。",
+                    "SliceSentence": "小妞 妞 放火 球",
+                    "StartMs": 0,
+                    "EndMs": 3501,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "小妞",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "妞",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "放火",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2790
+                        },
+                        {
+                            "Word": "球",
+                            "OffsetStartMs": 2790,
+                            "OffsetEndMs": 3240
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.501188
+        },
+        "RequestId": "33bb8840-22fd-4a49-9c3f-7b7ae3a6c2fb"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "samira",
+    "id": "233253660",
+    "result": "嗨，我赢了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012766725,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.623]  嗨，我赢了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗨，我赢了。",
+                    "SliceSentence": "嗨 我 赢了",
+                    "StartMs": 0,
+                    "EndMs": 2623,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "嗨",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "赢了",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.623875
+        },
+        "RequestId": "5ab83b61-3b26-4f1c-8817-ebfc237fed61"
+    }
+}

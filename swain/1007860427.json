@@ -1,0 +1,44 @@
+{
+    "character": "swain",
+    "id": "1007860427",
+    "result": "议和毫无意义。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012783322,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.154]  议和毫无意义。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "议和毫无意义。",
+                    "SliceSentence": "议和 毫无 意义",
+                    "StartMs": 0,
+                    "EndMs": 2154,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "议和",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "毫无",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "意义",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.15425
+        },
+        "RequestId": "4fb9a447-5745-49d0-a130-e518d03e07f9"
+    }
+}

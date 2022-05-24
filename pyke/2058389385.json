@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "2058389385",
+    "result": "没有无辜的人。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745788,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.424]  没有无辜的人。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没有无辜的人。",
+                    "SliceSentence": "没有 无辜 的 人",
+                    "StartMs": 0,
+                    "EndMs": 2424,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "无辜",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "人",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.424063
+        },
+        "RequestId": "facc0c4b-305c-4598-8ede-e7629771d55f"
+    }
+}

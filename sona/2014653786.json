@@ -1,0 +1,44 @@
+{
+    "character": "sona",
+    "id": "2014653786",
+    "result": "你没问题的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012782042,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.980]  你没问题的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你没问题的。",
+                    "SliceSentence": "你 没问题 的",
+                    "StartMs": 0,
+                    "EndMs": 3980,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "没问题",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.96975
+        },
+        "RequestId": "565b438d-8aec-400b-aace-fe0ecb66f5c0"
+    }
+}

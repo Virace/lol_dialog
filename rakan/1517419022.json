@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "1517419022",
+    "result": "我们的心向往的地方。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012750839,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.943]  我们的心向往的地方。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们的心向往的地方。",
+                    "SliceSentence": "我们 的心 向往 的 地方",
+                    "StartMs": 0,
+                    "EndMs": 1943,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "的心",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "向往",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "地方",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 7.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.943938
+        },
+        "RequestId": "40776430-7699-4c93-9c54-5be7b2ac844d"
+    }
+}

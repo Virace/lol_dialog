@@ -1,0 +1,39 @@
+{
+    "character": "kayn",
+    "id": "890132799",
+    "result": "我无处不在。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012703132,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.948]  我无处不在。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我无处不在。",
+                    "SliceSentence": "我 无处不在",
+                    "StartMs": 0,
+                    "EndMs": 2948,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "无处不在",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.9485
+        },
+        "RequestId": "d9d81f40-96e8-47b7-b152-33986637fe32"
+    }
+}

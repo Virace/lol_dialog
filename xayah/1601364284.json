@@ -1,0 +1,39 @@
+{
+    "character": "xayah",
+    "id": "1601364284",
+    "result": "说的是宝贝儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012835037,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.478]  说的是宝贝儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "说的是宝贝儿。",
+                    "SliceSentence": "说的是 宝贝儿",
+                    "StartMs": 0,
+                    "EndMs": 1478,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "说的是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "宝贝儿",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.478625
+        },
+        "RequestId": "6ff0001c-88b3-4422-b9a9-af77b556b566"
+    }
+}

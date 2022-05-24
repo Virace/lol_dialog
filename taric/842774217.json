@@ -1,0 +1,39 @@
+{
+    "character": "taric",
+    "id": "842774217",
+    "result": "哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012797606,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.086]  哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈。",
+                    "SliceSentence": "哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 1086,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.08675
+        },
+        "RequestId": "4139988f-2e05-4abd-ae82-2a8e361e2eb9"
+    }
+}

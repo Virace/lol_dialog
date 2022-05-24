@@ -1,0 +1,54 @@
+{
+    "character": "drmundo",
+    "id": "1785462779",
+    "result": "一把不够，那就两把。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012557930,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.101]  一把不够，那就两把。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一把不够，那就两把。",
+                    "SliceSentence": "一把 不够 那就 两 把",
+                    "StartMs": 0,
+                    "EndMs": 3101,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "一把",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "不够",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "那就",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "两",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 3000
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.1015
+        },
+        "RequestId": "72860177-2d0e-4687-9d96-603f62a73286"
+    }
+}

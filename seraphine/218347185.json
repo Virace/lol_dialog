@@ -1,0 +1,49 @@
+{
+    "character": "seraphine",
+    "id": "218347185",
+    "result": "灯光朝这儿的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012771073,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.360]  灯光朝这儿的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "灯光朝这儿的。",
+                    "SliceSentence": "灯光 朝 这儿 的",
+                    "StartMs": 0,
+                    "EndMs": 2360,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "灯光",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "朝",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "这儿",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.082563
+        },
+        "RequestId": "94e45842-65d0-4c14-ab4a-3516c327dc04"
+    }
+}

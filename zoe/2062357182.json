@@ -1,0 +1,54 @@
+{
+    "character": "zoe",
+    "id": "2062357182",
+    "result": "你真酷啊，我喜欢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012855346,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.158]  你真酷啊，我喜欢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你真酷啊，我喜欢。",
+                    "SliceSentence": "你真 酷 啊 我 喜欢",
+                    "StartMs": 0,
+                    "EndMs": 3158,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你真",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "酷",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.158375
+        },
+        "RequestId": "8827aacb-7375-4bdf-96dc-aed4e16e6f22"
+    }
+}

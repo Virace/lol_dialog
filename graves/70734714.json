@@ -1,0 +1,49 @@
+{
+    "character": "graves",
+    "id": "70734714",
+    "result": "想到好主意了吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012573756,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.500]  想到好主意了吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "想到好主意了吗？",
+                    "SliceSentence": "想到 好主意 了 吗",
+                    "StartMs": 0,
+                    "EndMs": 1500,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "想到",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "好主意",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 7.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.500125
+        },
+        "RequestId": "11635ecb-7499-421c-a9c3-bfa8adb593c3"
+    }
+}

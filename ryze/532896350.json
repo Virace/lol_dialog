@@ -1,0 +1,44 @@
+{
+    "character": "ryze",
+    "id": "532896350",
+    "result": "现在才是开始。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012764840,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.297]  现在才是开始。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "现在才是开始。",
+                    "SliceSentence": "现在 才是 开始",
+                    "StartMs": 0,
+                    "EndMs": 1297,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "才是",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "开始",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.297375
+        },
+        "RequestId": "c2de25a7-a221-4188-95a3-41f14c8e01a9"
+    }
+}

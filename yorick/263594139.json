@@ -1,0 +1,39 @@
+{
+    "character": "yorick",
+    "id": "263594139",
+    "result": "我们未来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012844314,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.220,0:5.318]  我们未来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们未来。",
+                    "SliceSentence": "我们 未来",
+                    "StartMs": 220,
+                    "EndMs": 5318,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "未来",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 1.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.318563
+        },
+        "RequestId": "3a4b32c3-8ab0-402c-a1c1-d7c0bacaee30"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "volibear",
+    "id": "824238227",
+    "result": "敲开他们的脑壳。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012817196,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.136]  敲开他们的脑壳。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "敲开他们的脑壳。",
+                    "SliceSentence": "敲开 他们 的 脑壳",
+                    "StartMs": 0,
+                    "EndMs": 3136,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "敲开",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "脑壳",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.136125
+        },
+        "RequestId": "3f74768f-e639-42bf-bd8c-bbd065f76674"
+    }
+}

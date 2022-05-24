@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "87016831",
+    "result": "欢迎来到漂游城。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746917,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.845]  欢迎来到漂游城。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "欢迎来到漂游城。",
+                    "SliceSentence": "欢迎 来到 漂游 城",
+                    "StartMs": 0,
+                    "EndMs": 3845,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "欢迎",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "来到",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "漂游",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "城",
+                            "OffsetStartMs": 2340,
+                            "OffsetEndMs": 3120
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.84575
+        },
+        "RequestId": "7695a324-3fa8-472e-8ff6-158af399d361"
+    }
+}

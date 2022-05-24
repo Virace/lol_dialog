@@ -1,0 +1,39 @@
+{
+    "character": "kayn",
+    "id": "1083486788",
+    "result": "嗯，骂。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012698946,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.900]  嗯，骂。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯，骂。",
+                    "SliceSentence": "嗯 骂",
+                    "StartMs": 0,
+                    "EndMs": 900,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "骂",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.900875
+        },
+        "RequestId": "4baad3ac-b0e3-4b91-9d71-8ca7f5cc3cb2"
+    }
+}

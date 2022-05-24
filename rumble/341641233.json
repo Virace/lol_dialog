@@ -1,0 +1,39 @@
+{
+    "character": "rumble",
+    "id": "341641233",
+    "result": "警告，警告。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012763286,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.483]  警告，警告。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "警告，警告。",
+                    "SliceSentence": "警告 警告",
+                    "StartMs": 0,
+                    "EndMs": 1483,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "警告",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "警告",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.483
+        },
+        "RequestId": "438da7f2-6870-46b1-bbf4-8d93a66bf38f"
+    }
+}

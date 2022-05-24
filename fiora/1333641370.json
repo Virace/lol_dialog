@@ -1,0 +1,49 @@
+{
+    "character": "fiora",
+    "id": "1333641370",
+    "result": "比你快一步。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012567285,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.857]  比你快一步。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "比你快一步。",
+                    "SliceSentence": "比 你 快 一步",
+                    "StartMs": 0,
+                    "EndMs": 1857,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "比",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "快",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "一步",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.857625
+        },
+        "RequestId": "adfbca16-bc90-48dc-9f8d-14a07fc4dd24"
+    }
+}

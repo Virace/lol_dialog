@@ -1,0 +1,50 @@
+{
+    "character": "ahri",
+    "id": "266704238",
+    "result": "哼哼。哼哼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012538369,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.140,0:3.580]  哼哼。\n[0:4.640,0:6.215]  哼哼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼。",
+                    "SliceSentence": "哼哼",
+                    "StartMs": 140,
+                    "EndMs": 3580,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 2580
+                        }
+                    ],
+                    "SpeechSpeed": 0.9,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "哼哼。",
+                    "SliceSentence": "哼哼",
+                    "StartMs": 4640,
+                    "EndMs": 6215,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.215188
+        },
+        "RequestId": "1159b1f1-ee43-46a3-9d3f-5224a508a854"
+    }
+}

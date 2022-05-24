@@ -1,0 +1,69 @@
+{
+    "character": "pyke",
+    "id": "618211730",
+    "result": "所有人看着我沉下去，就去，就干看着。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746658,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.567]  所有人看着我沉下去，就去，就干看着。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "所有人看着我沉下去，就去，就干看着。",
+                    "SliceSentence": "所有人 看着 我 沉下 去就 去就 干 看着",
+                    "StartMs": 0,
+                    "EndMs": 4567,
+                    "WordsNum": 8,
+                    "Words": [
+                        {
+                            "Word": "所有人",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "看着",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "沉下",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "去就",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "去就",
+                            "OffsetStartMs": 2610,
+                            "OffsetEndMs": 2940
+                        },
+                        {
+                            "Word": "干",
+                            "OffsetStartMs": 2940,
+                            "OffsetEndMs": 3270
+                        },
+                        {
+                            "Word": "看着",
+                            "OffsetStartMs": 3270,
+                            "OffsetEndMs": 3900
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.567063
+        },
+        "RequestId": "b936e7dc-0edd-4bd6-8627-24f412df3cc6"
+    }
+}

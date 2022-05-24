@@ -1,0 +1,44 @@
+{
+    "character": "xerath",
+    "id": "1053425395",
+    "result": "你是冒充的？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012838435,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.246]  你是冒充的？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你是冒充的？",
+                    "SliceSentence": "你是 冒充 的",
+                    "StartMs": 0,
+                    "EndMs": 2246,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "冒充",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.246938
+        },
+        "RequestId": "87d78f30-7fa3-4982-867c-f5947b7d287a"
+    }
+}

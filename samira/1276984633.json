@@ -1,0 +1,44 @@
+{
+    "character": "samira",
+    "id": "1276984633",
+    "result": "完全没有歉意。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012766080,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.252]  完全没有歉意。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "完全没有歉意。",
+                    "SliceSentence": "完全 没有 歉意",
+                    "StartMs": 0,
+                    "EndMs": 2252,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "完全",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "歉意",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.252375
+        },
+        "RequestId": "bf4f0d51-c75d-4dfb-8f8b-28c61a9f821d"
+    }
+}

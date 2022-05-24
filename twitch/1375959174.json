@@ -1,0 +1,59 @@
+{
+    "character": "twitch",
+    "id": "1375959174",
+    "result": "我需要这些来藏东西。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012803084,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.715]  我需要这些来藏东西。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我需要这些来藏东西。",
+                    "SliceSentence": "我 需要 这些 来 藏 东西",
+                    "StartMs": 0,
+                    "EndMs": 3715,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "这些",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "藏",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 3000
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.715188
+        },
+        "RequestId": "fb456900-de9c-42e4-98fe-277f4d05e6d5"
+    }
+}

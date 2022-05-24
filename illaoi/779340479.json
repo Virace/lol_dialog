@@ -1,0 +1,49 @@
+{
+    "character": "illaoi",
+    "id": "779340479",
+    "result": "你游的很好。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012579178,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.300]  你游的很好。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你游的很好。",
+                    "SliceSentence": "你 游 的 很好",
+                    "StartMs": 0,
+                    "EndMs": 1300,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 60
+                        },
+                        {
+                            "Word": "游",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "很好",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.300625
+        },
+        "RequestId": "ba7bffda-cb4d-407e-812e-c6e2d71582b0"
+    }
+}

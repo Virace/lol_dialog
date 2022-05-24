@@ -1,0 +1,59 @@
+{
+    "character": "seraphine",
+    "id": "537610031",
+    "result": "我最喜欢专心的观众啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012771411,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.860]  我最喜欢专心的观众啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我最喜欢专心的观众啦。",
+                    "SliceSentence": "我 最喜欢 专心 的 观众 啦",
+                    "StartMs": 0,
+                    "EndMs": 2860,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "最喜欢",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "专心",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "观众",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.491125
+        },
+        "RequestId": "283ea769-2cef-4613-a615-1948253648f3"
+    }
+}

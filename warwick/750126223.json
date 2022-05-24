@@ -1,0 +1,54 @@
+{
+    "character": "warwick",
+    "id": "750126223",
+    "result": "你的尖叫会让你窒息。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012832942,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.766]  你的尖叫会让你窒息。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你的尖叫会让你窒息。",
+                    "SliceSentence": "你的 尖叫 会 让你 窒息",
+                    "StartMs": 0,
+                    "EndMs": 3766,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "尖叫",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "让你",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "窒息",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2970
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.766
+        },
+        "RequestId": "e3d9cedd-bd2c-4b6a-9b14-49dcd3ff6a18"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "lulu",
+    "id": "2030122992",
+    "result": "只要一小撮。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718919,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.482]  只要一小撮。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "只要一小撮。",
+                    "SliceSentence": "只要 一小撮",
+                    "StartMs": 0,
+                    "EndMs": 1482,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "只要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "一小撮",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.482
+        },
+        "RequestId": "0823d725-0f91-4588-9b90-5998a4fcc2c2"
+    }
+}

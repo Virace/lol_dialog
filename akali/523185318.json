@@ -1,0 +1,49 @@
+{
+    "character": "akali",
+    "id": "523185318",
+    "result": "好的，我搞得定。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012539781,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.438]  好的，我搞得定。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好的，我搞得定。",
+                    "SliceSentence": "好的 我 搞得 定",
+                    "StartMs": 0,
+                    "EndMs": 2438,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "好的",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "搞得",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "定",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.43875
+        },
+        "RequestId": "3b440fef-11ac-4c95-89e1-0ffbba5abbfc"
+    }
+}

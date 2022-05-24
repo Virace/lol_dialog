@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "313940389",
+    "result": "你还好吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012753070,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.025]  你还好吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你还好吗？",
+                    "SliceSentence": "你 还好 吗",
+                    "StartMs": 0,
+                    "EndMs": 1025,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "还好",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 690
+                        }
+                    ],
+                    "SpeechSpeed": 6.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.025625
+        },
+        "RequestId": "fb5026ea-6948-48c5-a25e-17ec931af7e4"
+    }
+}

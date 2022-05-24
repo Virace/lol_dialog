@@ -1,0 +1,59 @@
+{
+    "character": "camille",
+    "id": "791354647",
+    "result": "想要离开，得先申请许可。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554131,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.922]  想要离开，得先申请许可。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "想要离开，得先申请许可。",
+                    "SliceSentence": "想要 离开 得 先 申请 许可",
+                    "StartMs": 0,
+                    "EndMs": 2922,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "想要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "离开",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "得",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "先",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "申请",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "许可",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2850
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.922688
+        },
+        "RequestId": "61c83119-3145-4f90-82cf-893d73ba0eba"
+    }
+}

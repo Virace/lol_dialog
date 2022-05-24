@@ -1,0 +1,44 @@
+{
+    "character": "poppy",
+    "id": "114643369",
+    "result": "我要进行到底。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012742555,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.584]  我要进行到底。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要进行到底。",
+                    "SliceSentence": "我要 进行 到底",
+                    "StartMs": 0,
+                    "EndMs": 1584,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "进行",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "到底",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.584438
+        },
+        "RequestId": "a6505010-9d9a-414e-87e4-d7f74029d37d"
+    }
+}

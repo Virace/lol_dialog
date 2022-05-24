@@ -1,0 +1,39 @@
+{
+    "character": "darius",
+    "id": "2085925522",
+    "result": "啊哒。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012555872,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.648]  啊哒。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊哒。",
+                    "SliceSentence": "啊 哒",
+                    "StartMs": 0,
+                    "EndMs": 1648,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "哒",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.648625
+        },
+        "RequestId": "10b43f7a-92c6-4ed8-90b2-413199ec1f95"
+    }
+}

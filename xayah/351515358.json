@@ -1,0 +1,39 @@
+{
+    "character": "xayah",
+    "id": "351515358",
+    "result": "掩护我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012836447,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.835]  掩护我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "掩护我。",
+                    "SliceSentence": "掩护 我",
+                    "StartMs": 0,
+                    "EndMs": 835,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "掩护",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 720
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.835688
+        },
+        "RequestId": "d1a4b785-2bfb-42a0-b99e-c98e2a21f387"
+    }
+}

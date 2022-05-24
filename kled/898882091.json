@@ -1,0 +1,59 @@
+{
+    "character": "kled",
+    "id": "898882091",
+    "result": "我警告你别抛下我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012709963,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.125]  我警告你别抛下我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我警告你别抛下我。",
+                    "SliceSentence": "我 警告 你 别 抛下 我",
+                    "StartMs": 0,
+                    "EndMs": 3125,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "警告",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "抛下",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.125313
+        },
+        "RequestId": "51504bfb-2110-40a2-899d-139ebfe07e6a"
+    }
+}

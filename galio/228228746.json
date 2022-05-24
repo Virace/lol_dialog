@@ -1,0 +1,44 @@
+{
+    "character": "galio",
+    "id": "228228746",
+    "result": "糟糕，误伤友军。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568563,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.942]  糟糕，误伤友军。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "糟糕，误伤友军。",
+                    "SliceSentence": "糟糕 误伤 友军",
+                    "StartMs": 0,
+                    "EndMs": 1942,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "糟糕",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "误伤",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "友军",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.9425
+        },
+        "RequestId": "76f09d0d-7564-4344-bb8d-51c784e9111d"
+    }
+}

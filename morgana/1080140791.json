@@ -1,0 +1,49 @@
+{
+    "character": "morgana",
+    "id": "1080140791",
+    "result": "我会承担一切后果。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012725715,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.014]  我会承担一切后果。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会承担一切后果。",
+                    "SliceSentence": "我会 承担 一切 后果",
+                    "StartMs": 0,
+                    "EndMs": 3014,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "承担",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "一切",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "后果",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2580
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.014125
+        },
+        "RequestId": "897d4320-d849-4919-9b27-310f605b2aa2"
+    }
+}

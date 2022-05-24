@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "993285772",
+    "result": "你露出破绽。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012693151,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.586]  你露出破绽。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你露出破绽。",
+                    "SliceSentence": "你 露出 破绽",
+                    "StartMs": 0,
+                    "EndMs": 1586,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "露出",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "破绽",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.586875
+        },
+        "RequestId": "633900e2-e3a3-4a4b-97dc-f11567a443f6"
+    }
+}

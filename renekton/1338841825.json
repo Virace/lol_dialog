@@ -1,0 +1,59 @@
+{
+    "character": "renekton",
+    "id": "1338841825",
+    "result": "白肉黑肉都是好肉。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012761404,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.820]  白肉黑肉都是好肉。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "白肉黑肉都是好肉。",
+                    "SliceSentence": "白肉 黑 肉 都是 好 肉",
+                    "StartMs": 0,
+                    "EndMs": 4820,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "白肉",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "黑",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "肉",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "都是",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2790
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 2790,
+                            "OffsetEndMs": 3210
+                        },
+                        {
+                            "Word": "肉",
+                            "OffsetStartMs": 3210,
+                            "OffsetEndMs": 3600
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.969063
+        },
+        "RequestId": "cec3d0c8-9911-47e6-91c8-e82960c27765"
+    }
+}

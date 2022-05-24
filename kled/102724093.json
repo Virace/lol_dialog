@@ -1,0 +1,64 @@
+{
+    "character": "kled",
+    "id": "102724093",
+    "result": "是我的，我就得看紧了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012706103,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.711]  是我的，我就得看紧了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "是我的，我就得看紧了。",
+                    "SliceSentence": "是我 的 我 就 得 看紧 了",
+                    "StartMs": 0,
+                    "EndMs": 3711,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "得",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "看紧",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 3090
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 3090,
+                            "OffsetEndMs": 3450
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.711688
+        },
+        "RequestId": "526d7ffb-ac7d-4e0f-9000-7992d1fae761"
+    }
+}

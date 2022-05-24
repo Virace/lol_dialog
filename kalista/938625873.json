@@ -1,0 +1,44 @@
+{
+    "character": "kalista",
+    "id": "938625873",
+    "result": "我们不会手下留情。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012694984,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.621]  我们不会手下留情。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们不会手下留情。",
+                    "SliceSentence": "我们 不会 手下留情",
+                    "StartMs": 0,
+                    "EndMs": 4621,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "手下留情",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 3660
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.62175
+        },
+        "RequestId": "b9eb9e71-e720-4dd5-99be-67ddb1d60c6b"
+    }
+}

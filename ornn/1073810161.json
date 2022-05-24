@@ -1,0 +1,74 @@
+{
+    "character": "ornn",
+    "id": "1073810161",
+    "result": "我叫奥恩，别呼这些没用的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012737789,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.823]  我叫奥恩，别呼这些没用的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我叫奥恩，别呼这些没用的。",
+                    "SliceSentence": "我 叫 奥 恩 别 呼 这些 没用 的",
+                    "StartMs": 0,
+                    "EndMs": 3823,
+                    "WordsNum": 9,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "叫",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "奥",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "恩",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "呼",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "这些",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 2760
+                        },
+                        {
+                            "Word": "没用",
+                            "OffsetStartMs": 2760,
+                            "OffsetEndMs": 3270
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 3270,
+                            "OffsetEndMs": 3600
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.823188
+        },
+        "RequestId": "9e893ae6-2bf5-47f0-9667-62fbf6578a1e"
+    }
+}

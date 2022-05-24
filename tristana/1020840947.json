@@ -1,0 +1,49 @@
+{
+    "character": "tristana",
+    "id": "1020840947",
+    "result": "需要来次深呼吸。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012798917,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.016]  需要来次深呼吸。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "需要来次深呼吸。",
+                    "SliceSentence": "需要 来 次 深呼吸",
+                    "StartMs": 0,
+                    "EndMs": 2016,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "次",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "深呼吸",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.01625
+        },
+        "RequestId": "555f908b-a843-4b86-b0f9-1f8c5b9e903c"
+    }
+}

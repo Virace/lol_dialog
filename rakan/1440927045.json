@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "1440927045",
+    "result": "一直都是时候。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012750531,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.630]  一直都是时候。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一直都是时候。",
+                    "SliceSentence": "一直 都是 时候",
+                    "StartMs": 0,
+                    "EndMs": 1630,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "一直",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "都是",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "时候",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.630813
+        },
+        "RequestId": "c6da19dd-2fa3-4596-aa59-78da209de6e1"
+    }
+}

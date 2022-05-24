@@ -1,0 +1,85 @@
+{
+    "character": "jinx",
+    "id": "468482841",
+    "result": "我穿了很多根皮带。没有任何理由。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012687428,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.460]  我穿了很多根皮带。\n[0:2.460,0:4.205]  没有任何理由。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我穿了很多根皮带。",
+                    "SliceSentence": "我 穿 了 很多 根 皮带",
+                    "StartMs": 0,
+                    "EndMs": 2460,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "穿",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "很多",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "根",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "皮带",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "没有任何理由。",
+                    "SliceSentence": "没有 任何 理由",
+                    "StartMs": 2460,
+                    "EndMs": 4205,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "任何",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "理由",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.205938
+        },
+        "RequestId": "e5caab80-8423-47f7-acd7-7d77feac0b18"
+    }
+}

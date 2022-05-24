@@ -1,0 +1,44 @@
+{
+    "character": "kled",
+    "id": "201535645",
+    "result": "诺克萨斯，欢迎你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012706575,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.483]  诺克萨斯，欢迎你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "诺克萨斯，欢迎你。",
+                    "SliceSentence": "诺克萨斯 欢迎 你",
+                    "StartMs": 0,
+                    "EndMs": 2483,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "诺克萨斯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "欢迎",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.483875
+        },
+        "RequestId": "cac39dae-3a54-49bb-a907-ffb789d5746f"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "neeko",
+    "id": "351527142",
+    "result": "你惹错人呀。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012730349,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.112]  你惹错人呀。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你惹错人呀。",
+                    "SliceSentence": "你 惹 错人 呀",
+                    "StartMs": 0,
+                    "EndMs": 1112,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "惹",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "错人",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "呀",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 8.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.112438
+        },
+        "RequestId": "d925af3b-bef3-43e0-a13e-9878fd67dbbd"
+    }
+}

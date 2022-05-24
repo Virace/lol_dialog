@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "670280196",
+    "result": "我们来找点乐子。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012754138,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.530]  我们来找点乐子。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们来找点乐子。",
+                    "SliceSentence": "我们 来找 点 乐子",
+                    "StartMs": 0,
+                    "EndMs": 1530,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "来找",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "点",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "乐子",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 7.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.530438
+        },
+        "RequestId": "ae9631d8-7775-47a4-90e2-6c274c8c01aa"
+    }
+}

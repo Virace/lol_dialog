@@ -1,0 +1,49 @@
+{
+    "character": "yone",
+    "id": "1055193444",
+    "result": "每个人都戴着面具。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012841339,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.088]  每个人都戴着面具。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "每个人都戴着面具。",
+                    "SliceSentence": "每个人 都 戴着 面具",
+                    "StartMs": 0,
+                    "EndMs": 3088,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "每个人",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "都",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "戴着",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "面具",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.08825
+        },
+        "RequestId": "a6f3f4a8-71a3-4ee7-a350-0eaf859fe21a"
+    }
+}

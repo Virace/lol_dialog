@@ -1,0 +1,59 @@
+{
+    "character": "jayce",
+    "id": "1922982451",
+    "result": "我将照亮前进的路。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012684143,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.088]  我将照亮前进的路。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我将照亮前进的路。",
+                    "SliceSentence": "我 将 照亮 前进 的 路",
+                    "StartMs": 0,
+                    "EndMs": 3088,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "将",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "照亮",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "前进",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "路",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 3030
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.08825
+        },
+        "RequestId": "11f8eca6-7d1f-4d7a-884c-c32f7d5847a4"
+    }
+}

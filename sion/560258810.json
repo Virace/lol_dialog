@@ -1,0 +1,54 @@
+{
+    "character": "sion",
+    "id": "560258810",
+    "result": "绝不留下完整的石头。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012777299,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.719]  绝不留下完整的石头。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "绝不留下完整的石头。",
+                    "SliceSentence": "绝不 留下 完整 的 石头",
+                    "StartMs": 0,
+                    "EndMs": 3719,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "绝不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "留下",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "完整",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "石头",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 3510
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.719
+        },
+        "RequestId": "5de22cdf-0dab-4603-b9cc-b58b588a7a7e"
+    }
+}

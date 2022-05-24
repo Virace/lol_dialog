@@ -1,0 +1,49 @@
+{
+    "character": "kaisa",
+    "id": "543302414",
+    "result": "利用他们的失误。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012690995,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.590]  利用他们的失误。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "利用他们的失误。",
+                    "SliceSentence": "利用 他们 的 失误",
+                    "StartMs": 0,
+                    "EndMs": 1590,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "利用",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "失误",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.59
+        },
+        "RequestId": "a1ac8368-dc2f-4f54-b197-4293a85ef18b"
+    }
+}

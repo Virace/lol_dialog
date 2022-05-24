@@ -1,0 +1,39 @@
+{
+    "character": "rakan",
+    "id": "1901136984",
+    "result": "这才是主题。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012751874,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.378]  这才是主题。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这才是主题。",
+                    "SliceSentence": "这才是 主题",
+                    "StartMs": 0,
+                    "EndMs": 1378,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "这才是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "主题",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.378063
+        },
+        "RequestId": "9bb9b4a5-b752-44be-95ad-267bda74fedd"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "azir",
+    "id": "120805454",
+    "result": "命令已下达。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012548525,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.496]  命令已下达。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "命令已下达。",
+                    "SliceSentence": "命令 已 下达",
+                    "StartMs": 0,
+                    "EndMs": 1496,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "命令",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "已",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "下达",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.496938
+        },
+        "RequestId": "e42f71d0-3d8c-42df-bcad-3542a6cf6b2e"
+    }
+}

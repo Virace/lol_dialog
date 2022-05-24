@@ -1,0 +1,44 @@
+{
+    "character": "ivern",
+    "id": "6715213",
+    "result": "我们是一。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012682668,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.942]  我们是一。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们是一。",
+                    "SliceSentence": "我们 是 一",
+                    "StartMs": 0,
+                    "EndMs": 1942,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "一",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.9425
+        },
+        "RequestId": "33a9803a-b3bf-4e0f-a05c-8d89aa78abee"
+    }
+}

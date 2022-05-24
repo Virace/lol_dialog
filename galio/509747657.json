@@ -1,0 +1,74 @@
+{
+    "character": "galio",
+    "id": "509747657",
+    "result": "我要走了，300吨的东西，你来搬搬看。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012569221,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.851]  我要走了，300吨的东西，你来搬搬看。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要走了，300吨的东西，你来搬搬看。",
+                    "SliceSentence": "我要 走了 300吨 的 东西 你来 搬 搬 看",
+                    "StartMs": 0,
+                    "EndMs": 3851,
+                    "WordsNum": 9,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "走了",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "300吨",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2640
+                        },
+                        {
+                            "Word": "你来",
+                            "OffsetStartMs": 2670,
+                            "OffsetEndMs": 3150
+                        },
+                        {
+                            "Word": "搬",
+                            "OffsetStartMs": 3150,
+                            "OffsetEndMs": 3360
+                        },
+                        {
+                            "Word": "搬",
+                            "OffsetStartMs": 3360,
+                            "OffsetEndMs": 3510
+                        },
+                        {
+                            "Word": "看",
+                            "OffsetStartMs": 3510,
+                            "OffsetEndMs": 3780
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.8515
+        },
+        "RequestId": "dd3f1133-1bc4-4531-b513-46c853c1dddf"
+    }
+}

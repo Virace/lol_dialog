@@ -1,0 +1,44 @@
+{
+    "character": "sion",
+    "id": "704184014",
+    "result": "我不会流血。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012777630,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.146]  我不会流血。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不会流血。",
+                    "SliceSentence": "我 不会 流血",
+                    "StartMs": 0,
+                    "EndMs": 4146,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "流血",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 3810
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.146125
+        },
+        "RequestId": "3df72c53-8bb3-4321-a880-0a43de525e0c"
+    }
+}

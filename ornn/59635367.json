@@ -1,0 +1,59 @@
+{
+    "character": "ornn",
+    "id": "59635367",
+    "result": "就连我的胡子都在生气。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012739715,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.500]  就连我的胡子都在生气。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "就连我的胡子都在生气。",
+                    "SliceSentence": "就连 我 的 胡子 都在 生气",
+                    "StartMs": 0,
+                    "EndMs": 2500,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "就连",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "胡子",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "都在",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "生气",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.500875
+        },
+        "RequestId": "361caf40-3c20-41f1-a8e6-d1d6270f640a"
+    }
+}

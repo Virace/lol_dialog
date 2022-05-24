@@ -1,0 +1,39 @@
+{
+    "character": "kled",
+    "id": "929020384",
+    "result": "冲啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012710222,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.702]  冲啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "冲啊。",
+                    "SliceSentence": "冲 啊",
+                    "StartMs": 0,
+                    "EndMs": 2702,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "冲",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.702813
+        },
+        "RequestId": "d524e34b-88a5-4469-b4f1-d807f1eb4d3e"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "2081101565",
+    "result": "哈哈，跟你说过。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012752668,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.634]  哈哈，跟你说过。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈，跟你说过。",
+                    "SliceSentence": "哈哈 跟你 说过",
+                    "StartMs": 0,
+                    "EndMs": 1634,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "跟你",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "说过",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.634813
+        },
+        "RequestId": "f8f09d1d-6d7b-4d11-b22a-aed48aa45585"
+    }
+}

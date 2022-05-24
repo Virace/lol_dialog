@@ -1,0 +1,54 @@
+{
+    "character": "kled",
+    "id": "146121397",
+    "result": "你再说一遍有种的话。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012706388,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.545]  你再说一遍有种的话。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你再说一遍有种的话。",
+                    "SliceSentence": "你再 说 一遍 有种 的话",
+                    "StartMs": 0,
+                    "EndMs": 3545,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你再",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "一遍",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "有种",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2580
+                        },
+                        {
+                            "Word": "的话",
+                            "OffsetStartMs": 2580,
+                            "OffsetEndMs": 3300
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.54575
+        },
+        "RequestId": "ee447119-cae3-4aa3-a7dd-7974a038065e"
+    }
+}

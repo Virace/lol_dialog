@@ -1,0 +1,39 @@
+{
+    "character": "draven",
+    "id": "73933773",
+    "result": "走滑步。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556963,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.020,0:3.320]  走滑步。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "走滑步。",
+                    "SliceSentence": "走 滑步",
+                    "StartMs": 20,
+                    "EndMs": 3320,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "走",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "滑步",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.290438
+        },
+        "RequestId": "259f2fba-e64d-48fc-a9d6-356d7ad1aa53"
+    }
+}

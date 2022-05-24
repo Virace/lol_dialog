@@ -1,0 +1,49 @@
+{
+    "character": "sylas",
+    "id": "388210212",
+    "result": "地牢让我向往天空。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012787670,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.564]  地牢让我向往天空。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "地牢让我向往天空。",
+                    "SliceSentence": "地牢 让我 向往 天空",
+                    "StartMs": 0,
+                    "EndMs": 2564,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "地牢",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "让我",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "向往",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "天空",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.564375
+        },
+        "RequestId": "6ae72d12-4ff1-4dc5-9f2a-6f8345b59d0a"
+    }
+}

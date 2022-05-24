@@ -1,0 +1,44 @@
+{
+    "character": "nami",
+    "id": "1044281731",
+    "result": "将它们冲走。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012727704,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.778]  将它们冲走。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "将它们冲走。",
+                    "SliceSentence": "将 它们 冲走",
+                    "StartMs": 0,
+                    "EndMs": 1778,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "将",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "它们",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "冲走",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.778375
+        },
+        "RequestId": "7bd2524a-4a90-4a2f-95b2-7438ba99ce4b"
+    }
+}

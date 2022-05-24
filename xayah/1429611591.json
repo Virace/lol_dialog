@@ -1,0 +1,64 @@
+{
+    "character": "xayah",
+    "id": "1429611591",
+    "result": "我知道你很努力了，但是不及格。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012834639,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.256]  我知道你很努力了，但是不及格。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我知道你很努力了，但是不及格。",
+                    "SliceSentence": "我 知道 你很 努力 了 但是 不及格",
+                    "StartMs": 0,
+                    "EndMs": 3256,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "你很",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "努力",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "但是",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "不及格",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 3180
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.25675
+        },
+        "RequestId": "9d536a25-c408-4217-8b40-7b32d6266e01"
+    }
+}

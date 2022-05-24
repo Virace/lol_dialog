@@ -1,0 +1,44 @@
+{
+    "character": "ryze",
+    "id": "312383563",
+    "result": "哎，敬酒不吃。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012764273,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.968]  哎，敬酒不吃。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哎，敬酒不吃。",
+                    "SliceSentence": "哎 敬酒 不吃",
+                    "StartMs": 0,
+                    "EndMs": 1968,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哎",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "敬酒",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "不吃",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.968375
+        },
+        "RequestId": "b2680353-958e-408a-bba2-fd7586436548"
+    }
+}

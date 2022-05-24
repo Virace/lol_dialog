@@ -1,0 +1,49 @@
+{
+    "character": "sion",
+    "id": "416618744",
+    "result": "我要把它弄坏。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012776987,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.534]  我要把它弄坏。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要把它弄坏。",
+                    "SliceSentence": "我要 把 它 弄坏",
+                    "StartMs": 0,
+                    "EndMs": 2534,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "它",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "弄坏",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.534125
+        },
+        "RequestId": "25054c06-f988-47e1-b0f7-63d341a9d7d5"
+    }
+}

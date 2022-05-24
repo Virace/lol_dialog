@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "395035495",
+    "result": "脸疼不疼？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012753300,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.331]  脸疼不疼？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "脸疼不疼？",
+                    "SliceSentence": "脸 疼 不疼",
+                    "StartMs": 0,
+                    "EndMs": 1331,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "脸",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "疼",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "不疼",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.331688
+        },
+        "RequestId": "c7e99424-d212-42fd-bd84-f40ca7b64e29"
+    }
+}

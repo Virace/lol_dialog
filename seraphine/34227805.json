@@ -1,0 +1,39 @@
+{
+    "character": "seraphine",
+    "id": "34227805",
+    "result": "哒哒哒哒。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012771264,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.340]  哒哒哒哒。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哒哒哒哒。",
+                    "SliceSentence": "哒哒 哒哒",
+                    "StartMs": 0,
+                    "EndMs": 3340,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哒哒",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "哒哒",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.689375
+        },
+        "RequestId": "68e0ed1e-66c6-4891-b353-b8fab9ae1f58"
+    }
+}

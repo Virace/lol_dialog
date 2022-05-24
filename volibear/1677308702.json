@@ -1,0 +1,39 @@
+{
+    "character": "volibear",
+    "id": "1677308702",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012816065,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.393]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 3393,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.39375
+        },
+        "RequestId": "d1027990-0836-4ac5-9091-91cafba00440"
+    }
+}

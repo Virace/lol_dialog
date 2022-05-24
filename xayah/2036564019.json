@@ -1,0 +1,39 @@
+{
+    "character": "xayah",
+    "id": "2036564019",
+    "result": "听我说。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012835916,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.977]  听我说。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "听我说。",
+                    "SliceSentence": "听我 说",
+                    "StartMs": 0,
+                    "EndMs": 1977,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "听我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.977313
+        },
+        "RequestId": "e18994f4-cb85-45b0-acf8-42480f3e384e"
+    }
+}

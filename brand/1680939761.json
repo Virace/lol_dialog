@@ -1,0 +1,44 @@
+{
+    "character": "brand",
+    "id": "1680939761",
+    "result": "我是个急性子。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012549752,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.566]  我是个急性子。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我是个急性子。",
+                    "SliceSentence": "我 是个 急性子",
+                    "StartMs": 0,
+                    "EndMs": 2566,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "是个",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "急性子",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.566375
+        },
+        "RequestId": "63e5f98e-4c33-4afe-97de-a78dcf220e9e"
+    }
+}

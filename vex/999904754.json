@@ -1,0 +1,54 @@
+{
+    "character": "vex",
+    "id": "999904754",
+    "result": "嗯，这就要起床啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012811706,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.182]  嗯，这就要起床啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯，这就要起床啦。",
+                    "SliceSentence": "嗯 这 就要 起床 啦",
+                    "StartMs": 0,
+                    "EndMs": 4182,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "就要",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "起床",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2730
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 2730,
+                            "OffsetEndMs": 3210
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.18275
+        },
+        "RequestId": "724815af-a3fb-42ea-a4d8-c33c949f5207"
+    }
+}

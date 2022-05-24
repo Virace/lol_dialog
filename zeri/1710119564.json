@@ -1,0 +1,54 @@
+{
+    "character": "zeri",
+    "id": "1710119564",
+    "result": "犯了错，也就长了教训。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012851540,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.730]  犯了错，也就长了教训。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "犯了错，也就长了教训。",
+                    "SliceSentence": "犯了 错 也就 长了 教训",
+                    "StartMs": 0,
+                    "EndMs": 2730,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "犯了",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "错",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "也就",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "长了",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "教训",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.730688
+        },
+        "RequestId": "3d00b4f4-97e1-4a14-8c4d-681ef95c8b45"
+    }
+}

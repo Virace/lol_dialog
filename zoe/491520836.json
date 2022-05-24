@@ -1,0 +1,39 @@
+{
+    "character": "zoe",
+    "id": "491520836",
+    "result": "对对对对。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012856128,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.613]  对对对对。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "对对对对。",
+                    "SliceSentence": "对对 对对",
+                    "StartMs": 0,
+                    "EndMs": 3613,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "对对",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "对对",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2760
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.61375
+        },
+        "RequestId": "9bdb366b-3871-45f4-81a9-405e3bc6947d"
+    }
+}

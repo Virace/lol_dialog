@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "1511953183",
+    "result": "当然你知道的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012834868,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.630]  当然你知道的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "当然你知道的。",
+                    "SliceSentence": "当然 你 知道 的",
+                    "StartMs": 0,
+                    "EndMs": 1630,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "当然",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.63025
+        },
+        "RequestId": "a684021e-24c3-4fe6-a974-3823be54747f"
+    }
+}

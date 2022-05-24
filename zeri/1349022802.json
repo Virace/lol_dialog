@@ -1,0 +1,39 @@
+{
+    "character": "zeri",
+    "id": "1349022802",
+    "result": "要来喽。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012851002,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.664]  要来喽。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "要来喽。",
+                    "SliceSentence": "要来 喽",
+                    "StartMs": 0,
+                    "EndMs": 1664,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "要来",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "喽",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.664
+        },
+        "RequestId": "ddb7057e-1c24-429f-9441-8e4bc11496b8"
+    }
+}

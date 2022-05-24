@@ -1,0 +1,39 @@
+{
+    "character": "brand",
+    "id": "1338850688",
+    "result": "热啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012549712,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.036]  热啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "热啊。",
+                    "SliceSentence": "热 啊",
+                    "StartMs": 0,
+                    "EndMs": 2036,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "热",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.036188
+        },
+        "RequestId": "7f701ad8-47f2-46f0-b9d6-51521007b643"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "leesin",
+    "id": "1103051262",
+    "result": "我不够资格。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012712258,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.800]  我不够资格。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不够资格。",
+                    "SliceSentence": "我 不够 资格",
+                    "StartMs": 0,
+                    "EndMs": 4800,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "不够",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "资格",
+                            "OffsetStartMs": 2580,
+                            "OffsetEndMs": 4380
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.61925
+        },
+        "RequestId": "dc29f4fc-8b46-43b5-8593-0073fe7af267"
+    }
+}

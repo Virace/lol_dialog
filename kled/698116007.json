@@ -1,0 +1,39 @@
+{
+    "character": "kled",
+    "id": "698116007",
+    "result": "给我回来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012709045,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.225]  给我回来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "给我回来。",
+                    "SliceSentence": "给我 回来",
+                    "StartMs": 0,
+                    "EndMs": 1225,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "给我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "回来",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.225625
+        },
+        "RequestId": "6e5bee4b-e7da-4446-8c65-4c3c54daa5f6"
+    }
+}

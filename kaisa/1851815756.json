@@ -1,0 +1,49 @@
+{
+    "character": "kaisa",
+    "id": "1851815756",
+    "result": "他们躲起来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689411,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.269]  他们躲起来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们躲起来了。",
+                    "SliceSentence": "他们 躲 起 来了",
+                    "StartMs": 0,
+                    "EndMs": 1269,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "躲",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "起",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "来了",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 7.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.269188
+        },
+        "RequestId": "2a3cd5d3-4024-4217-a355-1fadc8b81157"
+    }
+}

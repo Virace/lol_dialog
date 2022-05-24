@@ -1,0 +1,49 @@
+{
+    "character": "kled",
+    "id": "471966979",
+    "result": "谁让你来的？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012708003,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.642]  谁让你来的？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "谁让你来的？",
+                    "SliceSentence": "谁 让你 来 的",
+                    "StartMs": 0,
+                    "EndMs": 1642,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "谁",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "让你",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.642688
+        },
+        "RequestId": "025d4010-55f8-4d8c-9060-7b072b1c2dc2"
+    }
+}

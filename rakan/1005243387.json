@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "1005243387",
+    "result": "我和魔法一样狂野。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749196,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.325]  我和魔法一样狂野。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我和魔法一样狂野。",
+                    "SliceSentence": "我和 魔法 一样 狂野",
+                    "StartMs": 0,
+                    "EndMs": 2325,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我和",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "魔法",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "一样",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "狂野",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.325188
+        },
+        "RequestId": "97dc17df-e6fa-43a7-9801-1dfa05dcf468"
+    }
+}

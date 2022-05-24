@@ -1,0 +1,44 @@
+{
+    "character": "braum",
+    "id": "741786838",
+    "result": "我回喽。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550562,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.009]  我回喽。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我回喽。",
+                    "SliceSentence": "我 回 喽",
+                    "StartMs": 0,
+                    "EndMs": 1009,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "回",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "喽",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 870
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.009375
+        },
+        "RequestId": "2b981922-6694-4c95-adb8-5b6021737d27"
+    }
+}

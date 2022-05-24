@@ -1,0 +1,59 @@
+{
+    "character": "trundle",
+    "id": "1139363774",
+    "result": "我要把他们敲到死。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012800878,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.178]  我要把他们敲到死。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要把他们敲到死。",
+                    "SliceSentence": "我要 把 他们 敲 到 死",
+                    "StartMs": 0,
+                    "EndMs": 3178,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "敲",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "死",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2880
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.178
+        },
+        "RequestId": "81ecfe0b-e267-4882-b5ea-bd747191eb5c"
+    }
+}

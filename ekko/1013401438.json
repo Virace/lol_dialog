@@ -1,0 +1,49 @@
+{
+    "character": "ekko",
+    "id": "1013401438",
+    "result": "真是一颗大牙齿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012559080,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.049]  真是一颗大牙齿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "真是一颗大牙齿。",
+                    "SliceSentence": "真是 一颗 大牙 齿",
+                    "StartMs": 0,
+                    "EndMs": 2049,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "真是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "一颗",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "大牙",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "齿",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.049375
+        },
+        "RequestId": "7aad78ab-bdd1-4296-8f83-cad3bc94455f"
+    }
+}

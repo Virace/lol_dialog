@@ -1,0 +1,44 @@
+{
+    "character": "kled",
+    "id": "221107360",
+    "result": "他们是人类。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012706775,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.443]  他们是人类。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们是人类。",
+                    "SliceSentence": "他们 是 人类",
+                    "StartMs": 0,
+                    "EndMs": 1443,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "人类",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.443125
+        },
+        "RequestId": "b931f379-61ff-4b5f-8e1e-d878c27476e1"
+    }
+}

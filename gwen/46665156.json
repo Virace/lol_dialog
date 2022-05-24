@@ -1,0 +1,54 @@
+{
+    "character": "gwen",
+    "id": "46665156",
+    "result": "啊，该做点儿什么呢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012575132,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.412]  啊，该做点儿什么呢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，该做点儿什么呢。",
+                    "SliceSentence": "啊 该做 点儿 什么 呢",
+                    "StartMs": 0,
+                    "EndMs": 3412,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "该做",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "点儿",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.412438
+        },
+        "RequestId": "61681d94-f588-4552-868c-923081e6e0aa"
+    }
+}

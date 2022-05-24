@@ -1,0 +1,39 @@
+{
+    "character": "chogath",
+    "id": "1904981205",
+    "result": "别想啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012555259,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.356]  别想啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别想啦。",
+                    "SliceSentence": "别想 啦",
+                    "StartMs": 0,
+                    "EndMs": 5356,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "别想",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 3120,
+                            "OffsetEndMs": 4770
+                        }
+                    ],
+                    "SpeechSpeed": 0.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.356938
+        },
+        "RequestId": "fe8bee34-0a5b-4f26-ac77-12e9b462aa19"
+    }
+}

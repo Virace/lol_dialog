@@ -1,0 +1,49 @@
+{
+    "character": "katarina",
+    "id": "673834288",
+    "result": "我们来跳舞吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012697072,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.815]  我们来跳舞吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们来跳舞吧。",
+                    "SliceSentence": "我们 来 跳舞 吧",
+                    "StartMs": 0,
+                    "EndMs": 1815,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "跳舞",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.815313
+        },
+        "RequestId": "1d3148ac-5fc4-45be-9ba5-b8c292375890"
+    }
+}

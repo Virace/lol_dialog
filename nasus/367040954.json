@@ -1,0 +1,49 @@
+{
+    "character": "nasus",
+    "id": "367040954",
+    "result": "我们即将迎来清算。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012728740,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.966]  我们即将迎来清算。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们即将迎来清算。",
+                    "SliceSentence": "我们 即将 迎来 清算",
+                    "StartMs": 0,
+                    "EndMs": 3966,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "即将",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "迎来",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "清算",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 3690
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.96675
+        },
+        "RequestId": "e503d670-7ff6-4383-ba09-ba2b5805addd"
+    }
+}

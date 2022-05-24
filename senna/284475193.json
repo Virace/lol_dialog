@@ -1,0 +1,49 @@
+{
+    "character": "senna",
+    "id": "284475193",
+    "result": "生命不肯抛弃我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012769467,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.531]  生命不肯抛弃我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "生命不肯抛弃我。",
+                    "SliceSentence": "生命 不肯 抛弃 我",
+                    "StartMs": 0,
+                    "EndMs": 2531,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "生命",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "不肯",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "抛弃",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.531
+        },
+        "RequestId": "a30d7a4f-0454-47a6-bd7d-d8e8bdf702c3"
+    }
+}

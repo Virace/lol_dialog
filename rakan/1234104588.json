@@ -1,0 +1,64 @@
+{
+    "character": "rakan",
+    "id": "1234104588",
+    "result": "你好，准备好迎接我了吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749858,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.963]  你好，准备好迎接我了吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你好，准备好迎接我了吗？",
+                    "SliceSentence": "你好 准备 好 迎接 我 了 吗",
+                    "StartMs": 0,
+                    "EndMs": 1963,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "你好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "准备",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "迎接",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 8.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.963813
+        },
+        "RequestId": "1d0d1783-d2b5-4b9d-b2db-e322b5f9f6e7"
+    }
+}

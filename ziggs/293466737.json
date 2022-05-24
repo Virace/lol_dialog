@@ -1,0 +1,39 @@
+{
+    "character": "ziggs",
+    "id": "293466737",
+    "result": "我擦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012853534,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.942]  我擦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我擦。",
+                    "SliceSentence": "我 擦",
+                    "StartMs": 0,
+                    "EndMs": 942,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "擦",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.942125
+        },
+        "RequestId": "2d419dce-7ded-4ee6-acaa-db941223b7d3"
+    }
+}

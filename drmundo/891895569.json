@@ -1,0 +1,39 @@
+{
+    "character": "drmundo",
+    "id": "891895569",
+    "result": "强效治疗。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012558919,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.274]  强效治疗。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "强效治疗。",
+                    "SliceSentence": "强效 治疗",
+                    "StartMs": 0,
+                    "EndMs": 2274,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "强效",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "治疗",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.274125
+        },
+        "RequestId": "185006c0-5a07-4492-a3e8-c07a0b377e44"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "viego",
+    "id": "225021047",
+    "result": "带我去见他，马上。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012813924,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.744]  带我去见他，马上。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "带我去见他，马上。",
+                    "SliceSentence": "带我 去 见 他 马上",
+                    "StartMs": 0,
+                    "EndMs": 3744,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "带我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "见",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "他",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "马上",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.74425
+        },
+        "RequestId": "96b113f4-d3c7-4d2b-84dd-2d0cf24c6951"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "xayah",
+    "id": "2030039334",
+    "result": "也许我有些过分了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012835902,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.643]  也许我有些过分了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "也许我有些过分了。",
+                    "SliceSentence": "也许 我 有些 过分 了",
+                    "StartMs": 0,
+                    "EndMs": 2643,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "也许",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "有些",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "过分",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.643938
+        },
+        "RequestId": "48406de0-3279-4638-a141-a25667874673"
+    }
+}

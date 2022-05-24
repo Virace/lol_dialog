@@ -1,0 +1,44 @@
+{
+    "character": "galio",
+    "id": "258470686",
+    "result": "哈哈，冰拳。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568578,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.743]  哈哈，冰拳。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈，冰拳。",
+                    "SliceSentence": "哈哈 冰 拳",
+                    "StartMs": 0,
+                    "EndMs": 1743,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "冰",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "拳",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.74375
+        },
+        "RequestId": "27132483-a0e8-4965-aec6-f7004bea7017"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "gangplank",
+    "id": "764456609",
+    "result": "脏东西。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012571495,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.372]  脏东西。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "脏东西。",
+                    "SliceSentence": "脏 东西",
+                    "StartMs": 0,
+                    "EndMs": 1372,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "脏",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.37225
+        },
+        "RequestId": "24b2719b-0817-4a39-92a4-c145aab23ba2"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "kaisa",
+    "id": "2133807587",
+    "result": "我懒得数了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689950,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.476]  我懒得数了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我懒得数了。",
+                    "SliceSentence": "我 懒得 数 了",
+                    "StartMs": 0,
+                    "EndMs": 1476,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "懒得",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "数",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.476625
+        },
+        "RequestId": "008c72c6-8de1-4b78-b37b-8113bc0f0da6"
+    }
+}

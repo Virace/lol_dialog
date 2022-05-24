@@ -1,0 +1,59 @@
+{
+    "character": "taliyah",
+    "id": "414829323",
+    "result": "这些沙子让我想起了故乡。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012793080,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.901]  这些沙子让我想起了故乡。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这些沙子让我想起了故乡。",
+                    "SliceSentence": "这些 沙子 让我 想起 了 故乡",
+                    "StartMs": 0,
+                    "EndMs": 2901,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "这些",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "沙子",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "让我",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "想起",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "故乡",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.901625
+        },
+        "RequestId": "e7e07673-dfc2-4839-99b8-324f58f7af61"
+    }
+}

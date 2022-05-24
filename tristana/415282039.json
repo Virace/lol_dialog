@@ -1,0 +1,49 @@
+{
+    "character": "tristana",
+    "id": "415282039",
+    "result": "我这儿多的是。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012799634,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.294]  我这儿多的是。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我这儿多的是。",
+                    "SliceSentence": "我 这儿 多的 是",
+                    "StartMs": 0,
+                    "EndMs": 1294,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "这儿",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "多的",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 7.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.29425
+        },
+        "RequestId": "d0475079-6e09-47dd-b232-b8bbd7b1513e"
+    }
+}

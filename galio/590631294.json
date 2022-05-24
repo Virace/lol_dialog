@@ -1,0 +1,44 @@
+{
+    "character": "galio",
+    "id": "590631294",
+    "result": "正中你脸。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012569406,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.269]  正中你脸。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "正中你脸。",
+                    "SliceSentence": "正中 你 脸",
+                    "StartMs": 0,
+                    "EndMs": 1269,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "正中",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "脸",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.269563
+        },
+        "RequestId": "bb37d95f-5521-4c03-8b91-d6ca64155571"
+    }
+}

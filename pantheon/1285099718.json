@@ -1,0 +1,44 @@
+{
+    "character": "pantheon",
+    "id": "1285099718",
+    "result": "大地在我脚下。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012740554,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.993]  大地在我脚下。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "大地在我脚下。",
+                    "SliceSentence": "大地 在我 脚下",
+                    "StartMs": 0,
+                    "EndMs": 3993,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "大地",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "在我",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "脚下",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 3360
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.993813
+        },
+        "RequestId": "fcf778fc-090f-4352-baa5-8af38d46f108"
+    }
+}

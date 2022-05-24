@@ -1,0 +1,49 @@
+{
+    "character": "zoe",
+    "id": "736491375",
+    "result": "我的新朋友。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012856724,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.551]  我的新朋友。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的新朋友。",
+                    "SliceSentence": "我 的 新 朋友",
+                    "StartMs": 0,
+                    "EndMs": 2551,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "新",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "朋友",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.551125
+        },
+        "RequestId": "adf82187-c234-48cc-b96d-019fea5c0384"
+    }
+}

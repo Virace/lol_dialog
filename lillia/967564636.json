@@ -1,0 +1,49 @@
+{
+    "character": "lillia",
+    "id": "967564636",
+    "result": "都去睡觉吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012716395,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.240]  都去睡觉吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "都去睡觉吧。",
+                    "SliceSentence": "都 去 睡觉 吧",
+                    "StartMs": 0,
+                    "EndMs": 3240,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "都",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "睡觉",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.109938
+        },
+        "RequestId": "244d02ca-c784-4bc2-9638-6cf446393c94"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "camille",
+    "id": "543276128",
+    "result": "你的徒劳让人失望。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553587,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.026]  你的徒劳让人失望。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你的徒劳让人失望。",
+                    "SliceSentence": "你的 徒劳 让人 失望",
+                    "StartMs": 0,
+                    "EndMs": 3026,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "徒劳",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "让人",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "失望",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2970
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.026563
+        },
+        "RequestId": "ef781322-5634-42a1-96cc-356fb74bc8e6"
+    }
+}

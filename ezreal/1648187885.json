@@ -1,0 +1,39 @@
+{
+    "character": "ezreal",
+    "id": "1648187885",
+    "result": "放着我来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012565958,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.195]  放着我来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "放着我来。",
+                    "SliceSentence": "放着 我来",
+                    "StartMs": 0,
+                    "EndMs": 1195,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "放着",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "我来",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.1955
+        },
+        "RequestId": "6ea2ae92-0c24-48e1-9dfc-884f16c43a9b"
+    }
+}

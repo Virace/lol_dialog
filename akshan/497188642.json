@@ -1,0 +1,54 @@
+{
+    "character": "akshan",
+    "id": "497188642",
+    "result": "我现在感觉非常满意。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012541280,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.114]  我现在感觉非常满意。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我现在感觉非常满意。",
+                    "SliceSentence": "我 现在 感觉 非常 满意",
+                    "StartMs": 0,
+                    "EndMs": 3114,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "感觉",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "非常",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "满意",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.114688
+        },
+        "RequestId": "cedb920e-54ae-4794-bb14-5a9dc900a7e5"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "1630717571",
+    "result": "你快去呀。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012835100,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.212]  你快去呀。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你快去呀。",
+                    "SliceSentence": "你 快 去 呀",
+                    "StartMs": 0,
+                    "EndMs": 1212,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 60
+                        },
+                        {
+                            "Word": "快",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "呀",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.212938
+        },
+        "RequestId": "85da864b-8bcb-4d00-a45b-5b5179cd878c"
+    }
+}

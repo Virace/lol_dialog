@@ -1,0 +1,39 @@
+{
+    "character": "vladimir",
+    "id": "1346052760",
+    "result": "啊啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012815093,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.962]  啊啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊啊。",
+                    "SliceSentence": "啊 啊",
+                    "StartMs": 0,
+                    "EndMs": 1962,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.962438
+        },
+        "RequestId": "09dc16ba-79a1-4d1c-81b8-6c8c7b863825"
+    }
+}

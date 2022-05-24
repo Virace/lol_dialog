@@ -1,0 +1,39 @@
+{
+    "character": "sona",
+    "id": "730180155",
+    "result": "最强音。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012782830,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.700]  最强音。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "最强音。",
+                    "SliceSentence": "最强 音",
+                    "StartMs": 0,
+                    "EndMs": 3700,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "最强",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "音",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 1.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.086438
+        },
+        "RequestId": "e41b08e5-a69e-4ca0-8626-16ace507ae8d"
+    }
+}

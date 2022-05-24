@@ -1,0 +1,39 @@
+{
+    "character": "kayn",
+    "id": "488987575",
+    "result": "就是这样。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012702002,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.128]  就是这样。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "就是这样。",
+                    "SliceSentence": "就是 这样",
+                    "StartMs": 0,
+                    "EndMs": 2128,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "这样",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.128125
+        },
+        "RequestId": "c197fa91-2e22-476b-a2e8-f6aba0054a05"
+    }
+}

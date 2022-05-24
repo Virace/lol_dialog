@@ -1,0 +1,49 @@
+{
+    "character": "udyr",
+    "id": "1039871136",
+    "result": "那就是我们的路。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012804479,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.340,0:2.896]  那就是我们的路。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "那就是我们的路。",
+                    "SliceSentence": "那就是 我们 的 路",
+                    "StartMs": 340,
+                    "EndMs": 2896,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "那就是",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "路",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.896
+        },
+        "RequestId": "2e0fd9b6-63ca-462d-b9aa-75245ee4c427"
+    }
+}

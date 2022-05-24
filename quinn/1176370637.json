@@ -1,0 +1,39 @@
+{
+    "character": "quinn",
+    "id": "1176370637",
+    "result": "就是现在。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012748691,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.416]  就是现在。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "就是现在。",
+                    "SliceSentence": "就是 现在",
+                    "StartMs": 0,
+                    "EndMs": 1416,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 720
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.416438
+        },
+        "RequestId": "338421c0-4450-4bb5-a1ed-208645a5563c"
+    }
+}

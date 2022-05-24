@@ -1,0 +1,54 @@
+{
+    "character": "teemo",
+    "id": "201088210",
+    "result": "我去前面探探路。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012798107,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.615]  我去前面探探路。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我去前面探探路。",
+                    "SliceSentence": "我 去 前面 探 探路",
+                    "StartMs": 0,
+                    "EndMs": 1615,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "前面",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "探",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "探路",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.615563
+        },
+        "RequestId": "c0ddc767-1589-4691-a872-c4ffb1c0c2a2"
+    }
+}

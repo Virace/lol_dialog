@@ -1,0 +1,39 @@
+{
+    "character": "galio",
+    "id": "522800496",
+    "result": "啊，吼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012569246,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.325]  啊，吼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，吼。",
+                    "SliceSentence": "啊 吼",
+                    "StartMs": 0,
+                    "EndMs": 3325,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "吼",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 1.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.32575
+        },
+        "RequestId": "4de6d51c-2163-49a3-936e-71a273648da2"
+    }
+}

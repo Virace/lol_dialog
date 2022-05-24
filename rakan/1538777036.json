@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "1538777036",
+    "result": "我真的生气啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012750946,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.401]  我真的生气啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我真的生气啦。",
+                    "SliceSentence": "我 真的 生气 啦",
+                    "StartMs": 0,
+                    "EndMs": 1401,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "真的",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "生气",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 7.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.401688
+        },
+        "RequestId": "8b599870-d961-4969-9e2e-db1f518e5f4e"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "character": "lulu",
+    "id": "2141289542",
+    "result": "让我们带上思考帽。知道啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718949,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.020]  让我们带上思考帽。\n[0:2.520,0:4.829]  知道啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "让我们带上思考帽。",
+                    "SliceSentence": "让 我们 带上 思考 帽",
+                    "StartMs": 0,
+                    "EndMs": 2020,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "让",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "带上",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "思考",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "帽",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "知道啦。",
+                    "SliceSentence": "知道 啦",
+                    "StartMs": 2520,
+                    "EndMs": 4829,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.829188
+        },
+        "RequestId": "94511e3e-8d58-48d3-b401-95e7d7b7b70f"
+    }
+}

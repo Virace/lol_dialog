@@ -1,0 +1,49 @@
+{
+    "character": "skarner",
+    "id": "2134321655",
+    "result": "我什么都知道。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012780391,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.097]  我什么都知道。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我什么都知道。",
+                    "SliceSentence": "我 什么 都 知道",
+                    "StartMs": 0,
+                    "EndMs": 2097,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "都",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.097625
+        },
+        "RequestId": "52205ca4-2150-4b6e-a53c-efedb72c8d0e"
+    }
+}

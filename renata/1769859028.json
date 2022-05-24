@@ -1,0 +1,54 @@
+{
+    "character": "renata",
+    "id": "1769859028",
+    "result": "干得不错，我的宠物。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012760129,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.120]  干得不错，我的宠物。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "干得不错，我的宠物。",
+                    "SliceSentence": "干得 不错 我 的 宠物",
+                    "StartMs": 0,
+                    "EndMs": 3120,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "干得",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "不错",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "宠物",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2970
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.392875
+        },
+        "RequestId": "411300b2-9473-4ac7-9686-c5797d0c50e7"
+    }
+}

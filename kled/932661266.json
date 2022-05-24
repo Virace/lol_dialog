@@ -1,0 +1,54 @@
+{
+    "character": "kled",
+    "id": "932661266",
+    "result": "完了，你说的是笑话啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012710216,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.285]  完了，你说的是笑话啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "完了，你说的是笑话啊。",
+                    "SliceSentence": "完了 你说 的是 笑话 啊",
+                    "StartMs": 0,
+                    "EndMs": 3285,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "完了",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "你说",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "的是",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "笑话",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 3120
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.285563
+        },
+        "RequestId": "d5e9184c-b8df-46a8-aa45-bd761d1d5808"
+    }
+}

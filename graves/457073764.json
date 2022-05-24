@@ -1,0 +1,39 @@
+{
+    "character": "graves",
+    "id": "457073764",
+    "result": "全进去。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012573721,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.028]  全进去。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "全进去。",
+                    "SliceSentence": "全 进去",
+                    "StartMs": 0,
+                    "EndMs": 1028,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "全",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "进去",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.028688
+        },
+        "RequestId": "4859cf6e-f94a-4bc5-981e-3bba51019bc4"
+    }
+}

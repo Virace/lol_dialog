@@ -1,0 +1,44 @@
+{
+    "character": "draven",
+    "id": "1547084734",
+    "result": "站后点。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556554,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.900]  站后点。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "站后点。",
+                    "SliceSentence": "站 后 点",
+                    "StartMs": 0,
+                    "EndMs": 1900,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "站",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "后",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "点",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.566625
+        },
+        "RequestId": "7cecc67e-6148-4e74-bc17-0fe867597186"
+    }
+}

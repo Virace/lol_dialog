@@ -1,0 +1,39 @@
+{
+    "character": "camille",
+    "id": "817629650",
+    "result": "不计后果。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554251,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.166]  不计后果。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不计后果。",
+                    "SliceSentence": "不计 后果",
+                    "StartMs": 0,
+                    "EndMs": 1166,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "不计",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "后果",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.166688
+        },
+        "RequestId": "b3ef27d8-a707-49e6-b5ab-507ed0787080"
+    }
+}

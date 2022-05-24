@@ -1,0 +1,59 @@
+{
+    "character": "qiyana",
+    "id": "1778623040",
+    "result": "我不是高傲，我是真理。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012747828,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.879]  我不是高傲，我是真理。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不是高傲，我是真理。",
+                    "SliceSentence": "我 不是 高傲 我 是 真理",
+                    "StartMs": 0,
+                    "EndMs": 2879,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "高傲",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "真理",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.879313
+        },
+        "RequestId": "c82e91dd-bab7-4062-a5ff-01a78c0df9ef"
+    }
+}

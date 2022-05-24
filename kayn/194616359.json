@@ -1,0 +1,44 @@
+{
+    "character": "kayn",
+    "id": "194616359",
+    "result": "他就是不死。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012700650,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.686]  他就是不死。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他就是不死。",
+                    "SliceSentence": "他 就是 不死",
+                    "StartMs": 0,
+                    "EndMs": 1686,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "他",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "不死",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.686688
+        },
+        "RequestId": "4df2b0ce-4756-44e7-8220-930c63d8309e"
+    }
+}

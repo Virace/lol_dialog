@@ -1,0 +1,44 @@
+{
+    "character": "tahmkench",
+    "id": "410444343",
+    "result": "又一顿美餐。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012789769,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.641]  又一顿美餐。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "又一顿美餐。",
+                    "SliceSentence": "又一 顿 美餐",
+                    "StartMs": 0,
+                    "EndMs": 2641,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "又一",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "顿",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "美餐",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.641188
+        },
+        "RequestId": "b38bff30-0684-4cff-af6c-dd0e22940a45"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "khazix",
+    "id": "746975384",
+    "result": "一个一个来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012704142,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.997]  一个一个来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一个一个来。",
+                    "SliceSentence": "一个 一个 来",
+                    "StartMs": 0,
+                    "EndMs": 3997,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 3240
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.997313
+        },
+        "RequestId": "655c17f6-d20e-4c9d-ad09-f69d649492e6"
+    }
+}

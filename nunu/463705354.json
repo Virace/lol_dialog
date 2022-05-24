@@ -1,0 +1,54 @@
+{
+    "character": "nunu",
+    "id": "463705354",
+    "result": "时间刚好，就像唱歌一样。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012735803,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.148]  时间刚好，就像唱歌一样。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "时间刚好，就像唱歌一样。",
+                    "SliceSentence": "时间 刚好 就像 唱歌 一样",
+                    "StartMs": 0,
+                    "EndMs": 3148,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "刚好",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "就像",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "唱歌",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "一样",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.148375
+        },
+        "RequestId": "7bf94d3b-a8f0-4170-be88-f08f2f34c0f1"
+    }
+}

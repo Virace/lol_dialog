@@ -1,0 +1,44 @@
+{
+    "character": "cassiopeia",
+    "id": "622128707",
+    "result": "权力需要精度。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012555018,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.098]  权力需要精度。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "权力需要精度。",
+                    "SliceSentence": "权力 需要 精度",
+                    "StartMs": 0,
+                    "EndMs": 3098,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "权力",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "精度",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 3030
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.098
+        },
+        "RequestId": "f75d142b-29b7-45e4-a315-6e60c4d8d365"
+    }
+}

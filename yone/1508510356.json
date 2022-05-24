@@ -1,0 +1,54 @@
+{
+    "character": "yone",
+    "id": "1508510356",
+    "result": "这不是着魔之人吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012842390,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.181]  这不是着魔之人吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这不是着魔之人吗？",
+                    "SliceSentence": "这 不是 着魔 之人 吗",
+                    "StartMs": 0,
+                    "EndMs": 3181,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "着魔",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "之人",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.181125
+        },
+        "RequestId": "76ab6dd2-098c-4cd0-a363-857e0318719c"
+    }
+}

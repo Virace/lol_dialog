@@ -1,0 +1,49 @@
+{
+    "character": "evelynn",
+    "id": "1858542795",
+    "result": "来触碰我的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012562670,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.540]  来触碰我的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "来触碰我的。",
+                    "SliceSentence": "来 触碰 我 的",
+                    "StartMs": 0,
+                    "EndMs": 3540,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "触碰",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.99075
+        },
+        "RequestId": "a307b318-1cb0-4442-880a-ae41a5fe48a1"
+    }
+}

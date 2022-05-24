@@ -1,0 +1,54 @@
+{
+    "character": "amumu",
+    "id": "903160136",
+    "result": "我们去找点朋友吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542193,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.414]  我们去找点朋友吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们去找点朋友吧。",
+                    "SliceSentence": "我们 去找 点 朋友 吧",
+                    "StartMs": 0,
+                    "EndMs": 2414,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "去找",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "点",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "朋友",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.414875
+        },
+        "RequestId": "1180a39d-9e1e-4c31-a229-9564026d0907"
+    }
+}

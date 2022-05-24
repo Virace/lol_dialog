@@ -1,0 +1,54 @@
+{
+    "character": "galio",
+    "id": "453674642",
+    "result": "很显然，谁也不能小看我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012569076,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.491]  很显然，谁也不能小看我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "很显然，谁也不能小看我。",
+                    "SliceSentence": "很显然 谁也 不能 小看 我",
+                    "StartMs": 0,
+                    "EndMs": 2491,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "很显然",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "谁也",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "不能",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "小看",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.491688
+        },
+        "RequestId": "c2751f11-9c1d-4c88-8b84-5fae57ae5f0d"
+    }
+}

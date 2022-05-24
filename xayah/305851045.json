@@ -1,0 +1,39 @@
+{
+    "character": "xayah",
+    "id": "305851045",
+    "result": "正在路上。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012836347,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.830]  正在路上。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "正在路上。",
+                    "SliceSentence": "正在 路上",
+                    "StartMs": 0,
+                    "EndMs": 830,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "路上",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 750
+                        }
+                    ],
+                    "SpeechSpeed": 7.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.830063
+        },
+        "RequestId": "b960e75a-8cb1-4c2d-be61-b39b7595fe15"
+    }
+}

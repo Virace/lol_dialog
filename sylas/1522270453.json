@@ -1,0 +1,54 @@
+{
+    "character": "sylas",
+    "id": "1522270453",
+    "result": "想抓我尽管试试。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786580,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.320]  想抓我尽管试试。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "想抓我尽管试试。",
+                    "SliceSentence": "想 抓 我 尽管 试试",
+                    "StartMs": 0,
+                    "EndMs": 2320,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "想",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "抓",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "尽管",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "试试",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.320313
+        },
+        "RequestId": "db14c4fc-9e88-4888-b2c8-d6c9fa4ba996"
+    }
+}

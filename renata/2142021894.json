@@ -1,0 +1,59 @@
+{
+    "character": "renata",
+    "id": "2142021894",
+    "result": "你现在欠我的啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012760390,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.420]  你现在欠我的啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你现在欠我的啦。",
+                    "SliceSentence": "你 现在 欠 我 的 啦",
+                    "StartMs": 0,
+                    "EndMs": 2420,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "欠",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.609188
+        },
+        "RequestId": "a50bc2cb-ea9a-47a3-b480-ecda8af23bbf"
+    }
+}

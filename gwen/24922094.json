@@ -1,0 +1,39 @@
+{
+    "character": "gwen",
+    "id": "24922094",
+    "result": "不要啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012574831,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.608]  不要啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要啊。",
+                    "SliceSentence": "不要 啊",
+                    "StartMs": 0,
+                    "EndMs": 3608,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 1.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.608563
+        },
+        "RequestId": "a777cdb4-7869-44d2-8da7-cdad57775e2d"
+    }
+}

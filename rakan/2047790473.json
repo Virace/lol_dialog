@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "2047790473",
+    "result": "我想的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012752383,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.288]  我想的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我想的。",
+                    "SliceSentence": "我 想 的",
+                    "StartMs": 0,
+                    "EndMs": 1288,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "想",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.288938
+        },
+        "RequestId": "db1811e1-ef57-4f10-ba8b-c60404a3c77f"
+    }
+}

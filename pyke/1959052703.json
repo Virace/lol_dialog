@@ -1,0 +1,39 @@
+{
+    "character": "pyke",
+    "id": "1959052703",
+    "result": "别乱动。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745675,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.762]  别乱动。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别乱动。",
+                    "SliceSentence": "别乱 动",
+                    "StartMs": 0,
+                    "EndMs": 1762,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "别乱",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "动",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.762375
+        },
+        "RequestId": "b0f72d73-ba47-4c80-8a03-ee53e0062338"
+    }
+}

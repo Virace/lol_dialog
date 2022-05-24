@@ -1,0 +1,54 @@
+{
+    "character": "sion",
+    "id": "803767082",
+    "result": "我要用你的头骨喝酒。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012777965,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.151]  我要用你的头骨喝酒。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要用你的头骨喝酒。",
+                    "SliceSentence": "我要 用 你的 头骨 喝酒",
+                    "StartMs": 0,
+                    "EndMs": 4151,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "用",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "头骨",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "喝酒",
+                            "OffsetStartMs": 2340,
+                            "OffsetEndMs": 3750
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.151063
+        },
+        "RequestId": "ab485b7e-26ce-44b2-936d-1c54a6579a1b"
+    }
+}

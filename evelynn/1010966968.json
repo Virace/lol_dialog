@@ -1,0 +1,44 @@
+{
+    "character": "evelynn",
+    "id": "1010966968",
+    "result": "不，不要住手。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012561349,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:6.501]  不，不要住手。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不，不要住手。",
+                    "SliceSentence": "不 不要 住手",
+                    "StartMs": 0,
+                    "EndMs": 6501,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "住手",
+                            "OffsetStartMs": 2340,
+                            "OffsetEndMs": 3870
+                        }
+                    ],
+                    "SpeechSpeed": 1.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.501625
+        },
+        "RequestId": "099b3757-8d6a-4f53-aa53-bb73e09e7437"
+    }
+}

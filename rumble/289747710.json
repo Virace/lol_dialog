@@ -1,0 +1,44 @@
+{
+    "character": "rumble",
+    "id": "289747710",
+    "result": "你说谁是小个子？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012763256,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.704]  你说谁是小个子？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你说谁是小个子？",
+                    "SliceSentence": "你说 谁是 小个子",
+                    "StartMs": 0,
+                    "EndMs": 1704,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你说",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "谁是",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "小个子",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.704813
+        },
+        "RequestId": "ce279022-440c-4cd4-945d-663f321a3242"
+    }
+}

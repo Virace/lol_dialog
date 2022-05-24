@@ -1,0 +1,59 @@
+{
+    "character": "azir",
+    "id": "706016985",
+    "result": "我的城市活过来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012549211,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.938]  我的城市活过来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的城市活过来了。",
+                    "SliceSentence": "我 的 城市 活 过来 了",
+                    "StartMs": 0,
+                    "EndMs": 2938,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "城市",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "活",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "过来",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.938625
+        },
+        "RequestId": "ca15670f-7caa-40a0-a1d0-486834168251"
+    }
+}

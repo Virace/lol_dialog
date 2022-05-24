@@ -1,0 +1,44 @@
+{
+    "character": "evelynn",
+    "id": "144132745",
+    "result": "我会让你死而无憾。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012561910,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.820]  我会让你死而无憾。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会让你死而无憾。",
+                    "SliceSentence": "我会 让你 死而无憾",
+                    "StartMs": 0,
+                    "EndMs": 3820,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "让你",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "死而无憾",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.246188
+        },
+        "RequestId": "9d34adcc-ac44-46a3-bc20-b6d2ae0906e1"
+    }
+}

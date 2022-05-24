@@ -1,0 +1,49 @@
+{
+    "character": "vex",
+    "id": "1227754244",
+    "result": "咱们能不能算啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012810283,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.043]  咱们能不能算啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "咱们能不能算啦。",
+                    "SliceSentence": "咱们 能不能 算 啦",
+                    "StartMs": 0,
+                    "EndMs": 3043,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "咱们",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "能不能",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "算",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.043375
+        },
+        "RequestId": "95fba2e3-5ae3-453f-8ee4-1fb229577d43"
+    }
+}

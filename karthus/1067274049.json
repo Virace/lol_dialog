@@ -1,0 +1,49 @@
+{
+    "character": "karthus",
+    "id": "1067274049",
+    "result": "听我唱歌，凡人们。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012695596,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.130]  听我唱歌，凡人们。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "听我唱歌，凡人们。",
+                    "SliceSentence": "听我 唱歌 凡人 们",
+                    "StartMs": 0,
+                    "EndMs": 5130,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "听我",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "唱歌",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2580
+                        },
+                        {
+                            "Word": "凡人",
+                            "OffsetStartMs": 2610,
+                            "OffsetEndMs": 3630
+                        },
+                        {
+                            "Word": "们",
+                            "OffsetStartMs": 3630,
+                            "OffsetEndMs": 3900
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.130688
+        },
+        "RequestId": "96cbf6ee-9dc1-4b73-b8bf-0f808b4f5949"
+    }
+}

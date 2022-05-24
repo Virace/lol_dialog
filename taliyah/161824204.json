@@ -1,0 +1,44 @@
+{
+    "character": "taliyah",
+    "id": "161824204",
+    "result": "一次来一块儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012791929,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.317]  一次来一块儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一次来一块儿。",
+                    "SliceSentence": "一次 来 一块儿",
+                    "StartMs": 0,
+                    "EndMs": 1317,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "一次",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "一块儿",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 6.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.317875
+        },
+        "RequestId": "4bfe72e0-7bfc-4d83-9f2a-2b31739ec037"
+    }
+}

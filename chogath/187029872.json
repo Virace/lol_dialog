@@ -1,0 +1,49 @@
+{
+    "character": "chogath",
+    "id": "187029872",
+    "result": "应该先之所啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012555227,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.952]  应该先之所啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "应该先之所啊。",
+                    "SliceSentence": "应该 先 之所 啊",
+                    "StartMs": 0,
+                    "EndMs": 2952,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "应该",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "先",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "之所",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2580
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.9525
+        },
+        "RequestId": "484ffb49-52b2-4da4-82b7-0f9affac1625"
+    }
+}

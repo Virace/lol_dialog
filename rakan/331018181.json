@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "331018181",
+    "result": "我不喜欢这样。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012753118,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.379]  我不喜欢这样。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不喜欢这样。",
+                    "SliceSentence": "我不 喜欢 这样",
+                    "StartMs": 0,
+                    "EndMs": 1379,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "这样",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.379438
+        },
+        "RequestId": "b178f3ea-8630-4667-80a2-c0df2c92cdea"
+    }
+}

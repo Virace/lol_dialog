@@ -1,0 +1,69 @@
+{
+    "character": "neeko",
+    "id": "120408440",
+    "result": "要慢点儿，不要快，要快要再快。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012729624,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.978]  要慢点儿，不要快，要快要再快。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "要慢点儿，不要快，要快要再快。",
+                    "SliceSentence": "要 慢点 儿 不要 快要 快要 再 快",
+                    "StartMs": 0,
+                    "EndMs": 3978,
+                    "WordsNum": 8,
+                    "Words": [
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "慢点",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "儿",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "快要",
+                            "OffsetStartMs": 2550,
+                            "OffsetEndMs": 3060
+                        },
+                        {
+                            "Word": "快要",
+                            "OffsetStartMs": 3060,
+                            "OffsetEndMs": 3330
+                        },
+                        {
+                            "Word": "再",
+                            "OffsetStartMs": 3330,
+                            "OffsetEndMs": 3600
+                        },
+                        {
+                            "Word": "快",
+                            "OffsetStartMs": 3600,
+                            "OffsetEndMs": 3780
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.978438
+        },
+        "RequestId": "87a2bbe8-6684-4e08-9c8d-a941fe3772fd"
+    }
+}

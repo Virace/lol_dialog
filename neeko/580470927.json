@@ -1,0 +1,39 @@
+{
+    "character": "neeko",
+    "id": "580470927",
+    "result": "要停下。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012730642,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.118]  要停下。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "要停下。",
+                    "SliceSentence": "要 停下",
+                    "StartMs": 0,
+                    "EndMs": 1118,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "停下",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.11825
+        },
+        "RequestId": "cd40cb0a-5f31-41bc-917b-413dc658faeb"
+    }
+}

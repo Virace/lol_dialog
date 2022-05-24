@@ -1,0 +1,49 @@
+{
+    "character": "urgot",
+    "id": "350938969",
+    "result": "到这儿来，小猫咪。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012807011,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.211]  到这儿来，小猫咪。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "到这儿来，小猫咪。",
+                    "SliceSentence": "到 这儿 来 小猫咪",
+                    "StartMs": 0,
+                    "EndMs": 4211,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "这儿",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "小猫咪",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 3360
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.21175
+        },
+        "RequestId": "c8270559-8eda-4489-92a6-12afe7c9c348"
+    }
+}

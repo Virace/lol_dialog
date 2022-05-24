@@ -1,0 +1,54 @@
+{
+    "character": "poppy",
+    "id": "448672022",
+    "result": "突然有个想法，三马尾。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012743188,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.293]  突然有个想法，三马尾。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "突然有个想法，三马尾。",
+                    "SliceSentence": "突然 有个 想法 三马 尾",
+                    "StartMs": 0,
+                    "EndMs": 3293,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "突然",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "有个",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "想法",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "三马",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2490
+                        },
+                        {
+                            "Word": "尾",
+                            "OffsetStartMs": 2490,
+                            "OffsetEndMs": 3180
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.29375
+        },
+        "RequestId": "c576eee2-75d0-44f5-92fb-532a0cebf44c"
+    }
+}

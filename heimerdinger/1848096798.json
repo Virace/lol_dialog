@@ -1,0 +1,49 @@
+{
+    "character": "heimerdinger",
+    "id": "1848096798",
+    "result": "这需要一台原型机。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012576392,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.816]  这需要一台原型机。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这需要一台原型机。",
+                    "SliceSentence": "这 需要 一台 原型机",
+                    "StartMs": 0,
+                    "EndMs": 1816,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "一台",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "原型机",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.816438
+        },
+        "RequestId": "82943111-6d0e-4515-944b-09d50125f526"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "character": "tryndamere",
+    "id": "1863768781",
+    "result": "随心而动。随刃而行。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012801587,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.600]  随心而动。\n[0:2.600,0:5.194]  随刃而行。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "随心而动。",
+                    "SliceSentence": "随心 而动",
+                    "StartMs": 0,
+                    "EndMs": 2600,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "随心",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "而动",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "随刃而行。",
+                    "SliceSentence": "随 刃 而行",
+                    "StartMs": 2600,
+                    "EndMs": 5194,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "随",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "刃",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "而行",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.194313
+        },
+        "RequestId": "56bc0ff8-5c3f-4986-bd3c-ef2bf3b60550"
+    }
+}

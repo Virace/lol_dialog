@@ -1,0 +1,54 @@
+{
+    "character": "lillia",
+    "id": "1465005483",
+    "result": "真糟糕，太糟糕了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012714832,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.320]  真糟糕，太糟糕了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "真糟糕，太糟糕了。",
+                    "SliceSentence": "真 糟糕 太 糟糕 了",
+                    "StartMs": 0,
+                    "EndMs": 4320,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "真",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "糟糕",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "太",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "糟糕",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 2880
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2880,
+                            "OffsetEndMs": 3240
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.2245
+        },
+        "RequestId": "5e90a676-c6f1-4045-9d05-f0083fed7195"
+    }
+}

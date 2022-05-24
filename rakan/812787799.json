@@ -1,0 +1,69 @@
+{
+    "character": "rakan",
+    "id": "812787799",
+    "result": "我来了，我走了，我走远啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012754530,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.677]  我来了，我走了，我走远啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我来了，我走了，我走远啦。",
+                    "SliceSentence": "我 来了 我 走了 我 走 远 啦",
+                    "StartMs": 0,
+                    "EndMs": 3677,
+                    "WordsNum": 8,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "来了",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "走了",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 2460,
+                            "OffsetEndMs": 2640
+                        },
+                        {
+                            "Word": "走",
+                            "OffsetStartMs": 2640,
+                            "OffsetEndMs": 2850
+                        },
+                        {
+                            "Word": "远",
+                            "OffsetStartMs": 2850,
+                            "OffsetEndMs": 3060
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 3060,
+                            "OffsetEndMs": 3360
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.677125
+        },
+        "RequestId": "ba5ae0ac-9cb6-4449-8d18-eaba007a5bcc"
+    }
+}

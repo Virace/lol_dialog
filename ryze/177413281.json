@@ -1,0 +1,49 @@
+{
+    "character": "ryze",
+    "id": "177413281",
+    "result": "这好沉呐。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012763947,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.192]  这好沉呐。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这好沉呐。",
+                    "SliceSentence": "这 好 沉 呐",
+                    "StartMs": 0,
+                    "EndMs": 1192,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "沉",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "呐",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.19225
+        },
+        "RequestId": "85befe24-1607-4b95-8b76-3a6c11216d6e"
+    }
+}

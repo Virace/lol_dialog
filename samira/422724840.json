@@ -1,0 +1,39 @@
+{
+    "character": "samira",
+    "id": "422724840",
+    "result": "给我滚。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012766867,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.718]  给我滚。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "给我滚。",
+                    "SliceSentence": "给我 滚",
+                    "StartMs": 0,
+                    "EndMs": 1718,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "给我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "滚",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.718313
+        },
+        "RequestId": "7ae29192-7821-4a76-ba4c-fc43b6eb4ec0"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "drmundo",
+    "id": "1837809633",
+    "result": "先缴费，再开药。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012558039,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.607]  先缴费，再开药。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "先缴费，再开药。",
+                    "SliceSentence": "先 缴费 再 开药",
+                    "StartMs": 0,
+                    "EndMs": 2607,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "先",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "缴费",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "再",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "开药",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.607
+        },
+        "RequestId": "2de6de3a-c4c2-434c-b874-e5b57436e3da"
+    }
+}

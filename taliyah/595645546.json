@@ -1,0 +1,49 @@
+{
+    "character": "taliyah",
+    "id": "595645546",
+    "result": "你低估了我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012793787,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.176]  你低估了我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你低估了我。",
+                    "SliceSentence": "你 低估 了 我",
+                    "StartMs": 0,
+                    "EndMs": 1176,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "低估",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 7.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.176875
+        },
+        "RequestId": "5c04db73-3a54-45f7-adaa-8a26b96fa19e"
+    }
+}

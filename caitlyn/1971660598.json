@@ -1,0 +1,44 @@
+{
+    "character": "caitlyn",
+    "id": "1971660598",
+    "result": "目标已标记。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551394,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.898]  目标已标记。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "目标已标记。",
+                    "SliceSentence": "目标 已 标记",
+                    "StartMs": 0,
+                    "EndMs": 1898,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "目标",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "已",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "标记",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.898688
+        },
+        "RequestId": "9d040763-f78f-4cfe-942e-1a273f1dc3c7"
+    }
+}

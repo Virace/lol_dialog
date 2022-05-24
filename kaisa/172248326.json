@@ -1,0 +1,59 @@
+{
+    "character": "kaisa",
+    "id": "172248326",
+    "result": "没有桃子，不过这个也行吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689203,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.235]  没有桃子，不过这个也行吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没有桃子，不过这个也行吧。",
+                    "SliceSentence": "没有 桃子 不过 这个 也行 吧",
+                    "StartMs": 0,
+                    "EndMs": 3235,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "桃子",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "不过",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "也行",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 2790
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 2790,
+                            "OffsetEndMs": 3000
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.2355
+        },
+        "RequestId": "aabcfdd8-f367-4291-814c-ffaba6b73e8e"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "character": "caitlyn",
+    "id": "629812329",
+    "result": "这比坐在办公室里强多了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551819,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.986]  这比坐在办公室里强多了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这比坐在办公室里强多了。",
+                    "SliceSentence": "这 比 坐在 办公室 里 强 多了",
+                    "StartMs": 0,
+                    "EndMs": 2986,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "比",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "坐在",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "办公室",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "里",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "强",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "多了",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.986625
+        },
+        "RequestId": "76d9a260-9150-42a8-8887-45f6bdb50ecd"
+    }
+}

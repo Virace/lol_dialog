@@ -1,0 +1,54 @@
+{
+    "character": "samira",
+    "id": "1426051295",
+    "result": "你落到我手里了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012766285,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.786]  你落到我手里了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你落到我手里了。",
+                    "SliceSentence": "你 落到 我 手里 了",
+                    "StartMs": 0,
+                    "EndMs": 2786,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "落到",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "手里",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.786375
+        },
+        "RequestId": "297ee541-3023-4974-b9b2-d1ac8a4f3317"
+    }
+}

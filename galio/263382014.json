@@ -1,0 +1,39 @@
+{
+    "character": "galio",
+    "id": "263382014",
+    "result": "关灯咯。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568592,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.038]  关灯咯。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "关灯咯。",
+                    "SliceSentence": "关灯 咯",
+                    "StartMs": 0,
+                    "EndMs": 1038,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "关灯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "咯",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.038313
+        },
+        "RequestId": "a50f24de-9697-4bc6-adc8-8128d31a0a8e"
+    }
+}

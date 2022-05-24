@@ -1,0 +1,44 @@
+{
+    "character": "evelynn",
+    "id": "103451971",
+    "result": "你好啊，爱人。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012561367,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.413]  你好啊，爱人。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你好啊，爱人。",
+                    "SliceSentence": "你 好啊 爱人",
+                    "StartMs": 0,
+                    "EndMs": 3413,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "好啊",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "爱人",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2730
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.413375
+        },
+        "RequestId": "ffb72e08-1a42-42e4-b437-6e18ec1b652e"
+    }
+}

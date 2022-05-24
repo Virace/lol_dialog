@@ -1,0 +1,39 @@
+{
+    "character": "lulu",
+    "id": "1619773073",
+    "result": "毛毛球。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718792,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.273]  毛毛球。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "毛毛球。",
+                    "SliceSentence": "毛毛 球",
+                    "StartMs": 0,
+                    "EndMs": 1273,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "毛毛",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "球",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.273375
+        },
+        "RequestId": "afad0c9e-071c-4538-8eb6-9fe5a8bd0203"
+    }
+}

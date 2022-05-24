@@ -1,0 +1,69 @@
+{
+    "character": "pyke",
+    "id": "1963636827",
+    "result": "我被死亡一次次的吐回人间。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745697,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.412]  我被死亡一次次的吐回人间。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我被死亡一次次的吐回人间。",
+                    "SliceSentence": "我被 死亡 一次 次 的 吐 回 人间",
+                    "StartMs": 0,
+                    "EndMs": 4412,
+                    "WordsNum": 8,
+                    "Words": [
+                        {
+                            "Word": "我被",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "死亡",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "一次",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "次",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "吐",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2490
+                        },
+                        {
+                            "Word": "回",
+                            "OffsetStartMs": 2490,
+                            "OffsetEndMs": 2790
+                        },
+                        {
+                            "Word": "人间",
+                            "OffsetStartMs": 2790,
+                            "OffsetEndMs": 3690
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.412375
+        },
+        "RequestId": "670186c9-9287-48f1-86b2-c0fea9723901"
+    }
+}

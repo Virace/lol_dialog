@@ -1,0 +1,49 @@
+{
+    "character": "vayne",
+    "id": "1200807022",
+    "result": "啊啊啊啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012808407,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.640]  啊啊啊啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊啊啊啊。",
+                    "SliceSentence": "啊 啊 啊 啊",
+                    "StartMs": 0,
+                    "EndMs": 5640,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 2940,
+                            "OffsetEndMs": 3900
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 4290,
+                            "OffsetEndMs": 4680
+                        }
+                    ],
+                    "SpeechSpeed": 1.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.963563
+        },
+        "RequestId": "ab20bd63-13d8-45d3-ac9a-3e6b0bc8d60e"
+    }
+}

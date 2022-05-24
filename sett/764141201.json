@@ -1,0 +1,39 @@
+{
+    "character": "sett",
+    "id": "764141201",
+    "result": "突突。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012773588,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.230]  突突。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "突突。",
+                    "SliceSentence": "突 突",
+                    "StartMs": 0,
+                    "EndMs": 1230,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "突",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "突",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 870
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.230688
+        },
+        "RequestId": "105c14aa-1663-42d7-9d78-f61413d2883b"
+    }
+}

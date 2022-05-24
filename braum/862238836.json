@@ -1,0 +1,44 @@
+{
+    "character": "braum",
+    "id": "862238836",
+    "result": "站在布隆后面。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550718,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.540]  站在布隆后面。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "站在布隆后面。",
+                    "SliceSentence": "站在 布隆 后面",
+                    "StartMs": 0,
+                    "EndMs": 1540,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "站在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "布隆",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "后面",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.54
+        },
+        "RequestId": "1d0ae52a-a132-45ba-bc81-7736b08e10ee"
+    }
+}

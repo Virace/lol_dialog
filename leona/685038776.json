@@ -1,0 +1,44 @@
+{
+    "character": "leona",
+    "id": "685038776",
+    "result": "我会保护你的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012714391,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.920]  我会保护你的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会保护你的。",
+                    "SliceSentence": "我会 保护 你的",
+                    "StartMs": 0,
+                    "EndMs": 1920,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "保护",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.176938
+        },
+        "RequestId": "aceb4138-3ec1-46df-9cb8-fdda6b62d8ff"
+    }
+}

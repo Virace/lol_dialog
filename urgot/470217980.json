@@ -1,0 +1,54 @@
+{
+    "character": "urgot",
+    "id": "470217980",
+    "result": "别浪费我的时间。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012807147,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.170]  别浪费我的时间。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别浪费我的时间。",
+                    "SliceSentence": "别 浪费 我 的 时间",
+                    "StartMs": 0,
+                    "EndMs": 3170,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "浪费",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2730
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.17025
+        },
+        "RequestId": "73ec2a72-eb96-4765-b06b-a1f1ce5238bb"
+    }
+}

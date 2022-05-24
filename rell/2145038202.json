@@ -1,0 +1,44 @@
+{
+    "character": "rell",
+    "id": "2145038202",
+    "result": "都跟上我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012758090,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.300]  都跟上我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "都跟上我。",
+                    "SliceSentence": "都 跟上 我",
+                    "StartMs": 0,
+                    "EndMs": 1300,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "都",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "跟上",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.300063
+        },
+        "RequestId": "d3e09a43-3631-47be-802f-36778e63dd29"
+    }
+}

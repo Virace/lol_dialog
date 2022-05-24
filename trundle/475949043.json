@@ -1,0 +1,59 @@
+{
+    "character": "trundle",
+    "id": "475949043",
+    "result": "今晚我觉得很想吃东西。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012801414,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.681]  今晚我觉得很想吃东西。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "今晚我觉得很想吃东西。",
+                    "SliceSentence": "今晚 我 觉得 很想 吃 东西",
+                    "StartMs": 0,
+                    "EndMs": 4681,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "今晚",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "觉得",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2370
+                        },
+                        {
+                            "Word": "很想",
+                            "OffsetStartMs": 2370,
+                            "OffsetEndMs": 3150
+                        },
+                        {
+                            "Word": "吃",
+                            "OffsetStartMs": 3150,
+                            "OffsetEndMs": 3390
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 3390,
+                            "OffsetEndMs": 4350
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.681188
+        },
+        "RequestId": "6653b7c6-d0f4-4a99-9d15-d6a177341ea3"
+    }
+}

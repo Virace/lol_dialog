@@ -1,0 +1,49 @@
+{
+    "character": "tristana",
+    "id": "819979608",
+    "result": "带我去那里吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012800534,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.967]  带我去那里吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "带我去那里吧。",
+                    "SliceSentence": "带我 去 那里 吧",
+                    "StartMs": 0,
+                    "EndMs": 967,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "带我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "那里",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 10.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.967
+        },
+        "RequestId": "8ebd61f8-8d13-43dd-a011-46cadf8c989a"
+    }
+}

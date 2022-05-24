@@ -1,0 +1,39 @@
+{
+    "character": "katarina",
+    "id": "130418534",
+    "result": "不要手软。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012697002,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.508]  不要手软。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要手软。",
+                    "SliceSentence": "不要 手软",
+                    "StartMs": 0,
+                    "EndMs": 1508,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "手软",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.508625
+        },
+        "RequestId": "1f3f56ac-e434-410d-92a5-c12638696728"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "901957578",
+    "result": "并不是总会这样。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012838185,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.450]  并不是总会这样。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "并不是总会这样。",
+                    "SliceSentence": "并不是 总会 这样",
+                    "StartMs": 0,
+                    "EndMs": 1450,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "并不是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "总会",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "这样",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.450875
+        },
+        "RequestId": "bc34aa85-bd04-41ce-8017-3dad4dd88215"
+    }
+}

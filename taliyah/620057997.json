@@ -1,0 +1,49 @@
+{
+    "character": "taliyah",
+    "id": "620057997",
+    "result": "一时在手，满头大包。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012793965,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.582]  一时在手，满头大包。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一时在手，满头大包。",
+                    "SliceSentence": "一时 在手 满头 大包",
+                    "StartMs": 0,
+                    "EndMs": 2582,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "一时",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "在手",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "满头",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "大包",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.582125
+        },
+        "RequestId": "3ead39a0-ce3c-4ed2-b0ef-74856ca5f30f"
+    }
+}

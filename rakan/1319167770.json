@@ -1,0 +1,39 @@
+{
+    "character": "rakan",
+    "id": "1319167770",
+    "result": "你真美。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012750179,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.113]  你真美。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你真美。",
+                    "SliceSentence": "你真 美",
+                    "StartMs": 0,
+                    "EndMs": 1113,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "你真",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "美",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.113125
+        },
+        "RequestId": "74985b21-5cbb-41b8-9b5c-9e6ed7e6c362"
+    }
+}

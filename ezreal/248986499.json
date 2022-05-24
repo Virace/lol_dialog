@@ -1,0 +1,59 @@
+{
+    "character": "ezreal",
+    "id": "248986499",
+    "result": "我真准，击个掌吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012566413,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.232]  我真准，击个掌吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我真准，击个掌吧。",
+                    "SliceSentence": "我 真准 击 个 掌 吧",
+                    "StartMs": 0,
+                    "EndMs": 2232,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "真准",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "击",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "个",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "掌",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.232
+        },
+        "RequestId": "57894729-b30f-4d55-ae35-61ead37c1a23"
+    }
+}

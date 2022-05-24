@@ -1,0 +1,49 @@
+{
+    "character": "kayn",
+    "id": "875361470",
+    "result": "感受我的狂怒。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012703130,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.915]  感受我的狂怒。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "感受我的狂怒。",
+                    "SliceSentence": "感受 我 的 狂怒",
+                    "StartMs": 0,
+                    "EndMs": 1915,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "感受",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "狂怒",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.915063
+        },
+        "RequestId": "9d612520-fb79-4849-991a-8237d43f8118"
+    }
+}

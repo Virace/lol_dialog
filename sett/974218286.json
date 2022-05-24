@@ -1,0 +1,49 @@
+{
+    "character": "sett",
+    "id": "974218286",
+    "result": "敲钟吧，开始了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012773897,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.506]  敲钟吧，开始了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "敲钟吧，开始了。",
+                    "SliceSentence": "敲钟 吧 开始 了",
+                    "StartMs": 0,
+                    "EndMs": 3506,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "敲钟",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "开始",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2850
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.50625
+        },
+        "RequestId": "292256c9-7576-44f4-8860-251f4951503c"
+    }
+}

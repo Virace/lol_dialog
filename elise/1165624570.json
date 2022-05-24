@@ -1,0 +1,49 @@
+{
+    "character": "elise",
+    "id": "1165624570",
+    "result": "疼痛转涉及事。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560498,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.234]  疼痛转涉及事。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "疼痛转涉及事。",
+                    "SliceSentence": "疼痛 转 涉及 事",
+                    "StartMs": 0,
+                    "EndMs": 4234,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "疼痛",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "转",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "涉及",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2640
+                        },
+                        {
+                            "Word": "事",
+                            "OffsetStartMs": 2640,
+                            "OffsetEndMs": 2970
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.23475
+        },
+        "RequestId": "c1d3c3af-bf15-41b9-b2e5-2e037502871d"
+    }
+}

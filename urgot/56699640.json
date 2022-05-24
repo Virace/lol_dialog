@@ -1,0 +1,49 @@
+{
+    "character": "urgot",
+    "id": "56699640",
+    "result": "这小子挺好学。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012807245,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.592]  这小子挺好学。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这小子挺好学。",
+                    "SliceSentence": "这 小子 挺 好学",
+                    "StartMs": 0,
+                    "EndMs": 3592,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "小子",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "挺",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "好学",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 3120
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.59225
+        },
+        "RequestId": "ab3537e0-b810-404f-980c-980215a14efd"
+    }
+}

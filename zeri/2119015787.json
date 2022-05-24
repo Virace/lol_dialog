@@ -1,0 +1,44 @@
+{
+    "character": "zeri",
+    "id": "2119015787",
+    "result": "带我上啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012852179,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.813]  带我上啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "带我上啦。",
+                    "SliceSentence": "带我 上 啦",
+                    "StartMs": 0,
+                    "EndMs": 1813,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "带我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "上",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.813313
+        },
+        "RequestId": "b178fcc6-1d39-4daa-8838-bf5dee363e80"
+    }
+}

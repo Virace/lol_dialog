@@ -1,0 +1,39 @@
+{
+    "character": "kayn",
+    "id": "1137562734",
+    "result": "别炸。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012699086,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.840]  别炸。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别炸。",
+                    "SliceSentence": "别 炸",
+                    "StartMs": 0,
+                    "EndMs": 840,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "炸",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 750
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.840375
+        },
+        "RequestId": "050718a3-0ca2-4dea-8b6e-712e3e4254f1"
+    }
+}

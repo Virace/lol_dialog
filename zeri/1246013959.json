@@ -1,0 +1,44 @@
+{
+    "character": "zeri",
+    "id": "1246013959",
+    "result": "一点儿也不好笑。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012850692,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.984]  一点儿也不好笑。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一点儿也不好笑。",
+                    "SliceSentence": "一点儿 也不 好笑",
+                    "StartMs": 0,
+                    "EndMs": 1984,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "一点儿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "也不",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "好笑",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.984
+        },
+        "RequestId": "6d0d282d-ee2e-40fb-87d7-22523f8bf3fa"
+    }
+}

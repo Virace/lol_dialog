@@ -1,0 +1,59 @@
+{
+    "character": "twitch",
+    "id": "2059527976",
+    "result": "我有种想要跟随你的冲动。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012803649,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.365]  我有种想要跟随你的冲动。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我有种想要跟随你的冲动。",
+                    "SliceSentence": "我 有种 想要 跟随 你的 冲动",
+                    "StartMs": 0,
+                    "EndMs": 4365,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "有种",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "想要",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "跟随",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2550
+                        },
+                        {
+                            "Word": "冲动",
+                            "OffsetStartMs": 2550,
+                            "OffsetEndMs": 4110
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.365375
+        },
+        "RequestId": "d9c379db-2c27-4a39-9cc7-44f89272dd81"
+    }
+}

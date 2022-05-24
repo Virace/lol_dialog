@@ -1,0 +1,49 @@
+{
+    "character": "sett",
+    "id": "1651179090",
+    "result": "来看谁先打。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012772682,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.088]  来看谁先打。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "来看谁先打。",
+                    "SliceSentence": "来看 谁 先 打",
+                    "StartMs": 0,
+                    "EndMs": 3088,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "来看",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "谁",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "先",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "打",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2610
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.08825
+        },
+        "RequestId": "6853c7b2-95d2-4697-a022-4e76614623bf"
+    }
+}

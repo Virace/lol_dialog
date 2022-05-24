@@ -1,0 +1,44 @@
+{
+    "character": "lux",
+    "id": "979524699",
+    "result": "抓到你啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012719854,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.087]  抓到你啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "抓到你啦。",
+                    "SliceSentence": "抓到 你 啦",
+                    "StartMs": 0,
+                    "EndMs": 1087,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "抓到",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.087625
+        },
+        "RequestId": "c2459d13-e582-42db-834d-a79dbe67556c"
+    }
+}

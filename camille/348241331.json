@@ -1,0 +1,59 @@
+{
+    "character": "camille",
+    "id": "348241331",
+    "result": "快看，这是最糟糕的时刻。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552977,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.834]  快看，这是最糟糕的时刻。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "快看，这是最糟糕的时刻。",
+                    "SliceSentence": "快 看 这是 最糟糕 的 时刻",
+                    "StartMs": 0,
+                    "EndMs": 2834,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "快",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "看",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "最糟糕",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "时刻",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2760
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.834938
+        },
+        "RequestId": "adfcdc71-4085-4cc4-92cf-3ff6bda91a36"
+    }
+}

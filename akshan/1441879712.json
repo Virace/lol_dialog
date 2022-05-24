@@ -1,0 +1,49 @@
+{
+    "character": "akshan",
+    "id": "1441879712",
+    "result": "你该留遗言了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012540795,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.112]  你该留遗言了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你该留遗言了。",
+                    "SliceSentence": "你该 留 遗言 了",
+                    "StartMs": 0,
+                    "EndMs": 2112,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你该",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "留",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "遗言",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.112
+        },
+        "RequestId": "33da2d13-002f-49f2-90fe-c319023df00e"
+    }
+}

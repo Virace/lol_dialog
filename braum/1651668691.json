@@ -1,0 +1,39 @@
+{
+    "character": "braum",
+    "id": "1651668691",
+    "result": "哈哈，正合适。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550187,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.185]  哈哈，正合适。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈，正合适。",
+                    "SliceSentence": "哈哈 正合适",
+                    "StartMs": 0,
+                    "EndMs": 2185,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "正合适",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.185438
+        },
+        "RequestId": "c0bcc1c2-97a5-436d-baeb-81a255a9a62e"
+    }
+}

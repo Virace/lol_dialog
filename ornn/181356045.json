@@ -1,0 +1,44 @@
+{
+    "character": "ornn",
+    "id": "181356045",
+    "result": "干得好啊，各位。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012738797,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.913]  干得好啊，各位。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "干得好啊，各位。",
+                    "SliceSentence": "干得 好啊 各位",
+                    "StartMs": 0,
+                    "EndMs": 1913,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "干得",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "好啊",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "各位",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.91375
+        },
+        "RequestId": "ea4fca95-f475-4cec-97b6-d8fa0cdb6cef"
+    }
+}

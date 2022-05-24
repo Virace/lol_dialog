@@ -1,0 +1,39 @@
+{
+    "character": "yuumi",
+    "id": "101465033",
+    "result": "我喜。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012846368,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.215]  我喜。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我喜。",
+                    "SliceSentence": "我 喜",
+                    "StartMs": 0,
+                    "EndMs": 2215,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "喜",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.2155
+        },
+        "RequestId": "b5b4312a-71d1-449a-be69-d66af2fd284f"
+    }
+}

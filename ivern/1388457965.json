@@ -1,0 +1,44 @@
+{
+    "character": "ivern",
+    "id": "1388457965",
+    "result": "呱呱呱呱娃娃。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012583791,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.488]  呱呱呱呱娃娃。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "呱呱呱呱娃娃。",
+                    "SliceSentence": "呱呱 呱呱 娃娃",
+                    "StartMs": 0,
+                    "EndMs": 3488,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "呱呱",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "呱呱",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "娃娃",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 3420
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.488
+        },
+        "RequestId": "89bdd97b-e17c-44b8-9147-2ec70cb3f06e"
+    }
+}

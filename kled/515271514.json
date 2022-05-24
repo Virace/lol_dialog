@@ -1,0 +1,44 @@
+{
+    "character": "kled",
+    "id": "515271514",
+    "result": "你去哪儿啦？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012708190,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.257]  你去哪儿啦？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你去哪儿啦？",
+                    "SliceSentence": "你去 哪儿 啦",
+                    "StartMs": 0,
+                    "EndMs": 1257,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你去",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "哪儿",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.257313
+        },
+        "RequestId": "a802f095-8fa2-43df-90bd-0f9f7bfe63ac"
+    }
+}

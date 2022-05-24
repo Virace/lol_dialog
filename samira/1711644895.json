@@ -1,0 +1,44 @@
+{
+    "character": "samira",
+    "id": "1711644895",
+    "result": "交给我啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012766455,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.159]  交给我啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "交给我啦。",
+                    "SliceSentence": "交给 我 啦",
+                    "StartMs": 0,
+                    "EndMs": 2159,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "交给",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.159438
+        },
+        "RequestId": "64aabdce-aedd-4bd0-9315-a6f6a223d683"
+    }
+}

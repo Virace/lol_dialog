@@ -1,0 +1,44 @@
+{
+    "character": "yorick",
+    "id": "1022533485",
+    "result": "回去，然后战斗。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012843661,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.898]  回去，然后战斗。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "回去，然后战斗。",
+                    "SliceSentence": "回去 然后 战斗",
+                    "StartMs": 0,
+                    "EndMs": 2898,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "回去",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "然后",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "战斗",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.898
+        },
+        "RequestId": "c6dacd30-d8bc-4e51-beb6-2c364e5ac6e7"
+    }
+}

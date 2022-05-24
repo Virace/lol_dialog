@@ -1,0 +1,49 @@
+{
+    "character": "galio",
+    "id": "788086336",
+    "result": "谁想要被保护？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012569784,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.580]  谁想要被保护？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "谁想要被保护？",
+                    "SliceSentence": "谁 想要 被 保护",
+                    "StartMs": 0,
+                    "EndMs": 1580,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "谁",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "想要",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "被",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "保护",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.580563
+        },
+        "RequestId": "23ae254c-7fe9-41cb-b588-b3d899729d6e"
+    }
+}

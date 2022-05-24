@@ -1,0 +1,44 @@
+{
+    "character": "caitlyn",
+    "id": "288009244",
+    "result": "别想逃跑，蒿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551523,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.834]  别想逃跑，蒿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别想逃跑，蒿。",
+                    "SliceSentence": "别想 逃跑 蒿",
+                    "StartMs": 0,
+                    "EndMs": 1834,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "别想",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "逃跑",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "蒿",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.834688
+        },
+        "RequestId": "c052485b-65fc-4928-87a7-773ffae1b542"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "ezreal",
+    "id": "76905720",
+    "result": "呵呵，我不喜欢警告。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012566963,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.164]  呵呵，我不喜欢警告。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "呵呵，我不喜欢警告。",
+                    "SliceSentence": "呵呵 我不 喜欢 警告",
+                    "StartMs": 0,
+                    "EndMs": 2164,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "呵呵",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "警告",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.164375
+        },
+        "RequestId": "0c055cb1-3b35-4f85-a084-5b57f143f59a"
+    }
+}

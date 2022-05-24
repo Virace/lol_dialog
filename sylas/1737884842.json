@@ -1,0 +1,44 @@
+{
+    "character": "sylas",
+    "id": "1737884842",
+    "result": "嗯，这就对了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786827,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.705]  嗯，这就对了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯，这就对了。",
+                    "SliceSentence": "嗯 这就 对了",
+                    "StartMs": 0,
+                    "EndMs": 1705,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "这就",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "对了",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.70575
+        },
+        "RequestId": "c1009c4e-3abb-4ea3-8984-a0192397f5f7"
+    }
+}

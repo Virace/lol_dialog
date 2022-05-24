@@ -1,0 +1,59 @@
+{
+    "character": "sett",
+    "id": "2125783174",
+    "result": "每个人都会说，嗯，除了某个人。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012773074,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.387]  每个人都会说，嗯，除了某个人。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "每个人都会说，嗯，除了某个人。",
+                    "SliceSentence": "每个人 都会 说 嗯 除了 某个人",
+                    "StartMs": 0,
+                    "EndMs": 5387,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "每个人",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "都会",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 3210
+                        },
+                        {
+                            "Word": "除了",
+                            "OffsetStartMs": 3240,
+                            "OffsetEndMs": 3690
+                        },
+                        {
+                            "Word": "某个人",
+                            "OffsetStartMs": 3690,
+                            "OffsetEndMs": 4320
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.387063
+        },
+        "RequestId": "e9e73a43-902a-4a79-8e3d-57a2938a59a4"
+    }
+}

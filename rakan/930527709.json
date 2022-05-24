@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "930527709",
+    "result": "这才是正戏。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012754863,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.301]  这才是正戏。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这才是正戏。",
+                    "SliceSentence": "这才是 正 戏",
+                    "StartMs": 0,
+                    "EndMs": 1301,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这才是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "正",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "戏",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.301188
+        },
+        "RequestId": "134653bd-2d08-41c7-8b69-6e29d031559f"
+    }
+}

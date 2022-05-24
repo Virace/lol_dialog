@@ -1,0 +1,49 @@
+{
+    "character": "akshan",
+    "id": "514153902",
+    "result": "哦，包你满意。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012541288,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.965]  哦，包你满意。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哦，包你满意。",
+                    "SliceSentence": "哦 包 你 满意",
+                    "StartMs": 0,
+                    "EndMs": 2965,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "哦",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "包",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "满意",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.965313
+        },
+        "RequestId": "4eb1832f-98ce-48d8-842b-2d53100db7ab"
+    }
+}

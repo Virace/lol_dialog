@@ -1,0 +1,49 @@
+{
+    "character": "riven",
+    "id": "344289214",
+    "result": "闲聊时间已经结束。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012763036,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.639]  闲聊时间已经结束。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "闲聊时间已经结束。",
+                    "SliceSentence": "闲聊 时间 已经 结束",
+                    "StartMs": 0,
+                    "EndMs": 2639,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "闲聊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "结束",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2580
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.639125
+        },
+        "RequestId": "bade7d67-85cd-49b1-8e20-db460e4a7bb3"
+    }
+}

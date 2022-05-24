@@ -1,0 +1,39 @@
+{
+    "character": "rakan",
+    "id": "108232556",
+    "result": "我活在当下。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749358,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.089]  我活在当下。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我活在当下。",
+                    "SliceSentence": "我 活在当下",
+                    "StartMs": 0,
+                    "EndMs": 2089,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "活在当下",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.089438
+        },
+        "RequestId": "51634478-5873-4425-8232-4a588f59a76d"
+    }
+}

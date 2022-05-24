@@ -1,0 +1,44 @@
+{
+    "character": "kled",
+    "id": "49592586",
+    "result": "好的很呐。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012708129,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.626]  好的很呐。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好的很呐。",
+                    "SliceSentence": "好的 很 呐",
+                    "StartMs": 0,
+                    "EndMs": 1626,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "好的",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "很",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "呐",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.626625
+        },
+        "RequestId": "aa8fd0d6-33ae-4c68-9c0c-6ea4766efcc9"
+    }
+}

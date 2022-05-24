@@ -1,0 +1,49 @@
+{
+    "character": "heimerdinger",
+    "id": "185560058",
+    "result": "经过我的计算。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012576405,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.845]  经过我的计算。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "经过我的计算。",
+                    "SliceSentence": "经过 我 的 计算",
+                    "StartMs": 0,
+                    "EndMs": 1845,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "经过",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "计算",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.845063
+        },
+        "RequestId": "db933161-b15d-4a8e-a2ba-9b00fdafdcca"
+    }
+}

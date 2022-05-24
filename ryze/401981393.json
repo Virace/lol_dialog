@@ -1,0 +1,54 @@
+{
+    "character": "ryze",
+    "id": "401981393",
+    "result": "要快，但也要谨慎。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012764501,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.665]  要快，但也要谨慎。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "要快，但也要谨慎。",
+                    "SliceSentence": "要 快 但 也要 谨慎",
+                    "StartMs": 0,
+                    "EndMs": 1665,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "快",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "但",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "也要",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "谨慎",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 7.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.665813
+        },
+        "RequestId": "d82b9d8e-f3df-4b49-a3b4-0415ded021ff"
+    }
+}

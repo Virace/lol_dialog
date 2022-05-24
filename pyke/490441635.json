@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "490441635",
+    "result": "对了，你当时也在。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746368,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.008]  对了，你当时也在。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "对了，你当时也在。",
+                    "SliceSentence": "对了 你 当时 也在",
+                    "StartMs": 0,
+                    "EndMs": 3008,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "对了",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "当时",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "也在",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.008688
+        },
+        "RequestId": "1136e2c5-5c0e-4c23-9fd9-8eda7ec894a1"
+    }
+}

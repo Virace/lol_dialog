@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "1248336212",
+    "result": "我看不到他们了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012834120,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.167]  我看不到他们了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我看不到他们了。",
+                    "SliceSentence": "我 看不到 他们 了",
+                    "StartMs": 0,
+                    "EndMs": 1167,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "看不到",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 9.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.167313
+        },
+        "RequestId": "de3cb71c-0520-4089-9822-29c66d41fb14"
+    }
+}

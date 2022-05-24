@@ -1,0 +1,49 @@
+{
+    "character": "yorick",
+    "id": "694613409",
+    "result": "你的陵墓在等待。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012845662,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.746]  你的陵墓在等待。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你的陵墓在等待。",
+                    "SliceSentence": "你的 陵墓 在 等待",
+                    "StartMs": 0,
+                    "EndMs": 2746,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "陵墓",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "等待",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.746063
+        },
+        "RequestId": "48487c6c-2726-4a6f-9721-411037377087"
+    }
+}

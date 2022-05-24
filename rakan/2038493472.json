@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "2038493472",
+    "result": "不要说话，好好活着。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012752358,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.125]  不要说话，好好活着。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要说话，好好活着。",
+                    "SliceSentence": "不要 说话 好好 活着",
+                    "StartMs": 0,
+                    "EndMs": 2125,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "说话",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "好好",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "活着",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.125938
+        },
+        "RequestId": "c94cdb3c-18d4-4ee3-84e0-fe2f197bcce6"
+    }
+}

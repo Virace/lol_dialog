@@ -1,0 +1,44 @@
+{
+    "character": "samira",
+    "id": "1856358587",
+    "result": "永远不会过期。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012766647,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.761]  永远不会过期。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "永远不会过期。",
+                    "SliceSentence": "永远 不会 过期",
+                    "StartMs": 0,
+                    "EndMs": 3761,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "永远",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "过期",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 3360
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.761625
+        },
+        "RequestId": "a2bfe0ef-d79d-490e-90f5-82e67cc92f1e"
+    }
+}

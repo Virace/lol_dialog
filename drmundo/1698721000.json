@@ -1,0 +1,39 @@
+{
+    "character": "drmundo",
+    "id": "1698721000",
+    "result": "有益健康。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012557901,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.245]  有益健康。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "有益健康。",
+                    "SliceSentence": "有益 健康",
+                    "StartMs": 0,
+                    "EndMs": 2245,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "有益",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "健康",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.2455
+        },
+        "RequestId": "16266a11-6fa0-4f99-a645-e90897ef4b12"
+    }
+}

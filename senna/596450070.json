@@ -1,0 +1,49 @@
+{
+    "character": "senna",
+    "id": "596450070",
+    "result": "你怎么不说话？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012769773,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.996]  你怎么不说话？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你怎么不说话？",
+                    "SliceSentence": "你 怎么 不 说话",
+                    "StartMs": 0,
+                    "EndMs": 1996,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "怎么",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "说话",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.996938
+        },
+        "RequestId": "2e17185a-33d9-4360-912e-85b95a1fb888"
+    }
+}

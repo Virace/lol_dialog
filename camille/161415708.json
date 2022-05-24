@@ -1,0 +1,44 @@
+{
+    "character": "camille",
+    "id": "161415708",
+    "result": "化学反应已经中和。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552461,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.618]  化学反应已经中和。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "化学反应已经中和。",
+                    "SliceSentence": "化学反应 已经 中和",
+                    "StartMs": 0,
+                    "EndMs": 2618,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "化学反应",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "中和",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.61825
+        },
+        "RequestId": "2f52c929-e439-4ef1-ab49-0eba23c14ad5"
+    }
+}

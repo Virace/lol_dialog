@@ -1,0 +1,54 @@
+{
+    "character": "kayn",
+    "id": "192186404",
+    "result": "小瞧我，你就大难临头了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012700498,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.751]  小瞧我，你就大难临头了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "小瞧我，你就大难临头了。",
+                    "SliceSentence": "小瞧 我 你就 大难临头 了",
+                    "StartMs": 0,
+                    "EndMs": 2751,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "小瞧",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "你就",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "大难临头",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2490
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2490,
+                            "OffsetEndMs": 2670
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.751438
+        },
+        "RequestId": "4b2555ee-dc9c-4368-b8bc-7d55f8df9883"
+    }
+}

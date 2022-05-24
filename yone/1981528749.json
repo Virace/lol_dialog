@@ -1,0 +1,44 @@
+{
+    "character": "yone",
+    "id": "1981528749",
+    "result": "别当大。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012842786,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.229]  别当大。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别当大。",
+                    "SliceSentence": "别 当 大",
+                    "StartMs": 0,
+                    "EndMs": 2229,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "当",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "大",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.229125
+        },
+        "RequestId": "a561535f-fbc2-498f-add6-db0f0778bce9"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "yuumi",
+    "id": "49258205",
+    "result": "我是老虎。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012847701,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.159]  我是老虎。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我是老虎。",
+                    "SliceSentence": "我 是 老虎",
+                    "StartMs": 0,
+                    "EndMs": 1159,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "老虎",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.159375
+        },
+        "RequestId": "2c5e80e5-837d-4bc2-b762-d513ee6218bf"
+    }
+}

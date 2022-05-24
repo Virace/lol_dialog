@@ -1,0 +1,39 @@
+{
+    "character": "poppy",
+    "id": "770660793",
+    "result": "接住了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012743864,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.908]  接住了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "接住了。",
+                    "SliceSentence": "接住 了",
+                    "StartMs": 0,
+                    "EndMs": 908,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "接住",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.908125
+        },
+        "RequestId": "f694a8d0-0f8a-4805-93af-3d165a21022c"
+    }
+}

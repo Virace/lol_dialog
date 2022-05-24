@@ -1,0 +1,59 @@
+{
+    "character": "kled",
+    "id": "524768582",
+    "result": "你好像没待多久哦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012708297,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.229]  你好像没待多久哦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你好像没待多久哦。",
+                    "SliceSentence": "你 好像 没 待 多久 哦",
+                    "StartMs": 0,
+                    "EndMs": 2229,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "好像",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "没",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "待",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "多久",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "哦",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.229375
+        },
+        "RequestId": "db3627c1-0e9b-4ec9-a33d-b3cfddcc8b38"
+    }
+}

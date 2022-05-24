@@ -1,0 +1,44 @@
+{
+    "character": "shen",
+    "id": "1387300331",
+    "result": "我们意念合一。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012774291,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.931]  我们意念合一。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们意念合一。",
+                    "SliceSentence": "我们 意念 合一",
+                    "StartMs": 0,
+                    "EndMs": 1931,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "意念",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "合一",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.93125
+        },
+        "RequestId": "4c0fcca7-7686-47b1-b128-897bbbc4d170"
+    }
+}

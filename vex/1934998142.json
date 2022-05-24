@@ -1,0 +1,49 @@
+{
+    "character": "vex",
+    "id": "1934998142",
+    "result": "你不该笑那么多。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012810922,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.676]  你不该笑那么多。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你不该笑那么多。",
+                    "SliceSentence": "你 不该 笑 那么多",
+                    "StartMs": 0,
+                    "EndMs": 2676,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "不该",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "笑",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "那么多",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.676563
+        },
+        "RequestId": "f28a12c3-5e12-4796-b053-e2a24e2e27db"
+    }
+}

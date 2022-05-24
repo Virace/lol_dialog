@@ -1,0 +1,39 @@
+{
+    "character": "kled",
+    "id": "240446856",
+    "result": "抓住他们。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012706923,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.530]  抓住他们。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "抓住他们。",
+                    "SliceSentence": "抓住 他们",
+                    "StartMs": 0,
+                    "EndMs": 1530,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "抓住",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 630
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.530125
+        },
+        "RequestId": "6c6a43fa-84a8-434c-8a20-f307d852dd27"
+    }
+}

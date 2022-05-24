@@ -1,0 +1,54 @@
+{
+    "character": "pyke",
+    "id": "1137658163",
+    "result": "谁都有落水的时候。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744573,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.956]  谁都有落水的时候。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "谁都有落水的时候。",
+                    "SliceSentence": "谁都 有 落水 的 时候",
+                    "StartMs": 0,
+                    "EndMs": 2956,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "谁都",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "落水",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "时候",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2760
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.956563
+        },
+        "RequestId": "11bb2f3d-1bef-4754-a891-104988d08b21"
+    }
+}

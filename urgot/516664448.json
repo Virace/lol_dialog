@@ -1,0 +1,49 @@
+{
+    "character": "urgot",
+    "id": "516664448",
+    "result": "来自深渊的回声。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012807203,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.165]  来自深渊的回声。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "来自深渊的回声。",
+                    "SliceSentence": "来自 深渊 的 回声",
+                    "StartMs": 0,
+                    "EndMs": 5165,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "来自",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "深渊",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "回声",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 3660
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.165
+        },
+        "RequestId": "7d165af1-f1a0-48d2-9e27-26d3ba0fbbe3"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "ezreal",
+    "id": "865908680",
+    "result": "听起来很危险，算我一个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012567112,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.048]  听起来很危险，算我一个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "听起来很危险，算我一个。",
+                    "SliceSentence": "听起来 很 危险 算 我 一个",
+                    "StartMs": 0,
+                    "EndMs": 2048,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "听起来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "很",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "危险",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "算",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 7.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.048
+        },
+        "RequestId": "2b28936c-6f54-417c-ad3e-164976073035"
+    }
+}

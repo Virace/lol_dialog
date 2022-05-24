@@ -1,0 +1,54 @@
+{
+    "character": "nunu",
+    "id": "589742742",
+    "result": "哈哈哈，抓不到我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012736066,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.727]  哈哈哈，抓不到我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈，抓不到我。",
+                    "SliceSentence": "哈哈 哈 抓 不到 我",
+                    "StartMs": 0,
+                    "EndMs": 2727,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "哈",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "抓",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "不到",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.727625
+        },
+        "RequestId": "f3efc7b8-bbdd-4fd1-92cb-dc7c79df5e6d"
+    }
+}

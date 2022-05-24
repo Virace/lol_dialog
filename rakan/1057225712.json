@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "1057225712",
+    "result": "不行，正打着呢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749329,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.740]  不行，正打着呢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不行，正打着呢。",
+                    "SliceSentence": "不行 正 打着 呢",
+                    "StartMs": 0,
+                    "EndMs": 1740,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "不行",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "正",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "打着",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.740813
+        },
+        "RequestId": "f7663b18-36d5-4435-bd50-248e31205100"
+    }
+}

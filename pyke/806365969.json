@@ -1,0 +1,59 @@
+{
+    "character": "pyke",
+    "id": "806365969",
+    "result": "单子上可以划掉一个了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746889,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.635]  单子上可以划掉一个了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "单子上可以划掉一个了。",
+                    "SliceSentence": "单子 上 可以 划掉 一个 了",
+                    "StartMs": 0,
+                    "EndMs": 2635,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "单子",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "上",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "划掉",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.63525
+        },
+        "RequestId": "8846c340-b544-4ead-b8b6-0271ed352ddf"
+    }
+}

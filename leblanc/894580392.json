@@ -1,0 +1,39 @@
+{
+    "character": "leblanc",
+    "id": "894580392",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012711960,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.583]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 1583,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.583313
+        },
+        "RequestId": "8d7a637e-555c-45be-b0f3-b61cb6876f80"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "fizz",
+    "id": "611848544",
+    "result": "就和游泳一样。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568001,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.834]  就和游泳一样。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "就和游泳一样。",
+                    "SliceSentence": "就 和 游泳 一样",
+                    "StartMs": 0,
+                    "EndMs": 1834,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "和",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "游泳",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "一样",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.834375
+        },
+        "RequestId": "82560cc9-25a8-445c-a6dc-e4904ab6eee3"
+    }
+}

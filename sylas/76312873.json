@@ -1,0 +1,49 @@
+{
+    "character": "sylas",
+    "id": "76312873",
+    "result": "我与阴影十分相熟。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012788119,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.854]  我与阴影十分相熟。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我与阴影十分相熟。",
+                    "SliceSentence": "我与 阴影 十分 相熟",
+                    "StartMs": 0,
+                    "EndMs": 2854,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我与",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "阴影",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "十分",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "相熟",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2790
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.854125
+        },
+        "RequestId": "589eea10-5da4-49a2-9f48-bd2d54f0c639"
+    }
+}

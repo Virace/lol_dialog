@@ -1,0 +1,64 @@
+{
+    "character": "drmundo",
+    "id": "669898911",
+    "result": "哎呀，病人，你的器官有点儿多，得治。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012558761,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.674]  哎呀，病人，你的器官有点儿多，得治。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哎呀，病人，你的器官有点儿多，得治。",
+                    "SliceSentence": "哎呀 病人 你的 器官 有点儿 多得 治",
+                    "StartMs": 0,
+                    "EndMs": 4674,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "哎呀",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "病人",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "器官",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2550
+                        },
+                        {
+                            "Word": "有点儿",
+                            "OffsetStartMs": 2550,
+                            "OffsetEndMs": 2940
+                        },
+                        {
+                            "Word": "多得",
+                            "OffsetStartMs": 2940,
+                            "OffsetEndMs": 3570
+                        },
+                        {
+                            "Word": "治",
+                            "OffsetStartMs": 3570,
+                            "OffsetEndMs": 4320
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.674188
+        },
+        "RequestId": "b91dff84-6ca2-4f9e-ba30-1ca95832f251"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "gangplank",
+    "id": "1032279249",
+    "result": "要时刻留心背后。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012570325,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.413]  要时刻留心背后。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "要时刻留心背后。",
+                    "SliceSentence": "要 时刻 留心 背后",
+                    "StartMs": 0,
+                    "EndMs": 2413,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "时刻",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "留心",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "背后",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.41375
+        },
+        "RequestId": "6aff878e-b59a-4640-a504-a626059d5aaf"
+    }
+}

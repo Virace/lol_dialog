@@ -1,0 +1,49 @@
+{
+    "character": "galio",
+    "id": "1041069324",
+    "result": "该补充火力了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568170,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.275]  该补充火力了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "该补充火力了。",
+                    "SliceSentence": "该 补充 火力 了",
+                    "StartMs": 0,
+                    "EndMs": 1275,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "该",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "补充",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "火力",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 7.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.275813
+        },
+        "RequestId": "6c0b6bb8-0700-4ea9-ad02-3c8c9314724c"
+    }
+}

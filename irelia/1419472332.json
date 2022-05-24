@@ -1,0 +1,75 @@
+{
+    "character": "irelia",
+    "id": "1419472332",
+    "result": "你的舞蹈不错，但是缺乏某种。灵魂。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012580718,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.160]  你的舞蹈不错，但是缺乏某种。\n[0:4.160,0:5.056]  灵魂。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你的舞蹈不错，但是缺乏某种。",
+                    "SliceSentence": "你的 舞蹈 不错 但是 缺乏 某种",
+                    "StartMs": 0,
+                    "EndMs": 4160,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "舞蹈",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "不错",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "但是",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "缺乏",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "某种",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 3660
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "灵魂。",
+                    "SliceSentence": "灵魂",
+                    "StartMs": 4160,
+                    "EndMs": 5056,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "灵魂",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.05625
+        },
+        "RequestId": "b901db4d-c2ac-4db6-940e-a2b06463a375"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "vex",
+    "id": "874121550",
+    "result": "你认真的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012811508,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.080,0:2.292]  你认真的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你认真的。",
+                    "SliceSentence": "你 认 真的",
+                    "StartMs": 80,
+                    "EndMs": 2292,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "认",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "真的",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.292188
+        },
+        "RequestId": "b4f563f9-934a-4056-9bcd-47e20822d197"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "khazix",
+    "id": "1028573604",
+    "result": "我的翅膀焦躁不安。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012703627,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.080,0:5.220]  我的翅膀焦躁不安。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的翅膀焦躁不安。",
+                    "SliceSentence": "我 的 翅膀 焦躁 不安",
+                    "StartMs": 80,
+                    "EndMs": 5220,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "翅膀",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "焦躁",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 3000
+                        },
+                        {
+                            "Word": "不安",
+                            "OffsetStartMs": 3000,
+                            "OffsetEndMs": 4500
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.718563
+        },
+        "RequestId": "29915499-b46c-4158-ac61-552754ecfc55"
+    }
+}

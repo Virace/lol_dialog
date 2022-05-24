@@ -1,0 +1,49 @@
+{
+    "character": "yorick",
+    "id": "306016625",
+    "result": "你就要腐烂了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012844352,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.684]  你就要腐烂了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你就要腐烂了。",
+                    "SliceSentence": "你就 要 腐烂 了",
+                    "StartMs": 0,
+                    "EndMs": 2684,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你就",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "腐烂",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2610
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.6845
+        },
+        "RequestId": "2fe1e16c-57e3-4df0-9a96-97bff3070279"
+    }
+}

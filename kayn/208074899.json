@@ -1,0 +1,49 @@
+{
+    "character": "kayn",
+    "id": "208074899",
+    "result": "阴影，不放过任何人。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012700817,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.830]  阴影，不放过任何人。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "阴影，不放过任何人。",
+                    "SliceSentence": "阴影 不放 过 任何人",
+                    "StartMs": 0,
+                    "EndMs": 2830,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "阴影",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "不放",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "过",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "任何人",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2580
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.830688
+        },
+        "RequestId": "06e12253-3211-48da-9036-4f4cc9d98f88"
+    }
+}

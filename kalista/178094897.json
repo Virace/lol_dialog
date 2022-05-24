@@ -1,0 +1,49 @@
+{
+    "character": "kalista",
+    "id": "178094897",
+    "result": "我们曾经相信他人。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012693643,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.800]  我们曾经相信他人。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们曾经相信他人。",
+                    "SliceSentence": "我们 曾经 相信 他人",
+                    "StartMs": 0,
+                    "EndMs": 3800,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "曾经",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "相信",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "他人",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 3030
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.954188
+        },
+        "RequestId": "4589cc1e-6683-439c-b22b-b1c633cdee95"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "pantheon",
+    "id": "853325066",
+    "result": "面对我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012742292,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.840]  面对我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "面对我。",
+                    "SliceSentence": "面对 我",
+                    "StartMs": 0,
+                    "EndMs": 1840,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "面对",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 870
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.275563
+        },
+        "RequestId": "4e07208d-ee3a-42f7-bc89-a9d5403b1f6a"
+    }
+}

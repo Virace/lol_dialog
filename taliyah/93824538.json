@@ -1,0 +1,49 @@
+{
+    "character": "taliyah",
+    "id": "93824538",
+    "result": "是时候清场了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012795184,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.384]  是时候清场了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "是时候清场了。",
+                    "SliceSentence": "是 时候 清场 了",
+                    "StartMs": 0,
+                    "EndMs": 1384,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "时候",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "清场",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 7.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.384188
+        },
+        "RequestId": "48754b49-8d5f-49d1-9a42-91d93b51686c"
+    }
+}

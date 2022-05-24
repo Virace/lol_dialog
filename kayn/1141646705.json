@@ -1,0 +1,54 @@
+{
+    "character": "kayn",
+    "id": "1141646705",
+    "result": "感恩吧，都结束了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012699105,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.860]  感恩吧，都结束了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "感恩吧，都结束了。",
+                    "SliceSentence": "感恩 吧 都 结束 了",
+                    "StartMs": 0,
+                    "EndMs": 2860,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "感恩",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "都",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "结束",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.860563
+        },
+        "RequestId": "4617b81d-eda8-4d3c-a52c-d9add612fa02"
+    }
+}

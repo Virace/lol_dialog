@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "1422854078",
+    "result": "我们动手吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012750433,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.158]  我们动手吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们动手吧。",
+                    "SliceSentence": "我们 动手 吧",
+                    "StartMs": 0,
+                    "EndMs": 1158,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "动手",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.1585
+        },
+        "RequestId": "52a13c00-92c4-440e-bda8-96771dae822e"
+    }
+}

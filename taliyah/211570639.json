@@ -1,0 +1,59 @@
+{
+    "character": "taliyah",
+    "id": "211570639",
+    "result": "中午干活是最累的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012792041,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.897]  中午干活是最累的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "中午干活是最累的。",
+                    "SliceSentence": "中午 干活 是 最 累 的",
+                    "StartMs": 0,
+                    "EndMs": 1897,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "中午",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "干活",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "最",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "累",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.897563
+        },
+        "RequestId": "2121b15f-0003-4a77-a653-77ef66dac3bd"
+    }
+}

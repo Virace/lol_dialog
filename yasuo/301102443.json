@@ -1,0 +1,60 @@
+{
+    "character": "yasuo",
+    "id": "301102443",
+    "result": "无罪之人。方可安睡。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012840482,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.960]  无罪之人。\n[0:1.960,0:3.988]  方可安睡。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "无罪之人。",
+                    "SliceSentence": "无罪 之人",
+                    "StartMs": 0,
+                    "EndMs": 1960,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "无罪",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "之人",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "方可安睡。",
+                    "SliceSentence": "方可 安睡",
+                    "StartMs": 1960,
+                    "EndMs": 3988,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "方可",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "安睡",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.98825
+        },
+        "RequestId": "14a7e7cb-53c6-41a6-a055-3dd92b01c95c"
+    }
+}

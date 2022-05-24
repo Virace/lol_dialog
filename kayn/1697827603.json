@@ -1,0 +1,59 @@
+{
+    "character": "kayn",
+    "id": "1697827603",
+    "result": "这些小玩意儿只会热闹我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012700302,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.250]  这些小玩意儿只会热闹我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这些小玩意儿只会热闹我。",
+                    "SliceSentence": "这些 小玩意 儿 只会 热闹 我",
+                    "StartMs": 0,
+                    "EndMs": 3250,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "这些",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "小玩意",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "儿",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "只会",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "热闹",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2850
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.25025
+        },
+        "RequestId": "6d54cc81-d77a-4389-92ed-6b7efaf47bdd"
+    }
+}

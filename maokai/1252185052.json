@@ -1,0 +1,49 @@
+{
+    "character": "maokai",
+    "id": "1252185052",
+    "result": "到最后只剩尖叫。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012720902,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.309]  到最后只剩尖叫。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "到最后只剩尖叫。",
+                    "SliceSentence": "到 最后 只剩 尖叫",
+                    "StartMs": 0,
+                    "EndMs": 4309,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "最后",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "只剩",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "尖叫",
+                            "OffsetStartMs": 2340,
+                            "OffsetEndMs": 3330
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.309313
+        },
+        "RequestId": "09c2ffb4-19f6-4a13-836f-2b8c16621f63"
+    }
+}

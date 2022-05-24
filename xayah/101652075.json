@@ -1,0 +1,39 @@
+{
+    "character": "xayah",
+    "id": "101652075",
+    "result": "给我跳。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012833424,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.960]  给我跳。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "给我跳。",
+                    "SliceSentence": "给我 跳",
+                    "StartMs": 0,
+                    "EndMs": 960,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "给我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "跳",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 870
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.96
+        },
+        "RequestId": "011467c2-23c9-44eb-816f-6c7a68579d21"
+    }
+}

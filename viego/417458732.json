@@ -1,0 +1,44 @@
+{
+    "character": "viego",
+    "id": "417458732",
+    "result": "痛，太痛了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012814117,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.178]  痛，太痛了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "痛，太痛了。",
+                    "SliceSentence": "痛 太痛 了",
+                    "StartMs": 0,
+                    "EndMs": 4178,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "痛",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "太痛",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.178313
+        },
+        "RequestId": "4aa560fe-d5c5-4a2c-aa0b-93a57bab624b"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "twitch",
+    "id": "1500805802",
+    "result": "哦，你好。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012803123,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.668]  哦，你好。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哦，你好。",
+                    "SliceSentence": "哦 你好",
+                    "StartMs": 0,
+                    "EndMs": 3668,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "你好",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 1.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.66875
+        },
+        "RequestId": "f9de0cd8-6895-4802-9dc0-ad230752d247"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "morgana",
+    "id": "1259292015",
+    "result": "啊，呃。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012725883,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.778]  啊，呃。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，呃。",
+                    "SliceSentence": "啊 呃",
+                    "StartMs": 0,
+                    "EndMs": 2778,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "呃",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 1.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.778
+        },
+        "RequestId": "9392285f-75b0-4a9e-b7ef-601d70aaccc1"
+    }
+}

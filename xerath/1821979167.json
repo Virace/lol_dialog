@@ -1,0 +1,49 @@
+{
+    "character": "xerath",
+    "id": "1821979167",
+    "result": "今天我要解脱出来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012838969,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.130]  今天我要解脱出来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "今天我要解脱出来。",
+                    "SliceSentence": "今天 我要 解脱 出来",
+                    "StartMs": 0,
+                    "EndMs": 5130,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "今天",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "解脱",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 3330
+                        },
+                        {
+                            "Word": "出来",
+                            "OffsetStartMs": 3330,
+                            "OffsetEndMs": 4830
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.130625
+        },
+        "RequestId": "9837ad0d-d9bf-4447-8fd3-8f3f6d052c4a"
+    }
+}

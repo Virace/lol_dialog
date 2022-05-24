@@ -1,0 +1,44 @@
+{
+    "character": "evelynn",
+    "id": "1022792032",
+    "result": "想停下球衣。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012561333,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.540]  想停下球衣。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "想停下球衣。",
+                    "SliceSentence": "想 停下 球衣",
+                    "StartMs": 0,
+                    "EndMs": 4540,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "想",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "停下",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "球衣",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 3900
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.664125
+        },
+        "RequestId": "7bb27614-e2af-4bb6-a1b9-38ca0748014c"
+    }
+}

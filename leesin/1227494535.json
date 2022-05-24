@@ -1,0 +1,44 @@
+{
+    "character": "leesin",
+    "id": "1227494535",
+    "result": "唯快不破。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012712411,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.700]  唯快不破。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "唯快不破。",
+                    "SliceSentence": "唯 快 不破",
+                    "StartMs": 0,
+                    "EndMs": 2700,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "唯",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "快",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "不破",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.832875
+        },
+        "RequestId": "57863ba0-3066-4f94-82ff-bf0e91cf047d"
+    }
+}

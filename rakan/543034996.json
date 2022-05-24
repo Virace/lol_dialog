@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "543034996",
+    "result": "你看到了吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012753825,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.112]  你看到了吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你看到了吗？",
+                    "SliceSentence": "你 看到 了 吗",
+                    "StartMs": 0,
+                    "EndMs": 1112,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "看到",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 8.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.112063
+        },
+        "RequestId": "5f4c9480-e3ee-4e27-ad5d-e1ac9de02eb2"
+    }
+}

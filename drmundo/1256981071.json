@@ -1,0 +1,39 @@
+{
+    "character": "drmundo",
+    "id": "1256981071",
+    "result": "按时吃药。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012557269,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.061]  按时吃药。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "按时吃药。",
+                    "SliceSentence": "按时 吃药",
+                    "StartMs": 0,
+                    "EndMs": 2061,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "按时",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "吃药",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.061938
+        },
+        "RequestId": "1ecfb3e5-634c-491a-8540-ec857ea44255"
+    }
+}

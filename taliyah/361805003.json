@@ -1,0 +1,59 @@
+{
+    "character": "taliyah",
+    "id": "361805003",
+    "result": "嗯，满分十分我打100。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012792824,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.243]  嗯，满分十分我打100。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯，满分十分我打100。",
+                    "SliceSentence": "嗯 满分 十分 我 打 10",
+                    "StartMs": 0,
+                    "EndMs": 3243,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "满分",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "十分",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "打",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "10",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 3120
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.243875
+        },
+        "RequestId": "c46a159a-8cd2-4dd8-af67-7fc7a632cdb2"
+    }
+}

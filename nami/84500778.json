@@ -1,0 +1,49 @@
+{
+    "character": "nami",
+    "id": "84500778",
+    "result": "我们都来自大海。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012728159,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.352]  我们都来自大海。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们都来自大海。",
+                    "SliceSentence": "我们 都来 自大 海",
+                    "StartMs": 0,
+                    "EndMs": 2352,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "都来",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "自大",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "海",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.352
+        },
+        "RequestId": "9286e32b-1cb2-4565-93e2-5d980165fc2d"
+    }
+}

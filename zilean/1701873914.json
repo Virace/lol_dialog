@@ -1,0 +1,44 @@
+{
+    "character": "zilean",
+    "id": "1701873914",
+    "result": "时间正在流逝。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012853906,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.623]  时间正在流逝。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "时间正在流逝。",
+                    "SliceSentence": "时间 正在 流逝",
+                    "StartMs": 0,
+                    "EndMs": 2623,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "流逝",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.623875
+        },
+        "RequestId": "0773ad43-f1eb-4d2f-a76a-cccf4b67cf55"
+    }
+}

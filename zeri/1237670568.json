@@ -1,0 +1,49 @@
+{
+    "character": "zeri",
+    "id": "1237670568",
+    "result": "放弃太容易啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012850679,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.325]  放弃太容易啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "放弃太容易啦。",
+                    "SliceSentence": "放弃 太 容易 啦",
+                    "StartMs": 0,
+                    "EndMs": 2325,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "放弃",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "太",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "容易",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.325313
+        },
+        "RequestId": "b2a6d371-80e1-4f7e-9816-7976b545d2a1"
+    }
+}

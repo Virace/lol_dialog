@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "1768653850",
+    "result": "屠夫来收帐啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745462,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.422]  屠夫来收帐啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "屠夫来收帐啦。",
+                    "SliceSentence": "屠夫 来 收帐 啦",
+                    "StartMs": 0,
+                    "EndMs": 3422,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "屠夫",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "收帐",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2970
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.422938
+        },
+        "RequestId": "723f9e8d-bcad-4447-bc0b-ec6eaa7066e0"
+    }
+}

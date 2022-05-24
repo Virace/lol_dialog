@@ -1,0 +1,64 @@
+{
+    "character": "zoe",
+    "id": "354012125",
+    "result": "你看，这里根本就没有什么独角兽。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012855763,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.308]  你看，这里根本就没有什么独角兽。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你看，这里根本就没有什么独角兽。",
+                    "SliceSentence": "你看 这里 根本 就没 有 什么 独角兽",
+                    "StartMs": 0,
+                    "EndMs": 3308,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "你看",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "这里",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "根本",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "就没",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "独角兽",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.308063
+        },
+        "RequestId": "28855bd4-4813-4fcc-86f0-231b33c0f682"
+    }
+}

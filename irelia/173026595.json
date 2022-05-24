@@ -1,0 +1,59 @@
+{
+    "character": "irelia",
+    "id": "173026595",
+    "result": "灵力复活了我，我不会辜负。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012581192,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.786]  灵力复活了我，我不会辜负。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "灵力复活了我，我不会辜负。",
+                    "SliceSentence": "灵力 复活 了 我我 不会 辜负",
+                    "StartMs": 0,
+                    "EndMs": 2786,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "灵力",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "复活",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "我我",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "辜负",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2730
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.786563
+        },
+        "RequestId": "90936e27-353b-4ea2-973f-218d5998f28a"
+    }
+}

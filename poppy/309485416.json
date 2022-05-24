@@ -1,0 +1,49 @@
+{
+    "character": "poppy",
+    "id": "309485416",
+    "result": "哇哦，你个大块头。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012742890,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.911]  哇哦，你个大块头。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哇哦，你个大块头。",
+                    "SliceSentence": "哇哦 你 个 大块头",
+                    "StartMs": 0,
+                    "EndMs": 2911,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "哇哦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "个",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "大块头",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2760
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.911313
+        },
+        "RequestId": "5e53a8eb-427d-48d2-a660-320307ede982"
+    }
+}

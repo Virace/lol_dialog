@@ -1,0 +1,39 @@
+{
+    "character": "cassiopeia",
+    "id": "1710609289",
+    "result": "嗨星。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554816,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.756]  嗨星。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗨星。",
+                    "SliceSentence": "嗨 星",
+                    "StartMs": 0,
+                    "EndMs": 1756,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "嗨",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "星",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.756563
+        },
+        "RequestId": "b8929e6d-52df-4fb2-a526-9666d3c30d40"
+    }
+}

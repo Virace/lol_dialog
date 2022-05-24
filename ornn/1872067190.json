@@ -1,0 +1,64 @@
+{
+    "character": "ornn",
+    "id": "1872067190",
+    "result": "这一锤是为了我的信徒。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012738832,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.671]  这一锤是为了我的信徒。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这一锤是为了我的信徒。",
+                    "SliceSentence": "这一 锤 是 为了 我 的 信徒",
+                    "StartMs": 0,
+                    "EndMs": 2671,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "这一",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "锤",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "为了",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "信徒",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2610
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.671313
+        },
+        "RequestId": "f9d9c062-e229-4cae-935f-570072764c87"
+    }
+}

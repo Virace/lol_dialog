@@ -1,0 +1,44 @@
+{
+    "character": "anivia",
+    "id": "134711041",
+    "result": "很傻，很天真。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542281,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.692]  很傻，很天真。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "很傻，很天真。",
+                    "SliceSentence": "很傻 很 天真",
+                    "StartMs": 0,
+                    "EndMs": 3692,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "很傻",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "很",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "天真",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 3510
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.692
+        },
+        "RequestId": "48b7f172-846f-4d14-9cfb-6fd116611f77"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "kassadin",
+    "id": "354939208",
+    "result": "我马上就到。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012696815,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.086]  我马上就到。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我马上就到。",
+                    "SliceSentence": "我 马上就 到",
+                    "StartMs": 0,
+                    "EndMs": 3086,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "马上就",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.086688
+        },
+        "RequestId": "bdc98d04-8801-49f2-a8db-1a342ecd76a2"
+    }
+}

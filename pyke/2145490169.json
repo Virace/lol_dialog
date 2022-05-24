@@ -1,0 +1,39 @@
+{
+    "character": "pyke",
+    "id": "2145490169",
+    "result": "起雾喽。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745874,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.604]  起雾喽。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "起雾喽。",
+                    "SliceSentence": "起雾 喽",
+                    "StartMs": 0,
+                    "EndMs": 2604,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "起雾",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "喽",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.604125
+        },
+        "RequestId": "7f664d7e-8221-479e-a863-5ad7ae08e973"
+    }
+}

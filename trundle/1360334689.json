@@ -1,0 +1,49 @@
+{
+    "character": "trundle",
+    "id": "1360334689",
+    "result": "哈哈哈哈哈啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012801033,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.035]  哈哈哈哈哈啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈哈啊。",
+                    "SliceSentence": "哈哈 哈 哈哈 啊",
+                    "StartMs": 0,
+                    "EndMs": 3035,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "哈",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2850
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.035125
+        },
+        "RequestId": "eceb4d4a-379c-4696-9b38-92d1a3515d3a"
+    }
+}

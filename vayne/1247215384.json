@@ -1,0 +1,49 @@
+{
+    "character": "vayne",
+    "id": "1247215384",
+    "result": "是时候算账了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012808387,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.640]  是时候算账了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "是时候算账了。",
+                    "SliceSentence": "是 时候 算账 了",
+                    "StartMs": 0,
+                    "EndMs": 3640,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "时候",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "算账",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2610
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2640,
+                            "OffsetEndMs": 2940
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.048813
+        },
+        "RequestId": "12852ffd-1ba7-4b47-a591-2efbff6bc53a"
+    }
+}

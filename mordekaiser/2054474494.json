@@ -1,0 +1,44 @@
+{
+    "character": "mordekaiser",
+    "id": "2054474494",
+    "result": "我拒绝退散。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012724972,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.579]  我拒绝退散。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我拒绝退散。",
+                    "SliceSentence": "我 拒绝 退散",
+                    "StartMs": 0,
+                    "EndMs": 4579,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "拒绝",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "退散",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2760
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.579375
+        },
+        "RequestId": "1d6cf09e-9391-4763-8665-c7a6dbafadd2"
+    }
+}

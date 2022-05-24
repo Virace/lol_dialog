@@ -1,0 +1,55 @@
+{
+    "character": "kayle",
+    "id": "1799655086",
+    "result": "啊啊。啊？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012697840,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.500]  啊啊。\n[0:3.000,0:4.626]  啊？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊啊。",
+                    "SliceSentence": "啊 啊",
+                    "StartMs": 0,
+                    "EndMs": 2500,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "啊？",
+                    "SliceSentence": "啊",
+                    "StartMs": 3000,
+                    "EndMs": 4626,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 1.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.626625
+        },
+        "RequestId": "2e7e9da7-0bb0-4b53-88ca-64627de1fd7d"
+    }
+}

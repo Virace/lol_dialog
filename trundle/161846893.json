@@ -1,0 +1,59 @@
+{
+    "character": "trundle",
+    "id": "161846893",
+    "result": "这只会让你觉得很受伤而已。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012801184,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.439]  这只会让你觉得很受伤而已。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这只会让你觉得很受伤而已。",
+                    "SliceSentence": "这 只会 让你 觉得 很受伤 而已",
+                    "StartMs": 0,
+                    "EndMs": 4439,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "只会",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "让你",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "觉得",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "很受伤",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 3150
+                        },
+                        {
+                            "Word": "而已",
+                            "OffsetStartMs": 3150,
+                            "OffsetEndMs": 4230
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.439063
+        },
+        "RequestId": "8356f26e-35cc-4e3f-86c6-56a83dcbad2b"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "gangplank",
+    "id": "1024777151",
+    "result": "船长从来不会有任何盲区。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012570302,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.906]  船长从来不会有任何盲区。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "船长从来不会有任何盲区。",
+                    "SliceSentence": "船长 从来不 会有 任何 盲区",
+                    "StartMs": 0,
+                    "EndMs": 2906,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "船长",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "从来不",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "会有",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "任何",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "盲区",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.906688
+        },
+        "RequestId": "099e968a-784b-4afa-bf4d-c56c9d97ae92"
+    }
+}

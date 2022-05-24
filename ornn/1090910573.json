@@ -1,0 +1,39 @@
+{
+    "character": "ornn",
+    "id": "1090910573",
+    "result": "哼哼哼哼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012737783,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.336]  哼哼哼哼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼哼哼。",
+                    "SliceSentence": "哼哼 哼哼",
+                    "StartMs": 0,
+                    "EndMs": 4336,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 4170
+                        }
+                    ],
+                    "SpeechSpeed": 1.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.336688
+        },
+        "RequestId": "613f8209-e210-4830-878c-e765ffd3ef1c"
+    }
+}

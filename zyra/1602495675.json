@@ -1,0 +1,44 @@
+{
+    "character": "zyra",
+    "id": "1602495675",
+    "result": "不走寻常路。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012857316,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.821]  不走寻常路。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不走寻常路。",
+                    "SliceSentence": "不 走 寻常路",
+                    "StartMs": 0,
+                    "EndMs": 2821,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "走",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "寻常路",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.821313
+        },
+        "RequestId": "205d18fa-10ea-4c73-86fe-701bc970032b"
+    }
+}

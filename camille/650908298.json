@@ -1,0 +1,49 @@
+{
+    "character": "camille",
+    "id": "650908298",
+    "result": "永远不要全机械化。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553794,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.218]  永远不要全机械化。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "永远不要全机械化。",
+                    "SliceSentence": "永远 不要 全 机械化",
+                    "StartMs": 0,
+                    "EndMs": 2218,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "永远",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "全",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "机械化",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.21875
+        },
+        "RequestId": "9f56d55e-89dc-44e6-9780-c59f7575270d"
+    }
+}

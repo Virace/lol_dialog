@@ -1,0 +1,54 @@
+{
+    "character": "rumble",
+    "id": "1045138670",
+    "result": "这有点颠簸，习惯就好。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012763238,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.972]  这有点颠簸，习惯就好。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这有点颠簸，习惯就好。",
+                    "SliceSentence": "这 有点 颠簸 习惯 就好",
+                    "StartMs": 0,
+                    "EndMs": 2972,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "有点",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "颠簸",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "习惯",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "就好",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 2880
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.972938
+        },
+        "RequestId": "d6ca5a4e-f2b2-44e3-b6b2-a32f5c999a78"
+    }
+}

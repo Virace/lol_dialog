@@ -1,0 +1,49 @@
+{
+    "character": "yone",
+    "id": "1026164073",
+    "result": "没有休息，没有安息。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012841332,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:6.989]  没有休息，没有安息。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没有休息，没有安息。",
+                    "SliceSentence": "没有 休息 没有 安息",
+                    "StartMs": 0,
+                    "EndMs": 6989,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "休息",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 3450,
+                            "OffsetEndMs": 4530
+                        },
+                        {
+                            "Word": "安息",
+                            "OffsetStartMs": 4560,
+                            "OffsetEndMs": 6300
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.989188
+        },
+        "RequestId": "0f3df366-3461-4226-b4cb-517cb4a04470"
+    }
+}

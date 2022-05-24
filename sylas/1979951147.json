@@ -1,0 +1,64 @@
+{
+    "character": "sylas",
+    "id": "1979951147",
+    "result": "哼哼，我觉得自己像是被骗了似的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012787239,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.401]  哼哼，我觉得自己像是被骗了似的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼，我觉得自己像是被骗了似的。",
+                    "SliceSentence": "哼哼 我 觉得自己 像是 被骗 了 似的",
+                    "StartMs": 0,
+                    "EndMs": 3401,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "觉得自己",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "像是",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 2460
+                        },
+                        {
+                            "Word": "被骗",
+                            "OffsetStartMs": 2460,
+                            "OffsetEndMs": 2910
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2910,
+                            "OffsetEndMs": 3030
+                        },
+                        {
+                            "Word": "似的",
+                            "OffsetStartMs": 3030,
+                            "OffsetEndMs": 3330
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.4015
+        },
+        "RequestId": "2f70c4ce-aafe-4e14-8105-62d43dfd08d7"
+    }
+}

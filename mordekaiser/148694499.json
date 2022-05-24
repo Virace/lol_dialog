@@ -1,0 +1,49 @@
+{
+    "character": "mordekaiser",
+    "id": "148694499",
+    "result": "这是无意义的挣扎。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012724518,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.018]  这是无意义的挣扎。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是无意义的挣扎。",
+                    "SliceSentence": "这是 无意义 的 挣扎",
+                    "StartMs": 0,
+                    "EndMs": 4018,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "无意义",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "挣扎",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.01825
+        },
+        "RequestId": "ea147c3f-b41a-41fb-a03b-d64110fb638b"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "viktor",
+    "id": "255250672",
+    "result": "要么改进，要么被移除。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012814847,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.447]  要么改进，要么被移除。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "要么改进，要么被移除。",
+                    "SliceSentence": "要么 改进 要么 被 移除",
+                    "StartMs": 0,
+                    "EndMs": 4447,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "要么",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "改进",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "要么",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2580
+                        },
+                        {
+                            "Word": "被",
+                            "OffsetStartMs": 2580,
+                            "OffsetEndMs": 2760
+                        },
+                        {
+                            "Word": "移除",
+                            "OffsetStartMs": 2760,
+                            "OffsetEndMs": 4080
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.447875
+        },
+        "RequestId": "29522f24-e28a-4bc5-bda7-c8e85986e7b7"
+    }
+}

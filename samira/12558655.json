@@ -1,0 +1,54 @@
+{
+    "character": "samira",
+    "id": "12558655",
+    "result": "至少不是无聊死的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012766047,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.249]  至少不是无聊死的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "至少不是无聊死的。",
+                    "SliceSentence": "至少 不是 无聊 死 的",
+                    "StartMs": 0,
+                    "EndMs": 4249,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "至少",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "无聊",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "死",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 2850
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2850,
+                            "OffsetEndMs": 3660
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.24925
+        },
+        "RequestId": "83f10745-b63a-4c33-a120-c9ba5e872a3d"
+    }
+}

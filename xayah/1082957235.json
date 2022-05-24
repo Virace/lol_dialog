@@ -1,0 +1,54 @@
+{
+    "character": "xayah",
+    "id": "1082957235",
+    "result": "你把计划给王乐。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012833757,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.315]  你把计划给王乐。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你把计划给王乐。",
+                    "SliceSentence": "你 把 计划 给 王乐",
+                    "StartMs": 0,
+                    "EndMs": 1315,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 60
+                        },
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "计划",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "给",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "王乐",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 9.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.31575
+        },
+        "RequestId": "3036c1c0-8f65-4747-8b3b-8233a45eb1ea"
+    }
+}

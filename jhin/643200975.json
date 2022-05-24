@@ -1,0 +1,54 @@
+{
+    "character": "jhin",
+    "id": "643200975",
+    "result": "我的灵感正在涌现。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012686208,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.280]  我的灵感正在涌现。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的灵感正在涌现。",
+                    "SliceSentence": "我 的 灵感 正在 涌现",
+                    "StartMs": 0,
+                    "EndMs": 3280,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "灵感",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "涌现",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.15975
+        },
+        "RequestId": "8bc5de16-a0e9-45ca-86a8-48ac898d7914"
+    }
+}

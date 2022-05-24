@@ -1,0 +1,54 @@
+{
+    "character": "diana",
+    "id": "1972460930",
+    "result": "我是月亮的选择。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556201,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.230]  我是月亮的选择。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我是月亮的选择。",
+                    "SliceSentence": "我 是 月亮 的 选择",
+                    "StartMs": 0,
+                    "EndMs": 3230,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "月亮",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "选择",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 3150
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.230563
+        },
+        "RequestId": "63f3c900-c309-4326-be80-4b06ead94715"
+    }
+}

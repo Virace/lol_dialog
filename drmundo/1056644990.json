@@ -1,0 +1,44 @@
+{
+    "character": "drmundo",
+    "id": "1056644990",
+    "result": "病情不乐观。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012557026,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.374]  病情不乐观。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "病情不乐观。",
+                    "SliceSentence": "病情 不 乐观",
+                    "StartMs": 0,
+                    "EndMs": 2374,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "病情",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "乐观",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.374188
+        },
+        "RequestId": "d8262421-ac7b-489c-92cb-e30121264589"
+    }
+}

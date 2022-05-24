@@ -1,0 +1,44 @@
+{
+    "character": "ekko",
+    "id": "1144799232",
+    "result": "从不回头看。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012559219,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.140]  从不回头看。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "从不回头看。",
+                    "SliceSentence": "从不 回头 看",
+                    "StartMs": 0,
+                    "EndMs": 1140,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "从不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "回头",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "看",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.14
+        },
+        "RequestId": "5e307c0f-9283-435b-9624-d7d15affaeaf"
+    }
+}

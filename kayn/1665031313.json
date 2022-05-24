@@ -1,0 +1,49 @@
+{
+    "character": "kayn",
+    "id": "1665031313",
+    "result": "生于影，死于影。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012700040,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.152]  生于影，死于影。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "生于影，死于影。",
+                    "SliceSentence": "生于 影 死于 影",
+                    "StartMs": 0,
+                    "EndMs": 3152,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "生于",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "影",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "死于",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2760
+                        },
+                        {
+                            "Word": "影",
+                            "OffsetStartMs": 2760,
+                            "OffsetEndMs": 3090
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.15225
+        },
+        "RequestId": "ea5beb77-c335-44ed-bbcf-571d3c2d2514"
+    }
+}

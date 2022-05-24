@@ -1,0 +1,49 @@
+{
+    "character": "kaisa",
+    "id": "360591650",
+    "result": "你们死，我们活。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012690396,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.404]  你们死，我们活。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你们死，我们活。",
+                    "SliceSentence": "你们 死 我们 活",
+                    "StartMs": 0,
+                    "EndMs": 2404,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "死",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "活",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.404813
+        },
+        "RequestId": "2f4a6746-fbb3-46bb-8604-7558d8010bce"
+    }
+}

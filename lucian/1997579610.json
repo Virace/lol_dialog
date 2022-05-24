@@ -1,0 +1,54 @@
+{
+    "character": "lucian",
+    "id": "1997579610",
+    "result": "你看，我们会有新的回忆。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012717904,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.274]  你看，我们会有新的回忆。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你看，我们会有新的回忆。",
+                    "SliceSentence": "你看 我们 会有 新的 回忆",
+                    "StartMs": 0,
+                    "EndMs": 3274,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你看",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "会有",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "新的",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "回忆",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.274
+        },
+        "RequestId": "da545b90-08a3-495c-bbe6-c82ee08c0e38"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "zoe",
+    "id": "579433593",
+    "result": "换换脑子吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012856439,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.541]  换换脑子吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "换换脑子吧。",
+                    "SliceSentence": "换换 脑子 吧",
+                    "StartMs": 0,
+                    "EndMs": 1541,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "换换",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "脑子",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 840
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.54125
+        },
+        "RequestId": "b1235974-c096-454b-9ee8-88aad565521a"
+    }
+}

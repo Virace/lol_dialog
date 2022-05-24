@@ -1,0 +1,44 @@
+{
+    "character": "aphelios",
+    "id": "1801789253",
+    "result": "将替我行走。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012543298,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.420,0:4.680]  将替我行走。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "将替我行走。",
+                    "SliceSentence": "将 替我 行走",
+                    "StartMs": 420,
+                    "EndMs": 4680,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "将",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "替我",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "行走",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.414625
+        },
+        "RequestId": "de01050c-c85d-4253-a898-ac749169da86"
+    }
+}

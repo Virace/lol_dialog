@@ -1,0 +1,54 @@
+{
+    "character": "seraphine",
+    "id": "1330920681",
+    "result": "我的气不够了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012770255,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.420]  我的气不够了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的气不够了。",
+                    "SliceSentence": "我 的 气 不够 了",
+                    "StartMs": 0,
+                    "EndMs": 2420,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "气",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "不够",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.03225
+        },
+        "RequestId": "07993abe-1ec4-4d0d-96b8-f54382b9a0e9"
+    }
+}

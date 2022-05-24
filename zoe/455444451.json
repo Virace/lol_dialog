@@ -1,0 +1,54 @@
+{
+    "character": "zoe",
+    "id": "455444451",
+    "result": "哼，你这个小笨蛋。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012856013,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.416]  哼，你这个小笨蛋。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼，你这个小笨蛋。",
+                    "SliceSentence": "哼 你 这个 小笨 蛋",
+                    "StartMs": 0,
+                    "EndMs": 2416,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "小笨",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "蛋",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.416688
+        },
+        "RequestId": "9042018e-11df-419c-948e-4c3edc40e7d7"
+    }
+}

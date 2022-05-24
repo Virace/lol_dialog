@@ -1,0 +1,44 @@
+{
+    "character": "taliyah",
+    "id": "886583391",
+    "result": "你还好吧？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012795074,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.073]  你还好吧？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你还好吧？",
+                    "SliceSentence": "你 还好 吧",
+                    "StartMs": 0,
+                    "EndMs": 1073,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "还好",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.073438
+        },
+        "RequestId": "85f7243d-9786-4f40-bf26-8ec19471e81c"
+    }
+}

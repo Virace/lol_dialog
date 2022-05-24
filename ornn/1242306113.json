@@ -1,0 +1,49 @@
+{
+    "character": "ornn",
+    "id": "1242306113",
+    "result": "呃，常有的事。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012737987,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.072]  呃，常有的事。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "呃，常有的事。",
+                    "SliceSentence": "呃 常有 的 事",
+                    "StartMs": 0,
+                    "EndMs": 2072,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "呃",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "常有",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "事",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.072563
+        },
+        "RequestId": "28f3a017-5e8d-4bad-96e9-9fe874510d8c"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "1709497550",
+    "result": "我们要去哪里？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012751420,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.156]  我们要去哪里？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们要去哪里？",
+                    "SliceSentence": "我们 要 去 哪里",
+                    "StartMs": 0,
+                    "EndMs": 1156,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "哪里",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 840
+                        }
+                    ],
+                    "SpeechSpeed": 8.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.156313
+        },
+        "RequestId": "4237d0fb-3bac-43f8-9951-cde23d90fddc"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "yuumi",
+    "id": "944738656",
+    "result": "额下一条命，再见。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012848168,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.083]  额下一条命，再见。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "额下一条命，再见。",
+                    "SliceSentence": "额 下 一条 命 再见",
+                    "StartMs": 0,
+                    "EndMs": 2083,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "额",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "下",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "一条",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "命",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "再见",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.083813
+        },
+        "RequestId": "599ce997-bdd6-48a7-8f73-ffbe3b32c061"
+    }
+}

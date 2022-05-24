@@ -1,0 +1,54 @@
+{
+    "character": "lulu",
+    "id": "408296918",
+    "result": "闭上眼睛，你会看到更多。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718945,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.070]  闭上眼睛，你会看到更多。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "闭上眼睛，你会看到更多。",
+                    "SliceSentence": "闭上 眼睛 你会 看到 更多",
+                    "StartMs": 0,
+                    "EndMs": 3070,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "闭上",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "眼睛",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "你会",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "看到",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "更多",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.070438
+        },
+        "RequestId": "8fbb7860-7e5b-4f2b-bcbe-d9a525c24454"
+    }
+}

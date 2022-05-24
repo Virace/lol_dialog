@@ -1,0 +1,49 @@
+{
+    "character": "taric",
+    "id": "565923575",
+    "result": "这种宝石适合我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012797067,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.737]  这种宝石适合我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这种宝石适合我。",
+                    "SliceSentence": "这种 宝石 适合 我",
+                    "StartMs": 0,
+                    "EndMs": 2737,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这种",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "宝石",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "适合",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.737313
+        },
+        "RequestId": "1498ce28-6d2a-4f86-b7a6-a02816a12a32"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "character": "ahri",
+    "id": "49455958",
+    "result": "嘿嘿嘿。哼哼啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012538392,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.420]  嘿嘿嘿。\n[0:3.500,0:5.554]  哼哼啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘿嘿嘿。",
+                    "SliceSentence": "嘿 嘿嘿",
+                    "StartMs": 0,
+                    "EndMs": 3420,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "嘿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "嘿嘿",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 2940
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "哼哼啊。",
+                    "SliceSentence": "哼哼 啊",
+                    "StartMs": 3500,
+                    "EndMs": 5554,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.554063
+        },
+        "RequestId": "3c34a322-bbfb-4ef5-9f1d-ec5150e51cd7"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "akshan",
+    "id": "1133077468",
+    "result": "我回来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012540481,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.834]  我回来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我回来了。",
+                    "SliceSentence": "我 回来 了",
+                    "StartMs": 0,
+                    "EndMs": 1834,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "回来",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.834688
+        },
+        "RequestId": "6b4087b7-8567-4868-af4f-2336e0842534"
+    }
+}

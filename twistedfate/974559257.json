@@ -1,0 +1,49 @@
+{
+    "character": "twistedfate",
+    "id": "974559257",
+    "result": "嘿嘿嘿，哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012802552,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.460,0:3.370]  嘿嘿嘿，哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘿嘿嘿，哈哈哈。",
+                    "SliceSentence": "嘿 嘿嘿 哈 哈哈",
+                    "StartMs": 460,
+                    "EndMs": 3370,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "嘿",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "嘿嘿",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "哈",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.370063
+        },
+        "RequestId": "c56e4da0-09af-4dd1-9787-007ee655e7c5"
+    }
+}

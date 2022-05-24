@@ -1,0 +1,54 @@
+{
+    "character": "zoe",
+    "id": "1143480815",
+    "result": "你还笑不出来嘛。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012854149,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.313]  你还笑不出来嘛。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你还笑不出来嘛。",
+                    "SliceSentence": "你 还 笑 不出 来嘛",
+                    "StartMs": 0,
+                    "EndMs": 2313,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "还",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "笑",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "不出",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "来嘛",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.31325
+        },
+        "RequestId": "b8441eb0-3b03-4c62-86e3-ebcaa53eaa17"
+    }
+}

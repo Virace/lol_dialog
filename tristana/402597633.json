@@ -1,0 +1,39 @@
+{
+    "character": "tristana",
+    "id": "402597633",
+    "result": "空中快递。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012799597,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.093]  空中快递。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "空中快递。",
+                    "SliceSentence": "空中 快递",
+                    "StartMs": 0,
+                    "EndMs": 1093,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "空中",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "快递",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.093125
+        },
+        "RequestId": "e2ea3431-a7b3-4d37-9682-718a1de64c8b"
+    }
+}

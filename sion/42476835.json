@@ -1,0 +1,59 @@
+{
+    "character": "sion",
+    "id": "42476835",
+    "result": "这会阻止他们的抽打。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012777016,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.691]  这会阻止他们的抽打。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这会阻止他们的抽打。",
+                    "SliceSentence": "这 会 阻止 他们 的 抽打",
+                    "StartMs": 0,
+                    "EndMs": 2691,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "阻止",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "抽打",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.691125
+        },
+        "RequestId": "024dc168-d16a-4999-83fd-0899c7edc2a0"
+    }
+}

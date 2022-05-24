@@ -1,0 +1,39 @@
+{
+    "character": "vayne",
+    "id": "1917793641",
+    "result": "小心点儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012808591,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.145]  小心点儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "小心点儿。",
+                    "SliceSentence": "小心 点儿",
+                    "StartMs": 0,
+                    "EndMs": 2145,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "小心",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "点儿",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.145938
+        },
+        "RequestId": "c0ef9abf-5722-4245-bed0-a748f02a5d97"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "mordekaiser",
+    "id": "1180050951",
+    "result": "我将带给你永恒。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012724263,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.725]  我将带给你永恒。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我将带给你永恒。",
+                    "SliceSentence": "我 将 带给 你 永恒",
+                    "StartMs": 0,
+                    "EndMs": 5725,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "将",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "带给",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "永恒",
+                            "OffsetStartMs": 2640,
+                            "OffsetEndMs": 3930
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.725
+        },
+        "RequestId": "c026f4e8-fa6c-4b70-b701-448594ed3ca2"
+    }
+}

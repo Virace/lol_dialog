@@ -1,0 +1,59 @@
+{
+    "character": "nami",
+    "id": "461444573",
+    "result": "我仍然听得到海洋之歌。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012727923,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.696]  我仍然听得到海洋之歌。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我仍然听得到海洋之歌。",
+                    "SliceSentence": "我 仍然 听得 到 海洋 之歌",
+                    "StartMs": 0,
+                    "EndMs": 2696,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "仍然",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "听得",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "海洋",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "之歌",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.69625
+        },
+        "RequestId": "1cd8f1fa-1e62-4905-b2ad-136cef2294ef"
+    }
+}

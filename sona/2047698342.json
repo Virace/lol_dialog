@@ -1,0 +1,44 @@
+{
+    "character": "sona",
+    "id": "2047698342",
+    "result": "我来帮你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012782144,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.680]  我来帮你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我来帮你。",
+                    "SliceSentence": "我来 帮 你",
+                    "StartMs": 0,
+                    "EndMs": 3680,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我来",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "帮",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.046188
+        },
+        "RequestId": "522f01fb-2163-4bf6-b84e-541121765cc1"
+    }
+}

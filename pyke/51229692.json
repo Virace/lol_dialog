@@ -1,0 +1,54 @@
+{
+    "character": "pyke",
+    "id": "51229692",
+    "result": "我给你画几道雨伞。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746392,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.802]  我给你画几道雨伞。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我给你画几道雨伞。",
+                    "SliceSentence": "我 给你 画 几道 雨伞",
+                    "StartMs": 0,
+                    "EndMs": 2802,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "给你",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "画",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "几道",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "雨伞",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.802188
+        },
+        "RequestId": "90ed6e1f-1b82-4a07-a667-bd69fcab5392"
+    }
+}

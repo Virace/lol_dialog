@@ -1,0 +1,39 @@
+{
+    "character": "rakan",
+    "id": "849577769",
+    "result": "看着我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012754520,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.060]  看着我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "看着我。",
+                    "SliceSentence": "看着 我",
+                    "StartMs": 0,
+                    "EndMs": 1060,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "看着",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.060563
+        },
+        "RequestId": "641367dc-5fea-4154-91a3-45b6e00c88ba"
+    }
+}

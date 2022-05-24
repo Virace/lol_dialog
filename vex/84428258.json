@@ -1,0 +1,49 @@
+{
+    "character": "vex",
+    "id": "84428258",
+    "result": "你靠得太近。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012811503,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.655]  你靠得太近。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你靠得太近。",
+                    "SliceSentence": "你 靠 得 太近",
+                    "StartMs": 0,
+                    "EndMs": 2655,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "靠",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "得",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "太近",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.6555
+        },
+        "RequestId": "4ebbe073-81fc-4007-9b18-eb7444214d93"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "seraphine",
+    "id": "1844341621",
+    "result": "一边走一边唱，芭比芭比。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012770855,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.620]  一边走一边唱，芭比芭比。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一边走一边唱，芭比芭比。",
+                    "SliceSentence": "一边 走 一边 唱 芭比 芭比",
+                    "StartMs": 0,
+                    "EndMs": 4620,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "一边",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "走",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "一边",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "唱",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "芭比",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2880
+                        },
+                        {
+                            "Word": "芭比",
+                            "OffsetStartMs": 2880,
+                            "OffsetEndMs": 3510
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.345438
+        },
+        "RequestId": "7a5c8e20-129f-42a2-9d83-0c6c431c13f5"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "1170491149",
+    "result": "哈哈，不间棺材。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749800,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.889]  哈哈，不间棺材。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈，不间棺材。",
+                    "SliceSentence": "哈哈 不 间 棺材",
+                    "StartMs": 0,
+                    "EndMs": 4889,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "间",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "棺材",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 3120
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.889875
+        },
+        "RequestId": "a5afad01-da05-4ec5-8075-7da4684888c2"
+    }
+}

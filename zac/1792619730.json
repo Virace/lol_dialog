@@ -1,0 +1,39 @@
+{
+    "character": "zac",
+    "id": "1792619730",
+    "result": "注意空袭。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012848581,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.330]  注意空袭。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "注意空袭。",
+                    "SliceSentence": "注意 空袭",
+                    "StartMs": 0,
+                    "EndMs": 1330,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "注意",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "空袭",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.330625
+        },
+        "RequestId": "2b3f0f8b-c4a0-4a12-9201-adfd77b873ae"
+    }
+}

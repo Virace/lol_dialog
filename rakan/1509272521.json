@@ -1,0 +1,39 @@
+{
+    "character": "rakan",
+    "id": "1509272521",
+    "result": "放着我来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012750810,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.084]  放着我来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "放着我来。",
+                    "SliceSentence": "放着 我来",
+                    "StartMs": 0,
+                    "EndMs": 1084,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "放着",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "我来",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 870
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.084688
+        },
+        "RequestId": "808c7dc5-486f-4d20-b43b-f4ca4e4ac223"
+    }
+}

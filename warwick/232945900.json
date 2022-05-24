@@ -1,0 +1,54 @@
+{
+    "character": "warwick",
+    "id": "232945900",
+    "result": "我闻到你的味道了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012817662,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.621]  我闻到你的味道了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我闻到你的味道了。",
+                    "SliceSentence": "我 闻到 你的 味道 了",
+                    "StartMs": 0,
+                    "EndMs": 3621,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "闻到",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "味道",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.621375
+        },
+        "RequestId": "dbea9e31-a448-43fe-b27f-3f0599de51d1"
+    }
+}

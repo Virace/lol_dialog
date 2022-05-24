@@ -1,0 +1,44 @@
+{
+    "character": "caitlyn",
+    "id": "155428621",
+    "result": "你再想想想想。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551099,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.685]  你再想想想想。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你再想想想想。",
+                    "SliceSentence": "你再 想想 想想",
+                    "StartMs": 0,
+                    "EndMs": 1685,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你再",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "想想",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "想想",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.685313
+        },
+        "RequestId": "92a649f0-d025-4dac-af43-0290160caee1"
+    }
+}

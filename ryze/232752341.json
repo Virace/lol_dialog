@@ -1,0 +1,54 @@
+{
+    "character": "ryze",
+    "id": "232752341",
+    "result": "这也不会是最后一个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012764111,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.081]  这也不会是最后一个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这也不会是最后一个。",
+                    "SliceSentence": "这也 不会 是 最后 一个",
+                    "StartMs": 0,
+                    "EndMs": 2081,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这也",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "最后",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.081
+        },
+        "RequestId": "f04bbc44-a348-45b4-b4ec-2de2ff7892b5"
+    }
+}

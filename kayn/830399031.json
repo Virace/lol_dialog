@@ -1,0 +1,44 @@
+{
+    "character": "kayn",
+    "id": "830399031",
+    "result": "断其念。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012702892,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.164]  断其念。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "断其念。",
+                    "SliceSentence": "断 其 念",
+                    "StartMs": 0,
+                    "EndMs": 1164,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "断",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "其",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "念",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.164875
+        },
+        "RequestId": "2deb2b0c-9ed4-4e0f-9495-37b69ee8d82c"
+    }
+}

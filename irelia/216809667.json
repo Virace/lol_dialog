@@ -1,0 +1,49 @@
+{
+    "character": "irelia",
+    "id": "216809667",
+    "result": "跟上我的步伐。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012581668,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.132]  跟上我的步伐。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "跟上我的步伐。",
+                    "SliceSentence": "跟上 我 的 步伐",
+                    "StartMs": 0,
+                    "EndMs": 1132,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "跟上",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "步伐",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 8.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.132938
+        },
+        "RequestId": "34804bc6-49ef-4aee-a7eb-42891410db53"
+    }
+}

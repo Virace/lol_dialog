@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "1499078170",
+    "result": "我来找你啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012834745,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.998]  我来找你啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我来找你啦。",
+                    "SliceSentence": "我来 找你 啦",
+                    "StartMs": 0,
+                    "EndMs": 998,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "找你",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 8.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.9985
+        },
+        "RequestId": "b688a8e4-067c-497c-a9c3-f9f2fd714b92"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "galio",
+    "id": "1015792700",
+    "result": "吃魔法。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568157,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.200]  吃魔法。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "吃魔法。",
+                    "SliceSentence": "吃 魔法",
+                    "StartMs": 0,
+                    "EndMs": 3200,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "吃",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "魔法",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 3120
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.2
+        },
+        "RequestId": "53a28197-dd07-4748-b06c-da3e89c86a8b"
+    }
+}

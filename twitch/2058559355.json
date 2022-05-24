@@ -1,0 +1,49 @@
+{
+    "character": "twitch",
+    "id": "2058559355",
+    "result": "条条管道通我家。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012803641,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.365]  条条管道通我家。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "条条管道通我家。",
+                    "SliceSentence": "条条 管道 通 我家",
+                    "StartMs": 0,
+                    "EndMs": 4365,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "条条",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "管道",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "通",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "我家",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 3870
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.365375
+        },
+        "RequestId": "b99d378b-cf51-483f-b6cc-06a27ab0ad10"
+    }
+}

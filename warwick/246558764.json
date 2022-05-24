@@ -1,0 +1,49 @@
+{
+    "character": "warwick",
+    "id": "246558764",
+    "result": "我要吃了你的心。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012817701,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.562]  我要吃了你的心。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要吃了你的心。",
+                    "SliceSentence": "我要 吃了 你的 心",
+                    "StartMs": 0,
+                    "EndMs": 3562,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "吃了",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "心",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 3240
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.562688
+        },
+        "RequestId": "f49aee4f-4dde-4104-b4a0-59209fe964bf"
+    }
+}

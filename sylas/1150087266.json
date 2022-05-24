@@ -1,0 +1,54 @@
+{
+    "character": "sylas",
+    "id": "1150087266",
+    "result": "我来看看你有什么本领。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786247,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.393]  我来看看你有什么本领。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我来看看你有什么本领。",
+                    "SliceSentence": "我来 看看 你有 什么 本领",
+                    "StartMs": 0,
+                    "EndMs": 2393,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "看看",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "你有",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "本领",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.393125
+        },
+        "RequestId": "ba58dad3-9d17-4f32-8e49-091bd75e078e"
+    }
+}

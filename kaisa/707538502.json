@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "707538502",
+    "result": "我绝不害怕。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012691599,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.447]  我绝不害怕。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我绝不害怕。",
+                    "SliceSentence": "我 绝不 害怕",
+                    "StartMs": 0,
+                    "EndMs": 1447,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "绝不",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "害怕",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.447563
+        },
+        "RequestId": "85c06c75-c5a3-4671-86f4-5574855d1623"
+    }
+}

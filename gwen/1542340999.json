@@ -1,0 +1,39 @@
+{
+    "character": "gwen",
+    "id": "1542340999",
+    "result": "不用客气。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012574234,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.281]  不用客气。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不用客气。",
+                    "SliceSentence": "不用 客气",
+                    "StartMs": 0,
+                    "EndMs": 2281,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "不用",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "客气",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 720
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.281938
+        },
+        "RequestId": "989be3fd-4810-4292-8b69-a60c04dac912"
+    }
+}

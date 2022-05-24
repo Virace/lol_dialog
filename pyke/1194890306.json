@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "1194890306",
+    "result": "把他们引进来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744763,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.426]  把他们引进来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "把他们引进来。",
+                    "SliceSentence": "把 他们 引 进来",
+                    "StartMs": 0,
+                    "EndMs": 2426,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "引",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "进来",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.426438
+        },
+        "RequestId": "b93ab67f-62b1-48dc-b7e9-97c2606acfab"
+    }
+}

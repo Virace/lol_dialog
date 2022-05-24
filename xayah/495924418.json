@@ -1,0 +1,39 @@
+{
+    "character": "xayah",
+    "id": "495924418",
+    "result": "快来帮忙。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012836788,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.026]  快来帮忙。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "快来帮忙。",
+                    "SliceSentence": "快来 帮忙",
+                    "StartMs": 0,
+                    "EndMs": 1026,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "快来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "帮忙",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.026375
+        },
+        "RequestId": "f9381905-c8c1-44a6-b0cd-c456844e50fc"
+    }
+}

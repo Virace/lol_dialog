@@ -1,0 +1,49 @@
+{
+    "character": "rengar",
+    "id": "2141002235",
+    "result": "啊，猎物的气息。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012762357,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.940,0:5.200]  啊，猎物的气息。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，猎物的气息。",
+                    "SliceSentence": "啊 猎物 的 气息",
+                    "StartMs": 940,
+                    "EndMs": 5200,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "猎物",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "气息",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 3510
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.12675
+        },
+        "RequestId": "c55a1dec-1086-4b3c-b9c4-ea18c6740ac3"
+    }
+}

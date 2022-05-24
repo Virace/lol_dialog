@@ -1,0 +1,39 @@
+{
+    "character": "seraphine",
+    "id": "734997032",
+    "result": "亲一个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012771743,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.080]  亲一个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "亲一个。",
+                    "SliceSentence": "亲 一个",
+                    "StartMs": 0,
+                    "EndMs": 2080,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "亲",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 660
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.5625
+        },
+        "RequestId": "e2a9bf91-07a5-4196-89f1-8039354afeaa"
+    }
+}

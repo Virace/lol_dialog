@@ -1,0 +1,39 @@
+{
+    "character": "rakan",
+    "id": "2140654767",
+    "result": "哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012752798,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.706]  哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈。",
+                    "SliceSentence": "哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 706,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 450
+                        }
+                    ],
+                    "SpeechSpeed": 7.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.706375
+        },
+        "RequestId": "08daa85b-5187-4f24-82ff-b63cdb001b9d"
+    }
+}

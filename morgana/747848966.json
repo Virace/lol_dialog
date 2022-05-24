@@ -1,0 +1,49 @@
+{
+    "character": "morgana",
+    "id": "747848966",
+    "result": "铁打的心也会崩溃。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012727348,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.654]  铁打的心也会崩溃。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "铁打的心也会崩溃。",
+                    "SliceSentence": "铁打 的心 也会 崩溃",
+                    "StartMs": 0,
+                    "EndMs": 2654,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "铁打",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "的心",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "也会",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "崩溃",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.6545
+        },
+        "RequestId": "c643ac70-adc5-4fd7-b19f-ab47eb1a0b9a"
+    }
+}

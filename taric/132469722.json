@@ -1,0 +1,44 @@
+{
+    "character": "taric",
+    "id": "132469722",
+    "result": "生命之沙。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012796177,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.818]  生命之沙。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "生命之沙。",
+                    "SliceSentence": "生命 之 沙",
+                    "StartMs": 0,
+                    "EndMs": 2818,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "生命",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "之",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "沙",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.818688
+        },
+        "RequestId": "ac9325d6-235b-4872-b897-141c6e733f96"
+    }
+}

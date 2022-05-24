@@ -1,0 +1,44 @@
+{
+    "character": "shaco",
+    "id": "1156410133",
+    "result": "瞧瞧你的背后。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012773885,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.434]  瞧瞧你的背后。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "瞧瞧你的背后。",
+                    "SliceSentence": "瞧瞧 你的 背后",
+                    "StartMs": 0,
+                    "EndMs": 2434,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "瞧瞧",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "背后",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.434188
+        },
+        "RequestId": "b723b977-9dd9-4f68-8217-f593435035b7"
+    }
+}

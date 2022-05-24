@@ -1,0 +1,59 @@
+{
+    "character": "viego",
+    "id": "288485068",
+    "result": "是我的，就必属于我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012814010,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.893]  是我的，就必属于我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "是我的，就必属于我。",
+                    "SliceSentence": "是我 的 就 必 属于 我",
+                    "StartMs": 0,
+                    "EndMs": 3893,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "必",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "属于",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.893063
+        },
+        "RequestId": "a553cba3-f3ae-4ebc-849a-183ba4f5daeb"
+    }
+}

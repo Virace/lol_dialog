@@ -1,0 +1,44 @@
+{
+    "character": "taric",
+    "id": "576844856",
+    "result": "这个跟我很配。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012797077,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.936]  这个跟我很配。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这个跟我很配。",
+                    "SliceSentence": "这个 跟我 很配",
+                    "StartMs": 0,
+                    "EndMs": 2936,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "跟我",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "很配",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.9365
+        },
+        "RequestId": "855393bf-32e8-401e-9df4-85161f402e60"
+    }
+}

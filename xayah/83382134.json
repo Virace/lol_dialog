@@ -1,0 +1,54 @@
+{
+    "character": "xayah",
+    "id": "83382134",
+    "result": "啊，行啊，来吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012838015,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.881]  啊，行啊，来吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，行啊，来吧。",
+                    "SliceSentence": "啊 行 啊 来 吧",
+                    "StartMs": 0,
+                    "EndMs": 1881,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "行",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.881063
+        },
+        "RequestId": "2a7665b1-918f-41b2-ab1c-98a8d53d6be9"
+    }
+}

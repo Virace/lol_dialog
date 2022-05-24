@@ -1,0 +1,44 @@
+{
+    "character": "zeri",
+    "id": "798800917",
+    "result": "别跑啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012852830,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.706]  别跑啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别跑啊。",
+                    "SliceSentence": "别 跑 啊",
+                    "StartMs": 0,
+                    "EndMs": 1706,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "跑",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.706688
+        },
+        "RequestId": "133eef89-3760-44a5-9af0-de55f0982a17"
+    }
+}

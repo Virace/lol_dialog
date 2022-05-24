@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "20447926",
+    "result": "找不到他们了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012835913,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.067]  找不到他们了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "找不到他们了。",
+                    "SliceSentence": "找不到 他们 了",
+                    "StartMs": 0,
+                    "EndMs": 1067,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "找不到",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 870
+                        }
+                    ],
+                    "SpeechSpeed": 8.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.067813
+        },
+        "RequestId": "38d79400-4724-4b1f-8314-e64ee2702100"
+    }
+}

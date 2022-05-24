@@ -1,0 +1,44 @@
+{
+    "character": "morgana",
+    "id": "1773480216",
+    "result": "换个词儿吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012726626,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.836]  换个词儿吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "换个词儿吧。",
+                    "SliceSentence": "换个 词儿 吧",
+                    "StartMs": 0,
+                    "EndMs": 1836,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "换个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "词儿",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.836125
+        },
+        "RequestId": "259397ec-a555-42f5-9e96-74e13376cbb0"
+    }
+}

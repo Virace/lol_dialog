@@ -1,0 +1,59 @@
+{
+    "character": "kayn",
+    "id": "770191145",
+    "result": "你注定是活不了的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012702777,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.990]  你注定是活不了的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你注定是活不了的。",
+                    "SliceSentence": "你 注定 是 活 不了 的",
+                    "StartMs": 0,
+                    "EndMs": 3990,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "注定",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "活",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 2700
+                        },
+                        {
+                            "Word": "不了",
+                            "OffsetStartMs": 2700,
+                            "OffsetEndMs": 3390
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 3390,
+                            "OffsetEndMs": 3810
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.990563
+        },
+        "RequestId": "5affe6a7-0d8e-4ced-bc30-311e419d3cd8"
+    }
+}

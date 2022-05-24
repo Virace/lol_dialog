@@ -1,0 +1,39 @@
+{
+    "character": "yorick",
+    "id": "907009646",
+    "result": "嘿嘿嘿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012846157,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.596]  嘿嘿嘿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘿嘿嘿。",
+                    "SliceSentence": "嘿 嘿嘿",
+                    "StartMs": 0,
+                    "EndMs": 1596,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "嘿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "嘿嘿",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.596688
+        },
+        "RequestId": "948b1206-7713-4822-8e3b-8a8bc4e79547"
+    }
+}

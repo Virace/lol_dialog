@@ -1,0 +1,49 @@
+{
+    "character": "graves",
+    "id": "1396760689",
+    "result": "你在玩什么呢？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012573433,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.646]  你在玩什么呢？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你在玩什么呢？",
+                    "SliceSentence": "你在 玩 什么 呢",
+                    "StartMs": 0,
+                    "EndMs": 1646,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "玩",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.646
+        },
+        "RequestId": "f0a8a4de-de57-4535-8ecc-76ef6fcbdba2"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "1478098666",
+    "result": "你动手啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012834712,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.945]  你动手啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你动手啦。",
+                    "SliceSentence": "你 动手 啦",
+                    "StartMs": 0,
+                    "EndMs": 945,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "动手",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.945313
+        },
+        "RequestId": "96babbcc-4596-46f2-804e-0d3c7b4d46be"
+    }
+}

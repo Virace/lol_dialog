@@ -1,0 +1,44 @@
+{
+    "character": "evelynn",
+    "id": "921227113",
+    "result": "想要再来一次。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012565156,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.800]  想要再来一次。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "想要再来一次。",
+                    "SliceSentence": "想要 再来 一次",
+                    "StartMs": 0,
+                    "EndMs": 3800,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "想要",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "再来",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "一次",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.19975
+        },
+        "RequestId": "cc882c9a-e7de-479f-84ff-8938e74ea823"
+    }
+}

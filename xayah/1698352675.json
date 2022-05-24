@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "1698352675",
+    "result": "现在是了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012835235,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.052]  现在是了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "现在是了。",
+                    "SliceSentence": "现在 是 了",
+                    "StartMs": 0,
+                    "EndMs": 1052,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.052938
+        },
+        "RequestId": "67759e1b-e4b8-49c2-90cc-961ec59fabaf"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "poppy",
+    "id": "385701612",
+    "result": "别想穿过我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012743038,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.649]  别想穿过我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别想穿过我。",
+                    "SliceSentence": "别想 穿过 我",
+                    "StartMs": 0,
+                    "EndMs": 1649,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "别想",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "穿过",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.649
+        },
+        "RequestId": "2ac4d555-1450-4439-8d85-a352bd74f960"
+    }
+}

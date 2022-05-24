@@ -1,0 +1,54 @@
+{
+    "character": "pyke",
+    "id": "1116703731",
+    "result": "你看着我被淹死的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744559,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.438]  你看着我被淹死的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你看着我被淹死的。",
+                    "SliceSentence": "你看 着 我被 淹死 的",
+                    "StartMs": 0,
+                    "EndMs": 2438,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你看",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "着",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "我被",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "淹死",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.438313
+        },
+        "RequestId": "8803bd77-7bc1-4d5e-b8ce-abd7522bf747"
+    }
+}

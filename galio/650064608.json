@@ -1,0 +1,44 @@
+{
+    "character": "galio",
+    "id": "650064608",
+    "result": "吃我第一次。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012569549,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.442]  吃我第一次。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "吃我第一次。",
+                    "SliceSentence": "吃 我 第一次",
+                    "StartMs": 0,
+                    "EndMs": 1442,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "吃",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "第一次",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.442438
+        },
+        "RequestId": "b0ce4d6f-e751-46ef-9795-3b963df7c4c8"
+    }
+}

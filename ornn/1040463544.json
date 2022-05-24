@@ -1,0 +1,44 @@
+{
+    "character": "ornn",
+    "id": "1040463544",
+    "result": "糟糕的工艺。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012737682,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.544]  糟糕的工艺。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "糟糕的工艺。",
+                    "SliceSentence": "糟糕 的 工艺",
+                    "StartMs": 0,
+                    "EndMs": 1544,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "糟糕",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "工艺",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.544188
+        },
+        "RequestId": "a1d302af-8a11-450f-ab8b-5d643755735f"
+    }
+}

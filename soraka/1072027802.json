@@ -1,0 +1,44 @@
+{
+    "character": "soraka",
+    "id": "1072027802",
+    "result": "我愿伸出援手。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012783039,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.136]  我愿伸出援手。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我愿伸出援手。",
+                    "SliceSentence": "我愿 伸出 援手",
+                    "StartMs": 0,
+                    "EndMs": 3136,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我愿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "伸出",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "援手",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.13625
+        },
+        "RequestId": "8095ee5c-63d7-4865-bcb1-f3c79fc6d21a"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "mordekaiser",
+    "id": "246184688",
+    "result": "恶意从不消减。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012725120,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.504]  恶意从不消减。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "恶意从不消减。",
+                    "SliceSentence": "恶意 从不 消减",
+                    "StartMs": 0,
+                    "EndMs": 4504,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "恶意",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "从不",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "消减",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 3240
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.504188
+        },
+        "RequestId": "a469744c-9f05-482d-8acb-0dd6e6a09dfc"
+    }
+}

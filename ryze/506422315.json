@@ -1,0 +1,54 @@
+{
+    "character": "ryze",
+    "id": "506422315",
+    "result": "好行，看好了，铛铛。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012764723,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.364]  好行，看好了，铛铛。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好行，看好了，铛铛。",
+                    "SliceSentence": "好 行 看好 了 铛铛",
+                    "StartMs": 0,
+                    "EndMs": 4364,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "行",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "看好",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "铛铛",
+                            "OffsetStartMs": 3000,
+                            "OffsetEndMs": 4290
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.364563
+        },
+        "RequestId": "5e09893b-86b6-4c80-8e76-cf82e0c6a8cf"
+    }
+}

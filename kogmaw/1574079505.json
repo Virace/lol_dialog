@@ -1,0 +1,39 @@
+{
+    "character": "kogmaw",
+    "id": "1574079505",
+    "result": "别休息。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012710920,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.273]  别休息。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别休息。",
+                    "SliceSentence": "别 休息",
+                    "StartMs": 0,
+                    "EndMs": 2273,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "休息",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.273
+        },
+        "RequestId": "feb3a6d0-6f11-484a-96b5-e8ea2d507bfc"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "nunu",
+    "id": "2002946492",
+    "result": "哦，雪球扔太多了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012734419,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.161]  哦，雪球扔太多了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哦，雪球扔太多了。",
+                    "SliceSentence": "哦 雪球 扔 太多 了",
+                    "StartMs": 0,
+                    "EndMs": 3161,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "哦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "雪球",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "扔",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "太多",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2670
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.161063
+        },
+        "RequestId": "bcf22131-3385-4e39-95b1-8375988425fc"
+    }
+}

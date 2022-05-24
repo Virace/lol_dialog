@@ -1,0 +1,49 @@
+{
+    "character": "karthus",
+    "id": "601974974",
+    "result": "死亡包围了你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012696181,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.901]  死亡包围了你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "死亡包围了你。",
+                    "SliceSentence": "死亡 包围 了 你",
+                    "StartMs": 0,
+                    "EndMs": 4901,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "死亡",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "包围",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 3420
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 3420,
+                            "OffsetEndMs": 3570
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 3570,
+                            "OffsetEndMs": 4170
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.901438
+        },
+        "RequestId": "20fd9744-2c14-439c-aacd-e3c7d6c22649"
+    }
+}

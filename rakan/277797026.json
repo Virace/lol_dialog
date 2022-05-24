@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "277797026",
+    "result": "我们开始吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012752999,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.094]  我们开始吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们开始吧。",
+                    "SliceSentence": "我们 开始 吧",
+                    "StartMs": 0,
+                    "EndMs": 1094,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "开始",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 7.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.094813
+        },
+        "RequestId": "1fc757f0-fa7f-4849-97d5-66741259adc4"
+    }
+}

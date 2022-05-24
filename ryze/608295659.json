@@ -1,0 +1,49 @@
+{
+    "character": "ryze",
+    "id": "608295659",
+    "result": "你赢不了的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012764987,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.360]  你赢不了的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你赢不了的。",
+                    "SliceSentence": "你 赢 不了 的",
+                    "StartMs": 0,
+                    "EndMs": 1360,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 60
+                        },
+                        {
+                            "Word": "赢",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "不了",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.36075
+        },
+        "RequestId": "292facf1-acf6-4b8f-b7a9-822bea6e88ae"
+    }
+}

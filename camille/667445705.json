@@ -1,0 +1,44 @@
+{
+    "character": "camille",
+    "id": "667445705",
+    "result": "切记愚鲁。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553814,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.606]  切记愚鲁。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "切记愚鲁。",
+                    "SliceSentence": "切记 愚 鲁",
+                    "StartMs": 0,
+                    "EndMs": 1606,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "切记",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "愚",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "鲁",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.60625
+        },
+        "RequestId": "4abd1e18-f3eb-489a-9b09-35ee1c4d630f"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "zoe",
+    "id": "594717148",
+    "result": "你好好睡一觉吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012856444,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.169]  你好好睡一觉吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你好好睡一觉吧。",
+                    "SliceSentence": "你 好好 睡 一 觉 吧",
+                    "StartMs": 0,
+                    "EndMs": 2169,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "好好",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "睡",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "一",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "觉",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.169063
+        },
+        "RequestId": "f9cd14a9-e43c-486b-8fc4-8188d36364c7"
+    }
+}

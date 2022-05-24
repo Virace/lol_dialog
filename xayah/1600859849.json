@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "1600859849",
+    "result": "在路上了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012835025,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.879]  在路上了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "在路上了。",
+                    "SliceSentence": "在 路上 了",
+                    "StartMs": 0,
+                    "EndMs": 879,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "路上",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 8.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.879625
+        },
+        "RequestId": "6d0530c5-35a5-451f-886e-1c2de246715e"
+    }
+}

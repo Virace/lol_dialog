@@ -1,0 +1,39 @@
+{
+    "character": "xayah",
+    "id": "1237643020",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012834113,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.760]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 760,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 480
+                        }
+                    ],
+                    "SpeechSpeed": 7.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.760688
+        },
+        "RequestId": "fbc9a40a-abc2-4282-b958-818774badf59"
+    }
+}

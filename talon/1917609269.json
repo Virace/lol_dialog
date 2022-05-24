@@ -1,0 +1,44 @@
+{
+    "character": "talon",
+    "id": "1917609269",
+    "result": "没有机会了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012795743,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.549]  没有机会了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没有机会了。",
+                    "SliceSentence": "没有 机会 了",
+                    "StartMs": 0,
+                    "EndMs": 1549,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "机会",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.549188
+        },
+        "RequestId": "1230ff3a-2b65-4bda-b825-97c6445417d3"
+    }
+}

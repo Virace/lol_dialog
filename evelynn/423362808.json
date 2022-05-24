@@ -1,0 +1,49 @@
+{
+    "character": "evelynn",
+    "id": "423362808",
+    "result": "让我看看你的痛苦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012563785,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.580]  让我看看你的痛苦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "让我看看你的痛苦。",
+                    "SliceSentence": "让我 看看 你的 痛苦",
+                    "StartMs": 0,
+                    "EndMs": 3580,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "让我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "看看",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "痛苦",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.1765
+        },
+        "RequestId": "359ee684-8a40-41ec-901a-22799cceadc2"
+    }
+}

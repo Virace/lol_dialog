@@ -1,0 +1,59 @@
+{
+    "character": "volibear",
+    "id": "841906990",
+    "result": "我一咆哮，你便跪拜。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012817166,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.142]  我一咆哮，你便跪拜。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我一咆哮，你便跪拜。",
+                    "SliceSentence": "我 一 咆哮 你 便 跪拜",
+                    "StartMs": 0,
+                    "EndMs": 5142,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "一",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "咆哮",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2520
+                        },
+                        {
+                            "Word": "便",
+                            "OffsetStartMs": 2520,
+                            "OffsetEndMs": 2850
+                        },
+                        {
+                            "Word": "跪拜",
+                            "OffsetStartMs": 2850,
+                            "OffsetEndMs": 3960
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.142375
+        },
+        "RequestId": "b20f3a77-3ac8-4fba-9c7d-5c5ee3faeddd"
+    }
+}

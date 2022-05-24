@@ -1,0 +1,44 @@
+{
+    "character": "akali",
+    "id": "1278886609",
+    "result": "你真不该出来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012538961,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.403]  你真不该出来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你真不该出来。",
+                    "SliceSentence": "你真 不该 出来",
+                    "StartMs": 0,
+                    "EndMs": 1403,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你真",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "不该",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "出来",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.403
+        },
+        "RequestId": "33b7ad85-f4db-4380-9329-a1ec49990a30"
+    }
+}

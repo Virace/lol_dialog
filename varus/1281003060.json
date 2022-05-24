@@ -1,0 +1,49 @@
+{
+    "character": "varus",
+    "id": "1281003060",
+    "result": "我只是在苟延残喘。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012807869,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.921]  我只是在苟延残喘。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我只是在苟延残喘。",
+                    "SliceSentence": "我 只是 在 苟延残喘",
+                    "StartMs": 0,
+                    "EndMs": 3921,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "只是",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "苟延残喘",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 3360
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.921125
+        },
+        "RequestId": "c3c826ea-9905-4280-803e-1c85d296a12f"
+    }
+}

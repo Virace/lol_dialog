@@ -1,0 +1,44 @@
+{
+    "character": "camille",
+    "id": "178508707",
+    "result": "工业永远不败。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552466,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.330]  工业永远不败。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "工业永远不败。",
+                    "SliceSentence": "工业 永远 不败",
+                    "StartMs": 0,
+                    "EndMs": 2330,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "工业",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "永远",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "不败",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.330125
+        },
+        "RequestId": "3f47cfdd-5f98-4f65-b4e4-f549d7bc9e0d"
+    }
+}

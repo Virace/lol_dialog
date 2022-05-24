@@ -1,0 +1,54 @@
+{
+    "character": "caitlyn",
+    "id": "29289610",
+    "result": "执勤中中中中。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551685,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.728]  执勤中中中中。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "执勤中中中中。",
+                    "SliceSentence": "执勤 中 中 中 中",
+                    "StartMs": 0,
+                    "EndMs": 1728,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "执勤",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "中",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "中",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "中",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "中",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.728
+        },
+        "RequestId": "601b5887-29c4-4c70-be43-478af267c211"
+    }
+}

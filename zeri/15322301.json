@@ -1,0 +1,44 @@
+{
+    "character": "zeri",
+    "id": "15322301",
+    "result": "闪电要来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012851284,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.197]  闪电要来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "闪电要来了。",
+                    "SliceSentence": "闪电 要来 了",
+                    "StartMs": 0,
+                    "EndMs": 2197,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "闪电",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "要来",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.197313
+        },
+        "RequestId": "8cf275f5-1d8d-4056-a6d7-9048d96cc820"
+    }
+}

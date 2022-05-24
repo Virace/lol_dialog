@@ -1,0 +1,39 @@
+{
+    "character": "warwick",
+    "id": "6998192",
+    "result": "烘，没事。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012832909,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.330]  烘，没事。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "烘，没事。",
+                    "SliceSentence": "烘 没事",
+                    "StartMs": 0,
+                    "EndMs": 3330,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "烘",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "没事",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.330688
+        },
+        "RequestId": "86807e60-9083-4fe8-9b48-c97708e35bab"
+    }
+}

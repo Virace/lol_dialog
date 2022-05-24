@@ -1,0 +1,39 @@
+{
+    "character": "tahmkench",
+    "id": "1065683952",
+    "result": "我的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012789041,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.485]  我的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的。",
+                    "SliceSentence": "我 的",
+                    "StartMs": 0,
+                    "EndMs": 1485,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.485438
+        },
+        "RequestId": "f9da6da2-f475-403c-b422-ba83cab5cdf5"
+    }
+}

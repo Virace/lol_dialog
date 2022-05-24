@@ -1,0 +1,44 @@
+{
+    "character": "shen",
+    "id": "2015387613",
+    "result": "目标已被标记。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012774332,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.212]  目标已被标记。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "目标已被标记。",
+                    "SliceSentence": "目标 已被 标记",
+                    "StartMs": 0,
+                    "EndMs": 2212,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "目标",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "已被",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "标记",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.212688
+        },
+        "RequestId": "baa35c2c-c8e6-402c-8f34-d88ef1ec93c0"
+    }
+}

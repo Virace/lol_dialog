@@ -1,0 +1,75 @@
+{
+    "character": "senna",
+    "id": "2046739083",
+    "result": "卢锡安。我们很快会再见的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012769294,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.640]  卢锡安。\n[0:1.640,0:3.924]  我们很快会再见的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "卢锡安。",
+                    "SliceSentence": "卢 锡安",
+                    "StartMs": 0,
+                    "EndMs": 1640,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "卢",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "锡安",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "我们很快会再见的。",
+                    "SliceSentence": "我们 很快 会 再见 的",
+                    "StartMs": 1640,
+                    "EndMs": 3924,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "很快",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "再见",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.924188
+        },
+        "RequestId": "6dfd4668-35b4-4db8-9534-25be5e7c8e1a"
+    }
+}

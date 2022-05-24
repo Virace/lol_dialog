@@ -1,0 +1,44 @@
+{
+    "character": "poppy",
+    "id": "405309271",
+    "result": "耶，更多东西。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012743099,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.092]  耶，更多东西。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "耶，更多东西。",
+                    "SliceSentence": "耶 更多 东西",
+                    "StartMs": 0,
+                    "EndMs": 2092,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "耶",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "更多",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.092188
+        },
+        "RequestId": "73c58273-c5ff-4401-b5fb-36742ec223fb"
+    }
+}

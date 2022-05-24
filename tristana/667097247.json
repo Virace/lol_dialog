@@ -1,0 +1,54 @@
+{
+    "character": "tristana",
+    "id": "667097247",
+    "result": "我或许只是假装路过。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012800351,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.988]  我或许只是假装路过。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我或许只是假装路过。",
+                    "SliceSentence": "我 或许 只是 假装 路过",
+                    "StartMs": 0,
+                    "EndMs": 1988,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "或许",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "只是",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "假装",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "路过",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.988438
+        },
+        "RequestId": "c01bf059-c084-4621-83c0-d114fe6af689"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "viego",
+    "id": "1402355108",
+    "result": "一座儿德，这是为何？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012813190,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.112]  一座儿德，这是为何？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一座儿德，这是为何？",
+                    "SliceSentence": "一座 儿 德 这是 为何",
+                    "StartMs": 0,
+                    "EndMs": 5112,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "一座",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "儿",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "德",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "为何",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 3480
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.112188
+        },
+        "RequestId": "294c5765-9b3f-42a8-afbe-4999b6ebf003"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "1659874752",
+    "result": "没看到是吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012835156,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.276]  没看到是吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没看到是吧。",
+                    "SliceSentence": "没 看到 是 吧",
+                    "StartMs": 0,
+                    "EndMs": 1276,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "没",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "看到",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 7.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.276688
+        },
+        "RequestId": "92c1b2af-8619-4dc1-91d3-d76bb9146fca"
+    }
+}

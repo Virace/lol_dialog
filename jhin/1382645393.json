@@ -1,0 +1,49 @@
+{
+    "character": "jhin",
+    "id": "1382645393",
+    "result": "让我们开场吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012684887,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.340]  让我们开场吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "让我们开场吧。",
+                    "SliceSentence": "让 我们 开场 吧",
+                    "StartMs": 0,
+                    "EndMs": 3340,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "让",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "开场",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.155
+        },
+        "RequestId": "5a1336a0-f0a2-443c-bd76-0ad6662c7cd9"
+    }
+}

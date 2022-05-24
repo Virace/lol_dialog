@@ -1,0 +1,49 @@
+{
+    "character": "braum",
+    "id": "194235198",
+    "result": "呃，全新的开始。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550268,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.709]  呃，全新的开始。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "呃，全新的开始。",
+                    "SliceSentence": "呃 全新 的 开始",
+                    "StartMs": 0,
+                    "EndMs": 2709,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "呃",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "全新",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "开始",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2580
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.709938
+        },
+        "RequestId": "888ea859-4696-441d-b798-710f39a811be"
+    }
+}

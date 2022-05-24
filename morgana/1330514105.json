@@ -1,0 +1,39 @@
+{
+    "character": "morgana",
+    "id": "1330514105",
+    "result": "正视我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012725924,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.812]  正视我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "正视我。",
+                    "SliceSentence": "正视 我",
+                    "StartMs": 0,
+                    "EndMs": 1812,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "正视",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.8125
+        },
+        "RequestId": "015caf9a-bf2d-4732-8114-e7711b4cc126"
+    }
+}

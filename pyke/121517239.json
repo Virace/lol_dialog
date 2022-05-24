@@ -1,0 +1,54 @@
+{
+    "character": "pyke",
+    "id": "121517239",
+    "result": "四个去了，朴永成。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744801,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.613]  四个去了，朴永成。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "四个去了，朴永成。",
+                    "SliceSentence": "四个 去 了 朴 永成",
+                    "StartMs": 0,
+                    "EndMs": 3613,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "四个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "朴",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "永成",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2790
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.613938
+        },
+        "RequestId": "a1174a4d-4950-4110-a325-941db409da73"
+    }
+}

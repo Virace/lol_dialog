@@ -1,0 +1,64 @@
+{
+    "character": "fizz",
+    "id": "884637503",
+    "result": "我要给他们演示一下什么叫。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568011,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.831]  我要给他们演示一下什么叫。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要给他们演示一下什么叫。",
+                    "SliceSentence": "我要 给 他们 演示 一下 什么 叫",
+                    "StartMs": 0,
+                    "EndMs": 3831,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "给",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "演示",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "一下",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "叫",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.831313
+        },
+        "RequestId": "24494e1a-22d0-478c-85a5-3804b5eb535a"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "evelynn",
+    "id": "980152007",
+    "result": "这东西可不小呀。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012565292,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.380]  这东西可不小呀。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这东西可不小呀。",
+                    "SliceSentence": "这 东西 可不 小 呀",
+                    "StartMs": 0,
+                    "EndMs": 4380,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "可不",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "小",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "呀",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.849875
+        },
+        "RequestId": "35dbf899-4825-4e04-8eb7-af3978ca584f"
+    }
+}

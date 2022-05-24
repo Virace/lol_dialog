@@ -1,0 +1,39 @@
+{
+    "character": "khazix",
+    "id": "1051081592",
+    "result": "不要逃避。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012703623,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.251]  不要逃避。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要逃避。",
+                    "SliceSentence": "不要 逃避",
+                    "StartMs": 0,
+                    "EndMs": 3251,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "逃避",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.2515
+        },
+        "RequestId": "6635b6e0-93a8-4ce3-b5f9-57048810c066"
+    }
+}

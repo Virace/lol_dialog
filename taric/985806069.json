@@ -1,0 +1,44 @@
+{
+    "character": "taric",
+    "id": "985806069",
+    "result": "为了保护这一切。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012798009,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.952]  为了保护这一切。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "为了保护这一切。",
+                    "SliceSentence": "为了 保护 这一切",
+                    "StartMs": 0,
+                    "EndMs": 2952,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "为了",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "保护",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "这一切",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.952875
+        },
+        "RequestId": "43866d7f-ff56-4d5c-abee-56e3f02bc043"
+    }
+}

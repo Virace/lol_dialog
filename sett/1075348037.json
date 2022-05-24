@@ -1,0 +1,54 @@
+{
+    "character": "sett",
+    "id": "1075348037",
+    "result": "你俩好好玩儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012772228,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.043]  你俩好好玩儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你俩好好玩儿。",
+                    "SliceSentence": "你 俩 好 好玩 儿",
+                    "StartMs": 0,
+                    "EndMs": 2043,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "俩",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "好玩",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "儿",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.043375
+        },
+        "RequestId": "996fabe6-da08-48a4-bb08-013efda117b6"
+    }
+}

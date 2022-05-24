@@ -1,0 +1,54 @@
+{
+    "character": "kaisa",
+    "id": "1363671836",
+    "result": "你真是太棒啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012688547,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.184]  你真是太棒啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你真是太棒啦。",
+                    "SliceSentence": "你 真是 太 棒 啦",
+                    "StartMs": 0,
+                    "EndMs": 2184,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "真是",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "太",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "棒",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.184813
+        },
+        "RequestId": "997485af-bbe8-484a-82ed-bdd4f6cc4302"
+    }
+}

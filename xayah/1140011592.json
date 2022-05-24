@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "1140011592",
+    "result": "我很欣赏你的热情。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012833961,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.731]  我很欣赏你的热情。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我很欣赏你的热情。",
+                    "SliceSentence": "我很 欣赏 你的 热情",
+                    "StartMs": 0,
+                    "EndMs": 1731,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我很",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "欣赏",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "热情",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.73175
+        },
+        "RequestId": "48a34681-3e26-4d84-8d67-1a51b67f6278"
+    }
+}

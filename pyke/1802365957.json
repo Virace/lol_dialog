@@ -1,0 +1,39 @@
+{
+    "character": "pyke",
+    "id": "1802365957",
+    "result": "两个下水。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745470,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.664]  两个下水。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "两个下水。",
+                    "SliceSentence": "两个 下水",
+                    "StartMs": 0,
+                    "EndMs": 2664,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "两个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "下水",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.664375
+        },
+        "RequestId": "ce7a51e7-f719-4475-b265-8742dc6c4bbb"
+    }
+}

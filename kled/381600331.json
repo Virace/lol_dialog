@@ -1,0 +1,39 @@
+{
+    "character": "kled",
+    "id": "381600331",
+    "result": "冷静小妞。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012707586,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.768]  冷静小妞。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "冷静小妞。",
+                    "SliceSentence": "冷静 小妞",
+                    "StartMs": 0,
+                    "EndMs": 1768,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "冷静",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "小妞",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.768938
+        },
+        "RequestId": "e865c208-4910-4704-aad2-6e03e316fd75"
+    }
+}

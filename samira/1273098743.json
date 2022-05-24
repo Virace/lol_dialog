@@ -1,0 +1,44 @@
+{
+    "character": "samira",
+    "id": "1273098743",
+    "result": "要淋雨喽。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012766082,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.229]  要淋雨喽。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "要淋雨喽。",
+                    "SliceSentence": "要 淋雨 喽",
+                    "StartMs": 0,
+                    "EndMs": 2229,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "淋雨",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "喽",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.229125
+        },
+        "RequestId": "a0599d6e-3273-448b-a436-d2d1377c6a79"
+    }
+}

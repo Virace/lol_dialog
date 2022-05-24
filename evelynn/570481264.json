@@ -1,0 +1,44 @@
+{
+    "character": "evelynn",
+    "id": "570481264",
+    "result": "你可真惹人爱。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012564066,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.600]  你可真惹人爱。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你可真惹人爱。",
+                    "SliceSentence": "你 可真 惹人爱",
+                    "StartMs": 0,
+                    "EndMs": 3600,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "可真",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "惹人爱",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.82825
+        },
+        "RequestId": "9b31940e-61b8-47d5-bd06-84a8b87951cd"
+    }
+}

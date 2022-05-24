@@ -1,0 +1,54 @@
+{
+    "character": "cassiopeia",
+    "id": "1558776029",
+    "result": "每个问题都是一次良机。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554777,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.330]  每个问题都是一次良机。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "每个问题都是一次良机。",
+                    "SliceSentence": "每个 问题 都是 一次 良机",
+                    "StartMs": 0,
+                    "EndMs": 3330,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "每个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "问题",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "都是",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "一次",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "良机",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 3180
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.330625
+        },
+        "RequestId": "aa454ea8-7653-41f5-b292-576ee125c6d3"
+    }
+}

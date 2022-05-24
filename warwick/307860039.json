@@ -1,0 +1,44 @@
+{
+    "character": "warwick",
+    "id": "307860039",
+    "result": "谁是好孩子，是我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012817744,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.793]  谁是好孩子，是我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "谁是好孩子，是我。",
+                    "SliceSentence": "谁是 好孩子 是我",
+                    "StartMs": 0,
+                    "EndMs": 3793,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "谁是",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "好孩子",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2670
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.793375
+        },
+        "RequestId": "2d3d4169-efc9-4bfc-917a-d814977d54fc"
+    }
+}

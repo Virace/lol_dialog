@@ -1,0 +1,44 @@
+{
+    "character": "zac",
+    "id": "1564480175",
+    "result": "不要这么死板。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012848514,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.568]  不要这么死板。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要这么死板。",
+                    "SliceSentence": "不要 这么 死板",
+                    "StartMs": 0,
+                    "EndMs": 1568,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "这么",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "死板",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.56875
+        },
+        "RequestId": "c0193011-2dda-4092-b450-0d1e47dad1f3"
+    }
+}

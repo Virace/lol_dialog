@@ -1,0 +1,49 @@
+{
+    "character": "caitlyn",
+    "id": "1826525451",
+    "result": "根本闲不下来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551258,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.496]  根本闲不下来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "根本闲不下来。",
+                    "SliceSentence": "根本 闲 不 下来",
+                    "StartMs": 0,
+                    "EndMs": 2496,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "根本",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "闲",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "下来",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.496
+        },
+        "RequestId": "835ea35c-09dc-474f-8e0f-10fe0a0ab9b5"
+    }
+}

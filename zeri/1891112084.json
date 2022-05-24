@@ -1,0 +1,44 @@
+{
+    "character": "zeri",
+    "id": "1891112084",
+    "result": "我不可能袖手旁观。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012851865,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.410]  我不可能袖手旁观。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不可能袖手旁观。",
+                    "SliceSentence": "我不 可能 袖手旁观",
+                    "StartMs": 0,
+                    "EndMs": 2410,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "可能",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "袖手旁观",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.410688
+        },
+        "RequestId": "2e8d75e0-1bfb-41f0-af3c-ab81e8013bd5"
+    }
+}

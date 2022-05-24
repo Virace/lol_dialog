@@ -1,0 +1,39 @@
+{
+    "character": "warwick",
+    "id": "333315052",
+    "result": "听我的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012818060,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.511]  听我的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "听我的。",
+                    "SliceSentence": "听我 的",
+                    "StartMs": 0,
+                    "EndMs": 2511,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "听我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.511375
+        },
+        "RequestId": "3ca717f7-5f00-4beb-8b4b-6b3130db6f9c"
+    }
+}

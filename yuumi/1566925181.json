@@ -1,0 +1,54 @@
+{
+    "character": "yuumi",
+    "id": "1566925181",
+    "result": "我跟定你啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012846813,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.021]  我跟定你啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我跟定你啦。",
+                    "SliceSentence": "我 跟 定 你 啦",
+                    "StartMs": 0,
+                    "EndMs": 1021,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "跟",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "定",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 750
+                        }
+                    ],
+                    "SpeechSpeed": 9.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.021188
+        },
+        "RequestId": "70f3ada8-c53b-4ffb-9a85-eb871cd61c2b"
+    }
+}

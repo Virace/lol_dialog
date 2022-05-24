@@ -1,0 +1,44 @@
+{
+    "character": "talon",
+    "id": "240386237",
+    "result": "我从不妥协。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012795829,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.234]  我从不妥协。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我从不妥协。",
+                    "SliceSentence": "我 从不 妥协",
+                    "StartMs": 0,
+                    "EndMs": 2234,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "从不",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "妥协",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.234438
+        },
+        "RequestId": "111f82bd-c075-4147-80f5-a4484e871657"
+    }
+}

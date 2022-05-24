@@ -1,0 +1,44 @@
+{
+    "character": "zac",
+    "id": "2050760190",
+    "result": "我做的非常好。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012849100,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.838]  我做的非常好。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我做的非常好。",
+                    "SliceSentence": "我做 的 非常好",
+                    "StartMs": 0,
+                    "EndMs": 1838,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我做",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "非常好",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.838063
+        },
+        "RequestId": "310afde8-42fa-4e58-86cd-6547030e20ec"
+    }
+}

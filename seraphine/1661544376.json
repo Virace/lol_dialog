@@ -1,0 +1,54 @@
+{
+    "character": "seraphine",
+    "id": "1661544376",
+    "result": "要听你自己的声音。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012770610,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.780]  要听你自己的声音。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "要听你自己的声音。",
+                    "SliceSentence": "要 听你 自己 的 声音",
+                    "StartMs": 0,
+                    "EndMs": 2780,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "听你",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "自己",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "声音",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.2405
+        },
+        "RequestId": "bd69fbb8-fa7b-4a17-a9ce-bb0ec031123c"
+    }
+}

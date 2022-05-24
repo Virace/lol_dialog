@@ -1,0 +1,39 @@
+{
+    "character": "rengar",
+    "id": "1012909074",
+    "result": "集中注意。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012762007,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:1.240,0:4.980]  集中注意。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "集中注意。",
+                    "SliceSentence": "集中 注意",
+                    "StartMs": 1240,
+                    "EndMs": 4980,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "集中",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "注意",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.412375
+        },
+        "RequestId": "37db2e44-05be-4b28-8c0e-d5f223dbaab1"
+    }
+}

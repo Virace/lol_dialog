@@ -1,0 +1,59 @@
+{
+    "character": "vi",
+    "id": "288115669",
+    "result": "我来拯救世界，或者毁掉世界。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012812488,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.976]  我来拯救世界，或者毁掉世界。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我来拯救世界，或者毁掉世界。",
+                    "SliceSentence": "我来 拯救 世界 或者 毁掉 世界",
+                    "StartMs": 0,
+                    "EndMs": 4976,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "拯救",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "世界",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "或者",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 3060
+                        },
+                        {
+                            "Word": "毁掉",
+                            "OffsetStartMs": 3090,
+                            "OffsetEndMs": 4050
+                        },
+                        {
+                            "Word": "世界",
+                            "OffsetStartMs": 4050,
+                            "OffsetEndMs": 4770
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.9765
+        },
+        "RequestId": "e9096d35-03a3-4dc1-ba57-ce82e07342a7"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "soraka",
+    "id": "847012099",
+    "result": "活下去。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012783265,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.269]  活下去。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "活下去。",
+                    "SliceSentence": "活 下去",
+                    "StartMs": 0,
+                    "EndMs": 2269,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "活",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "下去",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.269188
+        },
+        "RequestId": "a2bf3acc-b6d6-4d61-b30c-81f4e478f5a4"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "1914934368",
+    "result": "肮脏的家伙。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689529,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.737]  肮脏的家伙。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "肮脏的家伙。",
+                    "SliceSentence": "肮脏 的 家伙",
+                    "StartMs": 0,
+                    "EndMs": 1737,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "肮脏",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "家伙",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.737813
+        },
+        "RequestId": "3241fc94-f6fe-4996-a9a6-f1c954fdd29f"
+    }
+}

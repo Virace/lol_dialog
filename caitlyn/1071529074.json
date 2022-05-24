@@ -1,0 +1,44 @@
+{
+    "character": "caitlyn",
+    "id": "1071529074",
+    "result": "逮到你啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550771,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.578]  逮到你啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "逮到你啦。",
+                    "SliceSentence": "逮到 你 啦",
+                    "StartMs": 0,
+                    "EndMs": 1578,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "逮到",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 720
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.578688
+        },
+        "RequestId": "90eaf42a-8a3a-45cc-8677-eddd2707c3ad"
+    }
+}

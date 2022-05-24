@@ -1,0 +1,59 @@
+{
+    "character": "urgot",
+    "id": "1585084059",
+    "result": "早起的鸟儿死得早。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012805996,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.910]  早起的鸟儿死得早。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "早起的鸟儿死得早。",
+                    "SliceSentence": "早起 的 鸟儿 死 得 早",
+                    "StartMs": 0,
+                    "EndMs": 4910,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "早起",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "鸟儿",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 2370
+                        },
+                        {
+                            "Word": "死",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 3030
+                        },
+                        {
+                            "Word": "得",
+                            "OffsetStartMs": 3030,
+                            "OffsetEndMs": 3210
+                        },
+                        {
+                            "Word": "早",
+                            "OffsetStartMs": 3210,
+                            "OffsetEndMs": 3900
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.910875
+        },
+        "RequestId": "794dbed4-c1d3-4503-9253-36adcd309d3a"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "fizz",
+    "id": "1517767032",
+    "result": "我准备好了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012567809,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.509]  我准备好了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我准备好了。",
+                    "SliceSentence": "我 准备 好了",
+                    "StartMs": 0,
+                    "EndMs": 1509,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "准备",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "好了",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 840
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.509313
+        },
+        "RequestId": "034c0af7-ade0-4f34-a3fd-d2505d2e4237"
+    }
+}

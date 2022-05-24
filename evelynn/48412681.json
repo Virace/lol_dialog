@@ -1,0 +1,44 @@
+{
+    "character": "evelynn",
+    "id": "48412681",
+    "result": "给我感觉吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012563901,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.420]  给我感觉吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "给我感觉吧。",
+                    "SliceSentence": "给我 感觉 吧",
+                    "StartMs": 0,
+                    "EndMs": 3420,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "给我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "感觉",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.622313
+        },
+        "RequestId": "74dfe33b-a5c8-49be-a62f-b7a51156fc90"
+    }
+}

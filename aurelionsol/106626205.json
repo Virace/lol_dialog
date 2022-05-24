@@ -1,0 +1,49 @@
+{
+    "character": "aurelionsol",
+    "id": "106626205",
+    "result": "这是致死的美景。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012545981,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.011]  这是致死的美景。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是致死的美景。",
+                    "SliceSentence": "这是 致死 的 美景",
+                    "StartMs": 0,
+                    "EndMs": 3011,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "致死",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "美景",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2670
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.011625
+        },
+        "RequestId": "631561f4-d3f1-457c-a973-68a71e501201"
+    }
+}

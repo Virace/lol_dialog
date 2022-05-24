@@ -1,0 +1,44 @@
+{
+    "character": "aphelios",
+    "id": "1669849953",
+    "result": "我就知道。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012543136,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:7.540]  我就知道。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我就知道。",
+                    "SliceSentence": "我 就 知道",
+                    "StartMs": 0,
+                    "EndMs": 7540,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 5010,
+                            "OffsetEndMs": 5160
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 5160,
+                            "OffsetEndMs": 5370
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 5370,
+                            "OffsetEndMs": 5850
+                        }
+                    ],
+                    "SpeechSpeed": 0.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 8.32575
+        },
+        "RequestId": "c077f209-0356-41ca-a099-36200819b349"
+    }
+}

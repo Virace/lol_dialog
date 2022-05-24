@@ -1,0 +1,39 @@
+{
+    "character": "nami",
+    "id": "128678260",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012727715,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.339]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 1339,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.339125
+        },
+        "RequestId": "b89d1771-6b46-4ecc-a722-d74357236788"
+    }
+}

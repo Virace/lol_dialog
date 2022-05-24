@@ -1,0 +1,49 @@
+{
+    "character": "nunu",
+    "id": "1551858937",
+    "result": "我们就是英雄耶。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012733465,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.024]  我们就是英雄耶。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们就是英雄耶。",
+                    "SliceSentence": "我们 就是 英雄 耶",
+                    "StartMs": 0,
+                    "EndMs": 4024,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "英雄",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "耶",
+                            "OffsetStartMs": 2490,
+                            "OffsetEndMs": 3630
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.024
+        },
+        "RequestId": "4b88a86a-1f8a-49aa-8536-2dcd508494a9"
+    }
+}

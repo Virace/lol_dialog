@@ -1,0 +1,49 @@
+{
+    "character": "caitlyn",
+    "id": "1256158840",
+    "result": "正在与嫌犯交火。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550901,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.368]  正在与嫌犯交火。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "正在与嫌犯交火。",
+                    "SliceSentence": "正在 与 嫌犯 交火",
+                    "StartMs": 0,
+                    "EndMs": 2368,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "与",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "嫌犯",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "交火",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.368
+        },
+        "RequestId": "dfa11ff4-45ce-4635-9d50-7b062e2b132e"
+    }
+}

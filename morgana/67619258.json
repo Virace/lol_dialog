@@ -1,0 +1,49 @@
+{
+    "character": "morgana",
+    "id": "67619258",
+    "result": "这是你的苦难之地。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012727284,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.391]  这是你的苦难之地。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是你的苦难之地。",
+                    "SliceSentence": "这是 你的 苦难 之地",
+                    "StartMs": 0,
+                    "EndMs": 2391,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "苦难",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "之地",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.391063
+        },
+        "RequestId": "1170357a-8f6f-424c-beb4-7fc22538b2cb"
+    }
+}

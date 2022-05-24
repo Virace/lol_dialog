@@ -1,0 +1,49 @@
+{
+    "character": "kled",
+    "id": "876203284",
+    "result": "我要宰了你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012709861,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.726]  我要宰了你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要宰了你。",
+                    "SliceSentence": "我要 宰 了 你",
+                    "StartMs": 0,
+                    "EndMs": 2726,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "宰",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.726125
+        },
+        "RequestId": "2d024969-8d7b-462b-a820-564852b9925d"
+    }
+}

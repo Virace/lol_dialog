@@ -1,0 +1,49 @@
+{
+    "character": "gwen",
+    "id": "840201111",
+    "result": "我太开心啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012575423,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.575]  我太开心啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我太开心啦。",
+                    "SliceSentence": "我 太 开心 啦",
+                    "StartMs": 0,
+                    "EndMs": 2575,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "太",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "开心",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.575938
+        },
+        "RequestId": "633665a5-bd79-49a9-8298-ceea63fd6e05"
+    }
+}

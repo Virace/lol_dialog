@@ -1,0 +1,39 @@
+{
+    "character": "volibear",
+    "id": "1417288603",
+    "result": "雷声滚动。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012815828,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.319]  雷声滚动。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "雷声滚动。",
+                    "SliceSentence": "雷声 滚动",
+                    "StartMs": 0,
+                    "EndMs": 3319,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "雷声",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "滚动",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.319188
+        },
+        "RequestId": "b8b9a9ad-f51b-4cea-8fe8-4463aa50ed2e"
+    }
+}

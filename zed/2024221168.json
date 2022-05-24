@@ -1,0 +1,54 @@
+{
+    "character": "zed",
+    "id": "2024221168",
+    "result": "只有高手才能活下来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012850040,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.689]  只有高手才能活下来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "只有高手才能活下来。",
+                    "SliceSentence": "只有 高手 才能 活 下来",
+                    "StartMs": 0,
+                    "EndMs": 2689,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "只有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "高手",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "才能",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "活",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "下来",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 2610
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.689563
+        },
+        "RequestId": "85813f47-789f-47d5-8a62-14e7ba141f66"
+    }
+}

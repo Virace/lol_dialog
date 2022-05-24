@@ -1,0 +1,59 @@
+{
+    "character": "xerath",
+    "id": "510123312",
+    "result": "他们将因我而亡。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012839522,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.020,0:4.058]  他们将因我而亡。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们将因我而亡。",
+                    "SliceSentence": "他们 将 因 我 而 亡",
+                    "StartMs": 20,
+                    "EndMs": 4058,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "将",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "因",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2520
+                        },
+                        {
+                            "Word": "而",
+                            "OffsetStartMs": 2520,
+                            "OffsetEndMs": 2880
+                        },
+                        {
+                            "Word": "亡",
+                            "OffsetStartMs": 2880,
+                            "OffsetEndMs": 3900
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.058375
+        },
+        "RequestId": "f96a41e6-ed8d-4b48-8ab8-b26a8030e5aa"
+    }
+}

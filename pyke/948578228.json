@@ -1,0 +1,59 @@
+{
+    "character": "pyke",
+    "id": "948578228",
+    "result": "我现在的老大不爱金子。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012747005,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.796]  我现在的老大不爱金子。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我现在的老大不爱金子。",
+                    "SliceSentence": "我 现在 的 老大 不爱 金子",
+                    "StartMs": 0,
+                    "EndMs": 2796,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "老大",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "不爱",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "金子",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.796875
+        },
+        "RequestId": "0a499447-8fc2-4130-8e92-923e01403d45"
+    }
+}

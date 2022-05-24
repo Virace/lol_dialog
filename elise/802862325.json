@@ -1,0 +1,44 @@
+{
+    "character": "elise",
+    "id": "802862325",
+    "result": "他们需要指引。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012561098,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.520]  他们需要指引。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们需要指引。",
+                    "SliceSentence": "他们 需要 指引",
+                    "StartMs": 0,
+                    "EndMs": 3520,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "指引",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2940
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.014875
+        },
+        "RequestId": "6faa34ab-e4ac-49c1-bcf8-1537380d0c5d"
+    }
+}

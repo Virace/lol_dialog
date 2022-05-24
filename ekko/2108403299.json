@@ -1,0 +1,70 @@
+{
+    "character": "ekko",
+    "id": "2108403299",
+    "result": "所以，呃。今天的天气怎么样？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012559849,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.960]  所以，呃。\n[0:2.960,0:4.264]  今天的天气怎么样？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "所以，呃。",
+                    "SliceSentence": "所以 呃",
+                    "StartMs": 0,
+                    "EndMs": 2960,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "所以",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "呃",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "今天的天气怎么样？",
+                    "SliceSentence": "今天 的 天气 怎么样",
+                    "StartMs": 2960,
+                    "EndMs": 4264,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "今天",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "天气",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "怎么样",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 9.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.264
+        },
+        "RequestId": "c1bdc6b2-dfe0-450d-880f-c275dcf649b9"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "lucian",
+    "id": "321813058",
+    "result": "抱歉，必须这样。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718144,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.577]  抱歉，必须这样。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "抱歉，必须这样。",
+                    "SliceSentence": "抱歉 必须 这样",
+                    "StartMs": 0,
+                    "EndMs": 2577,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "抱歉",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "必须",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "这样",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.577438
+        },
+        "RequestId": "c396f23f-e793-47c4-91f9-140656138d4b"
+    }
+}

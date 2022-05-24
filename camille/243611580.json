@@ -1,0 +1,44 @@
+{
+    "character": "camille",
+    "id": "243611580",
+    "result": "我恨雪。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552663,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.916]  我恨雪。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我恨雪。",
+                    "SliceSentence": "我 恨 雪",
+                    "StartMs": 0,
+                    "EndMs": 2916,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "恨",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "雪",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2850
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.916688
+        },
+        "RequestId": "61e512a6-1b0a-463c-b132-8c5754b715f0"
+    }
+}

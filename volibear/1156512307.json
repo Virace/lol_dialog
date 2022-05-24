@@ -1,0 +1,44 @@
+{
+    "character": "volibear",
+    "id": "1156512307",
+    "result": "啊啊啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012815586,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.360]  啊啊啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊啊啊。",
+                    "SliceSentence": "啊 啊 啊",
+                    "StartMs": 0,
+                    "EndMs": 5360,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 3570,
+                            "OffsetEndMs": 3990
+                        }
+                    ],
+                    "SpeechSpeed": 1.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.360438
+        },
+        "RequestId": "07ec83f0-b2ad-404f-9e0a-46f8fc49adb8"
+    }
+}

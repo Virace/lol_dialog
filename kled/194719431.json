@@ -1,0 +1,44 @@
+{
+    "character": "kled",
+    "id": "194719431",
+    "result": "打打杀杀，有益身心。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012706562,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.265]  打打杀杀，有益身心。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "打打杀杀，有益身心。",
+                    "SliceSentence": "打打杀杀 有益 身心",
+                    "StartMs": 0,
+                    "EndMs": 2265,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "打打杀杀",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "有益",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "身心",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.265
+        },
+        "RequestId": "14d88520-e3d0-4346-a769-f513066e7664"
+    }
+}

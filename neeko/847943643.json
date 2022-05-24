@@ -1,0 +1,49 @@
+{
+    "character": "neeko",
+    "id": "847943643",
+    "result": "啊大哥啊大哥。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012730921,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.468]  啊大哥啊大哥。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊大哥啊大哥。",
+                    "SliceSentence": "啊 大哥 啊 大哥",
+                    "StartMs": 0,
+                    "EndMs": 1468,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "大哥",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "大哥",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 6.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.468188
+        },
+        "RequestId": "a6b7de3a-fd31-474a-b149-4d2a477741d5"
+    }
+}

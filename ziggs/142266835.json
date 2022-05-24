@@ -1,0 +1,50 @@
+{
+    "character": "ziggs",
+    "id": "142266835",
+    "result": "哈。嗯。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012853330,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.300]  哈。\n[0:2.300,0:3.568]  嗯。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈。",
+                    "SliceSentence": "哈",
+                    "StartMs": 0,
+                    "EndMs": 2300,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "哈",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 0.9,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "嗯。",
+                    "SliceSentence": "嗯",
+                    "StartMs": 2300,
+                    "EndMs": 3568,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.56825
+        },
+        "RequestId": "eba0af4b-022d-4035-ae54-b4dceec80a61"
+    }
+}

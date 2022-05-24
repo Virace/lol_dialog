@@ -1,0 +1,44 @@
+{
+    "character": "taliyah",
+    "id": "510721002",
+    "result": "我不怕你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012793542,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.958]  我不怕你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不怕你。",
+                    "SliceSentence": "我不 怕 你",
+                    "StartMs": 0,
+                    "EndMs": 958,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "怕",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 7.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.95825
+        },
+        "RequestId": "4a1aea2b-3990-4ddc-8f18-a6e198f824f1"
+    }
+}

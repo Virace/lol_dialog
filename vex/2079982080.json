@@ -1,0 +1,39 @@
+{
+    "character": "vex",
+    "id": "2079982080",
+    "result": "给我冷静。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012811085,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.020,0:2.248]  给我冷静。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "给我冷静。",
+                    "SliceSentence": "给我 冷静",
+                    "StartMs": 20,
+                    "EndMs": 2248,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "给我",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "冷静",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.2485
+        },
+        "RequestId": "6ea3436b-694d-401a-a58d-cd6088520f4e"
+    }
+}

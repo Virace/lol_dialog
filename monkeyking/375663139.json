@@ -1,0 +1,44 @@
+{
+    "character": "monkeyking",
+    "id": "375663139",
+    "result": "咱老孙吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012723827,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.063]  咱老孙吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "咱老孙吧。",
+                    "SliceSentence": "咱 老孙 吧",
+                    "StartMs": 0,
+                    "EndMs": 2063,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "咱",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "老孙",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.063688
+        },
+        "RequestId": "e1c60acb-38a2-4856-be51-c203391657a3"
+    }
+}

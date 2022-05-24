@@ -1,0 +1,54 @@
+{
+    "character": "sylas",
+    "id": "1914056007",
+    "result": "你会见证我的魔法。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012787032,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.879]  你会见证我的魔法。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你会见证我的魔法。",
+                    "SliceSentence": "你会 见证 我 的 魔法",
+                    "StartMs": 0,
+                    "EndMs": 1879,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你会",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "见证",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "魔法",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.879938
+        },
+        "RequestId": "fa33c524-9dc0-427d-9d2c-7b869029998d"
+    }
+}

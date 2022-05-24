@@ -1,0 +1,49 @@
+{
+    "character": "zyra",
+    "id": "126319361",
+    "result": "啊，欣欣向荣的花园。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012857202,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.751]  啊，欣欣向荣的花园。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，欣欣向荣的花园。",
+                    "SliceSentence": "啊 欣欣向荣 的 花园",
+                    "StartMs": 0,
+                    "EndMs": 3751,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "欣欣向荣",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "花园",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 3630
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.751938
+        },
+        "RequestId": "267ab42d-8f29-4012-8bb6-2bb2debc152a"
+    }
+}

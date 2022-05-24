@@ -1,0 +1,49 @@
+{
+    "character": "kayle",
+    "id": "1011001717",
+    "result": "不是杀人，是审判。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012697198,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.345]  不是杀人，是审判。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不是杀人，是审判。",
+                    "SliceSentence": "不是 杀人 是 审判",
+                    "StartMs": 0,
+                    "EndMs": 3345,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "杀人",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "审判",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2700
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.345313
+        },
+        "RequestId": "b0650b47-4a34-40b3-b6c9-009f0bc5043e"
+    }
+}

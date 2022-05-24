@@ -1,0 +1,44 @@
+{
+    "character": "ahri",
+    "id": "1392503681",
+    "result": "真要忍。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012538322,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.334]  真要忍。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "真要忍。",
+                    "SliceSentence": "真 要 忍",
+                    "StartMs": 0,
+                    "EndMs": 1334,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "真",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "忍",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.334125
+        },
+        "RequestId": "cc7cbb69-ec36-4d17-b7b7-4eb0ebf3f4ac"
+    }
+}

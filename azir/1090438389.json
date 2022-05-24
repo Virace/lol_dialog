@@ -1,0 +1,39 @@
+{
+    "character": "azir",
+    "id": "1090438389",
+    "result": "我已飞升。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012548532,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.377]  我已飞升。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我已飞升。",
+                    "SliceSentence": "我已 飞升",
+                    "StartMs": 0,
+                    "EndMs": 2377,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我已",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "飞升",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.377438
+        },
+        "RequestId": "14baaa35-6d98-4b24-8a54-0e16ac8b834f"
+    }
+}

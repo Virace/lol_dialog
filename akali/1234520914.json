@@ -1,0 +1,44 @@
+{
+    "character": "akali",
+    "id": "1234520914",
+    "result": "嗯嗯嗯。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012538950,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.784]  嗯嗯嗯。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯嗯嗯。",
+                    "SliceSentence": "嗯 嗯 嗯",
+                    "StartMs": 0,
+                    "EndMs": 2784,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.784063
+        },
+        "RequestId": "633033dd-4ce0-4ecf-8a99-d6e9f1253516"
+    }
+}

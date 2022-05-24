@@ -1,0 +1,44 @@
+{
+    "character": "seraphine",
+    "id": "548798210",
+    "result": "来和声吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012771627,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.240]  来和声吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "来和声吧。",
+                    "SliceSentence": "来 和声 吧",
+                    "StartMs": 0,
+                    "EndMs": 2240,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "和声",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.792063
+        },
+        "RequestId": "69d1bf85-2653-481c-9784-0358140097f7"
+    }
+}

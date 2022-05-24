@@ -1,0 +1,49 @@
+{
+    "character": "vayne",
+    "id": "783089513",
+    "result": "令人恐惧的阴影。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012808752,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.700]  令人恐惧的阴影。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "令人恐惧的阴影。",
+                    "SliceSentence": "令人 恐惧 的 阴影",
+                    "StartMs": 0,
+                    "EndMs": 3700,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "令人",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "恐惧",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "阴影",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 3060
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.966
+        },
+        "RequestId": "ab3d1abb-ef31-4008-b199-9540e617c153"
+    }
+}

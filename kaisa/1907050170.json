@@ -1,0 +1,49 @@
+{
+    "character": "kaisa",
+    "id": "1907050170",
+    "result": "15个还在输。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689456,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.074]  15个还在输。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "15个还在输。",
+                    "SliceSentence": "15 个 还在 输",
+                    "StartMs": 0,
+                    "EndMs": 2074,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "15",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "个",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "还在",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "输",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.074313
+        },
+        "RequestId": "4acbb6dc-09e6-4673-a1b8-ca488ff816e1"
+    }
+}

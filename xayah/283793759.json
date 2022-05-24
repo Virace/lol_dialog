@@ -1,0 +1,39 @@
+{
+    "character": "xayah",
+    "id": "283793759",
+    "result": "谢谢你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012836314,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.905]  谢谢你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "谢谢你。",
+                    "SliceSentence": "谢谢 你",
+                    "StartMs": 0,
+                    "EndMs": 905,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "谢谢",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 690
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.905688
+        },
+        "RequestId": "4f6c06f8-68fa-4a30-bc59-a2de8927c9b7"
+    }
+}

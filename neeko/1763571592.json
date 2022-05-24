@@ -1,0 +1,39 @@
+{
+    "character": "neeko",
+    "id": "1763571592",
+    "result": "准备好。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012729928,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.684]  准备好。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "准备好。",
+                    "SliceSentence": "准备 好",
+                    "StartMs": 0,
+                    "EndMs": 684,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "准备",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 540
+                        }
+                    ],
+                    "SpeechSpeed": 7.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.684125
+        },
+        "RequestId": "e4ffd0ff-0376-496b-8c3f-c921ef667996"
+    }
+}

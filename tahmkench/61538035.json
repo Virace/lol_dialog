@@ -1,0 +1,59 @@
+{
+    "character": "tahmkench",
+    "id": "61538035",
+    "result": "这是我的河流，你，葛。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012790350,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.874]  这是我的河流，你，葛。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是我的河流，你，葛。",
+                    "SliceSentence": "这 是我 的 河流 你 葛",
+                    "StartMs": 0,
+                    "EndMs": 3874,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "河流",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "葛",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 3120
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.874
+        },
+        "RequestId": "1b9fae8e-c09a-4020-8bf1-3522c9d6db24"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "488140752",
+    "result": "我看到鱼食了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746350,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.840]  我看到鱼食了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我看到鱼食了。",
+                    "SliceSentence": "我 看到 鱼食 了",
+                    "StartMs": 0,
+                    "EndMs": 2840,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "看到",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "鱼食",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.840375
+        },
+        "RequestId": "ef8361fd-1fff-41ca-83d7-39d4663e1c95"
+    }
+}

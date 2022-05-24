@@ -1,0 +1,44 @@
+{
+    "character": "caitlyn",
+    "id": "1137813774",
+    "result": "别靠太近。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550791,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.898]  别靠太近。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别靠太近。",
+                    "SliceSentence": "别 靠 太近",
+                    "StartMs": 0,
+                    "EndMs": 1898,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "靠",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "太近",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.898688
+        },
+        "RequestId": "e7ef4074-2d73-452f-a875-54824cb5f7a7"
+    }
+}

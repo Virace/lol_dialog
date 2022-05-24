@@ -1,0 +1,49 @@
+{
+    "character": "akali",
+    "id": "1939495105",
+    "result": "目标出现已清除。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012539269,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.673]  目标出现已清除。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "目标出现已清除。",
+                    "SliceSentence": "目标 出现 已 清除",
+                    "StartMs": 0,
+                    "EndMs": 2673,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "目标",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "出现",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "已",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "清除",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2610
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.67375
+        },
+        "RequestId": "74fc2589-1eb6-4cfb-baed-79c045735a43"
+    }
+}

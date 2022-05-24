@@ -1,0 +1,54 @@
+{
+    "character": "kled",
+    "id": "722417598",
+    "result": "他们已经是死人啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012709207,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.137]  他们已经是死人啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们已经是死人啦。",
+                    "SliceSentence": "他们 已经 是 死人 啦",
+                    "StartMs": 0,
+                    "EndMs": 2137,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "死人",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.137875
+        },
+        "RequestId": "132d3448-b860-46eb-909e-ebbd5c26c0eb"
+    }
+}

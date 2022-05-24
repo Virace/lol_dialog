@@ -1,0 +1,59 @@
+{
+    "character": "cassiopeia",
+    "id": "1315477878",
+    "result": "想想我能提供的东西吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554698,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.134]  想想我能提供的东西吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "想想我能提供的东西吧。",
+                    "SliceSentence": "想想 我能 提供 的 东西 吧",
+                    "StartMs": 0,
+                    "EndMs": 3134,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "想想",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "我能",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "提供",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2580
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 2580,
+                            "OffsetEndMs": 3030
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.134688
+        },
+        "RequestId": "1292b62e-74ea-4fbb-98f6-775c68519a61"
+    }
+}

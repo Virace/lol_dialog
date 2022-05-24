@@ -1,0 +1,49 @@
+{
+    "character": "senna",
+    "id": "799122769",
+    "result": "你想听我尖叫吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012769969,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.159]  你想听我尖叫吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你想听我尖叫吗？",
+                    "SliceSentence": "你想 听我 尖叫 吗",
+                    "StartMs": 0,
+                    "EndMs": 2159,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你想",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "听我",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "尖叫",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.159438
+        },
+        "RequestId": "e8b4184b-bd6b-4815-b024-86306f249bd3"
+    }
+}

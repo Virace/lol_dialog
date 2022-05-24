@@ -1,0 +1,54 @@
+{
+    "character": "neeko",
+    "id": "1495316532",
+    "result": "不是你可哟，哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012729789,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.013]  不是你可哟，哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不是你可哟，哈哈哈哈。",
+                    "SliceSentence": "不是 你可 哟 哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 3013,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "你可",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "哟",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.013188
+        },
+        "RequestId": "ec544fbb-83c3-425b-9dc0-0b1314e3cb8f"
+    }
+}

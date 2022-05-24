@@ -1,0 +1,54 @@
+{
+    "character": "camille",
+    "id": "122145255",
+    "result": "你很强，但我更强。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552303,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.472]  你很强，但我更强。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你很强，但我更强。",
+                    "SliceSentence": "你 很强 但 我 更强",
+                    "StartMs": 0,
+                    "EndMs": 2472,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "很强",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "但",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "更强",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.472438
+        },
+        "RequestId": "29a51b04-b37b-4f80-9f43-8c8659004200"
+    }
+}

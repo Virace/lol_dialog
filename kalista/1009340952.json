@@ -1,0 +1,44 @@
+{
+    "character": "kalista",
+    "id": "1009340952",
+    "result": "来，我们边上。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012693213,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.340]  来，我们边上。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "来，我们边上。",
+                    "SliceSentence": "来 我们 边上",
+                    "StartMs": 0,
+                    "EndMs": 2340,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "边上",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.662813
+        },
+        "RequestId": "1acdec0d-c656-4ea4-b869-b8bf2ae8ec2d"
+    }
+}

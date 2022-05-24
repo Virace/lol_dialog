@@ -1,0 +1,39 @@
+{
+    "character": "rakan",
+    "id": "875847934",
+    "result": "注意安全。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012754643,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.960]  注意安全。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "注意安全。",
+                    "SliceSentence": "注意 安全",
+                    "StartMs": 0,
+                    "EndMs": 960,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "注意",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "安全",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.9605
+        },
+        "RequestId": "965ec6ec-1cec-42b2-90cd-3983a74268a1"
+    }
+}

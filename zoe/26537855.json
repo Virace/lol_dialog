@@ -1,0 +1,39 @@
+{
+    "character": "zoe",
+    "id": "26537855",
+    "result": "没中。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012855497,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.672]  没中。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没中。",
+                    "SliceSentence": "没 中",
+                    "StartMs": 0,
+                    "EndMs": 1672,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "没",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "中",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.672188
+        },
+        "RequestId": "4651dd1c-7a0e-42fa-a5f0-db491653f515"
+    }
+}

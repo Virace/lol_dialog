@@ -1,0 +1,39 @@
+{
+    "character": "rammus",
+    "id": "139708375",
+    "result": "要小心。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012755079,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.509]  要小心。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "要小心。",
+                    "SliceSentence": "要 小心",
+                    "StartMs": 0,
+                    "EndMs": 1509,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "小心",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.509313
+        },
+        "RequestId": "c4f8e250-a02e-44f5-8ea5-db3ca2a06304"
+    }
+}

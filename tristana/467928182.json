@@ -1,0 +1,39 @@
+{
+    "character": "tristana",
+    "id": "467928182",
+    "result": "返回总部。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012799773,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.860]  返回总部。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "返回总部。",
+                    "SliceSentence": "返回 总部",
+                    "StartMs": 0,
+                    "EndMs": 860,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "返回",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "总部",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.860938
+        },
+        "RequestId": "86998234-67aa-4947-b05a-2a2005b3f68f"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "galio",
+    "id": "334101720",
+    "result": "哈哈哈哈，我们赢了没？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568801,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.645]  哈哈哈哈，我们赢了没？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈，我们赢了没？",
+                    "SliceSentence": "哈哈 哈哈 我们 赢了 没",
+                    "StartMs": 0,
+                    "EndMs": 2645,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "赢了",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "没",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 2580
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.645688
+        },
+        "RequestId": "c8a1b763-a1c9-49eb-ad8b-b3684772b0a6"
+    }
+}

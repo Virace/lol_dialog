@@ -1,0 +1,54 @@
+{
+    "character": "darius",
+    "id": "1716939106",
+    "result": "我的目标很明确。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012555845,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.600]  我的目标很明确。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的目标很明确。",
+                    "SliceSentence": "我 的 目标 很 明确",
+                    "StartMs": 0,
+                    "EndMs": 2600,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "目标",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "很",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "明确",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.600625
+        },
+        "RequestId": "7cb8795c-9f19-4cc4-b501-bacdd98e645c"
+    }
+}

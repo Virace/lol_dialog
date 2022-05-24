@@ -1,0 +1,59 @@
+{
+    "character": "lillia",
+    "id": "884529977",
+    "result": "脑袋睡着了，心可别睡着呀。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012716274,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.660]  脑袋睡着了，心可别睡着呀。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "脑袋睡着了，心可别睡着呀。",
+                    "SliceSentence": "脑袋 睡着了 心 可别 睡着 呀",
+                    "StartMs": 0,
+                    "EndMs": 3660,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "脑袋",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "睡着了",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "心",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "可别",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "睡着",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "呀",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.597563
+        },
+        "RequestId": "4bc00ae2-5cb1-4b9d-9717-26c221cefe46"
+    }
+}

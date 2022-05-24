@@ -1,0 +1,54 @@
+{
+    "character": "taric",
+    "id": "754341534",
+    "result": "你已经被虚空感染。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012797415,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.543]  你已经被虚空感染。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你已经被虚空感染。",
+                    "SliceSentence": "你 已经 被 虚空 感染",
+                    "StartMs": 0,
+                    "EndMs": 3543,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "被",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "虚空",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "感染",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.543438
+        },
+        "RequestId": "1ba11fc5-40b8-424c-b55a-fba63ac69245"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "jhin",
+    "id": "82611092",
+    "result": "这激情正紧逼着我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012686416,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.442]  这激情正紧逼着我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这激情正紧逼着我。",
+                    "SliceSentence": "这 激情 正紧 逼 着 我",
+                    "StartMs": 0,
+                    "EndMs": 3442,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "激情",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "正紧",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2460
+                        },
+                        {
+                            "Word": "逼",
+                            "OffsetStartMs": 2490,
+                            "OffsetEndMs": 2790
+                        },
+                        {
+                            "Word": "着",
+                            "OffsetStartMs": 2790,
+                            "OffsetEndMs": 2970
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 2970,
+                            "OffsetEndMs": 3360
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.44275
+        },
+        "RequestId": "db4df7c8-782d-41a6-bc44-92a08b444d93"
+    }
+}

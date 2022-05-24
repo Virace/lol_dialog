@@ -1,0 +1,44 @@
+{
+    "character": "khazix",
+    "id": "317429708",
+    "result": "啊哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012703777,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.521]  啊哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊哈哈哈哈。",
+                    "SliceSentence": "啊 哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 3521,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.521563
+        },
+        "RequestId": "6f829b9b-b882-46b3-b9fc-d5f956cb6a6d"
+    }
+}

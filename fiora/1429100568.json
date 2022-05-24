@@ -1,0 +1,44 @@
+{
+    "character": "fiora",
+    "id": "1429100568",
+    "result": "再试试吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012567302,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.857]  再试试吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "再试试吧。",
+                    "SliceSentence": "再 试试 吧",
+                    "StartMs": 0,
+                    "EndMs": 1857,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "再",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "试试",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.857625
+        },
+        "RequestId": "87165530-9488-4c21-ba44-5f11dd2be917"
+    }
+}

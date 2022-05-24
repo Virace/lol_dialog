@@ -1,0 +1,54 @@
+{
+    "character": "janna",
+    "id": "1274654640",
+    "result": "风啊，带我一程吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012683270,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.885]  风啊，带我一程吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "风啊，带我一程吧。",
+                    "SliceSentence": "风 啊 带我 一程 吧",
+                    "StartMs": 0,
+                    "EndMs": 5885,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "风",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "带我",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2670
+                        },
+                        {
+                            "Word": "一程",
+                            "OffsetStartMs": 2670,
+                            "OffsetEndMs": 3480
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 3480,
+                            "OffsetEndMs": 4020
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.885625
+        },
+        "RequestId": "05ac26ed-31f3-433b-ab1f-ba04a740f6cc"
+    }
+}

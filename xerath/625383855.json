@@ -1,0 +1,44 @@
+{
+    "character": "xerath",
+    "id": "625383855",
+    "result": "必须作出牺牲。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012839578,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.456]  必须作出牺牲。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "必须作出牺牲。",
+                    "SliceSentence": "必须 作出 牺牲",
+                    "StartMs": 0,
+                    "EndMs": 4456,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "必须",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "作出",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2460
+                        },
+                        {
+                            "Word": "牺牲",
+                            "OffsetStartMs": 2460,
+                            "OffsetEndMs": 4350
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.456063
+        },
+        "RequestId": "d38a66b7-3bc1-4287-ae33-0cf383aa3eab"
+    }
+}

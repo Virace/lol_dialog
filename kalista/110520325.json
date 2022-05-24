@@ -1,0 +1,54 @@
+{
+    "character": "kalista",
+    "id": "110520325",
+    "result": "什么都无法让我们回心转意。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012693421,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.363]  什么都无法让我们回心转意。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "什么都无法让我们回心转意。",
+                    "SliceSentence": "什么 都无 法让 我们 回心转意",
+                    "StartMs": 0,
+                    "EndMs": 5363,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "都无",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "法让",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "回心转意",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 4470
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.363875
+        },
+        "RequestId": "ef3f4922-fbb9-43ad-95df-9fea07e84c55"
+    }
+}

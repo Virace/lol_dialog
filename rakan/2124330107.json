@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "2124330107",
+    "result": "亲爱的，放心，我正在处理。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012752759,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.251]  亲爱的，放心，我正在处理。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "亲爱的，放心，我正在处理。",
+                    "SliceSentence": "亲爱的 放心 我 正在 处理",
+                    "StartMs": 0,
+                    "EndMs": 2251,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "亲爱的",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "放心",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "处理",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.251938
+        },
+        "RequestId": "c0110d54-f7df-4cd9-ae4f-eab3b8837e32"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "zeri",
+    "id": "687818985",
+    "result": "来电啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012852616,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.728]  来电啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "来电啦。",
+                    "SliceSentence": "来电 啦",
+                    "StartMs": 0,
+                    "EndMs": 1728,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "来电",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.728
+        },
+        "RequestId": "e4f1f9c0-89fe-4cef-b323-7f29e7ea5a96"
+    }
+}

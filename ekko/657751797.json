@@ -1,0 +1,39 @@
+{
+    "character": "ekko",
+    "id": "657751797",
+    "result": "时间断流。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560196,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.212]  时间断流。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "时间断流。",
+                    "SliceSentence": "时间 断流",
+                    "StartMs": 0,
+                    "EndMs": 1212,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "断流",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.212688
+        },
+        "RequestId": "6af7a90c-44bf-4de0-ba93-0f93d9901cfd"
+    }
+}

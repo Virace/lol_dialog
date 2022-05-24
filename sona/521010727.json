@@ -1,0 +1,39 @@
+{
+    "character": "sona",
+    "id": "521010727",
+    "result": "保持音准。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012782571,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.200]  保持音准。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "保持音准。",
+                    "SliceSentence": "保持 音准",
+                    "StartMs": 0,
+                    "EndMs": 4200,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "保持",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "音准",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 1.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.739188
+        },
+        "RequestId": "66dae832-9f7b-447c-82f2-e32c4553bdf5"
+    }
+}

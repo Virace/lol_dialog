@@ -1,0 +1,54 @@
+{
+    "character": "xayah",
+    "id": "1612683520",
+    "result": "来和我一起吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012835064,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.589]  来和我一起吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "来和我一起吧。",
+                    "SliceSentence": "来 和 我 一起 吧",
+                    "StartMs": 0,
+                    "EndMs": 1589,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "和",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "一起",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.589313
+        },
+        "RequestId": "5f46fcc9-8c0c-48d8-aed9-010319f1da5d"
+    }
+}

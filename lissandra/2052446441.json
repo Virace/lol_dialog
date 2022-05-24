@@ -1,0 +1,49 @@
+{
+    "character": "lissandra",
+    "id": "2052446441",
+    "result": "我看东西很清楚。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012716729,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.550]  我看东西很清楚。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我看东西很清楚。",
+                    "SliceSentence": "我 看 东西 很清楚",
+                    "StartMs": 0,
+                    "EndMs": 3550,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "看",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "很清楚",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 3030
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.550125
+        },
+        "RequestId": "52cbe877-757f-4d20-a117-6fc43452fe8b"
+    }
+}

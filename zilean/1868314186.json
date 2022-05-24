@@ -1,0 +1,44 @@
+{
+    "character": "zilean",
+    "id": "1868314186",
+    "result": "时机到了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012853934,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.159]  时机到了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "时机到了。",
+                    "SliceSentence": "时机 到 了",
+                    "StartMs": 0,
+                    "EndMs": 2159,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "时机",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.159438
+        },
+        "RequestId": "948a9b7e-03d0-44b0-a42a-71b0114bcd2b"
+    }
+}

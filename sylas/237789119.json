@@ -1,0 +1,54 @@
+{
+    "character": "sylas",
+    "id": "237789119",
+    "result": "我会给你公正的下场。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012787583,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.082]  我会给你公正的下场。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会给你公正的下场。",
+                    "SliceSentence": "我会 给你 公正 的 下场",
+                    "StartMs": 0,
+                    "EndMs": 2082,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "给你",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "公正",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "下场",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.082313
+        },
+        "RequestId": "6e088840-1c71-4525-92e4-6cffb5da52f8"
+    }
+}

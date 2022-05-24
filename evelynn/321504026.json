@@ -1,0 +1,44 @@
+{
+    "character": "evelynn",
+    "id": "321504026",
+    "result": "剥皮抽筋，从头到脚。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012563465,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.224]  剥皮抽筋，从头到脚。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "剥皮抽筋，从头到脚。",
+                    "SliceSentence": "剥皮 抽筋 从头到脚",
+                    "StartMs": 0,
+                    "EndMs": 5224,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "剥皮",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "抽筋",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "从头到脚",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 4500
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.2245
+        },
+        "RequestId": "6d9adba5-acd1-4282-9b32-931fec158fca"
+    }
+}

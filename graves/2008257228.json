@@ -1,0 +1,49 @@
+{
+    "character": "graves",
+    "id": "2008257228",
+    "result": "哈哈哈哈哈，哼哼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012573616,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:7.555]  哈哈哈哈哈，哼哼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈哈，哼哼。",
+                    "SliceSentence": "哈哈 哈 哈哈 哼哼",
+                    "StartMs": 0,
+                    "EndMs": 7555,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "哈",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 2550
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 2550,
+                            "OffsetEndMs": 3540
+                        },
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 3750,
+                            "OffsetEndMs": 5310
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.555938
+        },
+        "RequestId": "aef45738-2bbc-4920-ac8d-98170b182d34"
+    }
+}

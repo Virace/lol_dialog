@@ -1,0 +1,64 @@
+{
+    "character": "gangplank",
+    "id": "225976613",
+    "result": "我看到你尸沉大海了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012570602,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.021]  我看到你尸沉大海了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我看到你尸沉大海了。",
+                    "SliceSentence": "我 看到 你 尸 沉 大海 了",
+                    "StartMs": 0,
+                    "EndMs": 3021,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "看到",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "尸",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "沉",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "大海",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 2850
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.021625
+        },
+        "RequestId": "eae18cb2-6c5e-4dd3-9bbb-cffeb2821a65"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "gnar",
+    "id": "675723223",
+    "result": "神马鬼哟。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012572955,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.844]  神马鬼哟。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "神马鬼哟。",
+                    "SliceSentence": "神马 鬼 哟",
+                    "StartMs": 0,
+                    "EndMs": 1844,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "神马",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "鬼",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "哟",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.844938
+        },
+        "RequestId": "5b57fef1-3877-49ba-961f-4f70c30b6784"
+    }
+}

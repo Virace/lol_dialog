@@ -1,0 +1,39 @@
+{
+    "character": "chogath",
+    "id": "2126295523",
+    "result": "啊啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012555323,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.543]  啊啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊啊。",
+                    "SliceSentence": "啊 啊",
+                    "StartMs": 0,
+                    "EndMs": 5543,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 3390,
+                            "OffsetEndMs": 4800
+                        }
+                    ],
+                    "SpeechSpeed": 0.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.543938
+        },
+        "RequestId": "eadedd67-2b24-425b-b76b-728936576d2a"
+    }
+}

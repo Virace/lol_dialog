@@ -1,0 +1,39 @@
+{
+    "character": "galio",
+    "id": "540915130",
+    "result": "我打。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012569271,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.155]  我打。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我打。",
+                    "SliceSentence": "我 打",
+                    "StartMs": 0,
+                    "EndMs": 1155,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "打",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.155688
+        },
+        "RequestId": "0712f30d-ffd0-4636-a026-c4ec6e5c2e65"
+    }
+}

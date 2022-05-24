@@ -1,0 +1,39 @@
+{
+    "character": "karthus",
+    "id": "752575740",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012696298,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.398]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 3398,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.398063
+        },
+        "RequestId": "0af944fc-992b-412f-8032-7e07d1d11b36"
+    }
+}

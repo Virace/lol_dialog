@@ -1,0 +1,39 @@
+{
+    "character": "drmundo",
+    "id": "747685736",
+    "result": "走走走走。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012558834,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.380]  走走走走。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "走走走走。",
+                    "SliceSentence": "走走 走走",
+                    "StartMs": 0,
+                    "EndMs": 2380,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "走走",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "走走",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.380375
+        },
+        "RequestId": "53b8e86c-f4a0-49bf-b2df-8fe22ec23e54"
+    }
+}

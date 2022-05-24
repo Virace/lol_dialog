@@ -1,0 +1,39 @@
+{
+    "character": "ekko",
+    "id": "1219931135",
+    "result": "别眨眼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012559266,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.785]  别眨眼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别眨眼。",
+                    "SliceSentence": "别 眨眼",
+                    "StartMs": 0,
+                    "EndMs": 785,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "眨眼",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 720
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.785375
+        },
+        "RequestId": "d2b9d5e8-4bde-4a33-901a-358519add8ba"
+    }
+}

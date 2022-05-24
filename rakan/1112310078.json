@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "1112310078",
+    "result": "我记得你当时不请自来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749535,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.813]  我记得你当时不请自来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我记得你当时不请自来。",
+                    "SliceSentence": "我记得 你 当时 不请自来",
+                    "StartMs": 0,
+                    "EndMs": 2813,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我记得",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "当时",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "不请自来",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.813
+        },
+        "RequestId": "da6c0cd3-2020-440d-9e8e-3d70504303af"
+    }
+}

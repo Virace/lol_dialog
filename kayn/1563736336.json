@@ -1,0 +1,54 @@
+{
+    "character": "kayn",
+    "id": "1563736336",
+    "result": "这东西可以打破平衡。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012699834,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.850]  这东西可以打破平衡。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这东西可以打破平衡。",
+                    "SliceSentence": "这 东西 可以 打破 平衡",
+                    "StartMs": 0,
+                    "EndMs": 2850,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "打破",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "平衡",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2790
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.850438
+        },
+        "RequestId": "8125ceb9-94c2-45b7-a196-140727f73f14"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "zoe",
+    "id": "1902839948",
+    "result": "透了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012855196,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.748]  透了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "透了。",
+                    "SliceSentence": "透 了",
+                    "StartMs": 0,
+                    "EndMs": 1748,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "透",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.74825
+        },
+        "RequestId": "bdae5ee6-4c79-4e91-ab28-7844b89f3e7d"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "sett",
+    "id": "1463723379",
+    "result": "会很疼的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012772422,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.368]  会很疼的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "会很疼的。",
+                    "SliceSentence": "会 很疼 的",
+                    "StartMs": 0,
+                    "EndMs": 2368,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "很疼",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.368438
+        },
+        "RequestId": "b5fa9fc3-09fd-4eb7-ae1f-3d139b6e0239"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "taliyah",
+    "id": "387304406",
+    "result": "你没事吧？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012792985,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.960]  你没事吧？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你没事吧？",
+                    "SliceSentence": "你 没事 吧",
+                    "StartMs": 0,
+                    "EndMs": 960,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 60
+                        },
+                        {
+                            "Word": "没事",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 7.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.960563
+        },
+        "RequestId": "adc03bd1-e9f7-4897-8303-fdd1a7e3faaa"
+    }
+}

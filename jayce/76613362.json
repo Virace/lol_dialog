@@ -1,0 +1,49 @@
+{
+    "character": "jayce",
+    "id": "76613362",
+    "result": "你被耍啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012684312,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.693]  你被耍啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你被耍啦。",
+                    "SliceSentence": "你 被 耍 啦",
+                    "StartMs": 0,
+                    "EndMs": 2693,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "被",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "耍",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.6935
+        },
+        "RequestId": "eaa278c8-c084-48e2-84f9-ffc94110cfe6"
+    }
+}

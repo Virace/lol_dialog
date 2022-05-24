@@ -1,0 +1,49 @@
+{
+    "character": "kindred",
+    "id": "308626923",
+    "result": "我们以前见过面吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012704599,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.971]  我们以前见过面吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们以前见过面吗？",
+                    "SliceSentence": "我们 以前 见过面 吗",
+                    "StartMs": 0,
+                    "EndMs": 1971,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "以前",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "见过面",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.971375
+        },
+        "RequestId": "e5571782-99fb-4aae-801f-be18c32c7bee"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "poppy",
+    "id": "193234338",
+    "result": "你坐下。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012742639,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.949]  你坐下。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你坐下。",
+                    "SliceSentence": "你 坐下",
+                    "StartMs": 0,
+                    "EndMs": 1949,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "坐下",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.94925
+        },
+        "RequestId": "0f3e4f62-aa33-4487-b966-064c7f6f28d5"
+    }
+}

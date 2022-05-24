@@ -1,0 +1,54 @@
+{
+    "character": "viego",
+    "id": "325525464",
+    "result": "我必定与她重逢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012814013,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.642]  我必定与她重逢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我必定与她重逢。",
+                    "SliceSentence": "我 必定 与 她 重逢",
+                    "StartMs": 0,
+                    "EndMs": 3642,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "必定",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "与",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "她",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "重逢",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.6425
+        },
+        "RequestId": "062421bd-a3c2-48aa-b315-d62073d9d650"
+    }
+}

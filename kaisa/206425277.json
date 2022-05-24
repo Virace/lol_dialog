@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "206425277",
+    "result": "差不多就是失败。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689910,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.923]  差不多就是失败。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "差不多就是失败。",
+                    "SliceSentence": "差不多 就是 失败",
+                    "StartMs": 0,
+                    "EndMs": 1923,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "差不多",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "失败",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.923563
+        },
+        "RequestId": "7dff438c-0f90-4a22-abc4-a41514012c6b"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "karthus",
+    "id": "910195966",
+    "result": "即可，毫无意义可言。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012696527,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.245]  即可，毫无意义可言。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "即可，毫无意义可言。",
+                    "SliceSentence": "即可 毫无 意义 可言",
+                    "StartMs": 0,
+                    "EndMs": 5245,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "即可",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "毫无",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2790
+                        },
+                        {
+                            "Word": "意义",
+                            "OffsetStartMs": 2790,
+                            "OffsetEndMs": 3270
+                        },
+                        {
+                            "Word": "可言",
+                            "OffsetStartMs": 3270,
+                            "OffsetEndMs": 4170
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.245188
+        },
+        "RequestId": "9631231c-7407-49a8-93d5-d93aa54b8516"
+    }
+}

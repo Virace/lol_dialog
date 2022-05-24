@@ -1,0 +1,39 @@
+{
+    "character": "renata",
+    "id": "896356922",
+    "result": "钱说了算。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012761141,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.180]  钱说了算。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "钱说了算。",
+                    "SliceSentence": "钱 说了算",
+                    "StartMs": 0,
+                    "EndMs": 2180,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "钱",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "说了算",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.38275
+        },
+        "RequestId": "7746ab1b-3c7a-47c4-8b9f-51c51721e664"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "kindred",
+    "id": "1034452415",
+    "result": "这一个是你的，没错。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012704298,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.289]  这一个是你的，没错。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这一个是你的，没错。",
+                    "SliceSentence": "这 一个 是 你的 没错",
+                    "StartMs": 0,
+                    "EndMs": 3289,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "没错",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 3210
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.2895
+        },
+        "RequestId": "464e23c0-e9e5-486d-aa05-f7a4cfe06f4a"
+    }
+}

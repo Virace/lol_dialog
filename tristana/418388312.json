@@ -1,0 +1,49 @@
+{
+    "character": "tristana",
+    "id": "418388312",
+    "result": "让我们靠近点儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012799622,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.405]  让我们靠近点儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "让我们靠近点儿。",
+                    "SliceSentence": "让 我们 靠近 点儿",
+                    "StartMs": 0,
+                    "EndMs": 1405,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "让",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "靠近",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "点儿",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 7.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.405063
+        },
+        "RequestId": "5fbc77ab-9dce-42fd-9a07-a645dbaecee7"
+    }
+}

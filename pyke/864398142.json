@@ -1,0 +1,39 @@
+{
+    "character": "pyke",
+    "id": "864398142",
+    "result": "驱散迷惑。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746876,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.511]  驱散迷惑。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "驱散迷惑。",
+                    "SliceSentence": "驱散 迷惑",
+                    "StartMs": 0,
+                    "EndMs": 2511,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "驱散",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "迷惑",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.511
+        },
+        "RequestId": "de19aa97-bed3-44a2-acd6-037e4ecf2e23"
+    }
+}

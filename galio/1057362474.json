@@ -1,0 +1,44 @@
+{
+    "character": "galio",
+    "id": "1057362474",
+    "result": "重担放着我来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568252,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.545]  重担放着我来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "重担放着我来。",
+                    "SliceSentence": "重担 放着 我来",
+                    "StartMs": 0,
+                    "EndMs": 1545,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "重担",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "放着",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "我来",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.545438
+        },
+        "RequestId": "78f62fb7-b448-4e1f-b64f-fd7a7ff534da"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "kalista",
+    "id": "32151004",
+    "result": "我们意念合一。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012693989,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.317]  我们意念合一。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们意念合一。",
+                    "SliceSentence": "我们 意念 合一",
+                    "StartMs": 0,
+                    "EndMs": 3317,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "意念",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "合一",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2700
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.317438
+        },
+        "RequestId": "24831ad5-86da-49ee-a37b-4f59002a2e77"
+    }
+}

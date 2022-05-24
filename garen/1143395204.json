@@ -1,0 +1,39 @@
+{
+    "character": "garen",
+    "id": "1143395204",
+    "result": "哼啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012571925,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.342]  哼啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼啊。",
+                    "SliceSentence": "哼 啊",
+                    "StartMs": 0,
+                    "EndMs": 1342,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.342438
+        },
+        "RequestId": "94f2b874-cd34-4415-ba48-97e1f2b98387"
+    }
+}

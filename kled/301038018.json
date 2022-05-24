@@ -1,0 +1,54 @@
+{
+    "character": "kled",
+    "id": "301038018",
+    "result": "你哪儿也去不了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012707219,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.641]  你哪儿也去不了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你哪儿也去不了。",
+                    "SliceSentence": "你 哪儿 也 去 不了",
+                    "StartMs": 0,
+                    "EndMs": 1641,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "哪儿",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "也",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "不了",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 7.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.641688
+        },
+        "RequestId": "45d0ef03-0939-4818-a7b1-7e6ca1a48f8c"
+    }
+}

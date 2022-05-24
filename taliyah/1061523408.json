@@ -1,0 +1,54 @@
+{
+    "character": "taliyah",
+    "id": "1061523408",
+    "result": "这里的石头精美至极。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012791771,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.369]  这里的石头精美至极。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这里的石头精美至极。",
+                    "SliceSentence": "这里 的 石头 精美 至极",
+                    "StartMs": 0,
+                    "EndMs": 2369,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这里",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "石头",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "精美",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "至极",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.369063
+        },
+        "RequestId": "b36e1f90-231b-4061-8c97-ec944e29d225"
+    }
+}

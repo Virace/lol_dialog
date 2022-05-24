@@ -1,0 +1,64 @@
+{
+    "character": "pyke",
+    "id": "780078451",
+    "result": "我的绳子是你割断的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746859,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.024]  我的绳子是你割断的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的绳子是你割断的。",
+                    "SliceSentence": "我 的 绳子 是 你 割断 的",
+                    "StartMs": 0,
+                    "EndMs": 3024,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "绳子",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "割断",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.024813
+        },
+        "RequestId": "dd278729-7b8a-49cd-a9b4-ae6811db6d53"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "453026300",
+    "result": "你会看到死亡的舞步。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012753540,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.340]  你会看到死亡的舞步。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你会看到死亡的舞步。",
+                    "SliceSentence": "你会 看到 死亡 的 舞步",
+                    "StartMs": 0,
+                    "EndMs": 2340,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你会",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "看到",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "死亡",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "舞步",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.340875
+        },
+        "RequestId": "5aa21032-9073-457e-a2e3-e965a925a845"
+    }
+}

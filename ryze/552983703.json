@@ -1,0 +1,44 @@
+{
+    "character": "ryze",
+    "id": "552983703",
+    "result": "抓到你啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012764836,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.884]  抓到你啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "抓到你啦。",
+                    "SliceSentence": "抓到 你 啦",
+                    "StartMs": 0,
+                    "EndMs": 884,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "抓到",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 7.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.884875
+        },
+        "RequestId": "7b3a1dc3-1e68-4da9-804c-dc1b60c743a8"
+    }
+}

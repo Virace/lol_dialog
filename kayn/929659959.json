@@ -1,0 +1,49 @@
+{
+    "character": "kayn",
+    "id": "929659959",
+    "result": "都是我干的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012703143,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.853]  都是我干的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "都是我干的。",
+                    "SliceSentence": "都 是我 干 的",
+                    "StartMs": 0,
+                    "EndMs": 1853,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "都",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "干",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.853375
+        },
+        "RequestId": "b2c9b926-b924-4bf1-b976-cfb9ea2c6641"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "716354727",
+    "result": "我没法不看到。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012837661,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.363]  我没法不看到。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我没法不看到。",
+                    "SliceSentence": "我 没法 不看 到",
+                    "StartMs": 0,
+                    "EndMs": 1363,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "没法",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "不看",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 7.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.363938
+        },
+        "RequestId": "f370e424-f27c-415c-bcae-b1060129b789"
+    }
+}

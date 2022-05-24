@@ -1,0 +1,65 @@
+{
+    "character": "irelia",
+    "id": "1617505409",
+    "result": "如今。我只能独自起舞。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012581078,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.540]  如今。\n[0:1.540,0:2.996]  我只能独自起舞。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "如今。",
+                    "SliceSentence": "如今",
+                    "StartMs": 0,
+                    "EndMs": 1540,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "如今",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 870
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "我只能独自起舞。",
+                    "SliceSentence": "我 只能 独自 起舞",
+                    "StartMs": 1540,
+                    "EndMs": 2996,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "只能",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "独自",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "起舞",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 7.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.99675
+        },
+        "RequestId": "87ab5e9e-9a41-42eb-a879-93a5e3e01c37"
+    }
+}

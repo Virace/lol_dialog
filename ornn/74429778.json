@@ -1,0 +1,64 @@
+{
+    "character": "ornn",
+    "id": "74429778",
+    "result": "我不知道你是干嘛的，我也不在乎。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012740033,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.501]  我不知道你是干嘛的，我也不在乎。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不知道你是干嘛的，我也不在乎。",
+                    "SliceSentence": "我不 知道 你是 干嘛 的 我也 不在乎",
+                    "StartMs": 0,
+                    "EndMs": 3501,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "你是",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "干嘛",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "我也",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2550
+                        },
+                        {
+                            "Word": "不在乎",
+                            "OffsetStartMs": 2550,
+                            "OffsetEndMs": 3360
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.501188
+        },
+        "RequestId": "21bfc69a-8b97-4dba-ba16-4ff06257c5d1"
+    }
+}

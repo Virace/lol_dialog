@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "715754538",
+    "result": "你要走了吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012837583,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.180]  你要走了吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你要走了吗？",
+                    "SliceSentence": "你要 走了 吗",
+                    "StartMs": 0,
+                    "EndMs": 1180,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "走了",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 6.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.180625
+        },
+        "RequestId": "21bec7f6-918d-44e6-8e35-45954c615ec5"
+    }
+}

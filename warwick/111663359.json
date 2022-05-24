@@ -1,0 +1,49 @@
+{
+    "character": "warwick",
+    "id": "111663359",
+    "result": "再跑快点儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012817419,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.701]  再跑快点儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "再跑快点儿。",
+                    "SliceSentence": "再 跑 快点 儿",
+                    "StartMs": 0,
+                    "EndMs": 2701,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "再",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "跑",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "快点",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "儿",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.701375
+        },
+        "RequestId": "45b6c1e4-2393-45b9-94a0-a949a4d28499"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "drmundo",
+    "id": "569769757",
+    "result": "哼，应该是无痛手术。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012558686,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.360]  哼，应该是无痛手术。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼，应该是无痛手术。",
+                    "SliceSentence": "哼 应 该是 无痛 手术",
+                    "StartMs": 0,
+                    "EndMs": 3360,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "哼",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "应",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "该是",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "无痛",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "手术",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 3300
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.360813
+        },
+        "RequestId": "9f44629c-b124-4391-a896-5b43073781d7"
+    }
+}

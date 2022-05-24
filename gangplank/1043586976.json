@@ -1,0 +1,39 @@
+{
+    "character": "gangplank",
+    "id": "1043586976",
+    "result": "又一个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012570336,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.308]  又一个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "又一个。",
+                    "SliceSentence": "又一 个",
+                    "StartMs": 0,
+                    "EndMs": 1308,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "又一",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "个",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.30875
+        },
+        "RequestId": "a8357227-f5be-4428-96cb-7ba5de144339"
+    }
+}

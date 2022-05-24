@@ -1,0 +1,44 @@
+{
+    "character": "sylas",
+    "id": "991066796",
+    "result": "你并不无辜。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012788317,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.224]  你并不无辜。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你并不无辜。",
+                    "SliceSentence": "你 并不 无辜",
+                    "StartMs": 0,
+                    "EndMs": 1224,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "并不",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "无辜",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.22425
+        },
+        "RequestId": "7cc750b7-4bff-461f-a552-0a2d2ee3ff60"
+    }
+}

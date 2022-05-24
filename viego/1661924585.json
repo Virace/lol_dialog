@@ -1,0 +1,54 @@
+{
+    "character": "viego",
+    "id": "1661924585",
+    "result": "逝去的都在我身边。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012813508,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.019]  逝去的都在我身边。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "逝去的都在我身边。",
+                    "SliceSentence": "逝去 的 都 在我 身边",
+                    "StartMs": 0,
+                    "EndMs": 5019,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "逝去",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "都",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "在我",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 2670
+                        },
+                        {
+                            "Word": "身边",
+                            "OffsetStartMs": 2670,
+                            "OffsetEndMs": 3240
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.019813
+        },
+        "RequestId": "15fafa06-8897-4fbc-acfd-7fd0c2dc42b7"
+    }
+}

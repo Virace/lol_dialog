@@ -1,0 +1,39 @@
+{
+    "character": "sett",
+    "id": "1705893249",
+    "result": "恶啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012772713,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.065]  恶啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "恶啊。",
+                    "SliceSentence": "恶 啊",
+                    "StartMs": 0,
+                    "EndMs": 3065,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "恶",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 1.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.065063
+        },
+        "RequestId": "22d5c25a-e065-43a3-b6e9-99447c4e70d6"
+    }
+}

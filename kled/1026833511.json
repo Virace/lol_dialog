@@ -1,0 +1,49 @@
+{
+    "character": "kled",
+    "id": "1026833511",
+    "result": "他是那个佛。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012706079,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.112]  他是那个佛。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他是那个佛。",
+                    "SliceSentence": "他 是 那个 佛",
+                    "StartMs": 0,
+                    "EndMs": 1112,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "他",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "那个",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "佛",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 8.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.112563
+        },
+        "RequestId": "0c1a6277-7634-4531-b5df-171221a6ab9f"
+    }
+}

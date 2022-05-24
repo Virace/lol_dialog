@@ -1,0 +1,49 @@
+{
+    "character": "morgana",
+    "id": "1711492892",
+    "result": "我会让你见识痛苦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012726514,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.724]  我会让你见识痛苦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会让你见识痛苦。",
+                    "SliceSentence": "我会 让你 见识 痛苦",
+                    "StartMs": 0,
+                    "EndMs": 2724,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "让你",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "见识",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "痛苦",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.724938
+        },
+        "RequestId": "8d25a5f3-f917-4a68-a44c-8f6324d3f7e6"
+    }
+}

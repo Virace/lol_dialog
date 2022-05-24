@@ -1,0 +1,44 @@
+{
+    "character": "pyke",
+    "id": "1168421496",
+    "result": "深水在呼唤。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744697,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.983]  深水在呼唤。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "深水在呼唤。",
+                    "SliceSentence": "深水 在 呼唤",
+                    "StartMs": 0,
+                    "EndMs": 2983,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "深水",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "呼唤",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.9835
+        },
+        "RequestId": "db04c98c-c62a-4b46-86f9-d64851322d4a"
+    }
+}

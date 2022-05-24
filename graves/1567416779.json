@@ -1,0 +1,54 @@
+{
+    "character": "graves",
+    "id": "1567416779",
+    "result": "我可没时间胡闹。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012573489,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.612]  我可没时间胡闹。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我可没时间胡闹。",
+                    "SliceSentence": "我 可 没 时间 胡闹",
+                    "StartMs": 0,
+                    "EndMs": 2612,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "可",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "没",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "胡闹",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.612875
+        },
+        "RequestId": "a76a4d22-6d03-43c5-841c-8a5e9b2c0d15"
+    }
+}

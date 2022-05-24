@@ -1,0 +1,39 @@
+{
+    "character": "ivern",
+    "id": "469673919",
+    "result": "逮住了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012682397,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.138]  逮住了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "逮住了。",
+                    "SliceSentence": "逮住 了",
+                    "StartMs": 0,
+                    "EndMs": 1138,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "逮住",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 570
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.138125
+        },
+        "RequestId": "6e4aa297-326b-408f-966c-3c1fcd5267a1"
+    }
+}

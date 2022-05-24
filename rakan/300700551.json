@@ -1,0 +1,39 @@
+{
+    "character": "rakan",
+    "id": "300700551",
+    "result": "现在看我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012753059,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.204]  现在看我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "现在看我。",
+                    "SliceSentence": "现在 看我",
+                    "StartMs": 0,
+                    "EndMs": 1204,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "看我",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.204813
+        },
+        "RequestId": "610d69b3-9171-42da-ac03-82a786c3d914"
+    }
+}

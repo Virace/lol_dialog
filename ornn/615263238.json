@@ -1,0 +1,39 @@
+{
+    "character": "ornn",
+    "id": "615263238",
+    "result": "修好了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012739719,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.984]  修好了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "修好了。",
+                    "SliceSentence": "修好 了",
+                    "StartMs": 0,
+                    "EndMs": 984,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "修好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.984563
+        },
+        "RequestId": "5912643c-a239-4d38-8b97-a46512e986f1"
+    }
+}

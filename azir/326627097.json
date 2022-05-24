@@ -1,0 +1,44 @@
+{
+    "character": "azir",
+    "id": "326627097",
+    "result": "见我所见。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012548750,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.432]  见我所见。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "见我所见。",
+                    "SliceSentence": "见 我 所见",
+                    "StartMs": 0,
+                    "EndMs": 2432,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "见",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "所见",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.432063
+        },
+        "RequestId": "c317ec51-0b80-42e3-9852-7f9048aef7d9"
+    }
+}

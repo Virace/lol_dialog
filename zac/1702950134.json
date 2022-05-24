@@ -1,0 +1,64 @@
+{
+    "character": "zac",
+    "id": "1702950134",
+    "result": "这些傻瓜不知道什么时候该退出。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012848555,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.429]  这些傻瓜不知道什么时候该退出。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这些傻瓜不知道什么时候该退出。",
+                    "SliceSentence": "这些 傻瓜 不知道 什么 时候 该 退出",
+                    "StartMs": 0,
+                    "EndMs": 3429,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "这些",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "傻瓜",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "不知道",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "时候",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 2460
+                        },
+                        {
+                            "Word": "该",
+                            "OffsetStartMs": 2460,
+                            "OffsetEndMs": 2670
+                        },
+                        {
+                            "Word": "退出",
+                            "OffsetStartMs": 2670,
+                            "OffsetEndMs": 3360
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.429938
+        },
+        "RequestId": "f2bcb3e6-5e70-490a-ac93-a6d74e42fb4c"
+    }
+}

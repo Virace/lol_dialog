@@ -1,0 +1,49 @@
+{
+    "character": "kalista",
+    "id": "768089784",
+    "result": "你让我们更加强大。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012694791,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.100]  你让我们更加强大。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你让我们更加强大。",
+                    "SliceSentence": "你让 我们 更加 强大",
+                    "StartMs": 0,
+                    "EndMs": 4100,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你让",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "更加",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "强大",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 3420
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.414813
+        },
+        "RequestId": "08d506a8-bfd8-45f0-b98e-aa0f6a198ba7"
+    }
+}

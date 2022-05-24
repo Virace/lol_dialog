@@ -1,0 +1,49 @@
+{
+    "character": "thresh",
+    "id": "1510252307",
+    "result": "没有人能拯救他们。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012798401,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.650]  没有人能拯救他们。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没有人能拯救他们。",
+                    "SliceSentence": "没有人 能 拯救 他们",
+                    "StartMs": 0,
+                    "EndMs": 3650,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "没有人",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "能",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "拯救",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2610
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 2610,
+                            "OffsetEndMs": 3120
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.650438
+        },
+        "RequestId": "f058e331-61af-4a45-8dac-9d434f122c69"
+    }
+}

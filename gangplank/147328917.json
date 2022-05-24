@@ -1,0 +1,59 @@
+{
+    "character": "gangplank",
+    "id": "147328917",
+    "result": "大海和人们背叛了我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012570496,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.584]  大海和人们背叛了我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "大海和人们背叛了我。",
+                    "SliceSentence": "大海 和 人们 背叛 了 我",
+                    "StartMs": 0,
+                    "EndMs": 3584,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "大海",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "和",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "人们",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "背叛",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 3210
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.584875
+        },
+        "RequestId": "13e0baae-d7a5-4f6e-be75-ad65beb5dd8a"
+    }
+}

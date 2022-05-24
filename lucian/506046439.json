@@ -1,0 +1,49 @@
+{
+    "character": "lucian",
+    "id": "506046439",
+    "result": "我从不鸣枪示警。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718264,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.693]  我从不鸣枪示警。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我从不鸣枪示警。",
+                    "SliceSentence": "我 从不 鸣枪 示警",
+                    "StartMs": 0,
+                    "EndMs": 2693,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "从不",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "鸣枪",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "示警",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.6935
+        },
+        "RequestId": "66eaa283-23b4-4f3e-88da-4a4ae62c05b1"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "varus",
+    "id": "1437470385",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012807919,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.646]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 3646,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.646563
+        },
+        "RequestId": "e937f60e-c155-4f69-8e8a-c227ef0471d5"
+    }
+}

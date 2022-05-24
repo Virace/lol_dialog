@@ -1,0 +1,39 @@
+{
+    "character": "kled",
+    "id": "1001594281",
+    "result": "又来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012705989,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.330]  又来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "又来。",
+                    "SliceSentence": "又 来",
+                    "StartMs": 0,
+                    "EndMs": 1330,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "又",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.330875
+        },
+        "RequestId": "22800313-c908-49e1-afea-8437a388e0ec"
+    }
+}

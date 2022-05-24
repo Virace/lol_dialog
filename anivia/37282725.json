@@ -1,0 +1,44 @@
+{
+    "character": "anivia",
+    "id": "37282725",
+    "result": "我带来了风暴。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542393,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.461]  我带来了风暴。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我带来了风暴。",
+                    "SliceSentence": "我 带来了 风暴",
+                    "StartMs": 0,
+                    "EndMs": 2461,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "带来了",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "风暴",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.461313
+        },
+        "RequestId": "851d23e9-88da-460e-82eb-16f1627b35d2"
+    }
+}

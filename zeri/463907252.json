@@ -1,0 +1,49 @@
+{
+    "character": "zeri",
+    "id": "463907252",
+    "result": "啊需要充能。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012852456,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.242]  啊需要充能。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊需要充能。",
+                    "SliceSentence": "啊 需要 充 能",
+                    "StartMs": 0,
+                    "EndMs": 3242,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "充",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "能",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.242688
+        },
+        "RequestId": "e4322873-4783-415a-8fd9-2cf22e9be4af"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "zeri",
+    "id": "243563422",
+    "result": "小心脑袋。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012852178,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.962]  小心脑袋。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "小心脑袋。",
+                    "SliceSentence": "小心 脑袋",
+                    "StartMs": 0,
+                    "EndMs": 1962,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "小心",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "脑袋",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.962688
+        },
+        "RequestId": "26bb4a5b-b661-41a1-9c58-4db4c8ebaa6e"
+    }
+}

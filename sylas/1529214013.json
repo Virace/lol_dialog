@@ -1,0 +1,59 @@
+{
+    "character": "sylas",
+    "id": "1529214013",
+    "result": "你做下的事情不能逃避。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786608,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.227]  你做下的事情不能逃避。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你做下的事情不能逃避。",
+                    "SliceSentence": "你做 下 的 事情 不能 逃避",
+                    "StartMs": 0,
+                    "EndMs": 2227,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你做",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "下",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "事情",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "不能",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "逃避",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 7.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.227938
+        },
+        "RequestId": "927ffa35-e3c6-4a02-9717-1f6328ed419d"
+    }
+}

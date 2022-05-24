@@ -1,0 +1,49 @@
+{
+    "character": "ashe",
+    "id": "1064255764",
+    "result": "和平需要的是稳重。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012544491,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.623]  和平需要的是稳重。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "和平需要的是稳重。",
+                    "SliceSentence": "和平 需要 的是 稳重",
+                    "StartMs": 0,
+                    "EndMs": 2623,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "和平",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "的是",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "稳重",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.623875
+        },
+        "RequestId": "a643f663-f669-4975-a800-1396cd1ccc6f"
+    }
+}

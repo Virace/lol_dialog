@@ -1,0 +1,39 @@
+{
+    "character": "vex",
+    "id": "1740502204",
+    "result": "是阳光。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012810746,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.363]  是阳光。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "是阳光。",
+                    "SliceSentence": "是 阳光",
+                    "StartMs": 0,
+                    "EndMs": 3363,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "阳光",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 3150
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.363188
+        },
+        "RequestId": "75feaec2-1812-4abf-ad19-d17ee661db4d"
+    }
+}

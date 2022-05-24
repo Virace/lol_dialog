@@ -1,0 +1,75 @@
+{
+    "character": "senna",
+    "id": "151382615",
+    "result": "当一切都被剥离。唯独留下了爱。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012768629,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.520]  当一切都被剥离。\n[0:2.520,0:4.667]  唯独留下了爱。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "当一切都被剥离。",
+                    "SliceSentence": "当 一切 都被 剥离",
+                    "StartMs": 0,
+                    "EndMs": 2520,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "当",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "一切",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "都被",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "剥离",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "唯独留下了爱。",
+                    "SliceSentence": "唯独 留下了 爱",
+                    "StartMs": 2520,
+                    "EndMs": 4667,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "唯独",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "留下了",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "爱",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.66725
+        },
+        "RequestId": "f208bcdd-42c4-4f2e-b49d-45c34b279bf7"
+    }
+}

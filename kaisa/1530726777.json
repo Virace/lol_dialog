@@ -1,0 +1,39 @@
+{
+    "character": "kaisa",
+    "id": "1530726777",
+    "result": "反应很快。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012688833,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.092]  反应很快。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "反应很快。",
+                    "SliceSentence": "反应 很快",
+                    "StartMs": 0,
+                    "EndMs": 1092,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "反应",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "很快",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.092875
+        },
+        "RequestId": "122ebea7-91ee-4b10-8484-0888c31deaf3"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "azir",
+    "id": "633714565",
+    "result": "我们是历史的执笔人。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012549126,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.619]  我们是历史的执笔人。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们是历史的执笔人。",
+                    "SliceSentence": "我们 是 历史 的 执笔 人",
+                    "StartMs": 0,
+                    "EndMs": 3619,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "历史",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "执笔",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 2940
+                        },
+                        {
+                            "Word": "人",
+                            "OffsetStartMs": 2940,
+                            "OffsetEndMs": 3330
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.619563
+        },
+        "RequestId": "126a7ced-ea6e-42ed-b71b-0cf0325f827d"
+    }
+}

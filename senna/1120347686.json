@@ -1,0 +1,90 @@
+{
+    "character": "senna",
+    "id": "1120347686",
+    "result": "你拯救了我，卢锡安。我们拯救了彼此。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012768236,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.320]  你拯救了我，卢锡安。\n[0:2.400,0:4.713]  我们拯救了彼此。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你拯救了我，卢锡安。",
+                    "SliceSentence": "你 拯救 了 我 卢 锡安",
+                    "StartMs": 0,
+                    "EndMs": 2320,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "拯救",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "卢",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "锡安",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "我们拯救了彼此。",
+                    "SliceSentence": "我们 拯救 了 彼此",
+                    "StartMs": 2400,
+                    "EndMs": 4713,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "拯救",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "彼此",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.713688
+        },
+        "RequestId": "2c1793b6-4734-47a2-a1ad-5701c4c923a5"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "pyke",
+    "id": "2134054153",
+    "result": "他们要忙点了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745863,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.364]  他们要忙点了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们要忙点了。",
+                    "SliceSentence": "他们 要 忙 点 了",
+                    "StartMs": 0,
+                    "EndMs": 2364,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "忙",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "点",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.36425
+        },
+        "RequestId": "330cb3be-decf-43f1-88e8-dccf647e1db1"
+    }
+}

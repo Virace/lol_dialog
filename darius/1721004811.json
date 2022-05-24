@@ -1,0 +1,44 @@
+{
+    "character": "darius",
+    "id": "1721004811",
+    "result": "我自有安排。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012555836,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.716]  我自有安排。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我自有安排。",
+                    "SliceSentence": "我 自有 安排",
+                    "StartMs": 0,
+                    "EndMs": 2716,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "自有",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "安排",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.71675
+        },
+        "RequestId": "dc8ce397-a032-48a2-a3e5-3c8e3bb44cfa"
+    }
+}

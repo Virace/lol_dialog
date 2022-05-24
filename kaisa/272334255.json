@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "272334255",
+    "result": "看到你了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012690138,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.232]  看到你了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "看到你了。",
+                    "SliceSentence": "看到 你 了",
+                    "StartMs": 0,
+                    "EndMs": 1232,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "看到",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.232813
+        },
+        "RequestId": "bd4a54f7-778f-45b2-b92d-9422aafcc26b"
+    }
+}

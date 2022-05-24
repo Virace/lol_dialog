@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "1687598072",
+    "result": "很久之前啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012751348,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.452]  很久之前啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "很久之前啦。",
+                    "SliceSentence": "很久 之前 啦",
+                    "StartMs": 0,
+                    "EndMs": 1452,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "很久",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "之前",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.452188
+        },
+        "RequestId": "586fc496-9e92-4294-809a-6f3011c55518"
+    }
+}

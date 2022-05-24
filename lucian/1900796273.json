@@ -1,0 +1,39 @@
+{
+    "character": "lucian",
+    "id": "1900796273",
+    "result": "哈哈嘿嘿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012717772,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.065]  哈哈嘿嘿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈嘿嘿。",
+                    "SliceSentence": "哈哈 嘿嘿",
+                    "StartMs": 0,
+                    "EndMs": 3065,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "嘿嘿",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.065063
+        },
+        "RequestId": "ab56632f-12a7-4352-9ba0-a806af805de9"
+    }
+}

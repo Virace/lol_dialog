@@ -1,0 +1,49 @@
+{
+    "character": "sivir",
+    "id": "1915645211",
+    "result": "喂，豺狼去吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012778860,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.346]  喂，豺狼去吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "喂，豺狼去吧。",
+                    "SliceSentence": "喂 豺狼 去 吧",
+                    "StartMs": 0,
+                    "EndMs": 1346,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "喂",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "豺狼",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.346938
+        },
+        "RequestId": "7b04cb7d-b8bb-4c0c-976a-0d7d9453c19b"
+    }
+}

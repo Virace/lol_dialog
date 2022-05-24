@@ -1,0 +1,39 @@
+{
+    "character": "galio",
+    "id": "646324716",
+    "result": "双刺。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012569525,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.116]  双刺。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "双刺。",
+                    "SliceSentence": "双 刺",
+                    "StartMs": 0,
+                    "EndMs": 1116,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "双",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "刺",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.116875
+        },
+        "RequestId": "8f70fb0b-9bac-43d9-844d-05893529e426"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "irelia",
+    "id": "1189342876",
+    "result": "这是他们自己选的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012580368,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.768]  这是他们自己选的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是他们自己选的。",
+                    "SliceSentence": "这是 他们 自己 选 的",
+                    "StartMs": 0,
+                    "EndMs": 1768,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "自己",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "选",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.768625
+        },
+        "RequestId": "a8162042-9013-4132-a88c-65d5e717afb1"
+    }
+}

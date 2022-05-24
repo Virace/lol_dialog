@@ -1,0 +1,49 @@
+{
+    "character": "twistedfate",
+    "id": "1009355366",
+    "result": "哼哼，哎呀哼哼，呃。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012801715,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.700,0:7.733]  哼哼，哎呀哼哼，呃。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼，哎呀哼哼，呃。",
+                    "SliceSentence": "哼哼 哎呀 哼哼 呃",
+                    "StartMs": 700,
+                    "EndMs": 7733,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "哎呀",
+                            "OffsetStartMs": 2340,
+                            "OffsetEndMs": 3360
+                        },
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 4350,
+                            "OffsetEndMs": 5460
+                        },
+                        {
+                            "Word": "呃",
+                            "OffsetStartMs": 5730,
+                            "OffsetEndMs": 6810
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.73325
+        },
+        "RequestId": "eb3664a9-688d-434f-a6ea-caa3ebb42e57"
+    }
+}

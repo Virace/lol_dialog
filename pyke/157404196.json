@@ -1,0 +1,39 @@
+{
+    "character": "pyke",
+    "id": "157404196",
+    "result": "见者有份。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745153,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.378]  见者有份。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "见者有份。",
+                    "SliceSentence": "见者 有份",
+                    "StartMs": 0,
+                    "EndMs": 2378,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "见者",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "有份",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.378625
+        },
+        "RequestId": "b42547dd-478a-4e16-8680-1ce2d9cf3191"
+    }
+}

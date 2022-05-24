@@ -1,0 +1,59 @@
+{
+    "character": "malphite",
+    "id": "1327916715",
+    "result": "我已经是全速前进了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012719950,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.000]  我已经是全速前进了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我已经是全速前进了。",
+                    "SliceSentence": "我 已经 是 全速 前进 了",
+                    "StartMs": 0,
+                    "EndMs": 5000,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "全速",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "前进",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 3000
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 3000,
+                            "OffsetEndMs": 3690
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5
+        },
+        "RequestId": "184d7143-b648-4412-a939-5f38dd6312ff"
+    }
+}

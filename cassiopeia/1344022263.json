@@ -1,0 +1,44 @@
+{
+    "character": "cassiopeia",
+    "id": "1344022263",
+    "result": "睁大双眼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554684,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.702]  睁大双眼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "睁大双眼。",
+                    "SliceSentence": "睁 大 双眼",
+                    "StartMs": 0,
+                    "EndMs": 1702,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "睁",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "大",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "双眼",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.702063
+        },
+        "RequestId": "642e7eec-7ee0-4df8-986f-1756efe03ec2"
+    }
+}

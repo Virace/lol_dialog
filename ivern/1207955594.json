@@ -1,0 +1,54 @@
+{
+    "character": "ivern",
+    "id": "1207955594",
+    "result": "小红，红色代码快逃。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012583419,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.873]  小红，红色代码快逃。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "小红，红色代码快逃。",
+                    "SliceSentence": "小红 红色 代码 快 逃",
+                    "StartMs": 0,
+                    "EndMs": 3873,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "小红",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "红色",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "代码",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "快",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 2640
+                        },
+                        {
+                            "Word": "逃",
+                            "OffsetStartMs": 2640,
+                            "OffsetEndMs": 3150
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.8735
+        },
+        "RequestId": "8d2996a8-1241-419c-a21f-7aa56bd83bc5"
+    }
+}

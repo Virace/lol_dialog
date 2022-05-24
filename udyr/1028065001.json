@@ -1,0 +1,39 @@
+{
+    "character": "udyr",
+    "id": "1028065001",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012804373,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.134]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 1134,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.13475
+        },
+        "RequestId": "15db46fd-8393-4d52-abad-822402005e3d"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "irelia",
+    "id": "102127652",
+    "result": "行动起来，世界也会跟随。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012580116,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.546]  行动起来，世界也会跟随。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "行动起来，世界也会跟随。",
+                    "SliceSentence": "行 动起来 世界 也会 跟随",
+                    "StartMs": 0,
+                    "EndMs": 2546,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "行",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "动起来",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "世界",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "也会",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "跟随",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.5465
+        },
+        "RequestId": "6ffb40fe-bb2f-4b30-b6f7-666e8fc5b40c"
+    }
+}

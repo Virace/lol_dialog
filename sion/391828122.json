@@ -1,0 +1,44 @@
+{
+    "character": "sion",
+    "id": "391828122",
+    "result": "我要撕碎你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012776845,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.152]  我要撕碎你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要撕碎你。",
+                    "SliceSentence": "我要 撕碎 你",
+                    "StartMs": 0,
+                    "EndMs": 3152,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "撕碎",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2940
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.152438
+        },
+        "RequestId": "e2e2bcc4-efd6-46b3-81a8-1ccbbd0839bc"
+    }
+}

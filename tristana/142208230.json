@@ -1,0 +1,44 @@
+{
+    "character": "tristana",
+    "id": "142208230",
+    "result": "碰不到我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012799092,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.159]  碰不到我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "碰不到我。",
+                    "SliceSentence": "碰 不到 我",
+                    "StartMs": 0,
+                    "EndMs": 1159,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "碰",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "不到",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.159875
+        },
+        "RequestId": "5a720b30-09a4-4f16-849c-33bce6b0220b"
+    }
+}

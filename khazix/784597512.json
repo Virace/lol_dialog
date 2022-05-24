@@ -1,0 +1,44 @@
+{
+    "character": "khazix",
+    "id": "784597512",
+    "result": "他们怕我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012704111,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.120]  他们怕我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们怕我。",
+                    "SliceSentence": "他们 怕 我",
+                    "StartMs": 0,
+                    "EndMs": 4120,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "怕",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2790
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.668
+        },
+        "RequestId": "f4b09931-8b13-48f0-8b0d-b72d056a1a43"
+    }
+}

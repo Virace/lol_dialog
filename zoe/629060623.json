@@ -1,0 +1,64 @@
+{
+    "character": "zoe",
+    "id": "629060623",
+    "result": "这里有什么好玩儿的呢？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012856480,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.367]  这里有什么好玩儿的呢？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这里有什么好玩儿的呢？",
+                    "SliceSentence": "这里 有 什么 好玩 儿 的 呢",
+                    "StartMs": 0,
+                    "EndMs": 3367,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "这里",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "好玩",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "儿",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.367938
+        },
+        "RequestId": "e4ff4d82-b304-4991-a112-f77c8708faed"
+    }
+}

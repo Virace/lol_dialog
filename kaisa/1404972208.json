@@ -1,0 +1,39 @@
+{
+    "character": "kaisa",
+    "id": "1404972208",
+    "result": "啊啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012688604,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.300]  啊啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊啊。",
+                    "SliceSentence": "啊 啊",
+                    "StartMs": 0,
+                    "EndMs": 2300,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.300938
+        },
+        "RequestId": "b065b5cc-d114-4dfc-8eb4-a6239782c792"
+    }
+}

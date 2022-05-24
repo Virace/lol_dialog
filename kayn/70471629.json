@@ -1,0 +1,44 @@
+{
+    "character": "kayn",
+    "id": "70471629",
+    "result": "有我还不够吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012702633,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.313]  有我还不够吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "有我还不够吗？",
+                    "SliceSentence": "有我 还不够 吗",
+                    "StartMs": 0,
+                    "EndMs": 2313,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "有我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "还不够",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.313938
+        },
+        "RequestId": "d0aca724-7cdf-444d-ac68-346aab8c42da"
+    }
+}

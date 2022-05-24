@@ -1,0 +1,44 @@
+{
+    "character": "kayle",
+    "id": "25929176",
+    "result": "黑暗退去吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012698109,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.313]  黑暗退去吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "黑暗退去吧。",
+                    "SliceSentence": "黑暗 退去 吧",
+                    "StartMs": 0,
+                    "EndMs": 2313,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "黑暗",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "退去",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.313688
+        },
+        "RequestId": "f8a80149-4362-4f0c-afe2-cf14a176a827"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "zoe",
+    "id": "323953137",
+    "result": "我应该留着。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012855577,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.698]  我应该留着。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我应该留着。",
+                    "SliceSentence": "我 应该 留着",
+                    "StartMs": 0,
+                    "EndMs": 1698,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "应该",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "留着",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 600
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.698125
+        },
+        "RequestId": "27b01d51-3b72-49e2-9142-2a48b4bda600"
+    }
+}

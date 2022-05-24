@@ -1,0 +1,44 @@
+{
+    "character": "masteryi",
+    "id": "626307074",
+    "result": "我们开始吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012723273,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.510]  我们开始吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们开始吧。",
+                    "SliceSentence": "我们 开始 吧",
+                    "StartMs": 0,
+                    "EndMs": 2510,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "开始",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.510625
+        },
+        "RequestId": "8b05a161-fc1f-480c-9f7b-8583bc9400c3"
+    }
+}

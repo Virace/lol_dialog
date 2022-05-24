@@ -1,0 +1,54 @@
+{
+    "character": "braum",
+    "id": "1001707065",
+    "result": "别忘了叫上布隆。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012549965,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.749]  别忘了叫上布隆。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别忘了叫上布隆。",
+                    "SliceSentence": "别 忘了 叫 上 布隆",
+                    "StartMs": 0,
+                    "EndMs": 1749,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "忘了",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "叫",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "上",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "布隆",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.749
+        },
+        "RequestId": "026f8a99-01a2-4722-8da7-2a52f3c59141"
+    }
+}

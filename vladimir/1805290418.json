@@ -1,0 +1,44 @@
+{
+    "character": "vladimir",
+    "id": "1805290418",
+    "result": "哼哼，哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012815222,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.420,0:3.516]  哼哼，哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼，哈哈哈哈。",
+                    "SliceSentence": "哼哼 哈哈 哈哈",
+                    "StartMs": 420,
+                    "EndMs": 3516,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 2610
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 2610,
+                            "OffsetEndMs": 3030
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.516125
+        },
+        "RequestId": "903fefd9-a066-4722-8eb5-82d46ffb161e"
+    }
+}

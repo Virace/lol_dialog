@@ -1,0 +1,39 @@
+{
+    "character": "elise",
+    "id": "747867879",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012561035,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.284]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 1284,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.284375
+        },
+        "RequestId": "cf7cb0c1-3299-4668-81cf-0a834d464963"
+    }
+}

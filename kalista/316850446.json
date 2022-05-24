@@ -1,0 +1,54 @@
+{
+    "character": "kalista",
+    "id": "316850446",
+    "result": "这就是我们的复仇。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012693942,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.165]  这就是我们的复仇。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这就是我们的复仇。",
+                    "SliceSentence": "这 就是 我们 的 复仇",
+                    "StartMs": 0,
+                    "EndMs": 3165,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "复仇",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2760
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.165813
+        },
+        "RequestId": "a7cedfd3-50a5-4d9f-a47c-f6b44adbfe17"
+    }
+}

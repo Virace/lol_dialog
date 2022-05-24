@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "1065141906",
+    "result": "宝贝儿，你要休息了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749340,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.721]  宝贝儿，你要休息了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "宝贝儿，你要休息了。",
+                    "SliceSentence": "宝贝儿 你要 休息 了",
+                    "StartMs": 0,
+                    "EndMs": 1721,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "宝贝儿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "你要",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "休息",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.72125
+        },
+        "RequestId": "b3b3c68d-db73-4747-b349-446282f80b0a"
+    }
+}

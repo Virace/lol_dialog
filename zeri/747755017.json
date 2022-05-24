@@ -1,0 +1,39 @@
+{
+    "character": "zeri",
+    "id": "747755017",
+    "result": "太慢了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012852770,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.813]  太慢了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "太慢了。",
+                    "SliceSentence": "太慢 了",
+                    "StartMs": 0,
+                    "EndMs": 1813,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "太慢",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.813313
+        },
+        "RequestId": "e7e4771f-3051-4cc1-8ff6-d887b18719d5"
+    }
+}

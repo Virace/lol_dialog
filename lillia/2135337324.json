@@ -1,0 +1,59 @@
+{
+    "character": "lillia",
+    "id": "2135337324",
+    "result": "我就知道你会闪光的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012715624,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.720]  我就知道你会闪光的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我就知道你会闪光的。",
+                    "SliceSentence": "我 就 知道 你会 闪光 的",
+                    "StartMs": 0,
+                    "EndMs": 2720,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "你会",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "闪光",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.552688
+        },
+        "RequestId": "9e826a09-4b0d-4d2f-b857-01eabe5b95f8"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "warwick",
+    "id": "398154386",
+    "result": "你杀他们，我杀你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012818159,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.565]  你杀他们，我杀你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你杀他们，我杀你。",
+                    "SliceSentence": "你 杀 他们 我 杀 你",
+                    "StartMs": 0,
+                    "EndMs": 4565,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "杀",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "杀",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2640
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 2640,
+                            "OffsetEndMs": 3750
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.565375
+        },
+        "RequestId": "f1b146f7-48d5-45a1-8013-c50ece70dc2b"
+    }
+}

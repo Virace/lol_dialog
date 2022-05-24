@@ -1,0 +1,49 @@
+{
+    "character": "xerath",
+    "id": "1256169855",
+    "result": "情绪只是干扰而已。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012838668,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.825]  情绪只是干扰而已。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "情绪只是干扰而已。",
+                    "SliceSentence": "情绪 只是 干扰 而已",
+                    "StartMs": 0,
+                    "EndMs": 4825,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "情绪",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "只是",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "干扰",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 3600
+                        },
+                        {
+                            "Word": "而已",
+                            "OffsetStartMs": 3600,
+                            "OffsetEndMs": 4260
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.825438
+        },
+        "RequestId": "8f15afcc-09d9-44c0-94c9-317765b84aca"
+    }
+}

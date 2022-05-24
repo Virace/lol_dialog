@@ -1,0 +1,59 @@
+{
+    "character": "xayah",
+    "id": "38041510",
+    "result": "我被冒犯了吗，我不知道。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012836539,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.442]  我被冒犯了吗，我不知道。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我被冒犯了吗，我不知道。",
+                    "SliceSentence": "我被 冒犯 了 吗 我不 知道",
+                    "StartMs": 0,
+                    "EndMs": 2442,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我被",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "冒犯",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.442875
+        },
+        "RequestId": "f07fa713-1c8b-4b95-96bd-fca608c8dac0"
+    }
+}

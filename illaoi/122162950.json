@@ -1,0 +1,70 @@
+{
+    "character": "illaoi",
+    "id": "122162950",
+    "result": "吸纳k Baru show。那打手。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012577096,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.420]  吸纳k Baru show。\n[0:3.420,0:4.530]  那打手。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "吸纳k Baru show。",
+                    "SliceSentence": "吸纳 k Baru show",
+                    "StartMs": 0,
+                    "EndMs": 3420,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "吸纳",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "k",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "Baru",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "show",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2910
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "那打手。",
+                    "SliceSentence": "那 打手",
+                    "StartMs": 3420,
+                    "EndMs": 4530,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "那",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "打手",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.53025
+        },
+        "RequestId": "4c0ac581-9a18-400a-9fa5-4c76901bdf0b"
+    }
+}

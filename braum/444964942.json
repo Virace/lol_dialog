@@ -1,0 +1,44 @@
+{
+    "character": "braum",
+    "id": "444964942",
+    "result": "我们出发吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550421,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.223]  我们出发吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们出发吧。",
+                    "SliceSentence": "我们 出发 吧",
+                    "StartMs": 0,
+                    "EndMs": 1223,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "出发",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.223688
+        },
+        "RequestId": "c27d15bc-0e98-4bef-ba99-02e848d712ea"
+    }
+}

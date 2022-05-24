@@ -1,0 +1,54 @@
+{
+    "character": "kaisa",
+    "id": "1553798301",
+    "result": "你被盯上啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012688866,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.479]  你被盯上啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你被盯上啦。",
+                    "SliceSentence": "你 被 盯 上 啦",
+                    "StartMs": 0,
+                    "EndMs": 1479,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "被",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "盯",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "上",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 6.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.479125
+        },
+        "RequestId": "b5807c4c-1020-4984-8262-1cb5466deef3"
+    }
+}

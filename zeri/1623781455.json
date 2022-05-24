@@ -1,0 +1,59 @@
+{
+    "character": "zeri",
+    "id": "1623781455",
+    "result": "我不是来瞎胡闹的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012851421,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.261]  我不是来瞎胡闹的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不是来瞎胡闹的。",
+                    "SliceSentence": "我 不是 来 瞎 胡闹 的",
+                    "StartMs": 0,
+                    "EndMs": 2261,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "瞎",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "胡闹",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.261313
+        },
+        "RequestId": "b691030f-fb99-4e11-8e04-d1ae21e33c29"
+    }
+}

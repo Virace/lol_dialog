@@ -1,0 +1,59 @@
+{
+    "character": "velkoz",
+    "id": "380938298",
+    "result": "我已对你的疼痛做出应答。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012809717,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.220]  我已对你的疼痛做出应答。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我已对你的疼痛做出应答。",
+                    "SliceSentence": "我已 对你 的 疼痛 做出 应答",
+                    "StartMs": 0,
+                    "EndMs": 5220,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我已",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "对你",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "疼痛",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "做出",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2580
+                        },
+                        {
+                            "Word": "应答",
+                            "OffsetStartMs": 2580,
+                            "OffsetEndMs": 4620
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.415938
+        },
+        "RequestId": "2eca4f36-b049-430f-a24d-c63934bb8f94"
+    }
+}

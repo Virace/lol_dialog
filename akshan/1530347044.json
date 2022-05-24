@@ -1,0 +1,39 @@
+{
+    "character": "akshan",
+    "id": "1530347044",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012540864,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.472]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 1472,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.472
+        },
+        "RequestId": "c79e2759-8524-4ffb-80da-72f585c298f1"
+    }
+}

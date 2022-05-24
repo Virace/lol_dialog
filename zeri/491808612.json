@@ -1,0 +1,49 @@
+{
+    "character": "zeri",
+    "id": "491808612",
+    "result": "需要更多电力才行。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012852496,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.432]  需要更多电力才行。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "需要更多电力才行。",
+                    "SliceSentence": "需要 更多 电力 才行",
+                    "StartMs": 0,
+                    "EndMs": 2432,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "更多",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "电力",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "才行",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.432
+        },
+        "RequestId": "7d428fd7-736a-447f-ba04-ddac7ab0485a"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "fizz",
+    "id": "987873722",
+    "result": "时间到啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568056,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.763]  时间到啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "时间到啦。",
+                    "SliceSentence": "时间 到 啦",
+                    "StartMs": 0,
+                    "EndMs": 2763,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.763188
+        },
+        "RequestId": "4b34fba1-b82f-4796-97bc-74a408989b8c"
+    }
+}

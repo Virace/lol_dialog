@@ -1,0 +1,39 @@
+{
+    "character": "shen",
+    "id": "1033108237",
+    "result": "谁呀？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012774103,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.028]  谁呀？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "谁呀？",
+                    "SliceSentence": "谁 呀",
+                    "StartMs": 0,
+                    "EndMs": 1028,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "谁",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "呀",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 480
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.028688
+        },
+        "RequestId": "22da4598-fb90-4da8-a19d-45b0212181c1"
+    }
+}

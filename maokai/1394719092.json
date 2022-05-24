@@ -1,0 +1,44 @@
+{
+    "character": "maokai",
+    "id": "1394719092",
+    "result": "我不是恶灵。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012721123,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.274]  我不是恶灵。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不是恶灵。",
+                    "SliceSentence": "我不 是 恶灵",
+                    "StartMs": 0,
+                    "EndMs": 3274,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "恶灵",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.274875
+        },
+        "RequestId": "b31d8c99-581b-42fe-8e47-59e013bb8f7a"
+    }
+}

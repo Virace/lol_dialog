@@ -1,0 +1,59 @@
+{
+    "character": "zoe",
+    "id": "521733194",
+    "result": "我有个小魔术给你看。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012856177,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.815]  我有个小魔术给你看。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我有个小魔术给你看。",
+                    "SliceSentence": "我 有个 小 魔术 给你 看",
+                    "StartMs": 0,
+                    "EndMs": 2815,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "有个",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "小",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "魔术",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "给你",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "看",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.815375
+        },
+        "RequestId": "3915babb-5ed2-4d62-948e-1e1ecdaa7542"
+    }
+}

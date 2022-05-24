@@ -1,0 +1,54 @@
+{
+    "character": "taliyah",
+    "id": "84112774",
+    "result": "我从没见过这种石头。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012795001,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.645]  我从没见过这种石头。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我从没见过这种石头。",
+                    "SliceSentence": "我 从没 见过 这种 石头",
+                    "StartMs": 0,
+                    "EndMs": 1645,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "从没",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "见过",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "这种",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "石头",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 8.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.645563
+        },
+        "RequestId": "e20e4960-53df-4726-b2d3-4bf96cb996af"
+    }
+}

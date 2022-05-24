@@ -1,0 +1,64 @@
+{
+    "character": "pyke",
+    "id": "459417448",
+    "result": "我真的太深了，没有上下之分。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746327,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.488]  我真的太深了，没有上下之分。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我真的太深了，没有上下之分。",
+                    "SliceSentence": "我 真的 太深 了 没有 上下 之分",
+                    "StartMs": 0,
+                    "EndMs": 4488,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "真的",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "太深",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2580
+                        },
+                        {
+                            "Word": "上下",
+                            "OffsetStartMs": 2580,
+                            "OffsetEndMs": 3120
+                        },
+                        {
+                            "Word": "之分",
+                            "OffsetStartMs": 3120,
+                            "OffsetEndMs": 3660
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.488625
+        },
+        "RequestId": "4f9bba75-62da-490b-a3f4-79bd65854dd9"
+    }
+}

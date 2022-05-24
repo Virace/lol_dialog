@@ -1,0 +1,44 @@
+{
+    "character": "ashe",
+    "id": "643579283",
+    "result": "我从不失手。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012545709,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.950]  我从不失手。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我从不失手。",
+                    "SliceSentence": "我 从不 失手",
+                    "StartMs": 0,
+                    "EndMs": 1950,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "从不",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "失手",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.9505
+        },
+        "RequestId": "344040ea-79e6-43cc-a267-810f748c0b57"
+    }
+}

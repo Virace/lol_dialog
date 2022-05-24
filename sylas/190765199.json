@@ -1,0 +1,54 @@
+{
+    "character": "sylas",
+    "id": "190765199",
+    "result": "你站错队了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012787004,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.180]  你站错队了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你站错队了。",
+                    "SliceSentence": "你 站 错 队 了",
+                    "StartMs": 0,
+                    "EndMs": 1180,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "站",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "错",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "队",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 8.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.180875
+        },
+        "RequestId": "7faaa887-b1fc-46b4-a8bf-1d32746f0859"
+    }
+}

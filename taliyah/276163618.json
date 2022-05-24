@@ -1,0 +1,49 @@
+{
+    "character": "taliyah",
+    "id": "276163618",
+    "result": "我不能再逗留了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012792505,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.286]  我不能再逗留了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不能再逗留了。",
+                    "SliceSentence": "我 不能再 逗留 了",
+                    "StartMs": 0,
+                    "EndMs": 1286,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "不能再",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "逗留",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 8.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.286625
+        },
+        "RequestId": "44ff608d-39cd-481a-969d-27e145dd95bb"
+    }
+}

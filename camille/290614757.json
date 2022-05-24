@@ -1,0 +1,44 @@
+{
+    "character": "camille",
+    "id": "290614757",
+    "result": "小心你的言行。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552850,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.681]  小心你的言行。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "小心你的言行。",
+                    "SliceSentence": "小心 你的 言行",
+                    "StartMs": 0,
+                    "EndMs": 1681,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "小心",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "言行",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.68125
+        },
+        "RequestId": "66ce5f96-ac8c-4214-bd84-393ff9c37e6a"
+    }
+}

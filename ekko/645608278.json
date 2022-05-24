@@ -1,0 +1,49 @@
+{
+    "character": "ekko",
+    "id": "645608278",
+    "result": "应该做得更好点条子。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560177,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.550]  应该做得更好点条子。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "应该做得更好点条子。",
+                    "SliceSentence": "应该 做得更好 点 条子",
+                    "StartMs": 0,
+                    "EndMs": 1550,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "应该",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "做得更好",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "点",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "条子",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 8.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.550375
+        },
+        "RequestId": "863bcee2-4abf-4eb9-8744-a4a68aa49424"
+    }
+}

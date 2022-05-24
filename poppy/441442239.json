@@ -1,0 +1,44 @@
+{
+    "character": "poppy",
+    "id": "441442239",
+    "result": "呆在那儿，别动。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012743139,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.539]  呆在那儿，别动。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "呆在那儿，别动。",
+                    "SliceSentence": "呆在 那儿 别动",
+                    "StartMs": 0,
+                    "EndMs": 1539,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "呆在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "那儿",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "别动",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.539375
+        },
+        "RequestId": "bfb66365-052e-4914-ae3a-ceb9b8fdfd4b"
+    }
+}

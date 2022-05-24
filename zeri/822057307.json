@@ -1,0 +1,39 @@
+{
+    "character": "zeri",
+    "id": "822057307",
+    "result": "跑起来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012852893,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.578]  跑起来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "跑起来。",
+                    "SliceSentence": "跑 起来",
+                    "StartMs": 0,
+                    "EndMs": 1578,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "跑",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "起来",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 660
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.578688
+        },
+        "RequestId": "05c9ef16-5c01-4607-89bd-cb1c837c9623"
+    }
+}

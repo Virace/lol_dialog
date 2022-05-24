@@ -1,0 +1,49 @@
+{
+    "character": "kaisa",
+    "id": "363880687",
+    "result": "我可以改变这个世界。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012690395,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.029]  我可以改变这个世界。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我可以改变这个世界。",
+                    "SliceSentence": "我 可以 改变 这个世界",
+                    "StartMs": 0,
+                    "EndMs": 2029,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "改变",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "这个世界",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.0295
+        },
+        "RequestId": "c786fc97-e6e1-499c-9ab9-b9c61a53959d"
+    }
+}

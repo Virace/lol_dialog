@@ -1,0 +1,44 @@
+{
+    "character": "qiyana",
+    "id": "1682107845",
+    "result": "我命你速死。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012747686,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.322]  我命你速死。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我命你速死。",
+                    "SliceSentence": "我命 你 速死",
+                    "StartMs": 0,
+                    "EndMs": 2322,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我命",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "速死",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.322
+        },
+        "RequestId": "bcfc44cd-0cbe-4af6-bb74-0e5cfeaa7ad4"
+    }
+}

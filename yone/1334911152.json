@@ -1,0 +1,44 @@
+{
+    "character": "yone",
+    "id": "1334911152",
+    "result": "这是你的救赎。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012841664,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.763]  这是你的救赎。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是你的救赎。",
+                    "SliceSentence": "这是 你的 救赎",
+                    "StartMs": 0,
+                    "EndMs": 2763,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "救赎",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.763188
+        },
+        "RequestId": "cfa8c4b1-1008-425f-adfc-911312e4070f"
+    }
+}

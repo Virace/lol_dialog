@@ -1,0 +1,54 @@
+{
+    "character": "sivir",
+    "id": "539945045",
+    "result": "我的脏活我自己做。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012779223,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.504]  我的脏活我自己做。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的脏活我自己做。",
+                    "SliceSentence": "我 的 脏活 我 自己做",
+                    "StartMs": 0,
+                    "EndMs": 2504,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "脏活",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "自己做",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.504063
+        },
+        "RequestId": "0b948060-1b85-41ea-ab58-6e0128593315"
+    }
+}

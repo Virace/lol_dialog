@@ -1,0 +1,49 @@
+{
+    "character": "kled",
+    "id": "725014614",
+    "result": "好，我知道啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012709257,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.527]  好，我知道啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好，我知道啦。",
+                    "SliceSentence": "好 我 知道 啦",
+                    "StartMs": 0,
+                    "EndMs": 1527,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.52775
+        },
+        "RequestId": "1c2fe234-a11e-4a88-9e63-b903b3d560ec"
+    }
+}

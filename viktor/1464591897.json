@@ -1,0 +1,44 @@
+{
+    "character": "viktor",
+    "id": "1464591897",
+    "result": "分析路径中。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012814644,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.972]  分析路径中。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "分析路径中。",
+                    "SliceSentence": "分析 路径 中",
+                    "StartMs": 0,
+                    "EndMs": 1972,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "分析",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "路径",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "中",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.97225
+        },
+        "RequestId": "47937fc5-863c-4c05-aa13-48d887b17300"
+    }
+}

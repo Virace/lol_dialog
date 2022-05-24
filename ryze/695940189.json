@@ -1,0 +1,44 @@
+{
+    "character": "ryze",
+    "id": "695940189",
+    "result": "希望这个有用。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012765095,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.236]  希望这个有用。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "希望这个有用。",
+                    "SliceSentence": "希望 这个 有用",
+                    "StartMs": 0,
+                    "EndMs": 1236,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "希望",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "有用",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 7.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.236125
+        },
+        "RequestId": "99594d64-ddc2-40f8-a5ba-c4c5a3368345"
+    }
+}

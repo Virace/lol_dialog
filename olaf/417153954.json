@@ -1,0 +1,39 @@
+{
+    "character": "olaf",
+    "id": "417153954",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012737288,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.362]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 2362,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.362625
+        },
+        "RequestId": "6a140b8e-5d1a-48a1-a939-300690bef43a"
+    }
+}

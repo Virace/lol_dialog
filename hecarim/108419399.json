@@ -1,0 +1,49 @@
+{
+    "character": "hecarim",
+    "id": "108419399",
+    "result": "我凌驾于死亡之上。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012575555,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.063]  我凌驾于死亡之上。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我凌驾于死亡之上。",
+                    "SliceSentence": "我 凌驾于 死亡 之上",
+                    "StartMs": 0,
+                    "EndMs": 5063,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "凌驾于",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "死亡",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 3660
+                        },
+                        {
+                            "Word": "之上",
+                            "OffsetStartMs": 3660,
+                            "OffsetEndMs": 4650
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.063563
+        },
+        "RequestId": "6744babb-b894-4e0a-af53-374847a60d70"
+    }
+}

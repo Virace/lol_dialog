@@ -1,0 +1,59 @@
+{
+    "character": "kayn",
+    "id": "510912588",
+    "result": "不是我最想要的，不过也行。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012702120,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.612]  不是我最想要的，不过也行。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不是我最想要的，不过也行。",
+                    "SliceSentence": "不是 我最 想要 的 不过 也行",
+                    "StartMs": 0,
+                    "EndMs": 5612,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "我最",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "想要",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "不过",
+                            "OffsetStartMs": 2850,
+                            "OffsetEndMs": 3660
+                        },
+                        {
+                            "Word": "也行",
+                            "OffsetStartMs": 3930,
+                            "OffsetEndMs": 4800
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.612813
+        },
+        "RequestId": "96f155ee-0acc-4fef-94ba-e970cb314a12"
+    }
+}

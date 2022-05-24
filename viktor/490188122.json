@@ -1,0 +1,44 @@
+{
+    "character": "viktor",
+    "id": "490188122",
+    "result": "金属就是保护。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012814937,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.145]  金属就是保护。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "金属就是保护。",
+                    "SliceSentence": "金属 就是 保护",
+                    "StartMs": 0,
+                    "EndMs": 2145,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "金属",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "保护",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.145438
+        },
+        "RequestId": "78f1b892-dae1-48af-acf9-b287afd97946"
+    }
+}

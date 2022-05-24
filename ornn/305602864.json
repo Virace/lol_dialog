@@ -1,0 +1,54 @@
+{
+    "character": "ornn",
+    "id": "305602864",
+    "result": "这就是好东西的定义。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012739205,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.614]  这就是好东西的定义。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这就是好东西的定义。",
+                    "SliceSentence": "这就 是 好东西 的 定义",
+                    "StartMs": 0,
+                    "EndMs": 2614,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这就",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "好东西",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "定义",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.61425
+        },
+        "RequestId": "4123d713-829d-41af-8277-cfa024f90f6a"
+    }
+}

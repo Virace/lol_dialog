@@ -1,0 +1,44 @@
+{
+    "character": "tristana",
+    "id": "225278688",
+    "result": "球进啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012799254,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.029]  球进啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "球进啦。",
+                    "SliceSentence": "球 进 啦",
+                    "StartMs": 0,
+                    "EndMs": 1029,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "球",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "进",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.029313
+        },
+        "RequestId": "a1380c04-89b0-4e87-bed1-c17f528bc123"
+    }
+}

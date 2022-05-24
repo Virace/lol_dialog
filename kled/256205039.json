@@ -1,0 +1,54 @@
+{
+    "character": "kled",
+    "id": "256205039",
+    "result": "这块地方是我的地方。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012707040,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.792]  这块地方是我的地方。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这块地方是我的地方。",
+                    "SliceSentence": "这块 地方 是我 的 地方",
+                    "StartMs": 0,
+                    "EndMs": 2792,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这块",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "地方",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "地方",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.792625
+        },
+        "RequestId": "6ef32512-b968-4464-bed4-96bcd71012a1"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "sylas",
+    "id": "1884222399",
+    "result": "这片地方是我的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786990,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.834]  这片地方是我的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这片地方是我的。",
+                    "SliceSentence": "这片 地方 是我 的",
+                    "StartMs": 0,
+                    "EndMs": 1834,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这片",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "地方",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.834875
+        },
+        "RequestId": "23b22ba4-43a9-4efe-9387-3d6267abaf63"
+    }
+}

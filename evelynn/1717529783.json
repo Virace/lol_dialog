@@ -1,0 +1,44 @@
+{
+    "character": "evelynn",
+    "id": "1717529783",
+    "result": "你疼吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012562336,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.960]  你疼吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你疼吗？",
+                    "SliceSentence": "你 疼 吗",
+                    "StartMs": 0,
+                    "EndMs": 3960,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "疼",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.037188
+        },
+        "RequestId": "0ae7f489-82d8-40fe-988c-69edb82a7e23"
+    }
+}

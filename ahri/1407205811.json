@@ -1,0 +1,54 @@
+{
+    "character": "ahri",
+    "id": "1407205811",
+    "result": "告诉我个秘密吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012538328,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.814]  告诉我个秘密吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "告诉我个秘密吧。",
+                    "SliceSentence": "告诉 我 个 秘密 吧",
+                    "StartMs": 0,
+                    "EndMs": 1814,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "告诉",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "个",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "秘密",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.814813
+        },
+        "RequestId": "44f1abbf-069d-4f07-8e9d-430543834988"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "camille",
+    "id": "395925362",
+    "result": "你们现在有些粗鲁过头了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553222,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.333]  你们现在有些粗鲁过头了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你们现在有些粗鲁过头了。",
+                    "SliceSentence": "你们 现在 有些 粗鲁 过头 了",
+                    "StartMs": 0,
+                    "EndMs": 2333,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "有些",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "粗鲁",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "过头",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 7.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.333625
+        },
+        "RequestId": "018a1051-0220-4afa-96bb-c59abf6b48bc"
+    }
+}

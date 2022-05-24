@@ -1,0 +1,64 @@
+{
+    "character": "zac",
+    "id": "366272414",
+    "result": "有好多的我在到处跑。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012849149,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.823]  有好多的我在到处跑。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "有好多的我在到处跑。",
+                    "SliceSentence": "有 好 多的 我 在 到处 跑",
+                    "StartMs": 0,
+                    "EndMs": 1823,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "多的",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "到处",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "跑",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 8.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.823375
+        },
+        "RequestId": "808220a7-0dbb-48c3-877a-cec6f4114876"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "poppy",
+    "id": "487600762",
+    "result": "别挡道。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012743219,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.330]  别挡道。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别挡道。",
+                    "SliceSentence": "别 挡 道",
+                    "StartMs": 0,
+                    "EndMs": 1330,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "挡",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "道",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.330375
+        },
+        "RequestId": "a7bf5ffc-19b5-41b2-8df6-7b72b583eff2"
+    }
+}

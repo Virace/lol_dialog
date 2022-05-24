@@ -1,0 +1,54 @@
+{
+    "character": "zoe",
+    "id": "568017315",
+    "result": "我想把你偷走。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012856329,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.949]  我想把你偷走。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我想把你偷走。",
+                    "SliceSentence": "我 想 把 你 偷走",
+                    "StartMs": 0,
+                    "EndMs": 1949,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "想",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "偷走",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.949875
+        },
+        "RequestId": "7c86ea69-6192-4694-83fd-33bd8c10fe92"
+    }
+}

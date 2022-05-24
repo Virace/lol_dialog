@@ -1,0 +1,44 @@
+{
+    "character": "rell",
+    "id": "593802440",
+    "result": "下一个还有谁？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012758649,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.126]  下一个还有谁？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "下一个还有谁？",
+                    "SliceSentence": "下一个 还有 谁",
+                    "StartMs": 0,
+                    "EndMs": 2126,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "下一个",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "还有",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "谁",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.12675
+        },
+        "RequestId": "211c6b8b-b882-4694-af9c-a26e1fda4b1d"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "rengar",
+    "id": "728751283",
+    "result": "我才刚刚开始。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012762501,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.937]  我才刚刚开始。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我才刚刚开始。",
+                    "SliceSentence": "我 才刚 刚开始",
+                    "StartMs": 0,
+                    "EndMs": 2937,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "才刚",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "刚开始",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.937625
+        },
+        "RequestId": "99e21147-93fe-48fc-9a2c-a7d847b7e45d"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "taliyah",
+    "id": "1026643597",
+    "result": "额，那额。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012791699,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.355]  额，那额。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "额，那额。",
+                    "SliceSentence": "额 那 额",
+                    "StartMs": 0,
+                    "EndMs": 2355,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "额",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "那",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "额",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.355313
+        },
+        "RequestId": "ff7d2a0b-5b81-48c1-8ed8-b74432991d92"
+    }
+}

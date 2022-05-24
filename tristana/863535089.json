@@ -1,0 +1,44 @@
+{
+    "character": "tristana",
+    "id": "863535089",
+    "result": "我们有这个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012800668,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.317]  我们有这个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们有这个。",
+                    "SliceSentence": "我们 有 这个",
+                    "StartMs": 0,
+                    "EndMs": 1317,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.317063
+        },
+        "RequestId": "d6e3f88d-d98f-4bcd-b4f6-3d51d774ada3"
+    }
+}

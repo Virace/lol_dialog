@@ -1,0 +1,54 @@
+{
+    "character": "nunu",
+    "id": "677097415",
+    "result": "你做错事了，知道吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012736331,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.274]  你做错事了，知道吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你做错事了，知道吗？",
+                    "SliceSentence": "你做 错事 了 知道 吗",
+                    "StartMs": 0,
+                    "EndMs": 2274,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你做",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "错事",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.274813
+        },
+        "RequestId": "e1f4bdd6-d8a9-4999-b38d-6434322445e2"
+    }
+}

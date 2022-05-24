@@ -1,0 +1,44 @@
+{
+    "character": "kayn",
+    "id": "342787694",
+    "result": "收割开始了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012701486,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.372]  收割开始了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "收割开始了。",
+                    "SliceSentence": "收割 开始 了",
+                    "StartMs": 0,
+                    "EndMs": 3372,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "收割",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "开始",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.37225
+        },
+        "RequestId": "22937658-b276-4fa0-8526-b60761565580"
+    }
+}

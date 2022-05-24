@@ -1,0 +1,44 @@
+{
+    "character": "garen",
+    "id": "148877026",
+    "result": "这个世界需要希望。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012572076,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.043]  这个世界需要希望。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这个世界需要希望。",
+                    "SliceSentence": "这个世界 需要 希望",
+                    "StartMs": 0,
+                    "EndMs": 2043,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这个世界",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "希望",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.04325
+        },
+        "RequestId": "d6b6ca68-7807-4166-a157-19329fa2667f"
+    }
+}

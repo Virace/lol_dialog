@@ -1,0 +1,39 @@
+{
+    "character": "jax",
+    "id": "1143440368",
+    "result": "还有谁？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012683806,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.983]  还有谁？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "还有谁？",
+                    "SliceSentence": "还有 谁",
+                    "StartMs": 0,
+                    "EndMs": 983,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "还有",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "谁",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.983563
+        },
+        "RequestId": "5fffc988-93dd-479b-bb2f-0ab9de6d471c"
+    }
+}

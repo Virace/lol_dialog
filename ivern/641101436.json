@@ -1,0 +1,49 @@
+{
+    "character": "ivern",
+    "id": "641101436",
+    "result": "安静，狼崽子们。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012682649,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.490]  安静，狼崽子们。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "安静，狼崽子们。",
+                    "SliceSentence": "安静 狼 崽子 们",
+                    "StartMs": 0,
+                    "EndMs": 2490,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "安静",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "狼",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "崽子",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "们",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.490813
+        },
+        "RequestId": "f34eeb19-6523-4645-ac23-5d46f6a5a994"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "caitlyn",
+    "id": "993294886",
+    "result": "如教科书一般。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552026,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.261]  如教科书一般。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "如教科书一般。",
+                    "SliceSentence": "如 教科书 一般",
+                    "StartMs": 0,
+                    "EndMs": 2261,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "如",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "教科书",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "一般",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.261313
+        },
+        "RequestId": "200b423b-e6aa-4812-b0a5-258e6154b70a"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "nami",
+    "id": "750746848",
+    "result": "大海无情。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012728121,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.993]  大海无情。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "大海无情。",
+                    "SliceSentence": "大海 无情",
+                    "StartMs": 0,
+                    "EndMs": 1993,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "大海",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "无情",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.9935
+        },
+        "RequestId": "c535e33a-23cb-4168-b92a-d55cdbbb37bd"
+    }
+}

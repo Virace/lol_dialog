@@ -1,0 +1,54 @@
+{
+    "character": "zed",
+    "id": "732351415",
+    "result": "石头，剪刀，布，哦，可恶，你作弊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012850379,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.696]  石头，剪刀，布，哦，可恶，你作弊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "石头，剪刀，布，哦，可恶，你作弊。",
+                    "SliceSentence": "石头剪刀布 哦 可恶 你 作弊",
+                    "StartMs": 0,
+                    "EndMs": 4696,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "石头剪刀布",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "哦",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "可恶",
+                            "OffsetStartMs": 2370,
+                            "OffsetEndMs": 3240
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 3510,
+                            "OffsetEndMs": 3720
+                        },
+                        {
+                            "Word": "作弊",
+                            "OffsetStartMs": 3720,
+                            "OffsetEndMs": 4620
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.696875
+        },
+        "RequestId": "86ff38ad-9bb2-420a-867f-06ca63a2c069"
+    }
+}

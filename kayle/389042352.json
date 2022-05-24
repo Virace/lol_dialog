@@ -1,0 +1,49 @@
+{
+    "character": "kayle",
+    "id": "389042352",
+    "result": "火焰治愈了你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012698341,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.281]  火焰治愈了你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "火焰治愈了你。",
+                    "SliceSentence": "火焰 治愈 了 你",
+                    "StartMs": 0,
+                    "EndMs": 2281,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "火焰",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "治愈",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.281313
+        },
+        "RequestId": "a5bc4bf3-36da-4601-988f-ae2bc202feb2"
+    }
+}

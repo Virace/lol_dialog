@@ -1,0 +1,44 @@
+{
+    "character": "nocturne",
+    "id": "35011708",
+    "result": "暮色降临了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012731791,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.413]  暮色降临了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "暮色降临了。",
+                    "SliceSentence": "暮色 降临 了",
+                    "StartMs": 0,
+                    "EndMs": 4413,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "暮色",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "降临",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2790
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2790,
+                            "OffsetEndMs": 3540
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.413625
+        },
+        "RequestId": "f47f421b-3a20-45eb-b3db-1ba1215c19d6"
+    }
+}

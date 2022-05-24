@@ -1,0 +1,44 @@
+{
+    "character": "zoe",
+    "id": "1257146329",
+    "result": "那又怎样？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012854345,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.618]  那又怎样？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "那又怎样？",
+                    "SliceSentence": "那 又 怎样",
+                    "StartMs": 0,
+                    "EndMs": 1618,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "那",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "又",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "怎样",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.618063
+        },
+        "RequestId": "6cfd0486-ec3c-4ef0-896f-35b9a298f007"
+    }
+}

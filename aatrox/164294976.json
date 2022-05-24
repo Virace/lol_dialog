@@ -1,0 +1,49 @@
+{
+    "character": "aatrox",
+    "id": "164294976",
+    "result": "你无法摧毁我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012532190,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.014]  你无法摧毁我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你无法摧毁我。",
+                    "SliceSentence": "你 无法 摧毁 我",
+                    "StartMs": 0,
+                    "EndMs": 3014,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "无法",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "摧毁",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.014875
+        },
+        "RequestId": "8449e961-ad7b-4fae-b006-85b6a45e8c40"
+    }
+}

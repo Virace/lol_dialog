@@ -1,0 +1,54 @@
+{
+    "character": "zeri",
+    "id": "368830606",
+    "result": "不管啦，我生气啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012852257,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.453]  不管啦，我生气啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不管啦，我生气啦。",
+                    "SliceSentence": "不管 啦 我 生气 啦",
+                    "StartMs": 0,
+                    "EndMs": 2453,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "不管",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "生气",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.453313
+        },
+        "RequestId": "4d23734b-b552-4c24-9db3-fbfe26a2af86"
+    }
+}

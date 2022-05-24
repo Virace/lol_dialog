@@ -1,0 +1,44 @@
+{
+    "character": "xerath",
+    "id": "1055151182",
+    "result": "我永恒不灭。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012838544,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.087]  我永恒不灭。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我永恒不灭。",
+                    "SliceSentence": "我 永恒 不灭",
+                    "StartMs": 0,
+                    "EndMs": 5087,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "永恒",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 3360
+                        },
+                        {
+                            "Word": "不灭",
+                            "OffsetStartMs": 3390,
+                            "OffsetEndMs": 4500
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.087313
+        },
+        "RequestId": "7288295e-8833-4ba9-a2b9-490dd1a2efea"
+    }
+}

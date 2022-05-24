@@ -1,0 +1,44 @@
+{
+    "character": "caitlyn",
+    "id": "519731711",
+    "result": "目标进入视野。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551755,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.026]  目标进入视野。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "目标进入视野。",
+                    "SliceSentence": "目标 进入 视野",
+                    "StartMs": 0,
+                    "EndMs": 2026,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "目标",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "进入",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "视野",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.026625
+        },
+        "RequestId": "8bc25ac9-b3fd-4fa6-81ca-527d4e81fead"
+    }
+}

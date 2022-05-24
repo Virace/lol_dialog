@@ -1,0 +1,44 @@
+{
+    "character": "twistedfate",
+    "id": "1924080696",
+    "result": "我有这个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012802286,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.213]  我有这个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我有这个。",
+                    "SliceSentence": "我 有 这个",
+                    "StartMs": 0,
+                    "EndMs": 2213,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.21325
+        },
+        "RequestId": "5d39d47f-921c-414f-9328-7dfb4d022339"
+    }
+}

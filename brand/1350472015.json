@@ -1,0 +1,44 @@
+{
+    "character": "brand",
+    "id": "1350472015",
+    "result": "如野火一般。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012549739,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.101]  如野火一般。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "如野火一般。",
+                    "SliceSentence": "如 野火 一般",
+                    "StartMs": 0,
+                    "EndMs": 3101,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "如",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "野火",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "一般",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2610
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.101
+        },
+        "RequestId": "0e2d554f-2b3f-418f-87a2-b60504bbf5d7"
+    }
+}

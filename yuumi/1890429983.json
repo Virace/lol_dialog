@@ -1,0 +1,39 @@
+{
+    "character": "yuumi",
+    "id": "1890429983",
+    "result": "猫猫拳。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012847165,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.046]  猫猫拳。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "猫猫拳。",
+                    "SliceSentence": "猫猫 拳",
+                    "StartMs": 0,
+                    "EndMs": 1046,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "猫猫",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "拳",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 660
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.046563
+        },
+        "RequestId": "10a8ab20-1950-43fc-b608-31d91eff36b1"
+    }
+}

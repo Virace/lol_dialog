@@ -1,0 +1,44 @@
+{
+    "character": "zeri",
+    "id": "676986031",
+    "result": "要上啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012852583,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.749]  要上啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "要上啦。",
+                    "SliceSentence": "要 上 啦",
+                    "StartMs": 0,
+                    "EndMs": 1749,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "上",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.749313
+        },
+        "RequestId": "c5f7a60d-f9ab-4fdc-92ec-02594e13a4aa"
+    }
+}

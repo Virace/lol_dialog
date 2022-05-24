@@ -1,0 +1,39 @@
+{
+    "character": "rakan",
+    "id": "1621879894",
+    "result": "叫什么？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012751214,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.853]  叫什么？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "叫什么？",
+                    "SliceSentence": "叫 什么",
+                    "StartMs": 0,
+                    "EndMs": 853,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "叫",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 720
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.85375
+        },
+        "RequestId": "0b45fc1b-2070-48b5-88d0-c34f9d436e9a"
+    }
+}

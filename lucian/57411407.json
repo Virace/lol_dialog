@@ -1,0 +1,44 @@
+{
+    "character": "lucian",
+    "id": "57411407",
+    "result": "我十分赞同。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718344,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.205]  我十分赞同。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我十分赞同。",
+                    "SliceSentence": "我 十分 赞同",
+                    "StartMs": 0,
+                    "EndMs": 2205,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "十分",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "赞同",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.205938
+        },
+        "RequestId": "a2ea6867-6c1a-4676-a286-89f4abc9382a"
+    }
+}

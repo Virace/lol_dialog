@@ -1,0 +1,44 @@
+{
+    "character": "zac",
+    "id": "1883121552",
+    "result": "每个人都是评论家。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012848666,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.938]  每个人都是评论家。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "每个人都是评论家。",
+                    "SliceSentence": "每个人 都是 评论家",
+                    "StartMs": 0,
+                    "EndMs": 1938,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "每个人",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "都是",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "评论家",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.938063
+        },
+        "RequestId": "9fa9bd4c-15e0-4d1b-8555-55137c099559"
+    }
+}

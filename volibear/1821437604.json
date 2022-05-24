@@ -1,0 +1,44 @@
+{
+    "character": "volibear",
+    "id": "1821437604",
+    "result": "我就是风暴。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012816187,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.688]  我就是风暴。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我就是风暴。",
+                    "SliceSentence": "我 就是 风暴",
+                    "StartMs": 0,
+                    "EndMs": 3688,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "风暴",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.68825
+        },
+        "RequestId": "d793dcc5-b61f-4ecf-9450-69ef280d540f"
+    }
+}

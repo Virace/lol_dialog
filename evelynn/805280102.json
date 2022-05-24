@@ -1,0 +1,54 @@
+{
+    "character": "evelynn",
+    "id": "805280102",
+    "result": "天哪，痛得不轻啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012564863,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.980]  天哪，痛得不轻啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "天哪，痛得不轻啊。",
+                    "SliceSentence": "天哪 痛 得 不轻 啊",
+                    "StartMs": 0,
+                    "EndMs": 4980,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "天哪",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "痛",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "得",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "不轻",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 3030
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 3030,
+                            "OffsetEndMs": 3360
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.198188
+        },
+        "RequestId": "9f354b06-94bc-48db-9443-ffa2ec01bfc7"
+    }
+}

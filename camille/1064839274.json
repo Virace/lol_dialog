@@ -1,0 +1,49 @@
+{
+    "character": "camille",
+    "id": "1064839274",
+    "result": "我失去耐心了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552248,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.450]  我失去耐心了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我失去耐心了。",
+                    "SliceSentence": "我 失去 耐心 了",
+                    "StartMs": 0,
+                    "EndMs": 1450,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "失去",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "耐心",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.450813
+        },
+        "RequestId": "76ce983c-82a6-48be-8008-250432843e23"
+    }
+}

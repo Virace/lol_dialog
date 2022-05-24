@@ -1,0 +1,49 @@
+{
+    "character": "azir",
+    "id": "866723623",
+    "result": "相信我们的将来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012549410,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.241]  相信我们的将来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "相信我们的将来。",
+                    "SliceSentence": "相信 我们 的 将来",
+                    "StartMs": 0,
+                    "EndMs": 2241,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "相信",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "将来",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.241125
+        },
+        "RequestId": "940b4407-89ea-4979-b2a5-f78de4adc13b"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "galio",
+    "id": "269360123",
+    "result": "这里只容得下你我之中一个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568636,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.776]  这里只容得下你我之中一个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这里只容得下你我之中一个。",
+                    "SliceSentence": "这里 只 容得下 你我 之中 一个",
+                    "StartMs": 0,
+                    "EndMs": 2776,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "这里",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "只",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "容得下",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "你我",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "之中",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2700
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.776
+        },
+        "RequestId": "390df7cb-1958-4e97-a65a-8dd198b96c8c"
+    }
+}

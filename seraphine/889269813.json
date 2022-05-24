@@ -1,0 +1,44 @@
+{
+    "character": "seraphine",
+    "id": "889269813",
+    "result": "哇吼哼哼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012771916,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:8.000]  哇吼哼哼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哇吼哼哼。",
+                    "SliceSentence": "哇 吼 哼哼",
+                    "StartMs": 0,
+                    "EndMs": 8000,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哇",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "吼",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 2520
+                        },
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 2970,
+                            "OffsetEndMs": 4710
+                        }
+                    ],
+                    "SpeechSpeed": 0.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 8.763938
+        },
+        "RequestId": "ff898884-1d42-47dd-a420-bedce803b818"
+    }
+}

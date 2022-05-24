@@ -1,0 +1,39 @@
+{
+    "character": "kaisa",
+    "id": "896548006",
+    "result": "动作太慢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012692541,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.222]  动作太慢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "动作太慢。",
+                    "SliceSentence": "动作 太慢",
+                    "StartMs": 0,
+                    "EndMs": 1222,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "动作",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "太慢",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.222063
+        },
+        "RequestId": "8dbf2b49-a565-47ff-891f-a68c0aeb872c"
+    }
+}

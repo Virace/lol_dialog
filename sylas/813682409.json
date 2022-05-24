@@ -1,0 +1,44 @@
+{
+    "character": "sylas",
+    "id": "813682409",
+    "result": "带我回家吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012788154,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.351]  带我回家吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "带我回家吧。",
+                    "SliceSentence": "带我 回家 吧",
+                    "StartMs": 0,
+                    "EndMs": 2351,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "带我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "回家",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.351125
+        },
+        "RequestId": "8a50042e-a630-419c-9782-79e89875a18f"
+    }
+}

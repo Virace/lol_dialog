@@ -1,0 +1,39 @@
+{
+    "character": "sylas",
+    "id": "1775198001",
+    "result": "醒来吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786822,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.949]  醒来吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "醒来吧。",
+                    "SliceSentence": "醒来 吧",
+                    "StartMs": 0,
+                    "EndMs": 949,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "醒来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 870
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.949688
+        },
+        "RequestId": "f12f98a6-7792-425d-841d-0ac159dfc75a"
+    }
+}

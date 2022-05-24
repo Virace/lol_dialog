@@ -1,0 +1,54 @@
+{
+    "character": "yuumi",
+    "id": "1241082767",
+    "result": "我感觉这个人很不错。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012846545,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.580]  我感觉这个人很不错。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我感觉这个人很不错。",
+                    "SliceSentence": "我 感觉 这个 人 很不错",
+                    "StartMs": 0,
+                    "EndMs": 1580,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "感觉",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "人",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "很不错",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 8.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.580063
+        },
+        "RequestId": "afa20487-4898-401f-9986-51d6b5737e8a"
+    }
+}

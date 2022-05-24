@@ -1,0 +1,49 @@
+{
+    "character": "poppy",
+    "id": "614343906",
+    "result": "哦，失禁了，陛下。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012743622,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.594]  哦，失禁了，陛下。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哦，失禁了，陛下。",
+                    "SliceSentence": "哦 失禁 了 陛下",
+                    "StartMs": 0,
+                    "EndMs": 2594,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "哦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "失禁",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "陛下",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.594813
+        },
+        "RequestId": "71487b63-d370-4d57-ae63-ac3e7bf588d6"
+    }
+}

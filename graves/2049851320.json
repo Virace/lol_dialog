@@ -1,0 +1,49 @@
+{
+    "character": "graves",
+    "id": "2049851320",
+    "result": "我让黑暗降临了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012573574,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.388]  我让黑暗降临了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我让黑暗降临了。",
+                    "SliceSentence": "我让 黑暗 降临 了",
+                    "StartMs": 0,
+                    "EndMs": 2388,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我让",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "黑暗",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "降临",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.388125
+        },
+        "RequestId": "e696c4c6-53e7-4cb1-8f18-562335e004a5"
+    }
+}

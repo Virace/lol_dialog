@@ -1,0 +1,49 @@
+{
+    "character": "khazix",
+    "id": "599674709",
+    "result": "一个不同的视角。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012703928,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.600]  一个不同的视角。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一个不同的视角。",
+                    "SliceSentence": "一个 不同 的 视角",
+                    "StartMs": 0,
+                    "EndMs": 3600,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "不同",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "视角",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.072438
+        },
+        "RequestId": "b1f3a198-d28d-4dd7-9996-735e2c9a1306"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "kalista",
+    "id": "153851979",
+    "result": "我们以真实为目标。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012693504,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.439]  我们以真实为目标。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们以真实为目标。",
+                    "SliceSentence": "我们 以 真实 为目 标",
+                    "StartMs": 0,
+                    "EndMs": 4439,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "以",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "真实",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "为目",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "标",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 3810
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.439125
+        },
+        "RequestId": "0d7eee75-db05-46d3-bb9d-1810ac52bb09"
+    }
+}

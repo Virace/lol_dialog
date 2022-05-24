@@ -1,0 +1,49 @@
+{
+    "character": "taliyah",
+    "id": "1060585900",
+    "result": "每一堂课都是馈赠。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012791725,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.843]  每一堂课都是馈赠。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "每一堂课都是馈赠。",
+                    "SliceSentence": "每一 堂课 都是 馈赠",
+                    "StartMs": 0,
+                    "EndMs": 1843,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "每一",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "堂课",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "都是",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "馈赠",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.843688
+        },
+        "RequestId": "39fba067-238d-4995-adda-8916ca358330"
+    }
+}

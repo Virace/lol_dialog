@@ -1,0 +1,44 @@
+{
+    "character": "heimerdinger",
+    "id": "1507583932",
+    "result": "让我查一下。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012576170,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.567]  让我查一下。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "让我查一下。",
+                    "SliceSentence": "让我 查 一下",
+                    "StartMs": 0,
+                    "EndMs": 1567,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "让我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "查",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "一下",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.567813
+        },
+        "RequestId": "3ec1fd99-fbc1-49a6-9e88-0d7e8b4402cd"
+    }
+}

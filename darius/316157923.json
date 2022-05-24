@@ -1,0 +1,49 @@
+{
+    "character": "darius",
+    "id": "316157923",
+    "result": "死在我手里吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012555958,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.763]  死在我手里吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "死在我手里吧。",
+                    "SliceSentence": "死在 我 手里 吧",
+                    "StartMs": 0,
+                    "EndMs": 2763,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "死在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "手里",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.763188
+        },
+        "RequestId": "44317dab-40cc-4e73-9cfc-ab8173dfa47c"
+    }
+}

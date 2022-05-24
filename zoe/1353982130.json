@@ -1,0 +1,44 @@
+{
+    "character": "zoe",
+    "id": "1353982130",
+    "result": "这个有用吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012854585,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.573]  这个有用吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这个有用吗？",
+                    "SliceSentence": "这个 有用 吗",
+                    "StartMs": 0,
+                    "EndMs": 1573,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "有用",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.573875
+        },
+        "RequestId": "cbff69ed-6698-4c42-b0eb-d8f143a2b82c"
+    }
+}

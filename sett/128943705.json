@@ -1,0 +1,44 @@
+{
+    "character": "sett",
+    "id": "128943705",
+    "result": "哦，沙袋来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012772343,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.436]  哦，沙袋来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哦，沙袋来了。",
+                    "SliceSentence": "哦 沙袋 来了",
+                    "StartMs": 0,
+                    "EndMs": 3436,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哦",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "沙袋",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "来了",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2910
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.436563
+        },
+        "RequestId": "dd24707f-ddf8-47fc-abad-a3187943f748"
+    }
+}

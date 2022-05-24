@@ -1,0 +1,49 @@
+{
+    "character": "sett",
+    "id": "1899794940",
+    "result": "只要说话，就是找茬。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012772882,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.715]  只要说话，就是找茬。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "只要说话，就是找茬。",
+                    "SliceSentence": "只要 说话 就是 找茬",
+                    "StartMs": 0,
+                    "EndMs": 3715,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "只要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "说话",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "找茬",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 3270
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.715188
+        },
+        "RequestId": "7b30d70b-2a24-4476-a379-c09dddd3ba93"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "pyke",
+    "id": "514063586",
+    "result": "这是你的一份。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746374,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.131]  这是你的一份。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是你的一份。",
+                    "SliceSentence": "这是 你的 一份",
+                    "StartMs": 0,
+                    "EndMs": 2131,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "一份",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.13125
+        },
+        "RequestId": "78250f10-65da-469b-895b-5b417dc66090"
+    }
+}

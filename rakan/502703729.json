@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "502703729",
+    "result": "你会看到我的舞姿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012753654,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.704]  你会看到我的舞姿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你会看到我的舞姿。",
+                    "SliceSentence": "你会 看到 我 的 舞姿",
+                    "StartMs": 0,
+                    "EndMs": 1704,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你会",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "看到",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "舞姿",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 7.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.704875
+        },
+        "RequestId": "ce2b9515-ec4f-4fe1-8142-06a149629e38"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "akshan",
+    "id": "812956388",
+    "result": "不必客气，真的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012541607,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.960]  不必客气，真的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不必客气，真的。",
+                    "SliceSentence": "不必 客气 真的",
+                    "StartMs": 0,
+                    "EndMs": 2960,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "不必",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "客气",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "真的",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 9.770688
+        },
+        "RequestId": "a9c2e66e-b185-4c5f-a8e4-b277d17f87fa"
+    }
+}

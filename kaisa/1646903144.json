@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "1646903144",
+    "result": "这只是个开始。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689004,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.563]  这只是个开始。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这只是个开始。",
+                    "SliceSentence": "这只 是个 开始",
+                    "StartMs": 0,
+                    "EndMs": 1563,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这只",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "是个",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "开始",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.563688
+        },
+        "RequestId": "0c52ea27-09e7-4588-9cf9-aecee74123ba"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "irelia",
+    "id": "803268897",
+    "result": "我们将活下去。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012582841,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.212]  我们将活下去。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们将活下去。",
+                    "SliceSentence": "我们 将 活 下去",
+                    "StartMs": 0,
+                    "EndMs": 1212,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "将",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "活",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "下去",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 8.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.212563
+        },
+        "RequestId": "a44e89d1-0231-4181-a2b1-ca0400357022"
+    }
+}

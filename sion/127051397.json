@@ -1,0 +1,49 @@
+{
+    "character": "sion",
+    "id": "127051397",
+    "result": "我感受不到疼痛。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012776022,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.508]  我感受不到疼痛。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我感受不到疼痛。",
+                    "SliceSentence": "我 感受 不到 疼痛",
+                    "StartMs": 0,
+                    "EndMs": 3508,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "感受",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "不到",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "疼痛",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2850
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.5085
+        },
+        "RequestId": "a1c65a2e-b1f9-4b75-b30a-b1fc53971546"
+    }
+}

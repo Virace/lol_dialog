@@ -1,0 +1,75 @@
+{
+    "character": "senna",
+    "id": "2041936447",
+    "result": "我的心墙并非坚不可摧。我也一样。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012769290,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.820]  我的心墙并非坚不可摧。\n[0:2.820,0:4.574]  我也一样。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的心墙并非坚不可摧。",
+                    "SliceSentence": "我 的心 墙 并非 坚不可摧",
+                    "StartMs": 0,
+                    "EndMs": 2820,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "的心",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "墙",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "并非",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "坚不可摧",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "我也一样。",
+                    "SliceSentence": "我也 一样",
+                    "StartMs": 2820,
+                    "EndMs": 4574,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我也",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "一样",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.574313
+        },
+        "RequestId": "ffcec5e6-bb63-413d-931f-c3dbef355830"
+    }
+}

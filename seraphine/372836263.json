@@ -1,0 +1,39 @@
+{
+    "character": "seraphine",
+    "id": "372836263",
+    "result": "啦啦啦啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012771288,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.660]  啦啦啦啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啦啦啦啦。",
+                    "SliceSentence": "啦啦 啦啦",
+                    "StartMs": 0,
+                    "EndMs": 2660,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啦啦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "啦啦",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.401813
+        },
+        "RequestId": "2b7fa6a1-e25c-42e3-9b5c-4de424eb4ad8"
+    }
+}

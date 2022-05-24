@@ -1,0 +1,54 @@
+{
+    "character": "elise",
+    "id": "626039428",
+    "result": "现在我又变强了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560955,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.706]  现在我又变强了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "现在我又变强了。",
+                    "SliceSentence": "现在 我又 变 强 了",
+                    "StartMs": 0,
+                    "EndMs": 4706,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "我又",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "变",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 2610
+                        },
+                        {
+                            "Word": "强",
+                            "OffsetStartMs": 2610,
+                            "OffsetEndMs": 3300
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 3300,
+                            "OffsetEndMs": 3780
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.706375
+        },
+        "RequestId": "26d16eff-a129-4776-a8db-ca9a9ea57b94"
+    }
+}

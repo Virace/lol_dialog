@@ -1,0 +1,39 @@
+{
+    "character": "samira",
+    "id": "50465641",
+    "result": "别来惹我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012766979,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.391]  别来惹我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别来惹我。",
+                    "SliceSentence": "别来 惹我",
+                    "StartMs": 0,
+                    "EndMs": 2391,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "别来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "惹我",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.391688
+        },
+        "RequestId": "ad207fb6-eda8-4d89-95e5-7e9c042a1901"
+    }
+}

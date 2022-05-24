@@ -1,0 +1,44 @@
+{
+    "character": "sion",
+    "id": "652890850",
+    "result": "你就是虫子。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012777516,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.852]  你就是虫子。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你就是虫子。",
+                    "SliceSentence": "你就 是 虫子",
+                    "StartMs": 0,
+                    "EndMs": 2852,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你就",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "虫子",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.85275
+        },
+        "RequestId": "4f01d4ac-3622-4172-b08f-5ac57014ff7b"
+    }
+}

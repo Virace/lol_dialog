@@ -1,0 +1,44 @@
+{
+    "character": "pantheon",
+    "id": "1059104330",
+    "result": "星辰在说谎。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012740360,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.250]  星辰在说谎。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "星辰在说谎。",
+                    "SliceSentence": "星辰 在 说谎",
+                    "StartMs": 0,
+                    "EndMs": 3250,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "星辰",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "说谎",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.250813
+        },
+        "RequestId": "be8e3281-e93a-4eab-ab04-2c9cbcb3693a"
+    }
+}

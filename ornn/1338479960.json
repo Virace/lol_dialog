@@ -1,0 +1,54 @@
+{
+    "character": "ornn",
+    "id": "1338479960",
+    "result": "哎，这可真是好东西啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012738264,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.829]  哎，这可真是好东西啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哎，这可真是好东西啊。",
+                    "SliceSentence": "哎 这可 真是 好东西 啊",
+                    "StartMs": 0,
+                    "EndMs": 2829,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "哎",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "这可",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "真是",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "好东西",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2490
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 2490,
+                            "OffsetEndMs": 2670
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.829813
+        },
+        "RequestId": "844534d1-80d1-417d-a96a-9e3b03cd12ae"
+    }
+}

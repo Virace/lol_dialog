@@ -1,0 +1,49 @@
+{
+    "character": "ivern",
+    "id": "1132235554",
+    "result": "感谢你，迅捷蟹。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012583311,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.480]  感谢你，迅捷蟹。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "感谢你，迅捷蟹。",
+                    "SliceSentence": "感谢 你 迅捷 蟹",
+                    "StartMs": 0,
+                    "EndMs": 2480,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "感谢",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "迅捷",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "蟹",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.480813
+        },
+        "RequestId": "0ef1aba4-28fa-4ac1-9113-732f8120ab00"
+    }
+}

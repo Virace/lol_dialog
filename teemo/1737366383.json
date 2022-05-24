@@ -1,0 +1,39 @@
+{
+    "character": "teemo",
+    "id": "1737366383",
+    "result": "哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012798082,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.786]  哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈。",
+                    "SliceSentence": "哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 786,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 720
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.786563
+        },
+        "RequestId": "e9794f92-e1e9-44ab-96b5-667c7c29e5ea"
+    }
+}

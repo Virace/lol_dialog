@@ -1,0 +1,44 @@
+{
+    "character": "jhin",
+    "id": "1630004919",
+    "result": "请各自就位。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012685381,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.046]  请各自就位。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "请各自就位。",
+                    "SliceSentence": "请 各自 就位",
+                    "StartMs": 0,
+                    "EndMs": 3046,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "请",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "各自",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "就位",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.046125
+        },
+        "RequestId": "10fe2460-5489-4c69-a943-f15643c4f29e"
+    }
+}

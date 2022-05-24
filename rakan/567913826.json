@@ -1,0 +1,39 @@
+{
+    "character": "rakan",
+    "id": "567913826",
+    "result": "出发了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012753858,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.937]  出发了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "出发了。",
+                    "SliceSentence": "出发 了",
+                    "StartMs": 0,
+                    "EndMs": 937,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "出发",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 690
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.937313
+        },
+        "RequestId": "f20073d2-ce40-49d2-bd96-8d867d7dbe93"
+    }
+}

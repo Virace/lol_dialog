@@ -1,0 +1,44 @@
+{
+    "character": "gwen",
+    "id": "930693594",
+    "result": "让我稍微喘口气。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012575493,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.467]  让我稍微喘口气。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "让我稍微喘口气。",
+                    "SliceSentence": "让我 稍微 喘口气",
+                    "StartMs": 0,
+                    "EndMs": 4467,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "让我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "稍微",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "喘口气",
+                            "OffsetStartMs": 2490,
+                            "OffsetEndMs": 3660
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.467125
+        },
+        "RequestId": "ce04db5d-36dd-4e87-bdb7-5033c9775d46"
+    }
+}

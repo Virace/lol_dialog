@@ -1,0 +1,39 @@
+{
+    "character": "zac",
+    "id": "218802518",
+    "result": "健步如飞。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012849105,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.046]  健步如飞。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "健步如飞。",
+                    "SliceSentence": "健步 如飞",
+                    "StartMs": 0,
+                    "EndMs": 1046,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "健步",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "如飞",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.046938
+        },
+        "RequestId": "fa9b49e0-a914-4fa0-9426-d7a509af3232"
+    }
+}

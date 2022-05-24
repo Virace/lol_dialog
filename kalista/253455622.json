@@ -1,0 +1,44 @@
+{
+    "character": "kalista",
+    "id": "253455622",
+    "result": "契约已签订。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012693764,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.927]  契约已签订。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "契约已签订。",
+                    "SliceSentence": "契约 已 签订",
+                    "StartMs": 0,
+                    "EndMs": 3927,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "契约",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "已",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "签订",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2940
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.927563
+        },
+        "RequestId": "1205a128-829e-4795-aecc-8ded1f63eaaa"
+    }
+}

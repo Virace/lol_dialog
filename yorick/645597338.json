@@ -1,0 +1,44 @@
+{
+    "character": "yorick",
+    "id": "645597338",
+    "result": "很高兴见到你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012845444,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.271]  很高兴见到你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "很高兴见到你。",
+                    "SliceSentence": "很高兴 见到 你",
+                    "StartMs": 0,
+                    "EndMs": 2271,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "很高兴",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "见到",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.27125
+        },
+        "RequestId": "787f5e04-16ab-4f08-9459-e6ba95d0bf77"
+    }
+}

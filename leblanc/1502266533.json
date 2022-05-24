@@ -1,0 +1,49 @@
+{
+    "character": "leblanc",
+    "id": "1502266533",
+    "result": "看到我很意外吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012711641,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.200]  看到我很意外吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "看到我很意外吗？",
+                    "SliceSentence": "看到 我很 意外 吗",
+                    "StartMs": 0,
+                    "EndMs": 3200,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "看到",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "我很",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "意外",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.46825
+        },
+        "RequestId": "3d93470b-c264-49b5-a0e5-8b17bc0c9564"
+    }
+}

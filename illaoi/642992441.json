@@ -1,0 +1,44 @@
+{
+    "character": "illaoi",
+    "id": "642992441",
+    "result": "啊啊啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012578809,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.321]  啊啊啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊啊啊。",
+                    "SliceSentence": "啊 啊 啊",
+                    "StartMs": 0,
+                    "EndMs": 4321,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 3030,
+                            "OffsetEndMs": 4170
+                        }
+                    ],
+                    "SpeechSpeed": 1.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.321313
+        },
+        "RequestId": "82d8d2be-6703-4428-a75c-36a216657819"
+    }
+}

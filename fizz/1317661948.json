@@ -1,0 +1,49 @@
+{
+    "character": "fizz",
+    "id": "1317661948",
+    "result": "嗯，走到哪啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012567630,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:6.478]  嗯，走到哪啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯，走到哪啦。",
+                    "SliceSentence": "嗯 走到 哪 啦",
+                    "StartMs": 0,
+                    "EndMs": 6478,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "走到",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "哪",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 1.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.478375
+        },
+        "RequestId": "40f9e495-d5a2-4d47-bae0-05ab1038776c"
+    }
+}

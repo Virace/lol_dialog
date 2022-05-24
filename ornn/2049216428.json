@@ -1,0 +1,59 @@
+{
+    "character": "ornn",
+    "id": "2049216428",
+    "result": "啊，这可不是我造的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012739087,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.529]  啊，这可不是我造的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，这可不是我造的。",
+                    "SliceSentence": "啊 这 可不是 我 造 的",
+                    "StartMs": 0,
+                    "EndMs": 2529,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "可不是",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "造",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.529438
+        },
+        "RequestId": "6f1b97cc-8c2c-4ee1-8852-2c5841f1d07a"
+    }
+}

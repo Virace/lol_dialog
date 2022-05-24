@@ -1,0 +1,59 @@
+{
+    "character": "jhin",
+    "id": "1469986077",
+    "result": "有句话叫沉默是金，亲爱的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012685104,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.280]  有句话叫沉默是金，亲爱的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "有句话叫沉默是金，亲爱的。",
+                    "SliceSentence": "有 句 话 叫 沉默是金 亲爱的",
+                    "StartMs": 0,
+                    "EndMs": 3280,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "句",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "话",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "叫",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "沉默是金",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "亲爱的",
+                            "OffsetStartMs": 2460,
+                            "OffsetEndMs": 3120
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.280125
+        },
+        "RequestId": "c35905b5-7bd9-4613-b4b0-c8d1d9bf26eb"
+    }
+}

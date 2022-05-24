@@ -1,0 +1,39 @@
+{
+    "character": "nunu",
+    "id": "893641330",
+    "result": "额啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012736743,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.091]  额啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "额啊。",
+                    "SliceSentence": "额 啊",
+                    "StartMs": 0,
+                    "EndMs": 5091,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "额",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 0.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.091563
+        },
+        "RequestId": "39e97968-4f4b-49ab-83c0-5d00e9a1ac84"
+    }
+}

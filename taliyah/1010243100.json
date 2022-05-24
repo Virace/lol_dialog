@@ -1,0 +1,39 @@
+{
+    "character": "taliyah",
+    "id": "1010243100",
+    "result": "注意脚下。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012791500,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.224]  注意脚下。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "注意脚下。",
+                    "SliceSentence": "注意 脚下",
+                    "StartMs": 0,
+                    "EndMs": 1224,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "注意",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "脚下",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.224563
+        },
+        "RequestId": "1c98960d-bcbf-4154-9d39-11392924390f"
+    }
+}

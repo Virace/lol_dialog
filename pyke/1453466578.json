@@ -1,0 +1,44 @@
+{
+    "character": "pyke",
+    "id": "1453466578",
+    "result": "潜下去了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745097,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.264]  潜下去了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "潜下去了。",
+                    "SliceSentence": "潜 下去 了",
+                    "StartMs": 0,
+                    "EndMs": 2264,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "潜",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "下去",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.264813
+        },
+        "RequestId": "cdc8473f-0bc9-4318-86b1-580a2b32e9d4"
+    }
+}

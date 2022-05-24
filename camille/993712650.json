@@ -1,0 +1,54 @@
+{
+    "character": "camille",
+    "id": "993712650",
+    "result": "想阻止我，你是哪位？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554577,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.960]  想阻止我，你是哪位？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "想阻止我，你是哪位？",
+                    "SliceSentence": "想 阻止 我 你是 哪位",
+                    "StartMs": 0,
+                    "EndMs": 2960,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "想",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "阻止",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "你是",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "哪位",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2880
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.960938
+        },
+        "RequestId": "a9663753-3216-4a6c-9677-c4e714b549f5"
+    }
+}

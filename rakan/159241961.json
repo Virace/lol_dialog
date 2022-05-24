@@ -1,0 +1,59 @@
+{
+    "character": "rakan",
+    "id": "159241961",
+    "result": "你知道我是爱你的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012751091,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.384]  你知道我是爱你的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你知道我是爱你的。",
+                    "SliceSentence": "你 知道 我 是 爱 你的",
+                    "StartMs": 0,
+                    "EndMs": 1384,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "爱",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 10.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.3845
+        },
+        "RequestId": "48be48ba-16cc-43ae-80d2-02d2f563e400"
+    }
+}

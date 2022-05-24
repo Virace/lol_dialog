@@ -1,0 +1,49 @@
+{
+    "character": "drmundo",
+    "id": "1612507175",
+    "result": "放松，不会疼的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012557861,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.672]  放松，不会疼的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "放松，不会疼的。",
+                    "SliceSentence": "放松 不会 疼 的",
+                    "StartMs": 0,
+                    "EndMs": 2672,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "放松",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "疼",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.672625
+        },
+        "RequestId": "0cde62fb-1ce7-4d00-854f-6f02edb8cb73"
+    }
+}

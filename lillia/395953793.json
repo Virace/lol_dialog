@@ -1,0 +1,59 @@
+{
+    "character": "lillia",
+    "id": "395953793",
+    "result": "这树枝自己甩个不停。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012715794,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.100]  这树枝自己甩个不停。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这树枝自己甩个不停。",
+                    "SliceSentence": "这 树枝 自己 甩 个 不停",
+                    "StartMs": 0,
+                    "EndMs": 3100,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "树枝",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "自己",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "甩",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "个",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "不停",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.993813
+        },
+        "RequestId": "3ac4e50d-0167-4628-94f7-ad4cb89b28eb"
+    }
+}

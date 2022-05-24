@@ -1,0 +1,54 @@
+{
+    "character": "caitlyn",
+    "id": "532690359",
+    "result": "我的目标是赢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551777,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.709]  我的目标是赢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的目标是赢。",
+                    "SliceSentence": "我 的 目标 是 赢",
+                    "StartMs": 0,
+                    "EndMs": 2709,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "目标",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "赢",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.709313
+        },
+        "RequestId": "376b3b9d-f6bb-40be-b2be-01616bcdfa50"
+    }
+}

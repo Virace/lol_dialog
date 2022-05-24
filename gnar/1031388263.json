@@ -1,0 +1,39 @@
+{
+    "character": "gnar",
+    "id": "1031388263",
+    "result": "嘿嘿嘿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012572457,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.769]  嘿嘿嘿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘿嘿嘿。",
+                    "SliceSentence": "嘿 嘿嘿",
+                    "StartMs": 0,
+                    "EndMs": 769,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "嘿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "嘿嘿",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 690
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.769563
+        },
+        "RequestId": "44ad5216-e488-4377-88eb-12b73c53dc07"
+    }
+}

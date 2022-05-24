@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "1045901051",
+    "result": "嘿，多气人呐。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749310,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.081]  嘿，多气人呐。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘿，多气人呐。",
+                    "SliceSentence": "嘿 多 气人 呐",
+                    "StartMs": 0,
+                    "EndMs": 2081,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "嘿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "多",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "气人",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "呐",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.081813
+        },
+        "RequestId": "b65b6265-a288-4bb2-8823-8fd0a1c5929b"
+    }
+}

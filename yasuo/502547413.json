@@ -1,0 +1,49 @@
+{
+    "character": "yasuo",
+    "id": "502547413",
+    "result": "哥哥，你怎么了？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012840710,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.064]  哥哥，你怎么了？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哥哥，你怎么了？",
+                    "SliceSentence": "哥哥 你 怎么 了",
+                    "StartMs": 0,
+                    "EndMs": 3064,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "哥哥",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "怎么",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2520
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2520,
+                            "OffsetEndMs": 2910
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.064063
+        },
+        "RequestId": "14849ff7-ae59-4b1f-af29-643a0b30b747"
+    }
+}

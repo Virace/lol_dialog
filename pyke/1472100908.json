@@ -1,0 +1,54 @@
+{
+    "character": "pyke",
+    "id": "1472100908",
+    "result": "什么也留不过去。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745101,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.712]  什么也留不过去。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "什么也留不过去。",
+                    "SliceSentence": "什么 也 留 不 过去",
+                    "StartMs": 0,
+                    "EndMs": 2712,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "也",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "留",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "过去",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.712063
+        },
+        "RequestId": "483557ef-d859-4c0c-81c8-75cd487a7c7f"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "kayn",
+    "id": "708793790",
+    "result": "劫也会折服的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012702632,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.321]  劫也会折服的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "劫也会折服的。",
+                    "SliceSentence": "劫 也会 折服 的",
+                    "StartMs": 0,
+                    "EndMs": 1321,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "劫",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "也会",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "折服",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 7.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.321125
+        },
+        "RequestId": "e05aa64c-db6e-4ec1-82a7-fee451dde82d"
+    }
+}

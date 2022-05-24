@@ -1,0 +1,49 @@
+{
+    "character": "nocturne",
+    "id": "434733401",
+    "result": "你已经累了，马。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012731841,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.342]  你已经累了，马。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你已经累了，马。",
+                    "SliceSentence": "你 已经 累了 马",
+                    "StartMs": 0,
+                    "EndMs": 3342,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "累了",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "马",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 3180
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.342438
+        },
+        "RequestId": "3efbc5c1-ea79-49e9-ba02-010618402665"
+    }
+}

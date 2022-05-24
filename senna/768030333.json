@@ -1,0 +1,49 @@
+{
+    "character": "senna",
+    "id": "768030333",
+    "result": "放眼望去，尽是丑恶。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012769953,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.250]  放眼望去，尽是丑恶。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "放眼望去，尽是丑恶。",
+                    "SliceSentence": "放眼 望去 尽是 丑恶",
+                    "StartMs": 0,
+                    "EndMs": 3250,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "放眼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "望去",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "尽是",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "丑恶",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2850
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.250813
+        },
+        "RequestId": "e8b219fb-5be9-4901-8e38-6e186cefb535"
+    }
+}

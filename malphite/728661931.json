@@ -1,0 +1,39 @@
+{
+    "character": "malphite",
+    "id": "728661931",
+    "result": "正在呢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012720172,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.880]  正在呢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "正在呢。",
+                    "SliceSentence": "正在 呢",
+                    "StartMs": 0,
+                    "EndMs": 3880,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 1.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4
+        },
+        "RequestId": "e948cf6a-8213-40d8-83bf-9b5e795ffc9e"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "1560036045",
+    "result": "你觉得我好吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012750992,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.326]  你觉得我好吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你觉得我好吗？",
+                    "SliceSentence": "你 觉得 我 好吗",
+                    "StartMs": 0,
+                    "EndMs": 1326,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "觉得",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "好吗",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 7.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.326188
+        },
+        "RequestId": "a8841220-cd6a-4c2a-8d87-5f4bebdc95ce"
+    }
+}

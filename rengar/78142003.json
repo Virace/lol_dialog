@@ -1,0 +1,49 @@
+{
+    "character": "rengar",
+    "id": "78142003",
+    "result": "只留下一行尸体。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012762511,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.440]  只留下一行尸体。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "只留下一行尸体。",
+                    "SliceSentence": "只 留下 一行 尸体",
+                    "StartMs": 0,
+                    "EndMs": 4440,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "只",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "留下",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "一行",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "尸体",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 3360
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.641188
+        },
+        "RequestId": "78d8dd04-7927-45db-9823-7dbee9f182f5"
+    }
+}

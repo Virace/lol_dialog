@@ -1,0 +1,59 @@
+{
+    "character": "diana",
+    "id": "50100172",
+    "result": "月亮将会升起，夜晚将会永存。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556359,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.222]  月亮将会升起，夜晚将会永存。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "月亮将会升起，夜晚将会永存。",
+                    "SliceSentence": "月亮 将会 升起 夜晚 将会 永存",
+                    "StartMs": 0,
+                    "EndMs": 5222,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "月亮",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "将会",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "升起",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "夜晚",
+                            "OffsetStartMs": 2460,
+                            "OffsetEndMs": 3390
+                        },
+                        {
+                            "Word": "将会",
+                            "OffsetStartMs": 3390,
+                            "OffsetEndMs": 3960
+                        },
+                        {
+                            "Word": "永存",
+                            "OffsetStartMs": 3960,
+                            "OffsetEndMs": 5160
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.22225
+        },
+        "RequestId": "46fdf895-3930-41f1-9115-d2a20ba80a6b"
+    }
+}

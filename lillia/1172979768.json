@@ -1,0 +1,59 @@
+{
+    "character": "lillia",
+    "id": "1172979768",
+    "result": "我要动手了，因为，因为，所以。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012714718,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.040]  我要动手了，因为，因为，所以。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要动手了，因为，因为，所以。",
+                    "SliceSentence": "我要 动手 了 因为 因为 所以",
+                    "StartMs": 0,
+                    "EndMs": 5040,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "动手",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "因为",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "因为",
+                            "OffsetStartMs": 2760,
+                            "OffsetEndMs": 3420
+                        },
+                        {
+                            "Word": "所以",
+                            "OffsetStartMs": 3420,
+                            "OffsetEndMs": 4140
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.944313
+        },
+        "RequestId": "1b1cd5b1-40af-4c14-99d8-d8b59c816959"
+    }
+}

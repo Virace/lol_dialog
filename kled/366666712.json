@@ -1,0 +1,59 @@
+{
+    "character": "kled",
+    "id": "366666712",
+    "result": "你再闯进来试试，你就完了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012707501,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.948]  你再闯进来试试，你就完了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你再闯进来试试，你就完了。",
+                    "SliceSentence": "你再 闯进 来 试试 你就 完了",
+                    "StartMs": 0,
+                    "EndMs": 2948,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你再",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "闯进",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "试试",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "你就",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "完了",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.94825
+        },
+        "RequestId": "2f102d8e-2be2-43dc-8d16-13371151fb24"
+    }
+}

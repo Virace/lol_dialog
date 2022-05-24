@@ -1,0 +1,39 @@
+{
+    "character": "quinn",
+    "id": "1445348587",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012748811,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.391]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 2391,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.391688
+        },
+        "RequestId": "59ddbaf7-975b-4959-9f48-a55d0d63c12f"
+    }
+}

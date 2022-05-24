@@ -1,0 +1,44 @@
+{
+    "character": "kayn",
+    "id": "59817432",
+    "result": "来，都来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012702341,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.839]  来，都来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "来，都来了。",
+                    "SliceSentence": "来 都 来了",
+                    "StartMs": 0,
+                    "EndMs": 1839,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "都",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "来了",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.839313
+        },
+        "RequestId": "4c02eb3e-733d-42ed-8b26-110934637cb9"
+    }
+}

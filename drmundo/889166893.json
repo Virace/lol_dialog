@@ -1,0 +1,49 @@
+{
+    "character": "drmundo",
+    "id": "889166893",
+    "result": "告诉我哪疼？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012558929,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.028]  告诉我哪疼？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "告诉我哪疼？",
+                    "SliceSentence": "告诉 我 哪 疼",
+                    "StartMs": 0,
+                    "EndMs": 2028,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "告诉",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "哪",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "疼",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.028375
+        },
+        "RequestId": "20684c1c-eb0f-4ec3-86f8-0659cda4e6f2"
+    }
+}

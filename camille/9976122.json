@@ -1,0 +1,59 @@
+{
+    "character": "camille",
+    "id": "9976122",
+    "result": "我好像错过了一点东西。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554575,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.947]  我好像错过了一点东西。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我好像错过了一点东西。",
+                    "SliceSentence": "我 好像 错过 了 一点 东西",
+                    "StartMs": 0,
+                    "EndMs": 1947,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "好像",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "错过",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "一点",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 8.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.947688
+        },
+        "RequestId": "3fbd5e2b-47c6-410b-bfaf-29ff626762bc"
+    }
+}

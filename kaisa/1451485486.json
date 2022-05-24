@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "1451485486",
+    "result": "22好多啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012688621,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.428]  22好多啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "22好多啊。",
+                    "SliceSentence": "22 好多 啊",
+                    "StartMs": 0,
+                    "EndMs": 2428,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "22",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "好多",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.428625
+        },
+        "RequestId": "6177f80c-7ada-4dc1-9794-406d20ada8fd"
+    }
+}

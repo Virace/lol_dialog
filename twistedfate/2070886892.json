@@ -1,0 +1,44 @@
+{
+    "character": "twistedfate",
+    "id": "2070886892",
+    "result": "你运气不错。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012802304,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.567]  你运气不错。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你运气不错。",
+                    "SliceSentence": "你 运气 不错",
+                    "StartMs": 0,
+                    "EndMs": 1567,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "运气",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "不错",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.567688
+        },
+        "RequestId": "946a17f1-5eec-48f3-b4ce-dae630ee94d1"
+    }
+}

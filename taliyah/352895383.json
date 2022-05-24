@@ -1,0 +1,49 @@
+{
+    "character": "taliyah",
+    "id": "352895383",
+    "result": "食腐动物们。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012792787,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.243]  食腐动物们。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "食腐动物们。",
+                    "SliceSentence": "食 腐 动物 们",
+                    "StartMs": 0,
+                    "EndMs": 1243,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "食",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "腐",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "动物",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "们",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 7.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.243813
+        },
+        "RequestId": "3fc6dc9e-52d7-45f7-bc63-eff717148ff5"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "maokai",
+    "id": "2147110387",
+    "result": "为了树苗而战。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012721919,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.182]  为了树苗而战。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "为了树苗而战。",
+                    "SliceSentence": "为了 树苗 而战",
+                    "StartMs": 0,
+                    "EndMs": 3182,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "为了",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "树苗",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "而战",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.182875
+        },
+        "RequestId": "40ae621f-41ff-4e26-b312-6849e4494bf8"
+    }
+}

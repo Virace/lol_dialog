@@ -1,0 +1,44 @@
+{
+    "character": "vex",
+    "id": "1384592245",
+    "result": "想都别想。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012810401,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.248]  想都别想。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "想都别想。",
+                    "SliceSentence": "想 都 别想",
+                    "StartMs": 0,
+                    "EndMs": 2248,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "想",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "都",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "别想",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.2485
+        },
+        "RequestId": "5dce856f-35a2-4e79-9823-aed1f147f19c"
+    }
+}

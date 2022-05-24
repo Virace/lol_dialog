@@ -1,0 +1,44 @@
+{
+    "character": "vex",
+    "id": "1568873855",
+    "result": "你太讨厌了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012810634,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.476]  你太讨厌了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你太讨厌了。",
+                    "SliceSentence": "你太 讨厌 了",
+                    "StartMs": 0,
+                    "EndMs": 2476,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你太",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "讨厌",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.476313
+        },
+        "RequestId": "39b73cf2-4ef4-4629-9a23-72f4860caffb"
+    }
+}

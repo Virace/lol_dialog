@@ -1,0 +1,49 @@
+{
+    "character": "akshan",
+    "id": "1913499373",
+    "result": "可这就去了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012541003,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.048]  可这就去了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "可这就去了。",
+                    "SliceSentence": "可 这 就去 了",
+                    "StartMs": 0,
+                    "EndMs": 2048,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "可",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "就去",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.048
+        },
+        "RequestId": "1f7e09a4-04b1-45bd-bc60-a90d319c1633"
+    }
+}

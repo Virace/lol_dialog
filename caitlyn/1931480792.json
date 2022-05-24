@@ -1,0 +1,49 @@
+{
+    "character": "caitlyn",
+    "id": "1931480792",
+    "result": "谁在呼叫警长？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551288,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.261]  谁在呼叫警长？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "谁在呼叫警长？",
+                    "SliceSentence": "谁 在 呼叫 警长",
+                    "StartMs": 0,
+                    "EndMs": 2261,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "谁",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "呼叫",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "警长",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.261313
+        },
+        "RequestId": "262fd32f-4998-4710-a9ac-856ed07ed1c3"
+    }
+}

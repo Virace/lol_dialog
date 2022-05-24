@@ -1,0 +1,49 @@
+{
+    "character": "neeko",
+    "id": "172401555",
+    "result": "我得专心一点。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012729896,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.719]  我得专心一点。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我得专心一点。",
+                    "SliceSentence": "我 得 专心 一点",
+                    "StartMs": 0,
+                    "EndMs": 4719,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "得",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "专心",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "一点",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 2790
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.719938
+        },
+        "RequestId": "c8a1b7b6-acf2-4b75-bc86-5b485d3d4a86"
+    }
+}

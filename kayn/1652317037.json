@@ -1,0 +1,49 @@
+{
+    "character": "kayn",
+    "id": "1652317037",
+    "result": "阴影染指了一切。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012700008,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.074]  阴影染指了一切。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "阴影染指了一切。",
+                    "SliceSentence": "阴影 染指 了 一切",
+                    "StartMs": 0,
+                    "EndMs": 2074,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "阴影",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "染指",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "一切",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.074563
+        },
+        "RequestId": "3c270fea-3eef-4cb5-ae7f-fb4a468c3712"
+    }
+}

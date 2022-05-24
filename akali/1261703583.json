@@ -1,0 +1,54 @@
+{
+    "character": "akali",
+    "id": "1261703583",
+    "result": "我们志不同，道不合。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012538971,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.291]  我们志不同，道不合。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们志不同，道不合。",
+                    "SliceSentence": "我们 志 不同 道 不合",
+                    "StartMs": 0,
+                    "EndMs": 2291,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "志",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "不同",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "道",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "不合",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.29125
+        },
+        "RequestId": "561a398a-c37e-4556-aa75-bc4ef857869e"
+    }
+}

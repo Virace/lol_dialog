@@ -1,0 +1,54 @@
+{
+    "character": "renata",
+    "id": "837824739",
+    "result": "别让我说第二遍。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012761052,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.609]  别让我说第二遍。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别让我说第二遍。",
+                    "SliceSentence": "别 让我 说 第二 遍",
+                    "StartMs": 0,
+                    "EndMs": 2609,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "让我",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "第二",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "遍",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.609188
+        },
+        "RequestId": "4e6feffc-e577-422c-9dd1-d358f68f41f9"
+    }
+}

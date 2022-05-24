@@ -1,0 +1,59 @@
+{
+    "character": "akshan",
+    "id": "1782084222",
+    "result": "哎呀，这下可有点丢人了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012540964,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.200]  哎呀，这下可有点丢人了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哎呀，这下可有点丢人了。",
+                    "SliceSentence": "哎呀 这下 可 有点 丢人 了",
+                    "StartMs": 0,
+                    "EndMs": 3200,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "哎呀",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "这下",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "可",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "有点",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "丢人",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.2
+        },
+        "RequestId": "79d8d689-bfdb-4273-afcf-c578036acdc0"
+    }
+}

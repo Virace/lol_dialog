@@ -1,0 +1,54 @@
+{
+    "character": "yone",
+    "id": "1616752813",
+    "result": "我并非为你而来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012842470,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.111]  我并非为你而来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我并非为你而来。",
+                    "SliceSentence": "我 并非 为 你 而来",
+                    "StartMs": 0,
+                    "EndMs": 3111,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "并非",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "为",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "而来",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.1115
+        },
+        "RequestId": "e70f0caf-b1ca-42ae-b419-9d98cb54f8bc"
+    }
+}

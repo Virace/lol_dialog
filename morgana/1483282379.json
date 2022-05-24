@@ -1,0 +1,44 @@
+{
+    "character": "morgana",
+    "id": "1483282379",
+    "result": "我受够了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012726251,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.799]  我受够了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我受够了。",
+                    "SliceSentence": "我 受 够了",
+                    "StartMs": 0,
+                    "EndMs": 1799,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "受",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "够了",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.799125
+        },
+        "RequestId": "7e945227-cc49-4861-8d10-f96001581ac6"
+    }
+}

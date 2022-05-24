@@ -1,0 +1,49 @@
+{
+    "character": "tristana",
+    "id": "748200089",
+    "result": "看好我们的后方。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012800500,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.393]  看好我们的后方。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "看好我们的后方。",
+                    "SliceSentence": "看好 我们 的 后方",
+                    "StartMs": 0,
+                    "EndMs": 1393,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "看好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "后方",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 7.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.393688
+        },
+        "RequestId": "26b3fc56-a296-4cc6-bf83-99d37214d054"
+    }
+}

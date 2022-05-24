@@ -1,0 +1,44 @@
+{
+    "character": "yorick",
+    "id": "243674653",
+    "result": "我们继续前行。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012844256,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.718]  我们继续前行。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们继续前行。",
+                    "SliceSentence": "我们 继续 前行",
+                    "StartMs": 0,
+                    "EndMs": 2718,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "继续",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "前行",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.71875
+        },
+        "RequestId": "5eae50bd-6201-4362-9d7a-f6840e81a9c4"
+    }
+}

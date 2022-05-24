@@ -1,0 +1,44 @@
+{
+    "character": "ekko",
+    "id": "1509375424",
+    "result": "哇哦，喂喂喂。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012559495,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.579]  哇哦，喂喂喂。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哇哦，喂喂喂。",
+                    "SliceSentence": "哇哦 喂喂 喂",
+                    "StartMs": 0,
+                    "EndMs": 3579,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哇哦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "喂喂",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 3060
+                        },
+                        {
+                            "Word": "喂",
+                            "OffsetStartMs": 3060,
+                            "OffsetEndMs": 3510
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.579875
+        },
+        "RequestId": "a8789a51-bcc0-4862-a815-dad8371aa376"
+    }
+}

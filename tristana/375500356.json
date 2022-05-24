@@ -1,0 +1,54 @@
+{
+    "character": "tristana",
+    "id": "375500356",
+    "result": "给他们点个火。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012799458,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.157]  给他们点个火。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "给他们点个火。",
+                    "SliceSentence": "给 他们 点 个 火",
+                    "StartMs": 0,
+                    "EndMs": 1157,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "给",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "点",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "个",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "火",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 9.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.157313
+        },
+        "RequestId": "24f64591-6d47-43ab-a79c-207039b98277"
+    }
+}

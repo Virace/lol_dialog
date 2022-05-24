@@ -1,0 +1,39 @@
+{
+    "character": "neeko",
+    "id": "1357351010",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012729709,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.144]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 1144,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.144688
+        },
+        "RequestId": "b11f5e75-aae0-45c2-87d9-10a9317a5fca"
+    }
+}

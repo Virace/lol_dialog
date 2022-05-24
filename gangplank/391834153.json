@@ -1,0 +1,44 @@
+{
+    "character": "gangplank",
+    "id": "391834153",
+    "result": "并没有用。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012570950,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.773]  并没有用。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "并没有用。",
+                    "SliceSentence": "并 没有 用",
+                    "StartMs": 0,
+                    "EndMs": 1773,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "并",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "用",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.773375
+        },
+        "RequestId": "7a44ae75-332f-4572-a196-7fd61372875f"
+    }
+}

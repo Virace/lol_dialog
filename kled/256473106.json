@@ -1,0 +1,44 @@
+{
+    "character": "kled",
+    "id": "256473106",
+    "result": "很高兴你能来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012707022,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.058]  很高兴你能来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "很高兴你能来。",
+                    "SliceSentence": "很高兴 你能 来",
+                    "StartMs": 0,
+                    "EndMs": 2058,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "很高兴",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "你能",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.058
+        },
+        "RequestId": "7779682c-4422-4733-9643-773ae08dfed3"
+    }
+}

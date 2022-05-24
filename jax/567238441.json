@@ -1,0 +1,44 @@
+{
+    "character": "jax",
+    "id": "567238441",
+    "result": "哈哈哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012683908,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.794]  哈哈哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 1794,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.794438
+        },
+        "RequestId": "2f4d97a1-16c6-47dd-8a72-f806a2b4711a"
+    }
+}

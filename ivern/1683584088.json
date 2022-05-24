@@ -1,0 +1,49 @@
+{
+    "character": "ivern",
+    "id": "1683584088",
+    "result": "德鲁伊在忍受着。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012584620,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.129]  德鲁伊在忍受着。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "德鲁伊在忍受着。",
+                    "SliceSentence": "德鲁伊 在 忍受 着",
+                    "StartMs": 0,
+                    "EndMs": 3129,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "德鲁伊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "忍受",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "着",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 3030
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.129063
+        },
+        "RequestId": "1e7b08ec-2982-40de-8909-570f9602650d"
+    }
+}

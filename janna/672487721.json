@@ -1,0 +1,49 @@
+{
+    "character": "janna",
+    "id": "672487721",
+    "result": "我将随风而行。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012683373,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.566]  我将随风而行。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我将随风而行。",
+                    "SliceSentence": "我 将 随风 而行",
+                    "StartMs": 0,
+                    "EndMs": 5566,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "将",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "随风",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 2520
+                        },
+                        {
+                            "Word": "而行",
+                            "OffsetStartMs": 2520,
+                            "OffsetEndMs": 3870
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.566313
+        },
+        "RequestId": "95555ca0-23dc-4976-9d44-aff749dce816"
+    }
+}

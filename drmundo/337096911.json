@@ -1,0 +1,39 @@
+{
+    "character": "drmundo",
+    "id": "337096911",
+    "result": "对，你疯了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012558296,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.039]  对，你疯了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "对，你疯了。",
+                    "SliceSentence": "对你 疯了",
+                    "StartMs": 0,
+                    "EndMs": 2039,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "对你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "疯了",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.0395
+        },
+        "RequestId": "69f5ff9a-0ecc-4f5d-ab21-3e88849bdb28"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "brand",
+    "id": "173012566",
+    "result": "嘿嘿嘿嘿，吼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012549792,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.784]  嘿嘿嘿嘿，吼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘿嘿嘿嘿，吼。",
+                    "SliceSentence": "嘿 嘿嘿 嘿 吼",
+                    "StartMs": 0,
+                    "EndMs": 4784,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "嘿",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "嘿嘿",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "嘿",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "吼",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 3180
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.784625
+        },
+        "RequestId": "c3fdee61-faa4-4db9-a22b-e1e0fefc0e61"
+    }
+}

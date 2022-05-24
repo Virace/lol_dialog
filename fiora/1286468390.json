@@ -1,0 +1,54 @@
+{
+    "character": "fiora",
+    "id": "1286468390",
+    "result": "我的剑准备好了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012567271,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.136]  我的剑准备好了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的剑准备好了。",
+                    "SliceSentence": "我 的 剑 准备 好了",
+                    "StartMs": 0,
+                    "EndMs": 2136,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "剑",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "准备",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "好了",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.13625
+        },
+        "RequestId": "526119b4-e104-4d49-be78-94692f749d29"
+    }
+}

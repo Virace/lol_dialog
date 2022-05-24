@@ -1,0 +1,49 @@
+{
+    "character": "irelia",
+    "id": "347499655",
+    "result": "跟着我的节奏。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012581979,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.994]  跟着我的节奏。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "跟着我的节奏。",
+                    "SliceSentence": "跟着 我 的 节奏",
+                    "StartMs": 0,
+                    "EndMs": 994,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "跟着",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "节奏",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 10.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.994375
+        },
+        "RequestId": "746b9718-bafe-4e72-847f-6acc5708131a"
+    }
+}

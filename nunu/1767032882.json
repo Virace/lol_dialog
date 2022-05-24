@@ -1,0 +1,59 @@
+{
+    "character": "nunu",
+    "id": "1767032882",
+    "result": "叫你给我上课，还让我数数。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012733839,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.172]  叫你给我上课，还让我数数。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "叫你给我上课，还让我数数。",
+                    "SliceSentence": "叫你 给我 上课 还 让我 数数",
+                    "StartMs": 0,
+                    "EndMs": 3172,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "叫你",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "给我",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "上课",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "还",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "让我",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "数数",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 3090
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.17225
+        },
+        "RequestId": "8e4253bb-a60e-44f1-a566-e628161869f9"
+    }
+}

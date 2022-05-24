@@ -1,0 +1,49 @@
+{
+    "character": "lucian",
+    "id": "1335861854",
+    "result": "躺好，别起来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012717337,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.739]  躺好，别起来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "躺好，别起来。",
+                    "SliceSentence": "躺 好 别 起来",
+                    "StartMs": 0,
+                    "EndMs": 2739,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "躺",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "起来",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.739938
+        },
+        "RequestId": "d6a62930-38c2-4111-a82d-17131574d83e"
+    }
+}

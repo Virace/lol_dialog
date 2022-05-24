@@ -1,0 +1,54 @@
+{
+    "character": "kayn",
+    "id": "1090927166",
+    "result": "他们应该再坚持一下。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012699043,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.531]  他们应该再坚持一下。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们应该再坚持一下。",
+                    "SliceSentence": "他们 应该 再 坚持 一下",
+                    "StartMs": 0,
+                    "EndMs": 2531,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "应该",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "再",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "坚持",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "一下",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.531
+        },
+        "RequestId": "30ba7807-dfb3-4c83-96ae-a38cfce3c4d3"
+    }
+}

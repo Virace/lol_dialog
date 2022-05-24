@@ -1,0 +1,49 @@
+{
+    "character": "quinn",
+    "id": "1852657571",
+    "result": "遮住他们的眼睛。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012748968,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.718]  遮住他们的眼睛。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "遮住他们的眼睛。",
+                    "SliceSentence": "遮住 他们 的 眼睛",
+                    "StartMs": 0,
+                    "EndMs": 1718,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "遮住",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "眼睛",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.718313
+        },
+        "RequestId": "2d22bd20-a9bc-4cd5-a947-0a67953ca175"
+    }
+}

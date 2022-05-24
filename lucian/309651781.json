@@ -1,0 +1,44 @@
+{
+    "character": "lucian",
+    "id": "309651781",
+    "result": "我慢慢适应。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718131,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.159]  我慢慢适应。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我慢慢适应。",
+                    "SliceSentence": "我 慢慢 适应",
+                    "StartMs": 0,
+                    "EndMs": 2159,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "慢慢",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "适应",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.159438
+        },
+        "RequestId": "8ef39f30-7d7c-470e-a0ea-1d0e4d2f2d6e"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "898172766",
+    "result": "你的口音怎么了？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012838189,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.040,0:1.741]  你的口音怎么了？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你的口音怎么了？",
+                    "SliceSentence": "你的 口音 怎么 了",
+                    "StartMs": 40,
+                    "EndMs": 1741,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "口音",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "怎么",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.7415
+        },
+        "RequestId": "7fd0c135-9dc8-4631-93b8-47dfb3cd3876"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "yorick",
+    "id": "1058469911",
+    "result": "你就快死了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012843838,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.444]  你就快死了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你就快死了。",
+                    "SliceSentence": "你就 快 死 了",
+                    "StartMs": 0,
+                    "EndMs": 2444,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你就",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "快",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "死",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.444188
+        },
+        "RequestId": "8d34c1ff-ffb3-42da-9619-f2aa1edd2113"
+    }
+}

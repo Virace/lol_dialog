@@ -1,0 +1,44 @@
+{
+    "character": "ivern",
+    "id": "104650827",
+    "result": "危险要来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012583199,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.448]  危险要来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "危险要来了。",
+                    "SliceSentence": "危险 要来 了",
+                    "StartMs": 0,
+                    "EndMs": 2448,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "危险",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "要来",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.448
+        },
+        "RequestId": "a51ca58c-5b72-4a13-b77a-de9904d24c6c"
+    }
+}

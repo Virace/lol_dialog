@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "332707472",
+    "result": "深水会把你压碎。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746024,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.304]  深水会把你压碎。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "深水会把你压碎。",
+                    "SliceSentence": "深水 会把 你 压碎",
+                    "StartMs": 0,
+                    "EndMs": 3304,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "深水",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "会把",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "压碎",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2610
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.304063
+        },
+        "RequestId": "7f65d465-feaa-4c6d-8150-68154190706c"
+    }
+}

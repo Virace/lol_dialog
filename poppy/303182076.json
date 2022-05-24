@@ -1,0 +1,39 @@
+{
+    "character": "poppy",
+    "id": "303182076",
+    "result": "不应如此。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012742843,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.938]  不应如此。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不应如此。",
+                    "SliceSentence": "不应 如此",
+                    "StartMs": 0,
+                    "EndMs": 1938,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "不应",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "如此",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.938063
+        },
+        "RequestId": "722c96c7-0616-499f-b912-dbd5862f92e7"
+    }
+}

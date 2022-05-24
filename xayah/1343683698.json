@@ -1,0 +1,39 @@
+{
+    "character": "xayah",
+    "id": "1343683698",
+    "result": "我也是。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012834413,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.901]  我也是。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我也是。",
+                    "SliceSentence": "我 也是",
+                    "StartMs": 0,
+                    "EndMs": 901,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "也是",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 660
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.901938
+        },
+        "RequestId": "a28415ae-dc8b-4f5d-b8de-00eb667cebd9"
+    }
+}

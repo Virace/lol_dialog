@@ -1,0 +1,39 @@
+{
+    "character": "yorick",
+    "id": "304322258",
+    "result": "不要反抗。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012844354,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.080,0:2.555]  不要反抗。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要反抗。",
+                    "SliceSentence": "不要 反抗",
+                    "StartMs": 80,
+                    "EndMs": 2555,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "反抗",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.555375
+        },
+        "RequestId": "b4572ae1-a166-420e-90e0-9cb3cc1a7781"
+    }
+}

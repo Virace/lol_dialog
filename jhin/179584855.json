@@ -1,0 +1,44 @@
+{
+    "character": "jhin",
+    "id": "179584855",
+    "result": "我早已烂熟于心。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012685535,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.116]  我早已烂熟于心。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我早已烂熟于心。",
+                    "SliceSentence": "我 早已 烂熟于心",
+                    "StartMs": 0,
+                    "EndMs": 3116,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "早已",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "烂熟于心",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.116688
+        },
+        "RequestId": "cb101316-35bb-45e4-b89a-d425cad6456a"
+    }
+}

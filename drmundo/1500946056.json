@@ -1,0 +1,44 @@
+{
+    "character": "drmundo",
+    "id": "1500946056",
+    "result": "护士拿论语。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012557574,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.488]  护士拿论语。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "护士拿论语。",
+                    "SliceSentence": "护士 拿 论语",
+                    "StartMs": 0,
+                    "EndMs": 4488,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "护士",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "拿",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "论语",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 3870
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.488938
+        },
+        "RequestId": "83a002ff-cee3-42b9-832d-22348d5a4882"
+    }
+}

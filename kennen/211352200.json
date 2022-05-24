@@ -1,0 +1,39 @@
+{
+    "character": "kennen",
+    "id": "211352200",
+    "result": "七呀。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012703433,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.812]  七呀。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "七呀。",
+                    "SliceSentence": "七 呀",
+                    "StartMs": 0,
+                    "EndMs": 812,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "七",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "呀",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 720
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.812438
+        },
+        "RequestId": "5551c57c-79fc-4455-bab7-ec60b1dd8fc0"
+    }
+}

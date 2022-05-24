@@ -1,0 +1,39 @@
+{
+    "character": "jayce",
+    "id": "644824",
+    "result": "变形完毕。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012684256,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.275]  变形完毕。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "变形完毕。",
+                    "SliceSentence": "变形 完毕",
+                    "StartMs": 0,
+                    "EndMs": 2275,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "变形",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "完毕",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.275563
+        },
+        "RequestId": "ba3ddd10-a94d-40d7-b89a-985deb57ebce"
+    }
+}

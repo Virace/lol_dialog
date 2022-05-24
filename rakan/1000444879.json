@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "1000444879",
+    "result": "路要走了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749161,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.583]  路要走了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "路要走了。",
+                    "SliceSentence": "路 要 走 了",
+                    "StartMs": 0,
+                    "EndMs": 1583,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "路",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "走",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.583375
+        },
+        "RequestId": "4cfa0762-6386-4701-896e-9c41d841e989"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "taliyah",
+    "id": "519137653",
+    "result": "看看有多棒。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012793554,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.233]  看看有多棒。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "看看有多棒。",
+                    "SliceSentence": "看看 有 多 棒",
+                    "StartMs": 0,
+                    "EndMs": 1233,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "看看",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "多",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "棒",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 7.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.2335
+        },
+        "RequestId": "3b995d07-a830-452d-a355-49bb5257646e"
+    }
+}

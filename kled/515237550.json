@@ -1,0 +1,59 @@
+{
+    "character": "kled",
+    "id": "515237550",
+    "result": "我的斧子为我代言。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012708197,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.539]  我的斧子为我代言。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的斧子为我代言。",
+                    "SliceSentence": "我 的 斧子 为 我 代言",
+                    "StartMs": 0,
+                    "EndMs": 2539,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "斧子",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "为",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "代言",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.539875
+        },
+        "RequestId": "e4aea293-5c5b-446d-a5ad-3ff047a68ae5"
+    }
+}

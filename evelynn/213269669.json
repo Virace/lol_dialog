@@ -1,0 +1,44 @@
+{
+    "character": "evelynn",
+    "id": "213269669",
+    "result": "好烫啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012563124,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.980]  好烫啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好烫啊。",
+                    "SliceSentence": "好 烫 啊",
+                    "StartMs": 0,
+                    "EndMs": 2980,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "烫",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.157938
+        },
+        "RequestId": "2d29391c-6ebe-42ee-8587-22ce01214d4a"
+    }
+}

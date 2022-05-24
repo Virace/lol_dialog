@@ -1,0 +1,49 @@
+{
+    "character": "akali",
+    "id": "1896758185",
+    "result": "你拦不住啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012539255,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.327]  你拦不住啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你拦不住啊。",
+                    "SliceSentence": "你 拦 不住 啊",
+                    "StartMs": 0,
+                    "EndMs": 1327,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "拦",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "不住",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 6.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.327063
+        },
+        "RequestId": "1958c78f-9921-42f0-a2c7-69789d3bb0e1"
+    }
+}

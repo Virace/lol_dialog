@@ -1,0 +1,49 @@
+{
+    "character": "ziggs",
+    "id": "2038229117",
+    "result": "炸弹飞远喽。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012853455,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.004]  炸弹飞远喽。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "炸弹飞远喽。",
+                    "SliceSentence": "炸弹 飞 远 喽",
+                    "StartMs": 0,
+                    "EndMs": 2004,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "炸弹",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "飞",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "远",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "喽",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.0045
+        },
+        "RequestId": "615e3e3d-64a6-4c69-b785-710ad9318ebf"
+    }
+}

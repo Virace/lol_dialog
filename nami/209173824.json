@@ -1,0 +1,49 @@
+{
+    "character": "nami",
+    "id": "209173824",
+    "result": "不要逼我出手。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012727856,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.423]  不要逼我出手。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要逼我出手。",
+                    "SliceSentence": "不要 逼 我 出手",
+                    "StartMs": 0,
+                    "EndMs": 2423,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "逼",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "出手",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.42375
+        },
+        "RequestId": "b28dc571-52dc-4b60-8900-a6fc02620775"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "ezreal",
+    "id": "65060252",
+    "result": "那个是呃，哪个是警告。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012566831,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.291]  那个是呃，哪个是警告。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "那个是呃，哪个是警告。",
+                    "SliceSentence": "那个 是 呃 哪个 是 警告",
+                    "StartMs": 0,
+                    "EndMs": 3291,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "那个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "呃",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "哪个",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 2460
+                        },
+                        {
+                            "Word": "警告",
+                            "OffsetStartMs": 2460,
+                            "OffsetEndMs": 3090
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.29125
+        },
+        "RequestId": "eac8afad-3218-40bc-81ad-f1251769dd87"
+    }
+}

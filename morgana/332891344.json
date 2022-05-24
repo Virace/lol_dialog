@@ -1,0 +1,49 @@
+{
+    "character": "morgana",
+    "id": "332891344",
+    "result": "你从来也没说过。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012727072,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.453]  你从来也没说过。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你从来也没说过。",
+                    "SliceSentence": "你从 来也 没说 过",
+                    "StartMs": 0,
+                    "EndMs": 2453,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你从",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "来也",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "没说",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "过",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.453875
+        },
+        "RequestId": "232a390d-b2d0-4704-abe8-4830c106e2c2"
+    }
+}

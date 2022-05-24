@@ -1,0 +1,49 @@
+{
+    "character": "drmundo",
+    "id": "1860722577",
+    "result": "我治病，你放心。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012558048,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.577]  我治病，你放心。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我治病，你放心。",
+                    "SliceSentence": "我 治病 你 放心",
+                    "StartMs": 0,
+                    "EndMs": 2577,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "治病",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "放心",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.577938
+        },
+        "RequestId": "d67b12ef-9c3f-4482-bd5f-7b9c0e7dedc9"
+    }
+}

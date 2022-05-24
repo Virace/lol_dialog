@@ -1,0 +1,44 @@
+{
+    "character": "twitch",
+    "id": "520392805",
+    "result": "我需要捐赠。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012803887,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.763]  我需要捐赠。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我需要捐赠。",
+                    "SliceSentence": "我 需要 捐赠",
+                    "StartMs": 0,
+                    "EndMs": 2763,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "捐赠",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 2610
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.763188
+        },
+        "RequestId": "c206fd11-4f32-4ce9-a2a2-37c8a8e75165"
+    }
+}

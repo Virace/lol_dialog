@@ -1,0 +1,44 @@
+{
+    "character": "ivern",
+    "id": "1888355585",
+    "result": "不要待太久。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012584822,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.130]  不要待太久。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要待太久。",
+                    "SliceSentence": "不要 待 太久",
+                    "StartMs": 0,
+                    "EndMs": 2130,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "待",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "太久",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.13
+        },
+        "RequestId": "678e8875-0e19-42d5-aa82-b3c90f41d01b"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "drmundo",
+    "id": "1610477344",
+    "result": "张嘴啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012557869,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.661]  张嘴啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "张嘴啊。",
+                    "SliceSentence": "张嘴 啊",
+                    "StartMs": 0,
+                    "EndMs": 3661,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "张嘴",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 3390
+                        }
+                    ],
+                    "SpeechSpeed": 1.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.661938
+        },
+        "RequestId": "26932bcc-937c-4f0d-93dd-845f1050c169"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "shaco",
+    "id": "350352594",
+    "result": "再靠近一点儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012774070,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.076]  再靠近一点儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "再靠近一点儿。",
+                    "SliceSentence": "再 靠近 一点儿",
+                    "StartMs": 0,
+                    "EndMs": 2076,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "再",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "靠近",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "一点儿",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.076813
+        },
+        "RequestId": "fd6b4389-edc9-42e5-b9c1-dc270864d6da"
+    }
+}

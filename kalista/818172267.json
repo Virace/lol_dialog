@@ -1,0 +1,44 @@
+{
+    "character": "kalista",
+    "id": "818172267",
+    "result": "与我们结合。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012694817,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.006]  与我们结合。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "与我们结合。",
+                    "SliceSentence": "与 我们 结合",
+                    "StartMs": 0,
+                    "EndMs": 3006,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "与",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "结合",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 2580
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.006813
+        },
+        "RequestId": "b80c4d4c-ded9-44c2-a350-d91174d7b34b"
+    }
+}

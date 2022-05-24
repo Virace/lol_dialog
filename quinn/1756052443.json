@@ -1,0 +1,65 @@
+{
+    "character": "quinn",
+    "id": "1756052443",
+    "result": "谁在那里，嘉文？华洛。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012748982,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.800,0:5.080]  谁在那里，嘉文？\n[0:5.120,0:7.592]  华洛。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "谁在那里，嘉文？",
+                    "SliceSentence": "谁 在那里 嘉文",
+                    "StartMs": 800,
+                    "EndMs": 5080,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "谁",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "在那里",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "嘉文",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 3690
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "华洛。",
+                    "SliceSentence": "华 洛",
+                    "StartMs": 5120,
+                    "EndMs": 7592,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "华",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "洛",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.592938
+        },
+        "RequestId": "5b658e9d-4039-498e-984e-dc0d3e7ff562"
+    }
+}

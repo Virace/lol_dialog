@@ -1,0 +1,49 @@
+{
+    "character": "viktor",
+    "id": "693585813",
+    "result": "啊，呃呃呃。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012815042,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.769]  啊，呃呃呃。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，呃呃呃。",
+                    "SliceSentence": "啊 呃 呃 呃",
+                    "StartMs": 0,
+                    "EndMs": 4769,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "呃",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2640
+                        },
+                        {
+                            "Word": "呃",
+                            "OffsetStartMs": 2670,
+                            "OffsetEndMs": 3330
+                        },
+                        {
+                            "Word": "呃",
+                            "OffsetStartMs": 3390,
+                            "OffsetEndMs": 3840
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.769188
+        },
+        "RequestId": "88e3f580-8be9-44c2-8b63-63dd58915519"
+    }
+}

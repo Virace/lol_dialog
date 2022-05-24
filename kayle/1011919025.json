@@ -1,0 +1,54 @@
+{
+    "character": "kayle",
+    "id": "1011919025",
+    "result": "我即是光明与荣耀。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012697227,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.661]  我即是光明与荣耀。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我即是光明与荣耀。",
+                    "SliceSentence": "我 即是 光明 与 荣耀",
+                    "StartMs": 0,
+                    "EndMs": 3661,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "即是",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "光明",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "与",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "荣耀",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2850
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.66125
+        },
+        "RequestId": "17cdc170-9916-4662-8f4e-8fbdf3e40d9f"
+    }
+}

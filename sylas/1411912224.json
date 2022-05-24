@@ -1,0 +1,39 @@
+{
+    "character": "sylas",
+    "id": "1411912224",
+    "result": "自上而下，从头到脚。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786421,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.819]  自上而下，从头到脚。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "自上而下，从头到脚。",
+                    "SliceSentence": "自上而下 从头到脚",
+                    "StartMs": 0,
+                    "EndMs": 2819,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "自上而下",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "从头到脚",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2760
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.819313
+        },
+        "RequestId": "c3f3a6f9-740c-4648-bfaa-1a68fe264436"
+    }
+}

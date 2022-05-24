@@ -1,0 +1,44 @@
+{
+    "character": "cassiopeia",
+    "id": "194558113",
+    "result": "只是一次尝试。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554863,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.995]  只是一次尝试。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "只是一次尝试。",
+                    "SliceSentence": "只是 一次 尝试",
+                    "StartMs": 0,
+                    "EndMs": 1995,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "只是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "一次",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "尝试",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.995938
+        },
+        "RequestId": "bd2c6302-b1b5-4e1a-bd6c-14a647d2262d"
+    }
+}

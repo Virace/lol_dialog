@@ -1,0 +1,59 @@
+{
+    "character": "kayn",
+    "id": "1212140927",
+    "result": "我是天选，也是唯一。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012699221,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.503]  我是天选，也是唯一。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我是天选，也是唯一。",
+                    "SliceSentence": "我 是 天 选 也是 唯一",
+                    "StartMs": 0,
+                    "EndMs": 4503,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "天",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "选",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "也是",
+                            "OffsetStartMs": 2340,
+                            "OffsetEndMs": 3060
+                        },
+                        {
+                            "Word": "唯一",
+                            "OffsetStartMs": 3060,
+                            "OffsetEndMs": 3870
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.503313
+        },
+        "RequestId": "d43934ae-656d-4fc1-8cd7-4077e5971882"
+    }
+}

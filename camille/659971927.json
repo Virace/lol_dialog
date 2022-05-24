@@ -1,0 +1,54 @@
+{
+    "character": "camille",
+    "id": "659971927",
+    "result": "我已经看透你了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553805,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.553]  我已经看透你了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我已经看透你了。",
+                    "SliceSentence": "我 已经 看透 你 了",
+                    "StartMs": 0,
+                    "EndMs": 1553,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "看透",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 7.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.553125
+        },
+        "RequestId": "76c5771e-6956-4dac-bbc0-c0a8d0bff87f"
+    }
+}

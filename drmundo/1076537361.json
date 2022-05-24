@@ -1,0 +1,44 @@
+{
+    "character": "drmundo",
+    "id": "1076537361",
+    "result": "听医生的话。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012557006,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.992]  听医生的话。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "听医生的话。",
+                    "SliceSentence": "听 医生 的话",
+                    "StartMs": 0,
+                    "EndMs": 1992,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "听",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "医生",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "的话",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.99225
+        },
+        "RequestId": "22d273ea-545c-44e6-bfa6-b2917c724602"
+    }
+}

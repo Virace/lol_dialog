@@ -1,0 +1,54 @@
+{
+    "character": "neeko",
+    "id": "270141539",
+    "result": "干得不错，但不是你搞。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012730242,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.075]  干得不错，但不是你搞。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "干得不错，但不是你搞。",
+                    "SliceSentence": "干得 不错 但 不是 你搞",
+                    "StartMs": 0,
+                    "EndMs": 2075,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "干得",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "不错",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "但",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "你搞",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.075813
+        },
+        "RequestId": "02a7c4ba-9bf0-4c71-9d49-62bbf7d019d9"
+    }
+}

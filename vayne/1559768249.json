@@ -1,0 +1,44 @@
+{
+    "character": "vayne",
+    "id": "1559768249",
+    "result": "肮脏的蠢蛋。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012808534,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.600]  肮脏的蠢蛋。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "肮脏的蠢蛋。",
+                    "SliceSentence": "肮脏 的 蠢蛋",
+                    "StartMs": 0,
+                    "EndMs": 2600,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "肮脏",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "蠢蛋",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.88075
+        },
+        "RequestId": "726811a2-103c-41e4-98c1-7e2ced1f223f"
+    }
+}

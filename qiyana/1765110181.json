@@ -1,0 +1,44 @@
+{
+    "character": "qiyana",
+    "id": "1765110181",
+    "result": "转过脸去。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012747775,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.857]  转过脸去。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "转过脸去。",
+                    "SliceSentence": "转过 脸 去",
+                    "StartMs": 0,
+                    "EndMs": 1857,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "转过",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "脸",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.857625
+        },
+        "RequestId": "9f96a3dd-1dcb-4a12-bf99-584e4c1ecc79"
+    }
+}

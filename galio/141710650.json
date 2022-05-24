@@ -1,0 +1,49 @@
+{
+    "character": "galio",
+    "id": "141710650",
+    "result": "和我打赶紧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568370,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.348]  和我打赶紧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "和我打赶紧。",
+                    "SliceSentence": "和 我 打 赶紧",
+                    "StartMs": 0,
+                    "EndMs": 1348,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "和",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "打",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "赶紧",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.348813
+        },
+        "RequestId": "329f085b-7013-419f-bbb2-bd9c70d99f02"
+    }
+}

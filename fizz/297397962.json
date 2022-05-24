@@ -1,0 +1,39 @@
+{
+    "character": "fizz",
+    "id": "297397962",
+    "result": "踩在浪花。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012567975,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.996]  踩在浪花。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "踩在浪花。",
+                    "SliceSentence": "踩在 浪花",
+                    "StartMs": 0,
+                    "EndMs": 1996,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "踩在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "浪花",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.996938
+        },
+        "RequestId": "2c0bf21e-4ea9-47ca-9692-0db6cf905d9f"
+    }
+}

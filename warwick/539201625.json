@@ -1,0 +1,54 @@
+{
+    "character": "warwick",
+    "id": "539201625",
+    "result": "三只手都没抓得。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012832282,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.282]  三只手都没抓得。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "三只手都没抓得。",
+                    "SliceSentence": "三只 手 都没 抓 得",
+                    "StartMs": 0,
+                    "EndMs": 5282,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "三只",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "手",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "都没",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 3030
+                        },
+                        {
+                            "Word": "抓",
+                            "OffsetStartMs": 3030,
+                            "OffsetEndMs": 3690
+                        },
+                        {
+                            "Word": "得",
+                            "OffsetStartMs": 3690,
+                            "OffsetEndMs": 4290
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.282688
+        },
+        "RequestId": "30ebd9b8-1412-4871-9459-bff962de998b"
+    }
+}

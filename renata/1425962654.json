@@ -1,0 +1,49 @@
+{
+    "character": "renata",
+    "id": "1425962654",
+    "result": "这条手臂我很喜欢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012759627,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.000]  这条手臂我很喜欢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这条手臂我很喜欢。",
+                    "SliceSentence": "这条 手臂 我 很喜欢",
+                    "StartMs": 0,
+                    "EndMs": 3000,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这条",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "手臂",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "很喜欢",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.137438
+        },
+        "RequestId": "e4e2f61d-63c7-42a5-b8df-eeedba54f64b"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "caitlyn",
+    "id": "764382672",
+    "result": "我们去查案吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551864,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.962]  我们去查案吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们去查案吧。",
+                    "SliceSentence": "我们 去 查案 吧",
+                    "StartMs": 0,
+                    "EndMs": 1962,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "查案",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.962688
+        },
+        "RequestId": "a8daebaa-f0cf-4fb8-b946-7e3fbda4808d"
+    }
+}

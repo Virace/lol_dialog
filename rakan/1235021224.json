@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "1235021224",
+    "result": "我每天都问。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749844,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.158]  我每天都问。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我每天都问。",
+                    "SliceSentence": "我 每 天都 问",
+                    "StartMs": 0,
+                    "EndMs": 1158,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "每",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "天都",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "问",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 7.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.15825
+        },
+        "RequestId": "9878ade2-8764-4608-83b0-286d59d75b5f"
+    }
+}

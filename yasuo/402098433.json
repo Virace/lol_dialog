@@ -1,0 +1,75 @@
+{
+    "character": "yasuo",
+    "id": "402098433",
+    "result": "破损的剑刃。破损的意志。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012840593,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.720]  破损的剑刃。\n[0:2.720,0:4.566]  破损的意志。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "破损的剑刃。",
+                    "SliceSentence": "破损 的 剑 刃",
+                    "StartMs": 0,
+                    "EndMs": 2720,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "破损",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "剑",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "刃",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "破损的意志。",
+                    "SliceSentence": "破损 的 意志",
+                    "StartMs": 2720,
+                    "EndMs": 4566,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "破损",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "意志",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.566313
+        },
+        "RequestId": "b96cabd4-d58e-4a0a-80e3-64a9888054f6"
+    }
+}

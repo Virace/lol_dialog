@@ -1,0 +1,44 @@
+{
+    "character": "taliyah",
+    "id": "622642253",
+    "result": "哈哈哈哈，喔喔。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012793956,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.665]  哈哈哈哈，喔喔。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈，喔喔。",
+                    "SliceSentence": "哈哈 哈哈 喔喔",
+                    "StartMs": 0,
+                    "EndMs": 4665,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "喔喔",
+                            "OffsetStartMs": 2640,
+                            "OffsetEndMs": 3960
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.66575
+        },
+        "RequestId": "9ac55156-22cd-4971-8aba-0447ee24a889"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "kindred",
+    "id": "891744554",
+    "result": "不，那是我的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012705816,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.965]  不，那是我的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不，那是我的。",
+                    "SliceSentence": "不 那是 我 的",
+                    "StartMs": 0,
+                    "EndMs": 1965,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "那是",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.965063
+        },
+        "RequestId": "a93c9bf9-63db-49ce-b080-7365541116f5"
+    }
+}

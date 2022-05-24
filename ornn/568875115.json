@@ -1,0 +1,54 @@
+{
+    "character": "ornn",
+    "id": "568875115",
+    "result": "所有东西都修好了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012739671,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.955]  所有东西都修好了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "所有东西都修好了。",
+                    "SliceSentence": "所有 东西 都 修好 了",
+                    "StartMs": 0,
+                    "EndMs": 1955,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "所有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "都",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "修好",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.955688
+        },
+        "RequestId": "f7c1962f-4d4b-4868-95be-11bf4a116226"
+    }
+}

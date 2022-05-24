@@ -1,0 +1,44 @@
+{
+    "character": "camille",
+    "id": "318998255",
+    "result": "并不太困难。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552920,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.310]  并不太困难。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "并不太困难。",
+                    "SliceSentence": "并不 太 困难",
+                    "StartMs": 0,
+                    "EndMs": 1310,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "并不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "太",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "困难",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.310688
+        },
+        "RequestId": "dd9eaf51-1c38-4ff1-a89e-deb05a130a07"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "436289739",
+    "result": "快到了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012753447,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.080]  快到了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "快到了。",
+                    "SliceSentence": "快 到 了",
+                    "StartMs": 0,
+                    "EndMs": 1080,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "快",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.080313
+        },
+        "RequestId": "612a3343-c8ec-478f-95e4-6927c93ba5d4"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "twistedfate",
+    "id": "264302926",
+    "result": "我算算。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012802337,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.811]  我算算。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我算算。",
+                    "SliceSentence": "我 算算",
+                    "StartMs": 0,
+                    "EndMs": 1811,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "算算",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.81125
+        },
+        "RequestId": "a24191aa-0a76-43b9-9c21-ae6c4c372835"
+    }
+}

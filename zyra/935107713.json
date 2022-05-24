@@ -1,0 +1,54 @@
+{
+    "character": "zyra",
+    "id": "935107713",
+    "result": "只是一朵无害的鲜花。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012857616,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.247]  只是一朵无害的鲜花。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "只是一朵无害的鲜花。",
+                    "SliceSentence": "只是 一朵 无害 的 鲜花",
+                    "StartMs": 0,
+                    "EndMs": 3247,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "只是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "一朵",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "无害",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "鲜花",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 3090
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.24725
+        },
+        "RequestId": "c9e980d3-113f-49e2-a7e8-785cab09b58b"
+    }
+}

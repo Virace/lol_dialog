@@ -1,0 +1,44 @@
+{
+    "character": "diana",
+    "id": "1154249384",
+    "result": "拥抱黑夜吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556038,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.196]  拥抱黑夜吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "拥抱黑夜吧。",
+                    "SliceSentence": "拥抱 黑夜 吧",
+                    "StartMs": 0,
+                    "EndMs": 2196,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "拥抱",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "黑夜",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.196625
+        },
+        "RequestId": "eb848c5a-f3ed-4c81-b782-e72bc76fd5fe"
+    }
+}

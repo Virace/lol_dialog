@@ -1,0 +1,44 @@
+{
+    "character": "katarina",
+    "id": "869326732",
+    "result": "太简单啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012697186,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.839]  太简单啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "太简单啦。",
+                    "SliceSentence": "太 简单 啦",
+                    "StartMs": 0,
+                    "EndMs": 1839,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "太",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "简单",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.83975
+        },
+        "RequestId": "4517d9d8-fb31-4fea-ba8b-8c534d0cb812"
+    }
+}

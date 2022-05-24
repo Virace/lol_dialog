@@ -1,0 +1,49 @@
+{
+    "character": "vayne",
+    "id": "1579465868",
+    "result": "我已经判决了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012808537,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.600]  我已经判决了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我已经判决了。",
+                    "SliceSentence": "我 已经 判决 了",
+                    "StartMs": 0,
+                    "EndMs": 2600,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "判决",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.985
+        },
+        "RequestId": "3886bf33-a7dd-42c9-a61e-c0e801c9d8ff"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "kayn",
+    "id": "1620662174",
+    "result": "血洗这片土地。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012699890,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.661]  血洗这片土地。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "血洗这片土地。",
+                    "SliceSentence": "血洗 这片 土地",
+                    "StartMs": 0,
+                    "EndMs": 1661,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "血洗",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "这片",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "土地",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.66125
+        },
+        "RequestId": "16e0b426-8efd-4b68-a8e7-78fc250559da"
+    }
+}

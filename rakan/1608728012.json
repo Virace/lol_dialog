@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "1608728012",
+    "result": "挡不住啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012751140,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.458]  挡不住啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "挡不住啊。",
+                    "SliceSentence": "挡 不住 啊",
+                    "StartMs": 0,
+                    "EndMs": 1458,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "挡",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "不住",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.458063
+        },
+        "RequestId": "4f29ecfa-3299-4ee4-a43e-e240f16f1243"
+    }
+}

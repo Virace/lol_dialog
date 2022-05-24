@@ -1,0 +1,44 @@
+{
+    "character": "taric",
+    "id": "1034820953",
+    "result": "拥抱宇宙吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012796076,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.265]  拥抱宇宙吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "拥抱宇宙吧。",
+                    "SliceSentence": "拥抱 宇宙 吧",
+                    "StartMs": 0,
+                    "EndMs": 2265,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "拥抱",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "宇宙",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.265375
+        },
+        "RequestId": "85d11999-fcf0-4021-a668-0a8a9f4b8f0c"
+    }
+}

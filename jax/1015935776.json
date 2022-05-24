@@ -1,0 +1,54 @@
+{
+    "character": "jax",
+    "id": "1015935776",
+    "result": "没想到吧，我又回来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012683809,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.881]  没想到吧，我又回来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没想到吧，我又回来了。",
+                    "SliceSentence": "没想到 吧 我又 回来 了",
+                    "StartMs": 0,
+                    "EndMs": 2881,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "没想到",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "我又",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "回来",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2550
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2550,
+                            "OffsetEndMs": 2730
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.881125
+        },
+        "RequestId": "61ef2155-888a-46d5-9dfa-952e426bbbfa"
+    }
+}

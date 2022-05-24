@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "741604007",
+    "result": "你在那边开心吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012837761,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.525]  你在那边开心吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你在那边开心吗？",
+                    "SliceSentence": "你在 那边 开心 吗",
+                    "StartMs": 0,
+                    "EndMs": 1525,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "那边",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "开心",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 7.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.52575
+        },
+        "RequestId": "17cb98c0-21a5-4522-b300-d3ca7b1f4fe1"
+    }
+}

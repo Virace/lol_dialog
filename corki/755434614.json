@@ -1,0 +1,49 @@
+{
+    "character": "corki",
+    "id": "755434614",
+    "result": "哼哼，我正在追尾。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012555591,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.622]  哼哼，我正在追尾。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼，我正在追尾。",
+                    "SliceSentence": "哼哼 我 正在 追尾",
+                    "StartMs": 0,
+                    "EndMs": 3622,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "追尾",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2970
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.622313
+        },
+        "RequestId": "88d3e8de-59ce-4af6-bc0e-b6ba7c924e9e"
+    }
+}

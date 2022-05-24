@@ -1,0 +1,49 @@
+{
+    "character": "renata",
+    "id": "2004074423",
+    "result": "我说你就做。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012760350,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.680]  我说你就做。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我说你就做。",
+                    "SliceSentence": "我 说 你就 做",
+                    "StartMs": 0,
+                    "EndMs": 2680,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "你就",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "做",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.916813
+        },
+        "RequestId": "2893e9f5-9bf2-4c9b-8bf3-cd73e3be317c"
+    }
+}

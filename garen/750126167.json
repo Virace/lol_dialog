@@ -1,0 +1,39 @@
+{
+    "character": "garen",
+    "id": "750126167",
+    "result": "国王万岁。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012572410,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.322]  国王万岁。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "国王万岁。",
+                    "SliceSentence": "国王 万岁",
+                    "StartMs": 0,
+                    "EndMs": 1322,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "国王",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "万岁",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.3225
+        },
+        "RequestId": "d9a53606-d7e1-429e-b1eb-6c3ab4b2c666"
+    }
+}

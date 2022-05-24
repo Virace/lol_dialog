@@ -1,0 +1,39 @@
+{
+    "character": "fizz",
+    "id": "573156186",
+    "result": "榜一。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568006,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.950]  榜一。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "榜一。",
+                    "SliceSentence": "榜 一",
+                    "StartMs": 0,
+                    "EndMs": 1950,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "榜",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "一",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 750
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.9505
+        },
+        "RequestId": "ce88a327-258a-4cce-9f3a-2f68d5f17c43"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "quinn",
+    "id": "1474861432",
+    "result": "为我争取点时间。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012748815,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.718]  为我争取点时间。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "为我争取点时间。",
+                    "SliceSentence": "为 我 争取 点 时间",
+                    "StartMs": 0,
+                    "EndMs": 1718,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "为",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "争取",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "点",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.718313
+        },
+        "RequestId": "dea122a1-91c3-43ad-965f-a5933acc5e73"
+    }
+}

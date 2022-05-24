@@ -1,0 +1,44 @@
+{
+    "character": "yuumi",
+    "id": "32527665",
+    "result": "我们咬死你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012847543,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.956]  我们咬死你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们咬死你。",
+                    "SliceSentence": "我们 咬 死你",
+                    "StartMs": 0,
+                    "EndMs": 956,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "咬",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "死你",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 8.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.956563
+        },
+        "RequestId": "d705393f-6c32-4860-90f1-a30a5234c251"
+    }
+}

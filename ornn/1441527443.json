@@ -1,0 +1,49 @@
+{
+    "character": "ornn",
+    "id": "1441527443",
+    "result": "我一点也不在乎。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012738314,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.930]  我一点也不在乎。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我一点也不在乎。",
+                    "SliceSentence": "我 一点 也 不在乎",
+                    "StartMs": 0,
+                    "EndMs": 1930,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "一点",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "也",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "不在乎",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.93075
+        },
+        "RequestId": "7822c5bc-e73d-4ca2-bf1c-d61aa88fba38"
+    }
+}

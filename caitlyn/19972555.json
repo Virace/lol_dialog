@@ -1,0 +1,54 @@
+{
+    "character": "caitlyn",
+    "id": "19972555",
+    "result": "他们被我瞄准了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551405,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.346]  他们被我瞄准了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们被我瞄准了。",
+                    "SliceSentence": "他们 被 我 瞄准 了",
+                    "StartMs": 0,
+                    "EndMs": 2346,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "被",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "瞄准",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.346625
+        },
+        "RequestId": "e23cebce-971c-4bed-924f-431b202da56b"
+    }
+}

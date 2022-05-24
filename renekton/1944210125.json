@@ -1,0 +1,44 @@
+{
+    "character": "renekton",
+    "id": "1944210125",
+    "result": "啊哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012761730,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.504]  啊哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊哈哈哈哈。",
+                    "SliceSentence": "啊 哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 4504,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 3180
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.504688
+        },
+        "RequestId": "03906368-9230-4acd-9479-435a8e58ee81"
+    }
+}

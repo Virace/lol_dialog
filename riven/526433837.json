@@ -1,0 +1,54 @@
+{
+    "character": "riven",
+    "id": "526433837",
+    "result": "没有其他的路了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012763038,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.664]  没有其他的路了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没有其他的路了。",
+                    "SliceSentence": "没有 其他 的 路 了",
+                    "StartMs": 0,
+                    "EndMs": 1664,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "其他",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "路",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 7.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.664313
+        },
+        "RequestId": "945d5ff1-e2c5-44b4-8a6b-0d54d708843e"
+    }
+}

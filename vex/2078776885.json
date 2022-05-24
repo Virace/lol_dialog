@@ -1,0 +1,44 @@
+{
+    "character": "vex",
+    "id": "2078776885",
+    "result": "还没完呢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012811048,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.150]  还没完呢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "还没完呢。",
+                    "SliceSentence": "还没 完 呢",
+                    "StartMs": 0,
+                    "EndMs": 2150,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "还没",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "完",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.150125
+        },
+        "RequestId": "e18e0864-2abf-45db-82ea-509601de7f3d"
+    }
+}

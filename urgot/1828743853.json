@@ -1,0 +1,54 @@
+{
+    "character": "urgot",
+    "id": "1828743853",
+    "result": "和你相比，我很仁慈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012806425,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.022]  和你相比，我很仁慈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "和你相比，我很仁慈。",
+                    "SliceSentence": "和 你 相比 我很 仁慈",
+                    "StartMs": 0,
+                    "EndMs": 5022,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "和",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "相比",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "我很",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 2880
+                        },
+                        {
+                            "Word": "仁慈",
+                            "OffsetStartMs": 2880,
+                            "OffsetEndMs": 4590
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.02225
+        },
+        "RequestId": "72570152-1ef3-41e3-82e7-2afcd43477f3"
+    }
+}

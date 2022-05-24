@@ -1,0 +1,54 @@
+{
+    "character": "seraphine",
+    "id": "853081606",
+    "result": "音乐也是可以伤人的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012771823,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.900]  音乐也是可以伤人的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "音乐也是可以伤人的。",
+                    "SliceSentence": "音乐 也是 可以 伤人 的",
+                    "StartMs": 0,
+                    "EndMs": 2900,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "音乐",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "也是",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "伤人",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.324438
+        },
+        "RequestId": "fd0f16df-ba73-4985-aeb4-398b9e38007d"
+    }
+}

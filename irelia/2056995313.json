@@ -1,0 +1,54 @@
+{
+    "character": "irelia",
+    "id": "2056995313",
+    "result": "这是为了我的奶奶。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012581459,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.493]  这是为了我的奶奶。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是为了我的奶奶。",
+                    "SliceSentence": "这是 为了 我 的 奶奶",
+                    "StartMs": 0,
+                    "EndMs": 1493,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "为了",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "奶奶",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 8.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.493938
+        },
+        "RequestId": "0ac2d60e-cdfc-4100-986f-9c4a9a9d2e67"
+    }
+}

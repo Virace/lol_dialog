@@ -1,0 +1,54 @@
+{
+    "character": "ivern",
+    "id": "874007245",
+    "result": "你知道我的小蓝。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012683059,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.467]  你知道我的小蓝。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你知道我的小蓝。",
+                    "SliceSentence": "你 知道 我 的 小蓝",
+                    "StartMs": 0,
+                    "EndMs": 2467,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "小蓝",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.467625
+        },
+        "RequestId": "1ebc38b1-f8f8-49be-bebb-e77a020ee250"
+    }
+}

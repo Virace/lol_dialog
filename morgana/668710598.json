@@ -1,0 +1,54 @@
+{
+    "character": "morgana",
+    "id": "668710598",
+    "result": "我破碎的心仍在跳动。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012727274,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.194]  我破碎的心仍在跳动。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我破碎的心仍在跳动。",
+                    "SliceSentence": "我 破碎 的心 仍在 跳动",
+                    "StartMs": 0,
+                    "EndMs": 3194,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "破碎",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "的心",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "仍在",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "跳动",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2970
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.194125
+        },
+        "RequestId": "574ae58f-2cc7-44b5-80b5-f64593e42513"
+    }
+}

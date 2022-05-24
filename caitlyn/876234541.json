@@ -1,0 +1,59 @@
+{
+    "character": "caitlyn",
+    "id": "876234541",
+    "result": "我必须永远快人三步。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551975,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.538]  我必须永远快人三步。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我必须永远快人三步。",
+                    "SliceSentence": "我 必须 永远 快 人 三步",
+                    "StartMs": 0,
+                    "EndMs": 2538,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "必须",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "永远",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "快",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "人",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "三步",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.538688
+        },
+        "RequestId": "3239459e-fade-45e1-80a5-5693f90c91b0"
+    }
+}

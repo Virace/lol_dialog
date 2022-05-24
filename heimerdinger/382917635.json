@@ -1,0 +1,59 @@
+{
+    "character": "heimerdinger",
+    "id": "382917635",
+    "result": "42、有些东西与这个数字有关。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012576596,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.575]  42、有些东西与这个数字有关。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "42、有些东西与这个数字有关。",
+                    "SliceSentence": "42 有些 东西 与 这个数字 有关",
+                    "StartMs": 0,
+                    "EndMs": 3575,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "42",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "有些",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "与",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "这个数字",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 2790
+                        },
+                        {
+                            "Word": "有关",
+                            "OffsetStartMs": 2790,
+                            "OffsetEndMs": 3510
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.575313
+        },
+        "RequestId": "f17ea2a8-90df-4cac-86ce-f9ba04b4a0ad"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "pantheon",
+    "id": "480942913",
+    "result": "战吼，大声点儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012742058,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.140]  战吼，大声点儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "战吼，大声点儿。",
+                    "SliceSentence": "战 吼 大声 点儿",
+                    "StartMs": 0,
+                    "EndMs": 3140,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "战",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "吼",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "大声",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "点儿",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.575875
+        },
+        "RequestId": "4c7b84ee-6b93-4a47-94bf-a300a8f3fd69"
+    }
+}

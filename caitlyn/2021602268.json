@@ -1,0 +1,44 @@
+{
+    "character": "caitlyn",
+    "id": "2021602268",
+    "result": "案件已破。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551428,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.048]  案件已破。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "案件已破。",
+                    "SliceSentence": "案件 已 破",
+                    "StartMs": 0,
+                    "EndMs": 2048,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "案件",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "已",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "破",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.048
+        },
+        "RequestId": "0bcc34e0-62e7-4e34-b8b7-3ec471035fca"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "nami",
+    "id": "1010050634",
+    "result": "让海水吞噬他们。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012727687,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.237]  让海水吞噬他们。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "让海水吞噬他们。",
+                    "SliceSentence": "让 海水 吞噬 他们",
+                    "StartMs": 0,
+                    "EndMs": 2237,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "让",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "海水",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "吞噬",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.237313
+        },
+        "RequestId": "fe72a3db-7f84-4c0c-ac04-dbe9d284c595"
+    }
+}

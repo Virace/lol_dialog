@@ -1,0 +1,49 @@
+{
+    "character": "warwick",
+    "id": "91298155",
+    "result": "你会听我的呼唤。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012833240,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.403]  你会听我的呼唤。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你会听我的呼唤。",
+                    "SliceSentence": "你会 听我 的 呼唤",
+                    "StartMs": 0,
+                    "EndMs": 3403,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你会",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "听我",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "呼唤",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.403
+        },
+        "RequestId": "ba165a9e-c3cd-4960-8d51-ae862b71adfa"
+    }
+}

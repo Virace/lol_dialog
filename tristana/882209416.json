@@ -1,0 +1,49 @@
+{
+    "character": "tristana",
+    "id": "882209416",
+    "result": "正在拆房子呢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012800678,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.261]  正在拆房子呢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "正在拆房子呢。",
+                    "SliceSentence": "正在 拆房 子 呢",
+                    "StartMs": 0,
+                    "EndMs": 1261,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "拆房",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "子",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 7.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.26125
+        },
+        "RequestId": "443a64d1-0133-4307-8d6b-fb253a94325e"
+    }
+}

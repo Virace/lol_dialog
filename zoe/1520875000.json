@@ -1,0 +1,59 @@
+{
+    "character": "zoe",
+    "id": "1520875000",
+    "result": "你好嗨喂呃，随便吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012854788,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.285]  你好嗨喂呃，随便吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你好嗨喂呃，随便吧。",
+                    "SliceSentence": "你好 嗨 喂 呃 随便 吧",
+                    "StartMs": 0,
+                    "EndMs": 3285,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "嗨",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "喂",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "呃",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "随便",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 2670
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.285188
+        },
+        "RequestId": "7f4cc667-604e-4b3f-9a3e-80af5167575d"
+    }
+}

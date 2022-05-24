@@ -1,0 +1,49 @@
+{
+    "character": "yasuo",
+    "id": "28046826",
+    "result": "不可久留于一处。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012840462,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.104]  不可久留于一处。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不可久留于一处。",
+                    "SliceSentence": "不可 久留 于 一处",
+                    "StartMs": 0,
+                    "EndMs": 2104,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "不可",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "久留",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "于",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "一处",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.104313
+        },
+        "RequestId": "ae10c2ba-c0f2-4ff2-bb52-aed088d97959"
+    }
+}

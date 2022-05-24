@@ -1,0 +1,59 @@
+{
+    "character": "sylas",
+    "id": "132405315",
+    "result": "哦，我感觉很有毒啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786337,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.614]  哦，我感觉很有毒啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哦，我感觉很有毒啊。",
+                    "SliceSentence": "哦 我 感觉 很 有毒 啊",
+                    "StartMs": 0,
+                    "EndMs": 4614,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "哦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "感觉",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "很",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2970
+                        },
+                        {
+                            "Word": "有毒",
+                            "OffsetStartMs": 3420,
+                            "OffsetEndMs": 4200
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 4200,
+                            "OffsetEndMs": 4530
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.614313
+        },
+        "RequestId": "9bdad5c5-ec11-4362-8afb-5a454c27e0a0"
+    }
+}

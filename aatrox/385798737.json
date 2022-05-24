@@ -1,0 +1,49 @@
+{
+    "character": "aatrox",
+    "id": "385798737",
+    "result": "我给你带来胜利。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012537436,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.766]  我给你带来胜利。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我给你带来胜利。",
+                    "SliceSentence": "我 给你 带来 胜利",
+                    "StartMs": 0,
+                    "EndMs": 3766,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "给你",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "带来",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "胜利",
+                            "OffsetStartMs": 2370,
+                            "OffsetEndMs": 3090
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.766188
+        },
+        "RequestId": "5c981250-6350-463f-ba09-0ffe6aa6e346"
+    }
+}

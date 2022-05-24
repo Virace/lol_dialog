@@ -1,0 +1,59 @@
+{
+    "character": "kindred",
+    "id": "976024072",
+    "result": "我闻到了猎物的气息。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012705939,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.435]  我闻到了猎物的气息。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我闻到了猎物的气息。",
+                    "SliceSentence": "我 闻到 了 猎物 的 气息",
+                    "StartMs": 0,
+                    "EndMs": 2435,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "闻到",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "猎物",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "气息",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.435063
+        },
+        "RequestId": "460d82b1-c3ef-4b49-b931-ee16602e3fd2"
+    }
+}

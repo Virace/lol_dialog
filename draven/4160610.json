@@ -1,0 +1,49 @@
+{
+    "character": "draven",
+    "id": "4160610",
+    "result": "德莱文正在退场。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556821,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.860]  德莱文正在退场。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "德莱文正在退场。",
+                    "SliceSentence": "德莱 文正 在 退场",
+                    "StartMs": 0,
+                    "EndMs": 2860,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "德莱",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "文正",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "退场",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.283813
+        },
+        "RequestId": "b6b962a6-2e03-4b0a-93d4-3ad8291763c8"
+    }
+}

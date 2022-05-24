@@ -1,0 +1,39 @@
+{
+    "character": "warwick",
+    "id": "810874639",
+    "result": "我很冷静。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012833013,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.920]  我很冷静。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我很冷静。",
+                    "SliceSentence": "我很 冷静",
+                    "StartMs": 0,
+                    "EndMs": 2920,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我很",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "冷静",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.920375
+        },
+        "RequestId": "96aad841-9fbf-484f-a68e-982ddb273c0c"
+    }
+}

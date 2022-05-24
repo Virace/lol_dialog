@@ -1,0 +1,49 @@
+{
+    "character": "sett",
+    "id": "1925831545",
+    "result": "我要求冲赛。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012772905,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.343]  我要求冲赛。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要求冲赛。",
+                    "SliceSentence": "我 要求 冲 赛",
+                    "StartMs": 0,
+                    "EndMs": 3343,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "要求",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "冲",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "赛",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.343688
+        },
+        "RequestId": "40383ec8-19be-4892-92b3-2fcbf924c568"
+    }
+}

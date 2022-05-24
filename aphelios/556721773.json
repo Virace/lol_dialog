@@ -1,0 +1,44 @@
+{
+    "character": "aphelios",
+    "id": "556721773",
+    "result": "哼哼哼哼哼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012543999,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.668]  哼哼哼哼哼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼哼哼哼。",
+                    "SliceSentence": "哼 哼哼 哼哼",
+                    "StartMs": 0,
+                    "EndMs": 3668,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.66875
+        },
+        "RequestId": "083bbfeb-16a8-44af-8f56-353186872d53"
+    }
+}

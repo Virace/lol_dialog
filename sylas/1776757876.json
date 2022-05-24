@@ -1,0 +1,49 @@
+{
+    "character": "sylas",
+    "id": "1776757876",
+    "result": "我只好小娜了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786844,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.933]  我只好小娜了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我只好小娜了。",
+                    "SliceSentence": "我 只好 小娜 了",
+                    "StartMs": 0,
+                    "EndMs": 1933,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "只好",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "小娜",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.933563
+        },
+        "RequestId": "ff2892d8-e157-4ea4-80f2-5fc79504d80d"
+    }
+}

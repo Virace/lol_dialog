@@ -1,0 +1,49 @@
+{
+    "character": "viego",
+    "id": "1926584325",
+    "result": "现在听我号令前进。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012813742,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.752]  现在听我号令前进。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "现在听我号令前进。",
+                    "SliceSentence": "现在 听我 号令 前进",
+                    "StartMs": 0,
+                    "EndMs": 4752,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "听我",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "号令",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "前进",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2970
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.752813
+        },
+        "RequestId": "26c25934-db78-4a7f-b397-de78ad8cebd6"
+    }
+}

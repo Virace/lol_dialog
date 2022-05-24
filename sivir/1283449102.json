@@ -1,0 +1,54 @@
+{
+    "character": "sivir",
+    "id": "1283449102",
+    "result": "又完成了一份合同。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012778454,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.812]  又完成了一份合同。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "又完成了一份合同。",
+                    "SliceSentence": "又 完成 了 一份 合同",
+                    "StartMs": 0,
+                    "EndMs": 1812,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "又",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "完成",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "一份",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "合同",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 7.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.81225
+        },
+        "RequestId": "971d3ac9-4ccc-4f28-aa5c-e33ae49dab05"
+    }
+}

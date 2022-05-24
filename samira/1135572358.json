@@ -1,0 +1,54 @@
+{
+    "character": "samira",
+    "id": "1135572358",
+    "result": "赌我赢就对了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012765997,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.229]  赌我赢就对了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "赌我赢就对了。",
+                    "SliceSentence": "赌 我 赢 就对 了",
+                    "StartMs": 0,
+                    "EndMs": 2229,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "赌",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "赢",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "就对",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.229125
+        },
+        "RequestId": "451d32a5-5506-4e94-a8c3-a44f75b74205"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "heimerdinger",
+    "id": "894502923",
+    "result": "嗯哼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012576803,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.961]  嗯哼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯哼。",
+                    "SliceSentence": "嗯 哼",
+                    "StartMs": 0,
+                    "EndMs": 961,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "哼",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.961188
+        },
+        "RequestId": "97cdd914-9f05-4bec-af89-8a73be320b82"
+    }
+}

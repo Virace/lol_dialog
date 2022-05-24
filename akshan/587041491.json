@@ -1,0 +1,54 @@
+{
+    "character": "akshan",
+    "id": "587041491",
+    "result": "你还有什么说的？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012541400,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.984]  你还有什么说的？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你还有什么说的？",
+                    "SliceSentence": "你 还有 什么 说 的",
+                    "StartMs": 0,
+                    "EndMs": 1984,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "还有",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.984
+        },
+        "RequestId": "7875984d-792b-4f94-858d-5c082b80f184"
+    }
+}

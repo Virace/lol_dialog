@@ -1,0 +1,39 @@
+{
+    "character": "kled",
+    "id": "715700204",
+    "result": "给我安静。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012709122,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.749]  给我安静。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "给我安静。",
+                    "SliceSentence": "给我 安静",
+                    "StartMs": 0,
+                    "EndMs": 1749,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "给我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "安静",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.74925
+        },
+        "RequestId": "06d8837e-f457-4a2f-95be-33d92dfbb369"
+    }
+}

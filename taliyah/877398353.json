@@ -1,0 +1,59 @@
+{
+    "character": "taliyah",
+    "id": "877398353",
+    "result": "让他们多读点书吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012795051,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.859]  让他们多读点书吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "让他们多读点书吧。",
+                    "SliceSentence": "让 他们 多 读 点 书吧",
+                    "StartMs": 0,
+                    "EndMs": 1859,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "让",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "多",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "读",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "点",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "书吧",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 7.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.859688
+        },
+        "RequestId": "41daabdc-b209-4311-a29f-ea3fe7260faa"
+    }
+}

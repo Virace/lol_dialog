@@ -1,0 +1,54 @@
+{
+    "character": "xayah",
+    "id": "394862502",
+    "result": "我们一直都有计划的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012836610,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.645]  我们一直都有计划的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们一直都有计划的。",
+                    "SliceSentence": "我们 一直 都有 计划 的",
+                    "StartMs": 0,
+                    "EndMs": 1645,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "一直",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "都有",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "计划",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 8.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.645063
+        },
+        "RequestId": "b3116d79-a887-4fc3-be81-85e31ba406a1"
+    }
+}

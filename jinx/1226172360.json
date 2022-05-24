@@ -1,0 +1,60 @@
+{
+    "character": "jinx",
+    "id": "1226172360",
+    "result": "他们。干掉我了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012686920,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.160]  他们。\n[0:1.260,0:3.683]  干掉我了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们。",
+                    "SliceSentence": "他们",
+                    "StartMs": 0,
+                    "EndMs": 1160,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "干掉我了。",
+                    "SliceSentence": "干掉 我 了",
+                    "StartMs": 1260,
+                    "EndMs": 3683,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "干掉",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.683375
+        },
+        "RequestId": "8d1ed608-1bc5-4430-b52d-3f7517193b67"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "rakan",
+    "id": "244588919",
+    "result": "来吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012752826,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.890]  来吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "来吧。",
+                    "SliceSentence": "来 吧",
+                    "StartMs": 0,
+                    "EndMs": 890,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.89
+        },
+        "RequestId": "285e21fb-51a7-4c2e-9439-87a223f13ac0"
+    }
+}

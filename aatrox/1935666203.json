@@ -1,0 +1,39 @@
+{
+    "character": "aatrox",
+    "id": "1935666203",
+    "result": "哟哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012532575,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.254]  哟哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哟哈。",
+                    "SliceSentence": "哟 哈",
+                    "StartMs": 0,
+                    "EndMs": 1254,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哟",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "哈",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.254063
+        },
+        "RequestId": "ba11d2ee-3a8d-4e32-980b-0ad11e2bc813"
+    }
+}

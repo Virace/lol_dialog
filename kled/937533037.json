@@ -1,0 +1,49 @@
+{
+    "character": "kled",
+    "id": "937533037",
+    "result": "我不和人讲道理。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012710232,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.122]  我不和人讲道理。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不和人讲道理。",
+                    "SliceSentence": "我不 和 人 讲道理",
+                    "StartMs": 0,
+                    "EndMs": 2122,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "和",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "人",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "讲道理",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.122625
+        },
+        "RequestId": "ff240e05-dfc5-4c1e-96a9-5c538302ca7b"
+    }
+}

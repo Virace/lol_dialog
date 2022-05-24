@@ -1,0 +1,49 @@
+{
+    "character": "braum",
+    "id": "288913721",
+    "result": "像公羊一样撞击。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550382,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.853]  像公羊一样撞击。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "像公羊一样撞击。",
+                    "SliceSentence": "像 公羊 一样 撞击",
+                    "StartMs": 0,
+                    "EndMs": 1853,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "像",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "公羊",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "一样",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "撞击",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.85325
+        },
+        "RequestId": "f1ea7179-c5d8-4b74-835f-4522d3488598"
+    }
+}

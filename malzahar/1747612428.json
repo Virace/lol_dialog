@@ -1,0 +1,54 @@
+{
+    "character": "malzahar",
+    "id": "1747612428",
+    "result": "他们是日无度了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012720442,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.019]  他们是日无度了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们是日无度了。",
+                    "SliceSentence": "他们 是 日 无度 了",
+                    "StartMs": 0,
+                    "EndMs": 4019,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "日",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "无度",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.019375
+        },
+        "RequestId": "4f5636db-4163-4a83-9858-ea8194675bf4"
+    }
+}

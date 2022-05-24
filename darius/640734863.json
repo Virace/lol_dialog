@@ -1,0 +1,39 @@
+{
+    "character": "darius",
+    "id": "640734863",
+    "result": "是啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012555979,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.416]  是啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "是啊。",
+                    "SliceSentence": "是 啊",
+                    "StartMs": 0,
+                    "EndMs": 1416,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 720
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.416438
+        },
+        "RequestId": "63881a0c-dda7-4ee4-bce1-e06888983dd9"
+    }
+}

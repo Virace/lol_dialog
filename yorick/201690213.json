@@ -1,0 +1,44 @@
+{
+    "character": "yorick",
+    "id": "201690213",
+    "result": "你感受倒塌？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012844092,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.220,0:7.430]  你感受倒塌？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你感受倒塌？",
+                    "SliceSentence": "你 感受 倒塌",
+                    "StartMs": 220,
+                    "EndMs": 7430,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "感受",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "倒塌",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 1.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.430313
+        },
+        "RequestId": "1fb3c6b5-8115-46dc-be35-671d0198dca5"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "morgana",
+    "id": "370472875",
+    "result": "我的苦痛已经满溢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012727092,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.639]  我的苦痛已经满溢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的苦痛已经满溢。",
+                    "SliceSentence": "我 的 苦痛 已经 满溢",
+                    "StartMs": 0,
+                    "EndMs": 2639,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "苦痛",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "满溢",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.639563
+        },
+        "RequestId": "9836dffb-f3fc-4884-be8b-5e6715dc7306"
+    }
+}

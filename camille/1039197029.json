@@ -1,0 +1,59 @@
+{
+    "character": "camille",
+    "id": "1039197029",
+    "result": "安静，让大人们好好聊聊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552167,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.007]  安静，让大人们好好聊聊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "安静，让大人们好好聊聊。",
+                    "SliceSentence": "安静 让 大人 们 好好 聊聊",
+                    "StartMs": 0,
+                    "EndMs": 3007,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "安静",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "让",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "大人",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "们",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "好好",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "聊聊",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2940
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.007813
+        },
+        "RequestId": "5aa42203-02f3-4c75-b908-90a8de7cb394"
+    }
+}

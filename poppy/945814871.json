@@ -1,0 +1,39 @@
+{
+    "character": "poppy",
+    "id": "945814871",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744260,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.041]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 2041,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.041813
+        },
+        "RequestId": "736dac9c-88dd-41af-9c3c-2bfa7672af36"
+    }
+}

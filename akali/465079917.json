@@ -1,0 +1,49 @@
+{
+    "character": "akali",
+    "id": "465079917",
+    "result": "你真该逃命的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012539733,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.570]  你真该逃命的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你真该逃命的。",
+                    "SliceSentence": "你真 该 逃命 的",
+                    "StartMs": 0,
+                    "EndMs": 1570,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你真",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "该",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "逃命",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.570688
+        },
+        "RequestId": "813166f5-dd11-4956-afb2-addd64b6abfb"
+    }
+}

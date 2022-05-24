@@ -1,0 +1,44 @@
+{
+    "character": "leblanc",
+    "id": "1196405713",
+    "result": "经典的误导。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012711516,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.051]  经典的误导。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "经典的误导。",
+                    "SliceSentence": "经典 的 误导",
+                    "StartMs": 0,
+                    "EndMs": 2051,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "经典",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "误导",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.051625
+        },
+        "RequestId": "21bbdd52-51c4-4a46-a73d-73fadeafe277"
+    }
+}

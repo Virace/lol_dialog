@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "264131473",
+    "result": "我得再投入一些。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012752936,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.659]  我得再投入一些。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我得再投入一些。",
+                    "SliceSentence": "我 得 再 投入 一些",
+                    "StartMs": 0,
+                    "EndMs": 1659,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "得",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "再",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "投入",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "一些",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 7.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.659938
+        },
+        "RequestId": "ddd23888-6a62-4ee8-8c74-4498312503c8"
+    }
+}

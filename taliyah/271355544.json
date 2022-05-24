@@ -1,0 +1,44 @@
+{
+    "character": "taliyah",
+    "id": "271355544",
+    "result": "活到老，学到老。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012792207,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.648]  活到老，学到老。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "活到老，学到老。",
+                    "SliceSentence": "活到老 学 到老",
+                    "StartMs": 0,
+                    "EndMs": 1648,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "活到老",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "学",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "到老",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.648063
+        },
+        "RequestId": "ed5e5adb-ae58-4943-961a-cdce191f1808"
+    }
+}

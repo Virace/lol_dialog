@@ -1,0 +1,44 @@
+{
+    "character": "taliyah",
+    "id": "121805301",
+    "result": "放轻脚步。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012791876,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.249]  放轻脚步。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "放轻脚步。",
+                    "SliceSentence": "放 轻 脚步",
+                    "StartMs": 0,
+                    "EndMs": 1249,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "放",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "轻",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "脚步",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.249313
+        },
+        "RequestId": "b40b0eea-b622-442e-8f3a-0596114358de"
+    }
+}

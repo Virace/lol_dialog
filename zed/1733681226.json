@@ -1,0 +1,49 @@
+{
+    "character": "zed",
+    "id": "1733681226",
+    "result": "我是黑暗之刃。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012849912,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.377]  我是黑暗之刃。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我是黑暗之刃。",
+                    "SliceSentence": "我 是 黑暗 之刃",
+                    "StartMs": 0,
+                    "EndMs": 2377,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "黑暗",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "之刃",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.37725
+        },
+        "RequestId": "7b411d6a-d7c6-42cd-bc49-053aec489019"
+    }
+}

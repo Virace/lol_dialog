@@ -1,0 +1,49 @@
+{
+    "character": "rumble",
+    "id": "1007329603",
+    "result": "你不需要提醒我两次。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012763202,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.982]  你不需要提醒我两次。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你不需要提醒我两次。",
+                    "SliceSentence": "你 不需要 提醒我 两次",
+                    "StartMs": 0,
+                    "EndMs": 1982,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "不需要",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "提醒我",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "两次",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.98275
+        },
+        "RequestId": "6d1bfc7e-5d3f-4fcf-b7ff-ab8b573ed1a1"
+    }
+}

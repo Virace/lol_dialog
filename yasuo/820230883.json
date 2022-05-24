@@ -1,0 +1,50 @@
+{
+    "character": "yasuo",
+    "id": "820230883",
+    "result": "一件。一念。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012841006,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.380]  一件。\n[0:1.380,0:2.841]  一念。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一件。",
+                    "SliceSentence": "一件",
+                    "StartMs": 0,
+                    "EndMs": 1380,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "一件",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "一念。",
+                    "SliceSentence": "一念",
+                    "StartMs": 1380,
+                    "EndMs": 2841,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "一念",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.841625
+        },
+        "RequestId": "3c11d06b-b2e4-44c7-ab48-0dcc41e17f4d"
+    }
+}

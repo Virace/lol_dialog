@@ -1,0 +1,44 @@
+{
+    "character": "kalista",
+    "id": "865489470",
+    "result": "契约尚未完成。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012694900,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.227]  契约尚未完成。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "契约尚未完成。",
+                    "SliceSentence": "契约 尚未 完成",
+                    "StartMs": 0,
+                    "EndMs": 3227,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "契约",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "尚未",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "完成",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 3060
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.227
+        },
+        "RequestId": "e4149fc9-4051-439a-8ea2-01c7434bb13d"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "ornn",
+    "id": "446374304",
+    "result": "活干完了，该回家了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012739532,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.650]  活干完了，该回家了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "活干完了，该回家了。",
+                    "SliceSentence": "活干 完了 该 回家 了",
+                    "StartMs": 0,
+                    "EndMs": 2650,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "活干",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "完了",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "该",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "回家",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.650688
+        },
+        "RequestId": "ae0cf4de-864d-4699-b662-51ac1c4eb04b"
+    }
+}

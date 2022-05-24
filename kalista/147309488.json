@@ -1,0 +1,59 @@
+{
+    "character": "kalista",
+    "id": "147309488",
+    "result": "我们必须去处理一下其他事情。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012693452,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.882]  我们必须去处理一下其他事情。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们必须去处理一下其他事情。",
+                    "SliceSentence": "我们必须 去处 理 一下 其他 事情",
+                    "StartMs": 0,
+                    "EndMs": 3882,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我们必须",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "去处",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "理",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "一下",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "其他",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2580
+                        },
+                        {
+                            "Word": "事情",
+                            "OffsetStartMs": 2580,
+                            "OffsetEndMs": 3150
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.882188
+        },
+        "RequestId": "c40e57a0-c372-484a-b22a-06a43923f117"
+    }
+}

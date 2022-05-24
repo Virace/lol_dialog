@@ -1,0 +1,49 @@
+{
+    "character": "heimerdinger",
+    "id": "1522598654",
+    "result": "这真让人费解。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012576228,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.511]  这真让人费解。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这真让人费解。",
+                    "SliceSentence": "这 真 让人 费解",
+                    "StartMs": 0,
+                    "EndMs": 1511,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "真",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "让人",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "费解",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.511063
+        },
+        "RequestId": "21108d12-4f74-4c14-b77e-5e4da6459f82"
+    }
+}

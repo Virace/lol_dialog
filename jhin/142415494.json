@@ -1,0 +1,54 @@
+{
+    "character": "jhin",
+    "id": "142415494",
+    "result": "我这次超越了自己。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012684999,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.280]  我这次超越了自己。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我这次超越了自己。",
+                    "SliceSentence": "我 这次 超越 了 自己",
+                    "StartMs": 0,
+                    "EndMs": 3280,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "这次",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "超越",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "自己",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.280875
+        },
+        "RequestId": "6a6102d8-d30a-498a-b9ea-d1627165b9b9"
+    }
+}

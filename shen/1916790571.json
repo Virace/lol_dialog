@@ -1,0 +1,44 @@
+{
+    "character": "shen",
+    "id": "1916790571",
+    "result": "别发出声音。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012774330,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.785]  别发出声音。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别发出声音。",
+                    "SliceSentence": "别 发出 声音",
+                    "StartMs": 0,
+                    "EndMs": 1785,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "发出",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "声音",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.785688
+        },
+        "RequestId": "60094cf0-e8f6-421b-8452-334189aafb1a"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "1900296447",
+    "result": "你好，有人在吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012751861,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.311]  你好，有人在吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你好，有人在吗？",
+                    "SliceSentence": "你好 有 人在 吗",
+                    "StartMs": 0,
+                    "EndMs": 2311,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "人在",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.31125
+        },
+        "RequestId": "b0409ab6-6285-4a6a-93ec-4c1a42a2535d"
+    }
+}

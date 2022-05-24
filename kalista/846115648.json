@@ -1,0 +1,39 @@
+{
+    "character": "kalista",
+    "id": "846115648",
+    "result": "我们亲密无间。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012694867,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.181]  我们亲密无间。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们亲密无间。",
+                    "SliceSentence": "我们 亲密无间",
+                    "StartMs": 0,
+                    "EndMs": 3181,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "亲密无间",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.181125
+        },
+        "RequestId": "5f6e714b-2998-4826-801f-588e53971b35"
+    }
+}

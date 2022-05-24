@@ -1,0 +1,49 @@
+{
+    "character": "urgot",
+    "id": "1848247021",
+    "result": "你选错了武器。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012806443,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.231]  你选错了武器。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你选错了武器。",
+                    "SliceSentence": "你 选错 了 武器",
+                    "StartMs": 0,
+                    "EndMs": 4231,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "选错",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "武器",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 3210
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.231125
+        },
+        "RequestId": "fceb00ae-73ff-4772-b285-396ffad94311"
+    }
+}

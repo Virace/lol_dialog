@@ -1,0 +1,44 @@
+{
+    "character": "shaco",
+    "id": "640628359",
+    "result": "我们走罢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012774083,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.358]  我们走罢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们走罢。",
+                    "SliceSentence": "我们 走 罢",
+                    "StartMs": 0,
+                    "EndMs": 1358,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "走",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "罢",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.358688
+        },
+        "RequestId": "8609d073-071e-4dc7-a103-21459fd5b4a0"
+    }
+}

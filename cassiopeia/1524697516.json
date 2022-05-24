@@ -1,0 +1,44 @@
+{
+    "character": "cassiopeia",
+    "id": "1524697516",
+    "result": "滴滴致命，意犹未尽。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554772,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.236]  滴滴致命，意犹未尽。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "滴滴致命，意犹未尽。",
+                    "SliceSentence": "滴滴 致命 意犹未尽",
+                    "StartMs": 0,
+                    "EndMs": 4236,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "滴滴",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "致命",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "意犹未尽",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 4170
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.23675
+        },
+        "RequestId": "9b96bbc7-de76-4432-a75b-c20c4b3e94ac"
+    }
+}

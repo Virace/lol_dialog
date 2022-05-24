@@ -1,0 +1,64 @@
+{
+    "character": "braum",
+    "id": "1299017467",
+    "result": "今天将会是令人激动的一天。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550084,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.208]  今天将会是令人激动的一天。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "今天将会是令人激动的一天。",
+                    "SliceSentence": "今天 将会 是 令人 激动 的 一天",
+                    "StartMs": 0,
+                    "EndMs": 3208,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "今天",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "将会",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "令人",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "激动",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 2370
+                        },
+                        {
+                            "Word": "一天",
+                            "OffsetStartMs": 2370,
+                            "OffsetEndMs": 3090
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.2085
+        },
+        "RequestId": "f2a57d99-54fb-4ddb-a78b-f3ec0515a811"
+    }
+}

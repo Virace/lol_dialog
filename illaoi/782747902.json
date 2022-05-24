@@ -1,0 +1,49 @@
+{
+    "character": "illaoi",
+    "id": "782747902",
+    "result": "我要好好利用他们。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012579187,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.246]  我要好好利用他们。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要好好利用他们。",
+                    "SliceSentence": "我要 好好 利用 他们",
+                    "StartMs": 0,
+                    "EndMs": 2246,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "好好",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "利用",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.246625
+        },
+        "RequestId": "9ea29cc9-d359-4f31-9a99-5a9a48fa7426"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "warwick",
+    "id": "715213165",
+    "result": "折断的骨头。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012832987,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.657]  折断的骨头。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "折断的骨头。",
+                    "SliceSentence": "折断 的 骨头",
+                    "StartMs": 0,
+                    "EndMs": 2657,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "折断",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "骨头",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.657375
+        },
+        "RequestId": "5fa99883-69a6-4ab0-b4c4-9e39de47f605"
+    }
+}

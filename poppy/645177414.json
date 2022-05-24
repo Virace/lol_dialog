@@ -1,0 +1,39 @@
+{
+    "character": "poppy",
+    "id": "645177414",
+    "result": "啊啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012743643,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.343]  啊啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊啊。",
+                    "SliceSentence": "啊 啊",
+                    "StartMs": 0,
+                    "EndMs": 1343,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.343688
+        },
+        "RequestId": "d9c7bf68-d5ec-497f-8964-c58f3d2924e6"
+    }
+}

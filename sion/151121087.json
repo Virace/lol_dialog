@@ -1,0 +1,44 @@
+{
+    "character": "sion",
+    "id": "151121087",
+    "result": "我是什么？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012776114,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.983]  我是什么？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我是什么？",
+                    "SliceSentence": "我 是 什么",
+                    "StartMs": 0,
+                    "EndMs": 2983,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 2760
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.9835
+        },
+        "RequestId": "6875b479-9689-424a-90d2-c41b8380ebc0"
+    }
+}

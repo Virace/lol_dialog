@@ -1,0 +1,44 @@
+{
+    "character": "rell",
+    "id": "1925488185",
+    "result": "来真的啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012757697,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.236]  来真的啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "来真的啦。",
+                    "SliceSentence": "来 真的 啦",
+                    "StartMs": 0,
+                    "EndMs": 1236,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "真的",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.236063
+        },
+        "RequestId": "da9cc61a-7b9a-4f53-b1ef-26568318bcf3"
+    }
+}

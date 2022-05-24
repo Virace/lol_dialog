@@ -1,0 +1,44 @@
+{
+    "character": "kalista",
+    "id": "10695417",
+    "result": "必须信守承诺。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012693364,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.560]  必须信守承诺。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "必须信守承诺。",
+                    "SliceSentence": "必须 信守 承诺",
+                    "StartMs": 0,
+                    "EndMs": 4560,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "必须",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "信守",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "承诺",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 3900
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.560938
+        },
+        "RequestId": "4154b6d7-56c7-47f9-8dbd-a4af0e09734a"
+    }
+}

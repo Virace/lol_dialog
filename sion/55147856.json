@@ -1,0 +1,49 @@
+{
+    "character": "sion",
+    "id": "55147856",
+    "result": "逃跑是徒劳的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012777283,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.089]  逃跑是徒劳的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "逃跑是徒劳的。",
+                    "SliceSentence": "逃跑 是 徒劳 的",
+                    "StartMs": 0,
+                    "EndMs": 3089,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "逃跑",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "徒劳",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2880
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.089375
+        },
+        "RequestId": "f28775bc-9f39-4e89-afbd-89a648e18356"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "caitlyn",
+    "id": "1232574024",
+    "result": "查遍所有蛛丝马迹。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550896,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.157]  查遍所有蛛丝马迹。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "查遍所有蛛丝马迹。",
+                    "SliceSentence": "查遍 所有 蛛丝马迹",
+                    "StartMs": 0,
+                    "EndMs": 3157,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "查遍",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "所有",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "蛛丝马迹",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.157313
+        },
+        "RequestId": "2c1763ca-cf6c-46a0-b04e-4fa57fa2d3b3"
+    }
+}

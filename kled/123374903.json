@@ -1,0 +1,64 @@
+{
+    "character": "kled",
+    "id": "123374903",
+    "result": "别把马裤给弄皱啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012706243,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.914]  别把马裤给弄皱啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别把马裤给弄皱啦。",
+                    "SliceSentence": "别 把 马裤 给 弄 皱 啦",
+                    "StartMs": 0,
+                    "EndMs": 1914,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "马裤",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "给",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "弄",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "皱",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 7.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.914188
+        },
+        "RequestId": "70d55a07-490d-4250-8d91-59286e4f87ec"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "jax",
+    "id": "1709785264",
+    "result": "哼，一个能打得都没有。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012683841,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.080,0:3.514]  哼，一个能打得都没有。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼，一个能打得都没有。",
+                    "SliceSentence": "哼 一个 能 打得 都没 有",
+                    "StartMs": 80,
+                    "EndMs": 3514,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "哼",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "能",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "打得",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2550
+                        },
+                        {
+                            "Word": "都没",
+                            "OffsetStartMs": 2550,
+                            "OffsetEndMs": 2880
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 2880,
+                            "OffsetEndMs": 3240
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.514625
+        },
+        "RequestId": "867052a1-b4d2-49d7-9778-752881cb88b8"
+    }
+}

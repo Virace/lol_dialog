@@ -1,0 +1,49 @@
+{
+    "character": "singed",
+    "id": "498172409",
+    "result": "这个也许有点痛。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012775450,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.113]  这个也许有点痛。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这个也许有点痛。",
+                    "SliceSentence": "这个 也许 有点 痛",
+                    "StartMs": 0,
+                    "EndMs": 2113,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "也许",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "有点",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "痛",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.113
+        },
+        "RequestId": "81e86fee-87b0-4386-8403-37cc785bfbff"
+    }
+}

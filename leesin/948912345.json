@@ -1,0 +1,44 @@
+{
+    "character": "leesin",
+    "id": "948912345",
+    "result": "你犹豫了？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012713959,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.200]  你犹豫了？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你犹豫了？",
+                    "SliceSentence": "你 犹豫 了",
+                    "StartMs": 0,
+                    "EndMs": 2200,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "犹豫",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.879313
+        },
+        "RequestId": "e1ad05c6-b727-44af-b883-5a0e92acb5aa"
+    }
+}

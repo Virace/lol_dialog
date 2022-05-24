@@ -1,0 +1,54 @@
+{
+    "character": "vex",
+    "id": "1381483145",
+    "result": "无聊的人，这样多好。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012810406,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.319]  无聊的人，这样多好。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "无聊的人，这样多好。",
+                    "SliceSentence": "无聊 的 人 这样 多好",
+                    "StartMs": 0,
+                    "EndMs": 3319,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "无聊",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "人",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "这样",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "多好",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2790
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.319438
+        },
+        "RequestId": "8c8dda75-55a5-4683-ac57-e922fc91e85f"
+    }
+}

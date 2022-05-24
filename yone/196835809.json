@@ -1,0 +1,39 @@
+{
+    "character": "yone",
+    "id": "196835809",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012842756,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.880]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 1880,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.880813
+        },
+        "RequestId": "740ed90a-5df9-4082-a339-1847569b33a8"
+    }
+}

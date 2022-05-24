@@ -1,0 +1,49 @@
+{
+    "character": "jhin",
+    "id": "270185947",
+    "result": "这就是我的挚爱。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012685890,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.625]  这就是我的挚爱。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这就是我的挚爱。",
+                    "SliceSentence": "这就 是我 的 挚爱",
+                    "StartMs": 0,
+                    "EndMs": 2625,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这就",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "挚爱",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.625375
+        },
+        "RequestId": "d202d989-765c-4fcf-8c2e-f7cc58b9c3f2"
+    }
+}

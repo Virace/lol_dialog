@@ -1,0 +1,54 @@
+{
+    "character": "sona",
+    "id": "72319342",
+    "result": "如节拍器般精准无误。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012782785,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.340]  如节拍器般精准无误。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "如节拍器般精准无误。",
+                    "SliceSentence": "如 节拍器 般 精准 无误",
+                    "StartMs": 0,
+                    "EndMs": 5340,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "如",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "节拍器",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "般",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "精准",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2490
+                        },
+                        {
+                            "Word": "无误",
+                            "OffsetStartMs": 2490,
+                            "OffsetEndMs": 2970
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.6925
+        },
+        "RequestId": "16f68018-cdcd-4661-9306-37f9b67a4301"
+    }
+}

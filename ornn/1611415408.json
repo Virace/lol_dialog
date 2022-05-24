@@ -1,0 +1,39 @@
+{
+    "character": "ornn",
+    "id": "1611415408",
+    "result": "我不喜欢你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012738521,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.642]  我不喜欢你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不喜欢你。",
+                    "SliceSentence": "我不 喜欢你",
+                    "StartMs": 0,
+                    "EndMs": 1642,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "喜欢你",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.642875
+        },
+        "RequestId": "c72ef077-cdf3-4d4a-bae4-ced7b4ef3560"
+    }
+}

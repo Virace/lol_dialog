@@ -1,0 +1,90 @@
+{
+    "character": "illaoi",
+    "id": "135195588",
+    "result": "我不会独自行走。我与吾神同在，就在此地。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012577146,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.660]  我不会独自行走。\n[0:2.660,0:5.914]  我与吾神同在，就在此地。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不会独自行走。",
+                    "SliceSentence": "我不 会 独自 行走",
+                    "StartMs": 0,
+                    "EndMs": 2660,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "独自",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "行走",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "我与吾神同在，就在此地。",
+                    "SliceSentence": "我与 吾 神 同在 就在 此地",
+                    "StartMs": 2660,
+                    "EndMs": 5914,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我与",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "吾",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "神",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "同在",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "就在",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "此地",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 3180
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.91425
+        },
+        "RequestId": "6aeb7076-940e-49ce-a4f7-7c25c111e6b8"
+    }
+}

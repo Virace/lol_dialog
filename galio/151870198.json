@@ -1,0 +1,44 @@
+{
+    "character": "galio",
+    "id": "151870198",
+    "result": "还好，我不流血。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568388,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.481]  还好，我不流血。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "还好，我不流血。",
+                    "SliceSentence": "还好 我不 流血",
+                    "StartMs": 0,
+                    "EndMs": 1481,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "还好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "流血",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.48125
+        },
+        "RequestId": "a2fabb20-c2e8-489e-86e1-1a8b807c2fe7"
+    }
+}

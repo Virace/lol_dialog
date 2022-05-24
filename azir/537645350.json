@@ -1,0 +1,44 @@
+{
+    "character": "azir",
+    "id": "537645350",
+    "result": "士兵们前进。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012548985,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.309]  士兵们前进。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "士兵们前进。",
+                    "SliceSentence": "士兵 们 前进",
+                    "StartMs": 0,
+                    "EndMs": 2309,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "士兵",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "们",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "前进",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.309
+        },
+        "RequestId": "d0b1815b-c629-46b1-a604-f40f1bb93ec9"
+    }
+}

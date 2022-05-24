@@ -1,0 +1,39 @@
+{
+    "character": "varus",
+    "id": "126810761",
+    "result": "绝不姑息。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012807879,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.360]  绝不姑息。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "绝不姑息。",
+                    "SliceSentence": "绝不 姑息",
+                    "StartMs": 0,
+                    "EndMs": 3360,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "绝不",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "姑息",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.824563
+        },
+        "RequestId": "32ce15ca-7b44-4f73-9558-8897f2fb6411"
+    }
+}

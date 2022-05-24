@@ -1,0 +1,44 @@
+{
+    "character": "warwick",
+    "id": "185242472",
+    "result": "你当时也在？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012817588,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.304]  你当时也在？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你当时也在？",
+                    "SliceSentence": "你 当时 也在",
+                    "StartMs": 0,
+                    "EndMs": 3304,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "当时",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "也在",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.304
+        },
+        "RequestId": "df0c2c63-ca1f-47c5-a721-de7b9779b5ba"
+    }
+}

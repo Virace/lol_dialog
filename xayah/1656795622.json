@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "1656795622",
+    "result": "因为他们害怕。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012835153,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.901]  因为他们害怕。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "因为他们害怕。",
+                    "SliceSentence": "因为 他们 害怕",
+                    "StartMs": 0,
+                    "EndMs": 1901,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "因为",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "害怕",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.90125
+        },
+        "RequestId": "a7bc6499-aa15-44b7-9042-3500ae0eb0d9"
+    }
+}

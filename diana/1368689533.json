@@ -1,0 +1,49 @@
+{
+    "character": "diana",
+    "id": "1368689533",
+    "result": "别再否定我了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556048,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.177]  别再否定我了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别再否定我了。",
+                    "SliceSentence": "别再 否定 我 了",
+                    "StartMs": 0,
+                    "EndMs": 1177,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "别再",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "否定",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 8.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.177625
+        },
+        "RequestId": "5c5bb7df-1bd3-4a50-af09-451e49d99393"
+    }
+}

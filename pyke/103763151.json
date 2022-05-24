@@ -1,0 +1,59 @@
+{
+    "character": "pyke",
+    "id": "103763151",
+    "result": "睁一只眼就够了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744530,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.608]  睁一只眼就够了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "睁一只眼就够了。",
+                    "SliceSentence": "睁 一 只 眼 就 够了",
+                    "StartMs": 0,
+                    "EndMs": 2608,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "睁",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "一",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "只",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "眼",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "够了",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.60875
+        },
+        "RequestId": "b22533d7-ad17-4af7-b433-13cb142aa3ef"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "nunu",
+    "id": "1994182459",
+    "result": "我们是来出力的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012734403,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.858]  我们是来出力的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们是来出力的。",
+                    "SliceSentence": "我们 是 来 出力 的",
+                    "StartMs": 0,
+                    "EndMs": 1858,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "出力",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.858438
+        },
+        "RequestId": "357ef748-f147-4850-912b-966617ed0e4c"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "yuumi",
+    "id": "689023565",
+    "result": "跟黑暗说再见吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012847788,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.371]  跟黑暗说再见吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "跟黑暗说再见吧。",
+                    "SliceSentence": "跟 黑暗 说 再见 吧",
+                    "StartMs": 0,
+                    "EndMs": 1371,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "跟",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "黑暗",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "再见",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 8.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.371313
+        },
+        "RequestId": "db66111a-c432-4604-aa01-79328991fc96"
+    }
+}

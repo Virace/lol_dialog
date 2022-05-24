@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "1209527396",
+    "result": "跟我的巴掌问声好。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749816,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.628]  跟我的巴掌问声好。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "跟我的巴掌问声好。",
+                    "SliceSentence": "跟我 的 巴掌 问声 好",
+                    "StartMs": 0,
+                    "EndMs": 1628,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "跟我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "巴掌",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "问声",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 8.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.62825
+        },
+        "RequestId": "1c150ded-8453-403d-9ccd-4969a051538e"
+    }
+}

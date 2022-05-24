@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "148830371",
+    "result": "永远不要背叛大海。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745110,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.042]  永远不要背叛大海。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "永远不要背叛大海。",
+                    "SliceSentence": "永远 不要 背叛 大海",
+                    "StartMs": 0,
+                    "EndMs": 3042,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "永远",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "背叛",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "大海",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.042625
+        },
+        "RequestId": "89e29d29-01b7-4598-9e1c-bafb18dc1aff"
+    }
+}

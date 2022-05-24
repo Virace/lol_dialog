@@ -1,0 +1,44 @@
+{
+    "character": "kled",
+    "id": "209603806",
+    "result": "你敢笑我啊？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012706750,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.639]  你敢笑我啊？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你敢笑我啊？",
+                    "SliceSentence": "你敢 笑我 啊",
+                    "StartMs": 0,
+                    "EndMs": 1639,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你敢",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "笑我",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.639813
+        },
+        "RequestId": "49a62573-26c7-49e6-a152-d9f8a7eaa25b"
+    }
+}

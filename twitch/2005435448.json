@@ -1,0 +1,44 @@
+{
+    "character": "twitch",
+    "id": "2005435448",
+    "result": "吼，是的是的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012803610,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.343]  吼，是的是的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "吼，是的是的。",
+                    "SliceSentence": "吼 是的 是的",
+                    "StartMs": 0,
+                    "EndMs": 3343,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "吼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "是的",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "是的",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.343688
+        },
+        "RequestId": "8c5082b1-6ac9-485f-87ef-fb37d5ba1d63"
+    }
+}

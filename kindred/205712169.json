@@ -1,0 +1,49 @@
+{
+    "character": "kindred",
+    "id": "205712169",
+    "result": "跑吧，就现在。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012704485,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.966]  跑吧，就现在。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "跑吧，就现在。",
+                    "SliceSentence": "跑 吧 就 现在",
+                    "StartMs": 0,
+                    "EndMs": 1966,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "跑",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.966063
+        },
+        "RequestId": "9d6a5ad0-9521-439a-adc0-f825152a066c"
+    }
+}

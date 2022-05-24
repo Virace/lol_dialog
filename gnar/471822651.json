@@ -1,0 +1,39 @@
+{
+    "character": "gnar",
+    "id": "471822651",
+    "result": "哇爆。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012572725,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.797]  哇爆。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哇爆。",
+                    "SliceSentence": "哇 爆",
+                    "StartMs": 0,
+                    "EndMs": 797,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哇",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "爆",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 720
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.797313
+        },
+        "RequestId": "0cfc4b8b-1d56-4b6a-a76f-172e7bd3bfa1"
+    }
+}

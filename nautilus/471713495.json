@@ -1,0 +1,39 @@
+{
+    "character": "nautilus",
+    "id": "471713495",
+    "result": "退潮了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012729251,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.396]  退潮了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "退潮了。",
+                    "SliceSentence": "退潮 了",
+                    "StartMs": 0,
+                    "EndMs": 3396,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "退潮",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.396625
+        },
+        "RequestId": "a7bc02de-f97c-41a1-b138-5cb844ea528e"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "braum",
+    "id": "362299073",
+    "result": "这很有趣啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550393,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.977]  这很有趣啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这很有趣啊。",
+                    "SliceSentence": "这 很 有趣 啊",
+                    "StartMs": 0,
+                    "EndMs": 1977,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "很",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "有趣",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.977375
+        },
+        "RequestId": "2e6b5fa4-22b7-4ffe-b6af-d446e271eca4"
+    }
+}

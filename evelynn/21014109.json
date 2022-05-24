@@ -1,0 +1,54 @@
+{
+    "character": "evelynn",
+    "id": "21014109",
+    "result": "我说停才能停。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012563035,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.280]  我说停才能停。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我说停才能停。",
+                    "SliceSentence": "我 说 停 才能 停",
+                    "StartMs": 0,
+                    "EndMs": 4280,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "停",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "才能",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "停",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.408688
+        },
+        "RequestId": "bae40cda-a71b-4701-90af-4d13e8509f5f"
+    }
+}

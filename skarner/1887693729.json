@@ -1,0 +1,49 @@
+{
+    "character": "skarner",
+    "id": "1887693729",
+    "result": "我的毒刺蓄势待发。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012779929,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.866]  我的毒刺蓄势待发。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的毒刺蓄势待发。",
+                    "SliceSentence": "我 的 毒刺 蓄势待发",
+                    "StartMs": 0,
+                    "EndMs": 3866,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "毒刺",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "蓄势待发",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 3630
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.866875
+        },
+        "RequestId": "8fa80020-3989-4bc1-af9a-d64012081b72"
+    }
+}

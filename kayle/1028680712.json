@@ -1,0 +1,49 @@
+{
+    "character": "kayle",
+    "id": "1028680712",
+    "result": "火焰会净化你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012697223,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.771]  火焰会净化你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "火焰会净化你。",
+                    "SliceSentence": "火焰 会 净化 你",
+                    "StartMs": 0,
+                    "EndMs": 2771,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "火焰",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "净化",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.77175
+        },
+        "RequestId": "2d5e5ba7-a5e1-47ee-83e9-69e5818bd462"
+    }
+}

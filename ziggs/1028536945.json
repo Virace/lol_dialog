@@ -1,0 +1,50 @@
+{
+    "character": "ziggs",
+    "id": "1028536945",
+    "result": "啊？哼哼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012853176,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.060]  啊？\n[0:1.060,0:3.875]  哼哼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊？",
+                    "SliceSentence": "啊",
+                    "StartMs": 0,
+                    "EndMs": 1060,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "哼哼。",
+                    "SliceSentence": "哼哼",
+                    "StartMs": 1060,
+                    "EndMs": 3875,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 1.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.875938
+        },
+        "RequestId": "b2cbafd6-92bb-4079-8c98-372eab4d6f05"
+    }
+}

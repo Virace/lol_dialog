@@ -1,0 +1,59 @@
+{
+    "character": "morgana",
+    "id": "1214806858",
+    "result": "我说了，给我站好。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012725848,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.166]  我说了，给我站好。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我说了，给我站好。",
+                    "SliceSentence": "我 说 了 给我 站 好",
+                    "StartMs": 0,
+                    "EndMs": 3166,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "给我",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "站",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.166375
+        },
+        "RequestId": "996d199b-503d-4876-bc88-6b229e94c971"
+    }
+}

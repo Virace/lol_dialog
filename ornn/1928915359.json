@@ -1,0 +1,59 @@
+{
+    "character": "ornn",
+    "id": "1928915359",
+    "result": "你们每个人都欠我一杯。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012738938,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.482]  你们每个人都欠我一杯。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你们每个人都欠我一杯。",
+                    "SliceSentence": "你们 每个人 都 欠 我 一杯",
+                    "StartMs": 0,
+                    "EndMs": 2482,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "每个人",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "都",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "欠",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "一杯",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.48225
+        },
+        "RequestId": "e5f4464e-a852-4fc8-8329-85a8efd35293"
+    }
+}

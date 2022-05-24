@@ -1,0 +1,69 @@
+{
+    "character": "jinx",
+    "id": "391908799",
+    "result": "打住，我想说一些非常酷的话。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012687392,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.816]  打住，我想说一些非常酷的话。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "打住，我想说一些非常酷的话。",
+                    "SliceSentence": "打住 我 想 说 一些 非常 酷 的话",
+                    "StartMs": 0,
+                    "EndMs": 2816,
+                    "WordsNum": 8,
+                    "Words": [
+                        {
+                            "Word": "打住",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "想",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "一些",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "非常",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "酷",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "的话",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2760
+                        }
+                    ],
+                    "SpeechSpeed": 7.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.8165
+        },
+        "RequestId": "1ba47bb0-aa07-49b1-8d87-fb841cc9c3c7"
+    }
+}

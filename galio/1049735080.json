@@ -1,0 +1,44 @@
+{
+    "character": "galio",
+    "id": "1049735080",
+    "result": "草包，草包草包。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568215,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.953]  草包，草包草包。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "草包，草包草包。",
+                    "SliceSentence": "草包 草包 草包",
+                    "StartMs": 0,
+                    "EndMs": 1953,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "草包",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "草包",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "草包",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.953563
+        },
+        "RequestId": "ba57aec8-f3f3-4c3c-b715-57bf74ea4aea"
+    }
+}

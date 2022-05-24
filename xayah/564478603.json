@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "564478603",
+    "result": "啊，路啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012837217,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.602]  啊，路啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，路啊。",
+                    "SliceSentence": "啊 路 啊",
+                    "StartMs": 0,
+                    "EndMs": 2602,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "路",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.602125
+        },
+        "RequestId": "f4cac326-5d73-47f5-ad59-01923465ac6c"
+    }
+}

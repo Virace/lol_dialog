@@ -1,0 +1,39 @@
+{
+    "character": "gwen",
+    "id": "300073435",
+    "result": "出发吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012574872,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.230]  出发吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "出发吧。",
+                    "SliceSentence": "出发 吧",
+                    "StartMs": 0,
+                    "EndMs": 2230,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "出发",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 540
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.230875
+        },
+        "RequestId": "a797648f-d4fa-4b3d-8a60-2b1453337acd"
+    }
+}

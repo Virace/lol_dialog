@@ -1,0 +1,54 @@
+{
+    "character": "ivern",
+    "id": "461576365",
+    "result": "让我来帮你成长。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012682410,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.761]  让我来帮你成长。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "让我来帮你成长。",
+                    "SliceSentence": "让 我来 帮 你 成长",
+                    "StartMs": 0,
+                    "EndMs": 2761,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "让",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "我来",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "帮",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "成长",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.761938
+        },
+        "RequestId": "2ca4ce1c-a5ee-415a-958e-3faf20133368"
+    }
+}

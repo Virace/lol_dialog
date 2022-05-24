@@ -1,0 +1,59 @@
+{
+    "character": "sett",
+    "id": "1621298396",
+    "result": "两只手举高点，别放下。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012772499,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.181]  两只手举高点，别放下。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "两只手举高点，别放下。",
+                    "SliceSentence": "两只 手 举 高点 别 放下",
+                    "StartMs": 0,
+                    "EndMs": 3181,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "两只",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "手",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "举",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "高点",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "放下",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.181125
+        },
+        "RequestId": "8d7953b4-9712-4907-b86e-c20578820a91"
+    }
+}

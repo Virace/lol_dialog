@@ -1,0 +1,44 @@
+{
+    "character": "ornn",
+    "id": "928627547",
+    "result": "多好玩啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012740197,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.269]  多好玩啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "多好玩啊。",
+                    "SliceSentence": "多 好玩 啊",
+                    "StartMs": 0,
+                    "EndMs": 1269,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "多",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "好玩",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.269125
+        },
+        "RequestId": "5421583e-26bf-4232-86d4-73086820def9"
+    }
+}

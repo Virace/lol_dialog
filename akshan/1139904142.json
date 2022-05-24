@@ -1,0 +1,49 @@
+{
+    "character": "akshan",
+    "id": "1139904142",
+    "result": "没错，就是我来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012540503,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.560]  没错，就是我来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没错，就是我来了。",
+                    "SliceSentence": "没错 就是 我 来了",
+                    "StartMs": 0,
+                    "EndMs": 2560,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "没错",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "来了",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.56
+        },
+        "RequestId": "e35add5b-f9af-4c9d-80bc-8ec2ba2f6893"
+    }
+}

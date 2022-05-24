@@ -1,0 +1,49 @@
+{
+    "character": "garen",
+    "id": "1155877918",
+    "result": "正义与我同在。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012571928,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.946]  正义与我同在。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "正义与我同在。",
+                    "SliceSentence": "正义 与 我 同在",
+                    "StartMs": 0,
+                    "EndMs": 1946,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "正义",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "与",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "同在",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.946625
+        },
+        "RequestId": "fa6c2844-b828-4d5c-9fbc-e6562fcd97a8"
+    }
+}

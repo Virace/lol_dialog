@@ -1,0 +1,49 @@
+{
+    "character": "kaisa",
+    "id": "1806952682",
+    "result": "他们就差一点儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689290,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.905]  他们就差一点儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们就差一点儿。",
+                    "SliceSentence": "他们 就 差 一点儿",
+                    "StartMs": 0,
+                    "EndMs": 1905,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "差",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "一点儿",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.905938
+        },
+        "RequestId": "c88e41ee-dc7d-4e30-9f5c-77bb5ca257df"
+    }
+}

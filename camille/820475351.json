@@ -1,0 +1,54 @@
+{
+    "character": "camille",
+    "id": "820475351",
+    "result": "你已经被忘却了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554256,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.880]  你已经被忘却了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你已经被忘却了。",
+                    "SliceSentence": "你 已经 被 忘却 了",
+                    "StartMs": 0,
+                    "EndMs": 1880,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 60
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "被",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "忘却",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.880625
+        },
+        "RequestId": "176867f1-0cad-4410-aecc-d3527404d3d5"
+    }
+}

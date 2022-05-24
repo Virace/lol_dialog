@@ -1,0 +1,49 @@
+{
+    "character": "zeri",
+    "id": "1194973916",
+    "result": "哎呀，我的错。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012850693,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.304]  哎呀，我的错。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哎呀，我的错。",
+                    "SliceSentence": "哎呀 我 的 错",
+                    "StartMs": 0,
+                    "EndMs": 2304,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "哎呀",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "错",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.304
+        },
+        "RequestId": "91ed6710-df64-4b1a-924d-58fb889e6f5d"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "camille",
+    "id": "319634417",
+    "result": "你没有哪怕半点用处。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552918,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.094]  你没有哪怕半点用处。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你没有哪怕半点用处。",
+                    "SliceSentence": "你 没有 哪怕 半点 用处",
+                    "StartMs": 0,
+                    "EndMs": 2094,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "哪怕",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "半点",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "用处",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.094813
+        },
+        "RequestId": "c80116f6-db64-40fc-bd29-8510fc8e2e28"
+    }
+}

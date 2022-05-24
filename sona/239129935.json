@@ -1,0 +1,49 @@
+{
+    "character": "sona",
+    "id": "239129935",
+    "result": "一切皆合音律。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012782268,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.740]  一切皆合音律。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一切皆合音律。",
+                    "SliceSentence": "一切 皆 合 音律",
+                    "StartMs": 0,
+                    "EndMs": 4740,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "一切",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "皆",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "合",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "音律",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.934375
+        },
+        "RequestId": "ef89e78e-8731-457c-b5da-b9e9c110a1ea"
+    }
+}

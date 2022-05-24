@@ -1,0 +1,39 @@
+{
+    "character": "seraphine",
+    "id": "1523103275",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012770481,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.140]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 4140,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 2790
+                        }
+                    ],
+                    "SpeechSpeed": 1.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.682313
+        },
+        "RequestId": "7f20dbe0-d585-4604-8c4d-3a7f40e8bbe8"
+    }
+}

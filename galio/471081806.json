@@ -1,0 +1,44 @@
+{
+    "character": "galio",
+    "id": "471081806",
+    "result": "把我修好。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012569117,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.267]  把我修好。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "把我修好。",
+                    "SliceSentence": "把 我 修好",
+                    "StartMs": 0,
+                    "EndMs": 3267,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "修好",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 2670
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.267938
+        },
+        "RequestId": "d8e3d75d-96d7-4a90-b786-992a07914120"
+    }
+}

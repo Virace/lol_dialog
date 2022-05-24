@@ -1,0 +1,59 @@
+{
+    "character": "nocturne",
+    "id": "529633734",
+    "result": "废人，过来给我切了啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012732029,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:6.105]  废人，过来给我切了啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "废人，过来给我切了啊。",
+                    "SliceSentence": "废人 过来 给我 切 了 啊",
+                    "StartMs": 0,
+                    "EndMs": 6105,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "废人",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "过来",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "给我",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "切",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 2970
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2970,
+                            "OffsetEndMs": 3180
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 3180,
+                            "OffsetEndMs": 3840
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.105125
+        },
+        "RequestId": "4dce226c-3a18-4267-b08b-1a0447e2242e"
+    }
+}

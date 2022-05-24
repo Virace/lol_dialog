@@ -1,0 +1,49 @@
+{
+    "character": "sylas",
+    "id": "480401820",
+    "result": "真巧，来了个人质。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012787760,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.087]  真巧，来了个人质。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "真巧，来了个人质。",
+                    "SliceSentence": "真巧 来了 个人 质",
+                    "StartMs": 0,
+                    "EndMs": 2087,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "真巧",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "来了",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "个人",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "质",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.087875
+        },
+        "RequestId": "bc98c424-d062-4d06-8b00-4adc61a70c07"
+    }
+}

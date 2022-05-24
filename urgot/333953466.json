@@ -1,0 +1,44 @@
+{
+    "character": "urgot",
+    "id": "333953466",
+    "result": "我就是武器。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012807014,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.623]  我就是武器。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我就是武器。",
+                    "SliceSentence": "我 就是 武器",
+                    "StartMs": 0,
+                    "EndMs": 3623,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "武器",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.623625
+        },
+        "RequestId": "dd899447-34a9-4490-9e73-ae07127cf037"
+    }
+}

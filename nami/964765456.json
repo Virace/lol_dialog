@@ -1,0 +1,54 @@
+{
+    "character": "nami",
+    "id": "964765456",
+    "result": "人类还有他们的天空。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012728164,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.499]  人类还有他们的天空。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "人类还有他们的天空。",
+                    "SliceSentence": "人类 还有 他们 的 天空",
+                    "StartMs": 0,
+                    "EndMs": 3499,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "人类",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "还有",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 2370
+                        },
+                        {
+                            "Word": "天空",
+                            "OffsetStartMs": 2370,
+                            "OffsetEndMs": 3270
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.499375
+        },
+        "RequestId": "f2b4e230-d7d3-46f5-a4a8-d9552158c807"
+    }
+}

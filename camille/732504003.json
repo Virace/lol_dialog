@@ -1,0 +1,39 @@
+{
+    "character": "camille",
+    "id": "732504003",
+    "result": "真是浪费。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553989,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.346]  真是浪费。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "真是浪费。",
+                    "SliceSentence": "真是 浪费",
+                    "StartMs": 0,
+                    "EndMs": 1346,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "真是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "浪费",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.346875
+        },
+        "RequestId": "433836fa-f9d9-4d2e-b840-ef59c72ff16c"
+    }
+}

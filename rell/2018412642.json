@@ -1,0 +1,59 @@
+{
+    "character": "rell",
+    "id": "2018412642",
+    "result": "我要把诺克萨斯拧成两段。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012757834,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.372]  我要把诺克萨斯拧成两段。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要把诺克萨斯拧成两段。",
+                    "SliceSentence": "我要 把 诺克萨斯 拧 成 两段",
+                    "StartMs": 0,
+                    "EndMs": 2372,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "诺克萨斯",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "拧",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "成",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "两段",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 7.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.372063
+        },
+        "RequestId": "1ee72a5f-64c5-45a6-a53e-8726cec28144"
+    }
+}

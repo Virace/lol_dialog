@@ -1,0 +1,44 @@
+{
+    "character": "yorick",
+    "id": "234126652",
+    "result": "此人未被遗忘。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012844220,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.218]  此人未被遗忘。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "此人未被遗忘。",
+                    "SliceSentence": "此人 未被 遗忘",
+                    "StartMs": 0,
+                    "EndMs": 3218,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "此人",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "未被",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "遗忘",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2790
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.218688
+        },
+        "RequestId": "f6f09bbb-a20e-42e6-83db-ec098f2edfce"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "sett",
+    "id": "511673551",
+    "result": "你没打着。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012773388,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.927]  你没打着。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你没打着。",
+                    "SliceSentence": "你 没 打着",
+                    "StartMs": 0,
+                    "EndMs": 1927,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "没",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "打着",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.92725
+        },
+        "RequestId": "aebbfa3b-e5a2-4c23-8457-348a56bf63fc"
+    }
+}

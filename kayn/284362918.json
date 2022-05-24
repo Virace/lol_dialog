@@ -1,0 +1,49 @@
+{
+    "character": "kayn",
+    "id": "284362918",
+    "result": "别再假装恶魔了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012701185,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.428]  别再假装恶魔了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别再假装恶魔了。",
+                    "SliceSentence": "别再 假装 恶魔 了",
+                    "StartMs": 0,
+                    "EndMs": 2428,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "别再",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "假装",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "恶魔",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.428063
+        },
+        "RequestId": "9dc415ea-616f-423e-b509-bb2a3f0d3bac"
+    }
+}

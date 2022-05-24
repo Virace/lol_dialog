@@ -1,0 +1,39 @@
+{
+    "character": "gnar",
+    "id": "944557509",
+    "result": "旅行发。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012573099,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.838]  旅行发。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "旅行发。",
+                    "SliceSentence": "旅行 发",
+                    "StartMs": 0,
+                    "EndMs": 838,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "旅行",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "发",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 750
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.838625
+        },
+        "RequestId": "18ed68f1-9cb6-4887-b220-68b368d4215c"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "evelynn",
+    "id": "1809939239",
+    "result": "我们就让灯开着，不行。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012562545,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.800]  我们就让灯开着，不行。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们就让灯开着，不行。",
+                    "SliceSentence": "我们 就让 灯 开着 不行",
+                    "StartMs": 0,
+                    "EndMs": 3800,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "就让",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "灯",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "开着",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "不行",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.106875
+        },
+        "RequestId": "0e929108-efa3-41a6-a6c2-3b5f5ee75c85"
+    }
+}

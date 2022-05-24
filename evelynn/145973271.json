@@ -1,0 +1,44 @@
+{
+    "character": "evelynn",
+    "id": "145973271",
+    "result": "疼痛，多么美味。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012561950,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.360]  疼痛，多么美味。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "疼痛，多么美味。",
+                    "SliceSentence": "疼痛 多么 美味",
+                    "StartMs": 0,
+                    "EndMs": 3360,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "疼痛",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "多么",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "美味",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2580
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.50625
+        },
+        "RequestId": "440a8a3b-0cc6-4605-8665-942aecc54228"
+    }
+}

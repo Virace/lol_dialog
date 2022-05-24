@@ -1,0 +1,49 @@
+{
+    "character": "graves",
+    "id": "1274905705",
+    "result": "该算算旧账了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012573424,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.823]  该算算旧账了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "该算算旧账了。",
+                    "SliceSentence": "该 算算 旧账 了",
+                    "StartMs": 0,
+                    "EndMs": 1823,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "该",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "算算",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "旧账",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.823
+        },
+        "RequestId": "2ae27277-28f0-4e9c-829b-5684253e6278"
+    }
+}

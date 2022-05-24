@@ -1,0 +1,69 @@
+{
+    "character": "rell",
+    "id": "385426993",
+    "result": "我砸烂的东西你修不好的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012758295,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.820]  我砸烂的东西你修不好的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我砸烂的东西你修不好的。",
+                    "SliceSentence": "我 砸烂 的 东西 你 修 不好 的",
+                    "StartMs": 0,
+                    "EndMs": 2820,
+                    "WordsNum": 8,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "砸烂",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "修",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "不好",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.820063
+        },
+        "RequestId": "7c4b0d1d-e981-4266-9118-282a1d295325"
+    }
+}

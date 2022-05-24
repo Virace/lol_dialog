@@ -1,0 +1,39 @@
+{
+    "character": "samira",
+    "id": "227007638",
+    "result": "死在当下。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012766718,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.322]  死在当下。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "死在当下。",
+                    "SliceSentence": "死在 当下",
+                    "StartMs": 0,
+                    "EndMs": 2322,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "死在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "当下",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.322
+        },
+        "RequestId": "585286dc-bf55-4d80-8310-bc15cf9eb1e7"
+    }
+}

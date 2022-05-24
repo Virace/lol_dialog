@@ -1,0 +1,44 @@
+{
+    "character": "kled",
+    "id": "116519289",
+    "result": "你可别怪我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012706214,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.751]  你可别怪我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你可别怪我。",
+                    "SliceSentence": "你可 别怪 我",
+                    "StartMs": 0,
+                    "EndMs": 1751,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你可",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "别怪",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.751813
+        },
+        "RequestId": "ee123aa7-933e-4acf-b7f2-ee09ff4fc350"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "rakan",
+    "id": "1505877751",
+    "result": "我知道。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012750753,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.017]  我知道。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我知道。",
+                    "SliceSentence": "我 知道",
+                    "StartMs": 0,
+                    "EndMs": 1017,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 600
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.01725
+        },
+        "RequestId": "80fccc1f-78e4-467f-8d8a-ea865b2a6cb0"
+    }
+}

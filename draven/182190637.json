@@ -1,0 +1,39 @@
+{
+    "character": "draven",
+    "id": "182190637",
+    "result": "我们走。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556614,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.780]  我们走。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们走。",
+                    "SliceSentence": "我们 走",
+                    "StartMs": 0,
+                    "EndMs": 1780,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "走",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.129813
+        },
+        "RequestId": "b3845e21-3423-4279-b4e1-037d2aa0b592"
+    }
+}

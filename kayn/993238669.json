@@ -1,0 +1,49 @@
+{
+    "character": "kayn",
+    "id": "993238669",
+    "result": "四个了，还有谁？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012703264,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.443]  四个了，还有谁？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "四个了，还有谁？",
+                    "SliceSentence": "四个 了 还有 谁",
+                    "StartMs": 0,
+                    "EndMs": 3443,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "四个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "还有",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "谁",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 3060
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.443375
+        },
+        "RequestId": "8c621d30-1052-43c1-9073-4c22018cc88b"
+    }
+}

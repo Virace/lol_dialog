@@ -1,0 +1,70 @@
+{
+    "character": "yasuo",
+    "id": "165431911",
+    "result": "想杀我？你可以试一试。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012840323,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.800]  想杀我？\n[0:1.800,0:3.549]  你可以试一试。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "想杀我？",
+                    "SliceSentence": "想 杀 我",
+                    "StartMs": 0,
+                    "EndMs": 1800,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "想",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "杀",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "你可以试一试。",
+                    "SliceSentence": "你 可以 试一试",
+                    "StartMs": 1800,
+                    "EndMs": 3549,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "试一试",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.549563
+        },
+        "RequestId": "8b2ae123-466a-4bc7-bb0c-050820dc13ec"
+    }
+}

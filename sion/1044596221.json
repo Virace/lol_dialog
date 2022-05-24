@@ -1,0 +1,49 @@
+{
+    "character": "sion",
+    "id": "1044596221",
+    "result": "杀戮时间到了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012775907,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.325]  杀戮时间到了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "杀戮时间到了。",
+                    "SliceSentence": "杀戮 时间 到 了",
+                    "StartMs": 0,
+                    "EndMs": 3325,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "杀戮",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 3120
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.325938
+        },
+        "RequestId": "dfc751e1-2e19-433f-a9db-e0fbafe328ee"
+    }
+}

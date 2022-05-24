@@ -1,0 +1,44 @@
+{
+    "character": "ivern",
+    "id": "304913212",
+    "result": "我们同为一体。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012585204,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.315]  我们同为一体。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们同为一体。",
+                    "SliceSentence": "我们 同为 一体",
+                    "StartMs": 0,
+                    "EndMs": 2315,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "同为",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "一体",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.315
+        },
+        "RequestId": "85e49c80-d9ec-4102-bc47-c6a153d5a8b8"
+    }
+}

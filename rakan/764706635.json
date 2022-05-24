@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "764706635",
+    "result": "总会出岔子的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012754354,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.818]  总会出岔子的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "总会出岔子的。",
+                    "SliceSentence": "总会 出 岔子 的",
+                    "StartMs": 0,
+                    "EndMs": 1818,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "总会",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "出",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "岔子",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.818563
+        },
+        "RequestId": "09449e97-d6bf-4199-b858-c127c8fd86a9"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "renata",
+    "id": "1342214739",
+    "result": "这就叫合作。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012759553,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.603]  这就叫合作。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这就叫合作。",
+                    "SliceSentence": "这就 叫 合作",
+                    "StartMs": 0,
+                    "EndMs": 2603,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这就",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "叫",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "合作",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.603375
+        },
+        "RequestId": "98eb4dea-6d21-4a5e-a25a-4a5dba925a40"
+    }
+}

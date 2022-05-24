@@ -1,0 +1,44 @@
+{
+    "character": "karthus",
+    "id": "948214794",
+    "result": "这是命中注定的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012696664,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.810]  这是命中注定的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是命中注定的。",
+                    "SliceSentence": "这是 命中注定 的",
+                    "StartMs": 0,
+                    "EndMs": 4810,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "命中注定",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 3570
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 3660,
+                            "OffsetEndMs": 4110
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.810688
+        },
+        "RequestId": "1a46b4b7-8115-4f11-8c5c-5cc6324d93d6"
+    }
+}

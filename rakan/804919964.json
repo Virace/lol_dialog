@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "804919964",
+    "result": "我要抽他们。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012754383,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.998]  我要抽他们。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要抽他们。",
+                    "SliceSentence": "我要 抽 他们",
+                    "StartMs": 0,
+                    "EndMs": 998,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "抽",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 8.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.998625
+        },
+        "RequestId": "a4a3b5ea-1dfb-4b05-a079-4d66a314a1f5"
+    }
+}

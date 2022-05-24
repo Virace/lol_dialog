@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "1631078213",
+    "result": "我们有计划吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012751237,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.002]  我们有计划吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们有计划吗？",
+                    "SliceSentence": "我们 有 计划 吗",
+                    "StartMs": 0,
+                    "EndMs": 1002,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "计划",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 10.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.002188
+        },
+        "RequestId": "ac3f6307-35e0-4d7c-addc-5be9e746d1b1"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "akshan",
+    "id": "1457845635",
+    "result": "餐后甜点马上就来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012540812,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.285]  餐后甜点马上就来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "餐后甜点马上就来。",
+                    "SliceSentence": "餐后 甜点 马上 就来",
+                    "StartMs": 0,
+                    "EndMs": 3285,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "餐后",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "甜点",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "马上",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "就来",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.285313
+        },
+        "RequestId": "a2f65c8b-ce72-4924-8471-9337803fa602"
+    }
+}

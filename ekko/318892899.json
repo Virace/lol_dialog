@@ -1,0 +1,44 @@
+{
+    "character": "ekko",
+    "id": "318892899",
+    "result": "我不是天使。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012559979,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.369]  我不是天使。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不是天使。",
+                    "SliceSentence": "我 不是 天使",
+                    "StartMs": 0,
+                    "EndMs": 1369,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "天使",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.369375
+        },
+        "RequestId": "128ae283-de7b-4714-8860-1d3843c78958"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "character": "rakan",
+    "id": "830833987",
+    "result": "啊，不该是这样的。诶。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012754532,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.380]  啊，不该是这样的。\n[0:3.380,0:4.688]  诶。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，不该是这样的。",
+                    "SliceSentence": "啊 不该 是 这样 的",
+                    "StartMs": 0,
+                    "EndMs": 3380,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "不该",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "这样",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "诶。",
+                    "SliceSentence": "诶",
+                    "StartMs": 3380,
+                    "EndMs": 4688,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "诶",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.688625
+        },
+        "RequestId": "7bbc0b3d-354d-416e-89fa-5ea5d891f995"
+    }
+}

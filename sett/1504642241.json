@@ -1,0 +1,49 @@
+{
+    "character": "sett",
+    "id": "1504642241",
+    "result": "让大家好好欣赏一下。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012772431,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.041]  让大家好好欣赏一下。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "让大家好好欣赏一下。",
+                    "SliceSentence": "让大家 好好 欣赏 一下",
+                    "StartMs": 0,
+                    "EndMs": 3041,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "让大家",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "好好",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "欣赏",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "一下",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.041813
+        },
+        "RequestId": "4570900b-84b8-4547-88ab-7d2e4235f4c8"
+    }
+}

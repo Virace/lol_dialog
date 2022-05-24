@@ -1,0 +1,44 @@
+{
+    "character": "sylas",
+    "id": "1747085262",
+    "result": "交出来吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786823,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.937]  交出来吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "交出来吧。",
+                    "SliceSentence": "交出 来 吧",
+                    "StartMs": 0,
+                    "EndMs": 937,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "交出",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 870
+                        }
+                    ],
+                    "SpeechSpeed": 7.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.937813
+        },
+        "RequestId": "0fdf1563-e0ac-498f-a043-5b1f034f8cb1"
+    }
+}

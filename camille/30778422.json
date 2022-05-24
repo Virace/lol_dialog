@@ -1,0 +1,59 @@
+{
+    "character": "camille",
+    "id": "30778422",
+    "result": "别着急，我还没完事呢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552882,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.803]  别着急，我还没完事呢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别着急，我还没完事呢。",
+                    "SliceSentence": "别 着急 我 还没 完事 呢",
+                    "StartMs": 0,
+                    "EndMs": 2803,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "着急",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "还没",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "完事",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 2730
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.803688
+        },
+        "RequestId": "32d00972-2539-432b-8ac4-99cc5e2fd7f7"
+    }
+}

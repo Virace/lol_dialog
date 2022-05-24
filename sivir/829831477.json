@@ -1,0 +1,49 @@
+{
+    "character": "sivir",
+    "id": "829831477",
+    "result": "这是我的沙漠。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012779672,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.038]  这是我的沙漠。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是我的沙漠。",
+                    "SliceSentence": "这 是我 的 沙漠",
+                    "StartMs": 0,
+                    "EndMs": 2038,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "沙漠",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.038813
+        },
+        "RequestId": "61377c28-4113-4f72-975c-d8aa4bc96671"
+    }
+}

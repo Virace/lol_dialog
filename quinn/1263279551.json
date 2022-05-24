@@ -1,0 +1,44 @@
+{
+    "character": "quinn",
+    "id": "1263279551",
+    "result": "找条路给我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012748736,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.695]  找条路给我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "找条路给我。",
+                    "SliceSentence": "找 条路 给我",
+                    "StartMs": 0,
+                    "EndMs": 1695,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "找",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "条路",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "给我",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.695063
+        },
+        "RequestId": "c931c96f-00bd-4adb-b7e6-44035cb02a0f"
+    }
+}

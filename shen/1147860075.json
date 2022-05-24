@@ -1,0 +1,44 @@
+{
+    "character": "shen",
+    "id": "1147860075",
+    "result": "执行均衡之力。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012774168,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.999]  执行均衡之力。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "执行均衡之力。",
+                    "SliceSentence": "执行 均衡 之力",
+                    "StartMs": 0,
+                    "EndMs": 1999,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "执行",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "均衡",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "之力",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.999188
+        },
+        "RequestId": "48dfe01d-0899-483b-8fdb-54fae83d31ac"
+    }
+}

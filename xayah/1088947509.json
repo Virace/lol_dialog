@@ -1,0 +1,54 @@
+{
+    "character": "xayah",
+    "id": "1088947509",
+    "result": "我很想把你的快乐抽空。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012833803,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.515]  我很想把你的快乐抽空。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我很想把你的快乐抽空。",
+                    "SliceSentence": "我很想 把 你的 快乐 抽空",
+                    "StartMs": 0,
+                    "EndMs": 2515,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我很想",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "快乐",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "抽空",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.515875
+        },
+        "RequestId": "e0c4db54-3175-496f-930f-dc7c361de1ce"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "shen",
+    "id": "1889317207",
+    "result": "看我的吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012774325,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.513]  看我的吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "看我的吧。",
+                    "SliceSentence": "看我 的 吧",
+                    "StartMs": 0,
+                    "EndMs": 1513,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "看我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 840
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.513938
+        },
+        "RequestId": "b2e4a78c-de62-4ad6-bb73-5c4564087ef2"
+    }
+}

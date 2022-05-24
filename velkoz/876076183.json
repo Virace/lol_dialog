@@ -1,0 +1,44 @@
+{
+    "character": "velkoz",
+    "id": "876076183",
+    "result": "我必须知道。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012809837,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.460]  我必须知道。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我必须知道。",
+                    "SliceSentence": "我 必须 知道",
+                    "StartMs": 0,
+                    "EndMs": 4460,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "必须",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.826438
+        },
+        "RequestId": "2ce8570b-6761-4691-8885-d33294cc133a"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "nami",
+    "id": "733076820",
+    "result": "海水正在上涨。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012728118,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.796]  海水正在上涨。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "海水正在上涨。",
+                    "SliceSentence": "海水 正在 上涨",
+                    "StartMs": 0,
+                    "EndMs": 2796,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "海水",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "上涨",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.796625
+        },
+        "RequestId": "fe5575bf-59f2-4185-ae40-bab84f9a8547"
+    }
+}

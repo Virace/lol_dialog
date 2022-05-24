@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "670829320",
+    "result": "这就是计划，对吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012754124,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.503]  这就是计划，对吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这就是计划，对吗？",
+                    "SliceSentence": "这就 是 计划 对 吗",
+                    "StartMs": 0,
+                    "EndMs": 1503,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这就",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "计划",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "对",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 8.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.503375
+        },
+        "RequestId": "3a415920-49f8-4a01-ba20-afe446f37b17"
+    }
+}

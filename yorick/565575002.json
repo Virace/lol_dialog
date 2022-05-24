@@ -1,0 +1,49 @@
+{
+    "character": "yorick",
+    "id": "565575002",
+    "result": "你的残骸自有用处。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012845232,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.901]  你的残骸自有用处。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你的残骸自有用处。",
+                    "SliceSentence": "你的 残骸 自有 用处",
+                    "StartMs": 0,
+                    "EndMs": 3901,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "残骸",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "自有",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2580
+                        },
+                        {
+                            "Word": "用处",
+                            "OffsetStartMs": 2580,
+                            "OffsetEndMs": 3840
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.901688
+        },
+        "RequestId": "6a639e75-0c7e-4700-aa3f-d1c8762399cf"
+    }
+}

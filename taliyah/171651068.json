@@ -1,0 +1,49 @@
+{
+    "character": "taliyah",
+    "id": "171651068",
+    "result": "平地而起，最棒啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012791932,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.633]  平地而起，最棒啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "平地而起，最棒啦。",
+                    "SliceSentence": "平地 而起 最棒 啦",
+                    "StartMs": 0,
+                    "EndMs": 1633,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "平地",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "而起",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "最棒",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.633375
+        },
+        "RequestId": "5cbeaaba-3d76-4105-8b51-4d083be1d85f"
+    }
+}

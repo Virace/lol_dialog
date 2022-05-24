@@ -1,0 +1,59 @@
+{
+    "character": "kayle",
+    "id": "812874448",
+    "result": "我是你得救的机会。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012698793,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.082]  我是你得救的机会。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我是你得救的机会。",
+                    "SliceSentence": "我 是 你 得救 的 机会",
+                    "StartMs": 0,
+                    "EndMs": 3082,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "得救",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "机会",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.082125
+        },
+        "RequestId": "0775307c-372d-4112-b240-5b5c198dbf6f"
+    }
+}

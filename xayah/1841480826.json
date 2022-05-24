@@ -1,0 +1,54 @@
+{
+    "character": "xayah",
+    "id": "1841480826",
+    "result": "魔法终于又解放了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012835542,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.288]  魔法终于又解放了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "魔法终于又解放了。",
+                    "SliceSentence": "魔法 终于 又 解放 了",
+                    "StartMs": 0,
+                    "EndMs": 2288,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "魔法",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "终于",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "又",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "解放",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.288813
+        },
+        "RequestId": "3d081b77-8497-47ec-8771-94bfb60aa367"
+    }
+}

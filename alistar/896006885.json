@@ -1,0 +1,49 @@
+{
+    "character": "alistar",
+    "id": "896006885",
+    "result": "俺很生气，后果很严重。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012541972,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.187]  俺很生气，后果很严重。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "俺很生气，后果很严重。",
+                    "SliceSentence": "俺 很生气 后果 很严重",
+                    "StartMs": 0,
+                    "EndMs": 5187,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "俺",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "很生气",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "后果",
+                            "OffsetStartMs": 2610,
+                            "OffsetEndMs": 3840
+                        },
+                        {
+                            "Word": "很严重",
+                            "OffsetStartMs": 3840,
+                            "OffsetEndMs": 5130
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.187375
+        },
+        "RequestId": "510486f4-f585-4d35-bc97-a0582f8b24fb"
+    }
+}

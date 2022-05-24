@@ -1,0 +1,44 @@
+{
+    "character": "twitch",
+    "id": "2106334440",
+    "result": "需要更多沉渣。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012803691,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.900]  需要更多沉渣。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "需要更多沉渣。",
+                    "SliceSentence": "需要 更多 沉渣",
+                    "StartMs": 0,
+                    "EndMs": 3900,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "更多",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "沉渣",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 3810
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.900938
+        },
+        "RequestId": "155a43b1-1cc4-4c00-b0b9-77683add5eec"
+    }
+}

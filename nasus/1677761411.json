@@ -1,0 +1,54 @@
+{
+    "character": "nasus",
+    "id": "1677761411",
+    "result": "我已守候了数个世纪。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012728398,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.600]  我已守候了数个世纪。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我已守候了数个世纪。",
+                    "SliceSentence": "我已 守候 了 数个 世纪",
+                    "StartMs": 0,
+                    "EndMs": 3600,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我已",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "守候",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "数个",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2370
+                        },
+                        {
+                            "Word": "世纪",
+                            "OffsetStartMs": 2370,
+                            "OffsetEndMs": 3450
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.600188
+        },
+        "RequestId": "5e550292-59db-4246-b84a-891f7cbdfd32"
+    }
+}

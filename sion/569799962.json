@@ -1,0 +1,49 @@
+{
+    "character": "sion",
+    "id": "569799962",
+    "result": "我在失去自我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012777347,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.048]  我在失去自我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我在失去自我。",
+                    "SliceSentence": "我 在 失去 自我",
+                    "StartMs": 0,
+                    "EndMs": 4048,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "失去",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "自我",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 3840
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.048938
+        },
+        "RequestId": "a7b1c046-fddf-40e0-9dac-cacbc2578375"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "kayle",
+    "id": "110746271",
+    "result": "向战败者致意。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012697325,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.462]  向战败者致意。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "向战败者致意。",
+                    "SliceSentence": "向 战败 者 致意",
+                    "StartMs": 0,
+                    "EndMs": 2462,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "向",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "战败",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "者",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "致意",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.462875
+        },
+        "RequestId": "b9931fec-d466-471a-aa78-e952b0755031"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "singed",
+    "id": "554959381",
+    "result": "饮用之前摇一摇。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012775741,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.018]  饮用之前摇一摇。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "饮用之前摇一摇。",
+                    "SliceSentence": "饮用 之前 摇一摇",
+                    "StartMs": 0,
+                    "EndMs": 3018,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "饮用",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "之前",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "摇一摇",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 2790
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.018625
+        },
+        "RequestId": "34f564c2-897a-47e4-8e17-8fb2babc3a36"
+    }
+}

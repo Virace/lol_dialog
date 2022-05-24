@@ -1,0 +1,44 @@
+{
+    "character": "sett",
+    "id": "1187588449",
+    "result": "终结技来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012772265,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.438]  终结技来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "终结技来了。",
+                    "SliceSentence": "终结 技 来了",
+                    "StartMs": 0,
+                    "EndMs": 2438,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "终结",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "技",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "来了",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.438125
+        },
+        "RequestId": "99e03a62-eabf-4c9c-8d66-05e9e848f7b7"
+    }
+}

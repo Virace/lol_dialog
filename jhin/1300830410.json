@@ -1,0 +1,44 @@
+{
+    "character": "jhin",
+    "id": "1300830410",
+    "result": "微笑，各位微笑。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012684818,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.980]  微笑，各位微笑。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "微笑，各位微笑。",
+                    "SliceSentence": "微笑 各位 微笑",
+                    "StartMs": 0,
+                    "EndMs": 3980,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "微笑",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "各位",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "微笑",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.82775
+        },
+        "RequestId": "2b28ec21-84f8-4a24-80c4-21c4cda757b6"
+    }
+}

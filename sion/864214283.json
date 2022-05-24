@@ -1,0 +1,54 @@
+{
+    "character": "sion",
+    "id": "864214283",
+    "result": "我的斧头正在变冷。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012777991,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.804]  我的斧头正在变冷。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的斧头正在变冷。",
+                    "SliceSentence": "我 的 斧头 正在 变冷",
+                    "StartMs": 0,
+                    "EndMs": 3804,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "斧头",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "变冷",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 3600
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.804
+        },
+        "RequestId": "a3b18ce8-02d5-4862-b389-031dfedcef0d"
+    }
+}

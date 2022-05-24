@@ -1,0 +1,49 @@
+{
+    "character": "akshan",
+    "id": "1202488820",
+    "result": "嘿，我悄悄的来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012540532,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.794]  嘿，我悄悄的来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘿，我悄悄的来了。",
+                    "SliceSentence": "嘿 我 悄悄的 来了",
+                    "StartMs": 0,
+                    "EndMs": 2794,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "嘿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "悄悄的",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "来了",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.794688
+        },
+        "RequestId": "0c44bfe9-61b7-4765-8915-95b5ac5c64d3"
+    }
+}

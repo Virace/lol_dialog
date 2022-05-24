@@ -1,0 +1,64 @@
+{
+    "character": "poppy",
+    "id": "258041194",
+    "result": "等等，你在这儿，我以为你在那儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012742788,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.145]  等等，你在这儿，我以为你在那儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "等等，你在这儿，我以为你在那儿。",
+                    "SliceSentence": "等等 你在 这儿 我 以为 你在 那儿",
+                    "StartMs": 0,
+                    "EndMs": 3145,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "等等",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "你在",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "这儿",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "以为",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "你在",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "那儿",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 3030
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.14525
+        },
+        "RequestId": "4d2206c6-4681-4f8f-a679-ceef5031e3af"
+    }
+}

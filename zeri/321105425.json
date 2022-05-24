@@ -1,0 +1,44 @@
+{
+    "character": "zeri",
+    "id": "321105425",
+    "result": "想都别想。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012852249,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.005]  想都别想。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "想都别想。",
+                    "SliceSentence": "想 都 别想",
+                    "StartMs": 0,
+                    "EndMs": 2005,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "想",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "都",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "别想",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.005313
+        },
+        "RequestId": "e6133fd2-c35b-4bca-9a44-19e602777575"
+    }
+}

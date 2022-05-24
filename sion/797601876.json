@@ -1,0 +1,59 @@
+{
+    "character": "sion",
+    "id": "797601876",
+    "result": "你们都死得太快了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012777932,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.311]  你们都死得太快了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你们都死得太快了。",
+                    "SliceSentence": "你们 都 死 得 太 快了",
+                    "StartMs": 0,
+                    "EndMs": 2311,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "都",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "死",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "得",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "太",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "快了",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.311813
+        },
+        "RequestId": "ada5c797-e710-4be5-8e7c-18c77c772fed"
+    }
+}

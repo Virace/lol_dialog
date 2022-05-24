@@ -1,0 +1,59 @@
+{
+    "character": "jhin",
+    "id": "466649390",
+    "result": "我将死亡编曲颂唱。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012686114,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.160]  我将死亡编曲颂唱。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我将死亡编曲颂唱。",
+                    "SliceSentence": "我 将 死亡 编曲 颂 唱",
+                    "StartMs": 0,
+                    "EndMs": 5160,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "将",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "死亡",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "编曲",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2910
+                        },
+                        {
+                            "Word": "颂",
+                            "OffsetStartMs": 2910,
+                            "OffsetEndMs": 3360
+                        },
+                        {
+                            "Word": "唱",
+                            "OffsetStartMs": 3360,
+                            "OffsetEndMs": 3840
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.489063
+        },
+        "RequestId": "fe453a3c-7b2a-4f45-a3aa-779df8f35c9e"
+    }
+}

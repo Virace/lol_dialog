@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "162120415",
+    "result": "我们见过吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012688980,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.134]  我们见过吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们见过吗？",
+                    "SliceSentence": "我们 见过 吗",
+                    "StartMs": 0,
+                    "EndMs": 1134,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "见过",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 870
+                        }
+                    ],
+                    "SpeechSpeed": 7.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.134125
+        },
+        "RequestId": "6e174efd-d38d-4394-9429-6dbbf6cc742c"
+    }
+}

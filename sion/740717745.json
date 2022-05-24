@@ -1,0 +1,49 @@
+{
+    "character": "sion",
+    "id": "740717745",
+    "result": "这就是你的葬身之地。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012777706,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.022]  这就是你的葬身之地。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这就是你的葬身之地。",
+                    "SliceSentence": "这 就是 你的 葬身之地",
+                    "StartMs": 0,
+                    "EndMs": 3022,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "葬身之地",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.022125
+        },
+        "RequestId": "b04060f2-ac94-4d8d-953c-059af8036d9b"
+    }
+}

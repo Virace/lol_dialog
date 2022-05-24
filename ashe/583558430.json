@@ -1,0 +1,54 @@
+{
+    "character": "ashe",
+    "id": "583558430",
+    "result": "阿瓦罗萨指引我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012545633,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.461]  阿瓦罗萨指引我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "阿瓦罗萨指引我。",
+                    "SliceSentence": "阿 瓦罗 萨 指引 我",
+                    "StartMs": 0,
+                    "EndMs": 2461,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "阿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "瓦罗",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "萨",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "指引",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.461313
+        },
+        "RequestId": "23a51cc1-76c8-458d-935e-7ce5eedb3b13"
+    }
+}

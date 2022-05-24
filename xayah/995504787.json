@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "995504787",
+    "result": "我们必须一直走。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012838407,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.457]  我们必须一直走。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们必须一直走。",
+                    "SliceSentence": "我们必须 一直 走",
+                    "StartMs": 0,
+                    "EndMs": 1457,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们必须",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "一直",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "走",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.457813
+        },
+        "RequestId": "c8a44070-fc18-4038-a5f6-27273690e998"
+    }
+}

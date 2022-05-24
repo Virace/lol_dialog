@@ -1,0 +1,44 @@
+{
+    "character": "camille",
+    "id": "642781284",
+    "result": "剪刀就要剪纸。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553751,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.920]  剪刀就要剪纸。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "剪刀就要剪纸。",
+                    "SliceSentence": "剪刀 就要 剪纸",
+                    "StartMs": 0,
+                    "EndMs": 2920,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "剪刀",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "就要",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "剪纸",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2850
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.920875
+        },
+        "RequestId": "5baf11f4-6c98-4917-a980-bb9fc5340339"
+    }
+}

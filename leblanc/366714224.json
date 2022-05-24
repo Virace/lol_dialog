@@ -1,0 +1,44 @@
+{
+    "character": "leblanc",
+    "id": "366714224",
+    "result": "我会骗你吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012711829,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.934]  我会骗你吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会骗你吗？",
+                    "SliceSentence": "我会 骗你 吗",
+                    "StartMs": 0,
+                    "EndMs": 1934,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "骗你",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.934375
+        },
+        "RequestId": "b547094d-445d-48c3-a9b3-d704a80062ff"
+    }
+}

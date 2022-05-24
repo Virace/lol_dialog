@@ -1,0 +1,54 @@
+{
+    "character": "kled",
+    "id": "918928557",
+    "result": "你就当这是请柬吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012710166,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.071]  你就当这是请柬吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你就当这是请柬吧。",
+                    "SliceSentence": "你就 当 这是 请柬 吧",
+                    "StartMs": 0,
+                    "EndMs": 2071,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你就",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "当",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "请柬",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.071188
+        },
+        "RequestId": "93a15e1a-8913-417a-ad67-93e723eeff36"
+    }
+}

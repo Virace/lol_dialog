@@ -1,0 +1,54 @@
+{
+    "character": "senna",
+    "id": "1487504646",
+    "result": "这么多苦痛都不属于我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012768609,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.947]  这么多苦痛都不属于我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这么多苦痛都不属于我。",
+                    "SliceSentence": "这么多 苦痛 都不 属于 我",
+                    "StartMs": 0,
+                    "EndMs": 3947,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这么多",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "苦痛",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "都不",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "属于",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2610
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 2610,
+                            "OffsetEndMs": 3240
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.947375
+        },
+        "RequestId": "6a2aa86c-8edf-4c96-b9a0-85bd3012b260"
+    }
+}

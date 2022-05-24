@@ -1,0 +1,59 @@
+{
+    "character": "ornn",
+    "id": "442148537",
+    "result": "啊，敲东西可真让我放松。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012739528,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.760]  啊，敲东西可真让我放松。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，敲东西可真让我放松。",
+                    "SliceSentence": "啊 敲 东西 可真 让我 放松",
+                    "StartMs": 0,
+                    "EndMs": 3760,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "敲",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "可真",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "让我",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 2760
+                        },
+                        {
+                            "Word": "放松",
+                            "OffsetStartMs": 2760,
+                            "OffsetEndMs": 3480
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.760188
+        },
+        "RequestId": "45f7f1de-191e-4353-945d-0bbbf606e64c"
+    }
+}

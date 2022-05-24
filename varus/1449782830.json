@@ -1,0 +1,44 @@
+{
+    "character": "varus",
+    "id": "1449782830",
+    "result": "给我一个目标。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012807930,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.060]  给我一个目标。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "给我一个目标。",
+                    "SliceSentence": "给我 一个 目标",
+                    "StartMs": 0,
+                    "EndMs": 3060,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "给我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "目标",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 2970
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.264375
+        },
+        "RequestId": "a8b50474-4da5-4e0f-84ae-3b99c9a37a8d"
+    }
+}

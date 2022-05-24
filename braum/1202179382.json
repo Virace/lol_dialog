@@ -1,0 +1,59 @@
+{
+    "character": "braum",
+    "id": "1202179382",
+    "result": "我的盾牌与你同在。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550042,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.126]  我的盾牌与你同在。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的盾牌与你同在。",
+                    "SliceSentence": "我 的 盾牌 与 你 同在",
+                    "StartMs": 0,
+                    "EndMs": 2126,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "盾牌",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "与",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "同在",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.126875
+        },
+        "RequestId": "f1fd190c-3ca8-49e3-9315-4445ce3db7c4"
+    }
+}

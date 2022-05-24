@@ -1,0 +1,44 @@
+{
+    "character": "taliyah",
+    "id": "228363094",
+    "result": "大家燥起来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012792065,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.582]  大家燥起来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "大家燥起来。",
+                    "SliceSentence": "大家 燥 起来",
+                    "StartMs": 0,
+                    "EndMs": 1582,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "大家",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "燥",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "起来",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.582313
+        },
+        "RequestId": "7886922a-dda4-4a38-abcf-bbde984169e4"
+    }
+}

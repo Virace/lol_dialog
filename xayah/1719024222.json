@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "1719024222",
+    "result": "哼，漫天飞羽。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012835281,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.930]  哼，漫天飞羽。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼，漫天飞羽。",
+                    "SliceSentence": "哼 漫天 飞羽",
+                    "StartMs": 0,
+                    "EndMs": 2930,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "漫天",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "飞羽",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.93025
+        },
+        "RequestId": "de74b60e-a493-4f92-96ca-36ae0971fe4f"
+    }
+}

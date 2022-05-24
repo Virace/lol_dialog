@@ -1,0 +1,44 @@
+{
+    "character": "neeko",
+    "id": "930916782",
+    "result": "你好啊，敌人。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012731025,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.421]  你好啊，敌人。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你好啊，敌人。",
+                    "SliceSentence": "你 好啊 敌人",
+                    "StartMs": 0,
+                    "EndMs": 1421,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "好啊",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "敌人",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.421625
+        },
+        "RequestId": "21aa2ce9-f0c9-457b-9321-35b2ff215c40"
+    }
+}

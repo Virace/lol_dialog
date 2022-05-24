@@ -1,0 +1,39 @@
+{
+    "character": "gnar",
+    "id": "143211548",
+    "result": "嗯，哪。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012572566,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.327]  嗯，哪。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯，哪。",
+                    "SliceSentence": "嗯 哪",
+                    "StartMs": 0,
+                    "EndMs": 1327,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "哪",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 450
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.327813
+        },
+        "RequestId": "0e02268f-4500-4777-9a86-cebe18d8c3cd"
+    }
+}

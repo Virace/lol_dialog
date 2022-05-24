@@ -1,0 +1,44 @@
+{
+    "character": "neeko",
+    "id": "463589900",
+    "result": "好容易骗哦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012730405,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.339]  好容易骗哦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好容易骗哦。",
+                    "SliceSentence": "好容易 骗 哦",
+                    "StartMs": 0,
+                    "EndMs": 1339,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "好容易",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "骗",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "哦",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.339375
+        },
+        "RequestId": "96b2b51d-5aae-4dcd-ac59-9118f60ed948"
+    }
+}

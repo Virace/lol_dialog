@@ -1,0 +1,44 @@
+{
+    "character": "taric",
+    "id": "684226635",
+    "result": "很好的补充。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012797277,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.549]  很好的补充。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "很好的补充。",
+                    "SliceSentence": "很 好的 补充",
+                    "StartMs": 0,
+                    "EndMs": 2549,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "很",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "好的",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "补充",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.549563
+        },
+        "RequestId": "2a5489a9-a253-4b51-82ee-b831b8f5dc88"
+    }
+}

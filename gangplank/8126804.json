@@ -1,0 +1,49 @@
+{
+    "character": "gangplank",
+    "id": "8126804",
+    "result": "清算就要来临了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012571560,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.614]  清算就要来临了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "清算就要来临了。",
+                    "SliceSentence": "清算 就要 来临 了",
+                    "StartMs": 0,
+                    "EndMs": 2614,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "清算",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "就要",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "来临",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.614375
+        },
+        "RequestId": "2d522d09-1683-4a70-8793-42742f315fbd"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "kayn",
+    "id": "130433891",
+    "result": "真是浪费时间。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012699265,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.454]  真是浪费时间。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "真是浪费时间。",
+                    "SliceSentence": "真是 浪费 时间",
+                    "StartMs": 0,
+                    "EndMs": 1454,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "真是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "浪费",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.454375
+        },
+        "RequestId": "598a637b-c991-4f8b-b866-501cecd9e64d"
+    }
+}

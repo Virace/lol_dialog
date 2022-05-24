@@ -1,0 +1,39 @@
+{
+    "character": "hecarim",
+    "id": "599885265",
+    "result": "拥抱死亡。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012575901,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.182]  拥抱死亡。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "拥抱死亡。",
+                    "SliceSentence": "拥抱 死亡",
+                    "StartMs": 0,
+                    "EndMs": 4182,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "拥抱",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "死亡",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 3450
+                        }
+                    ],
+                    "SpeechSpeed": 1.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.182125
+        },
+        "RequestId": "e83247dd-709f-4711-bc24-c5b1c7028a41"
+    }
+}

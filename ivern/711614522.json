@@ -1,0 +1,39 @@
+{
+    "character": "ivern",
+    "id": "711614522",
+    "result": "回头见小红。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012682692,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.286]  回头见小红。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "回头见小红。",
+                    "SliceSentence": "回头见 小红",
+                    "StartMs": 0,
+                    "EndMs": 2286,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "回头见",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "小红",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.2865
+        },
+        "RequestId": "cbd7bc78-dc20-46e6-8124-f3450639e28a"
+    }
+}

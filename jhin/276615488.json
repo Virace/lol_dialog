@@ -1,0 +1,49 @@
+{
+    "character": "jhin",
+    "id": "276615488",
+    "result": "我为你精心筹备。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012685910,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.052]  我为你精心筹备。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我为你精心筹备。",
+                    "SliceSentence": "我为 你 精心 筹备",
+                    "StartMs": 0,
+                    "EndMs": 3052,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我为",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "精心",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "筹备",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 2970
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.052625
+        },
+        "RequestId": "790aa615-8ced-4b95-be34-5ce20816fd4c"
+    }
+}

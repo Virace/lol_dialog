@@ -1,0 +1,59 @@
+{
+    "character": "zoe",
+    "id": "1696147104",
+    "result": "这就是你想玩的游戏。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012854907,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.483]  这就是你想玩的游戏。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这就是你想玩的游戏。",
+                    "SliceSentence": "这就 是 你想 玩 的 游戏",
+                    "StartMs": 0,
+                    "EndMs": 2483,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "这就",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "你想",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "玩",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "游戏",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.483375
+        },
+        "RequestId": "274975a9-e1a6-4843-b8db-69906278652e"
+    }
+}

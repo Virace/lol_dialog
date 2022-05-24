@@ -1,0 +1,39 @@
+{
+    "character": "zilean",
+    "id": "648618313",
+    "result": "必须的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012854005,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.532]  必须的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "必须的。",
+                    "SliceSentence": "必须 的",
+                    "StartMs": 0,
+                    "EndMs": 1532,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "必须",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.5325
+        },
+        "RequestId": "a357e7bb-7d34-4a5f-857c-828ed1ac71a2"
+    }
+}

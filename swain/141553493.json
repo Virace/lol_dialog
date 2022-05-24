@@ -1,0 +1,44 @@
+{
+    "character": "swain",
+    "id": "141553493",
+    "result": "别废话了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012783862,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.185]  别废话了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别废话了。",
+                    "SliceSentence": "别 废话 了",
+                    "StartMs": 0,
+                    "EndMs": 1185,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "废话",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.185
+        },
+        "RequestId": "5df89193-5baf-4bf9-8419-2e159e34a92c"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "zeri",
+    "id": "886118393",
+    "result": "我看你敢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012852983,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.920]  我看你敢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我看你敢。",
+                    "SliceSentence": "我 看 你敢",
+                    "StartMs": 0,
+                    "EndMs": 1920,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "看",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "你敢",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.92
+        },
+        "RequestId": "76d92987-8c82-496f-9c27-e48f9f24e5aa"
+    }
+}

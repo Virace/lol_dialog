@@ -1,0 +1,49 @@
+{
+    "character": "yorick",
+    "id": "19606488",
+    "result": "你又来找你了？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012844069,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.414]  你又来找你了？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你又来找你了？",
+                    "SliceSentence": "你又 来 找你 了",
+                    "StartMs": 0,
+                    "EndMs": 2414,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你又",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "找你",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.414375
+        },
+        "RequestId": "3d65ba13-839f-4401-8aa5-318f156406b9"
+    }
+}

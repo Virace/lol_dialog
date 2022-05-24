@@ -1,0 +1,39 @@
+{
+    "character": "khazix",
+    "id": "974298369",
+    "result": "准备收割。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012704269,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.977]  准备收割。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "准备收割。",
+                    "SliceSentence": "准备 收割",
+                    "StartMs": 0,
+                    "EndMs": 2977,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "准备",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "收割",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 2700
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.977875
+        },
+        "RequestId": "8c455799-87cd-4f2e-9dfc-ce5d65ef9c07"
+    }
+}

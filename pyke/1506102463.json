@@ -1,0 +1,44 @@
+{
+    "character": "pyke",
+    "id": "1506102463",
+    "result": "欢迎来到深渊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745123,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.981]  欢迎来到深渊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "欢迎来到深渊。",
+                    "SliceSentence": "欢迎 来到 深渊",
+                    "StartMs": 0,
+                    "EndMs": 2981,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "欢迎",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "来到",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "深渊",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.981688
+        },
+        "RequestId": "5adf81fc-9281-4a74-b942-92df07121c1b"
+    }
+}

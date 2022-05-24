@@ -1,0 +1,49 @@
+{
+    "character": "vex",
+    "id": "934820289",
+    "result": "终于，我可以走了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012811603,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.450]  终于，我可以走了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "终于，我可以走了。",
+                    "SliceSentence": "终于 我 可以 走了",
+                    "StartMs": 0,
+                    "EndMs": 3450,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "终于",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "走了",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.450625
+        },
+        "RequestId": "e93a41f5-f192-4467-8bef-9ef66ffb9f6b"
+    }
+}

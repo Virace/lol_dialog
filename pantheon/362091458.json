@@ -1,0 +1,44 @@
+{
+    "character": "pantheon",
+    "id": "362091458",
+    "result": "我绝不认输。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012741923,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.693]  我绝不认输。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我绝不认输。",
+                    "SliceSentence": "我 绝不 认输",
+                    "StartMs": 0,
+                    "EndMs": 2693,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "绝不",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "认输",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.6935
+        },
+        "RequestId": "be836716-7b2c-45e0-974d-c9e37065cc43"
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "character": "senna",
+    "id": "964775362",
+    "result": "我记得学来的本事。也记得教过我的人。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012770157,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.300]  我记得学来的本事。\n[0:2.300,0:4.435]  也记得教过我的人。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我记得学来的本事。",
+                    "SliceSentence": "我记得 学来 的 本事",
+                    "StartMs": 0,
+                    "EndMs": 2300,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我记得",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "学来",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "本事",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "也记得教过我的人。",
+                    "SliceSentence": "也 记得 教 过 我 的 人",
+                    "StartMs": 2300,
+                    "EndMs": 4435,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "也",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "记得",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "教",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "过",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "人",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.435
+        },
+        "RequestId": "139a80e4-7254-4e3a-aae7-6ced9b79f1c4"
+    }
+}

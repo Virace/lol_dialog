@@ -1,0 +1,44 @@
+{
+    "character": "nami",
+    "id": "989766662",
+    "result": "喝个够。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012728161,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.405]  喝个够。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "喝个够。",
+                    "SliceSentence": "喝 个 够",
+                    "StartMs": 0,
+                    "EndMs": 1405,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "喝",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "个",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "够",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.4055
+        },
+        "RequestId": "7b077329-388b-4dcd-821a-4c21f18273bd"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "pyke",
+    "id": "714337940",
+    "result": "新鲜的鱼儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746716,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.148]  新鲜的鱼儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "新鲜的鱼儿。",
+                    "SliceSentence": "新鲜 的 鱼儿",
+                    "StartMs": 0,
+                    "EndMs": 2148,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "新鲜",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "鱼儿",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.14875
+        },
+        "RequestId": "9f1d0fcd-3dd7-4b4c-a7e8-a7b81578c743"
+    }
+}

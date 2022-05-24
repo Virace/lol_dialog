@@ -1,0 +1,49 @@
+{
+    "character": "draven",
+    "id": "90349950",
+    "result": "别跟着这些脚印。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556993,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.560]  别跟着这些脚印。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别跟着这些脚印。",
+                    "SliceSentence": "别 跟着 这些 脚印",
+                    "StartMs": 0,
+                    "EndMs": 2560,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "跟着",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "这些",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "脚印",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.372125
+        },
+        "RequestId": "31c2b661-4d83-460b-9159-e76cd0ab516c"
+    }
+}

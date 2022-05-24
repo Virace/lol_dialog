@@ -1,0 +1,44 @@
+{
+    "character": "evelynn",
+    "id": "1398064551",
+    "result": "你好，哎哎。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012561877,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.900]  你好，哎哎。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你好，哎哎。",
+                    "SliceSentence": "你好 哎 哎",
+                    "StartMs": 0,
+                    "EndMs": 3900,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你好",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "哎",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "哎",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 3690
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.060438
+        },
+        "RequestId": "9cbdb1b4-b9ec-46f8-9853-abe7312d6445"
+    }
+}

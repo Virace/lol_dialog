@@ -1,0 +1,44 @@
+{
+    "character": "lillia",
+    "id": "425324504",
+    "result": "和我盛开。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012715799,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.000]  和我盛开。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "和我盛开。",
+                    "SliceSentence": "和 我 盛开",
+                    "StartMs": 0,
+                    "EndMs": 3000,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "和",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "盛开",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.808063
+        },
+        "RequestId": "7ac55c47-16f2-489b-8a99-652011aa9ea0"
+    }
+}

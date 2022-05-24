@@ -1,0 +1,39 @@
+{
+    "character": "kalista",
+    "id": "107882413",
+    "result": "我们无处不在。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012693403,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.180]  我们无处不在。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们无处不在。",
+                    "SliceSentence": "我们 无处不在",
+                    "StartMs": 0,
+                    "EndMs": 3180,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "无处不在",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.3585
+        },
+        "RequestId": "28decd93-c6c6-469d-98cd-782507288ba4"
+    }
+}

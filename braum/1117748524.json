@@ -1,0 +1,44 @@
+{
+    "character": "braum",
+    "id": "1117748524",
+    "result": "跟着大部队走。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550001,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.801]  跟着大部队走。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "跟着大部队走。",
+                    "SliceSentence": "跟着 大部队 走",
+                    "StartMs": 0,
+                    "EndMs": 1801,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "跟着",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "大部队",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "走",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.801375
+        },
+        "RequestId": "25980de5-c7a0-4dab-a02c-712cfa975859"
+    }
+}

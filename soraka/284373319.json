@@ -1,0 +1,54 @@
+{
+    "character": "soraka",
+    "id": "284373319",
+    "result": "让我来指引你的道路。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012783229,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.140,0:4.320]  让我来指引你的道路。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "让我来指引你的道路。",
+                    "SliceSentence": "让我 来 指引 你的 道路",
+                    "StartMs": 140,
+                    "EndMs": 4320,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "让我",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "指引",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "道路",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 3150
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.653313
+        },
+        "RequestId": "3eae2554-b322-4003-8324-72eefbab0725"
+    }
+}

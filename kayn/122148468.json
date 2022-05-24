@@ -1,0 +1,49 @@
+{
+    "character": "kayn",
+    "id": "122148468",
+    "result": "我即灭世者。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012699222,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.109]  我即灭世者。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我即灭世者。",
+                    "SliceSentence": "我 即 灭世 者",
+                    "StartMs": 0,
+                    "EndMs": 3109,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "即",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "灭世",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "者",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 3030
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.10975
+        },
+        "RequestId": "b05cfc84-2879-4bb4-915b-dce078b9eccc"
+    }
+}

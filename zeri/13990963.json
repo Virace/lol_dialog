@@ -1,0 +1,44 @@
+{
+    "character": "zeri",
+    "id": "13990963",
+    "result": "充能完毕。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012851055,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.706]  充能完毕。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "充能完毕。",
+                    "SliceSentence": "充 能 完毕",
+                    "StartMs": 0,
+                    "EndMs": 1706,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "充",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "能",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "完毕",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.706688
+        },
+        "RequestId": "0a743616-7c39-4efa-ae23-78d404c86f6c"
+    }
+}

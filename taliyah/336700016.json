@@ -1,0 +1,49 @@
+{
+    "character": "taliyah",
+    "id": "336700016",
+    "result": "哇哦，你好高啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012792797,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.184]  哇哦，你好高啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哇哦，你好高啊。",
+                    "SliceSentence": "哇哦 你 好高 啊",
+                    "StartMs": 0,
+                    "EndMs": 2184,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "哇哦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "好高",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.184063
+        },
+        "RequestId": "18f782e6-2f5b-440d-802e-d2d0d8e3095b"
+    }
+}

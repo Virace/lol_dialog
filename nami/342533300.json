@@ -1,0 +1,49 @@
+{
+    "character": "nami",
+    "id": "342533300",
+    "result": "海洋向前奔涌吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012727902,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.222]  海洋向前奔涌吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "海洋向前奔涌吧。",
+                    "SliceSentence": "海洋 向前 奔涌 吧",
+                    "StartMs": 0,
+                    "EndMs": 2222,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "海洋",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "向前",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "奔涌",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.222938
+        },
+        "RequestId": "96568159-63e9-46d7-9147-d4fcedecb969"
+    }
+}

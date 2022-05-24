@@ -1,0 +1,59 @@
+{
+    "character": "galio",
+    "id": "236061561",
+    "result": "在我的身影下休息吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568571,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.165]  在我的身影下休息吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "在我的身影下休息吧。",
+                    "SliceSentence": "在我 的 身影 下 休息 吧",
+                    "StartMs": 0,
+                    "EndMs": 2165,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "在我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "身影",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "下",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "休息",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.165875
+        },
+        "RequestId": "ec917012-3d11-4304-8c3b-784ede9d4d28"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "renekton",
+    "id": "872004143",
+    "result": "我不会留下任何活口。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012761965,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.029]  我不会留下任何活口。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不会留下任何活口。",
+                    "SliceSentence": "我 不会 留下 任何 活口",
+                    "StartMs": 0,
+                    "EndMs": 3029,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "留下",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "任何",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "活口",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2910
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.029313
+        },
+        "RequestId": "eab1dd82-cd14-48a5-b3b6-af9a76aab198"
+    }
+}

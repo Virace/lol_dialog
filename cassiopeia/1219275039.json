@@ -1,0 +1,90 @@
+{
+    "character": "cassiopeia",
+    "id": "1219275039",
+    "result": "你有极度渴望的东西吗？你想要一个吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554662,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.140]  你有极度渴望的东西吗？\n[0:3.180,0:4.919]  你想要一个吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你有极度渴望的东西吗？",
+                    "SliceSentence": "你有 极度 渴望 的 东西 吗",
+                    "StartMs": 0,
+                    "EndMs": 3140,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "极度",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "渴望",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "你想要一个吗？",
+                    "SliceSentence": "你 想要 一个 吗",
+                    "StartMs": 3180,
+                    "EndMs": 4919,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "想要",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.919375
+        },
+        "RequestId": "a8849425-5f11-4dbb-a2fc-52c35cd0839a"
+    }
+}

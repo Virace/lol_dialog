@@ -1,0 +1,54 @@
+{
+    "character": "ivern",
+    "id": "1370221464",
+    "result": "你逼我抽你的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012583785,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.373]  你逼我抽你的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你逼我抽你的。",
+                    "SliceSentence": "你 逼 我 抽 你的",
+                    "StartMs": 0,
+                    "EndMs": 2373,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "逼",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "抽",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.373813
+        },
+        "RequestId": "c14bdef0-147e-4caf-b00b-db037a8ac3cd"
+    }
+}

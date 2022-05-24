@@ -1,0 +1,59 @@
+{
+    "character": "vayne",
+    "id": "713341419",
+    "result": "我听见了无知的呼喊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012808729,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.320]  我听见了无知的呼喊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我听见了无知的呼喊。",
+                    "SliceSentence": "我 听见 了 无知 的 呼喊",
+                    "StartMs": 0,
+                    "EndMs": 4320,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "听见",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "无知",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2340,
+                            "OffsetEndMs": 2490
+                        },
+                        {
+                            "Word": "呼喊",
+                            "OffsetStartMs": 2490,
+                            "OffsetEndMs": 3480
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.581125
+        },
+        "RequestId": "357109aa-2266-4554-bcda-68f62a765b0d"
+    }
+}

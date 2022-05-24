@@ -1,0 +1,44 @@
+{
+    "character": "viego",
+    "id": "889835393",
+    "result": "我正是必然。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012814561,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.801]  我正是必然。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我正是必然。",
+                    "SliceSentence": "我 正是 必然",
+                    "StartMs": 0,
+                    "EndMs": 3801,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "正是",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "必然",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.801
+        },
+        "RequestId": "c6b02bcb-09b8-4fce-bac6-2357d5212ec6"
+    }
+}

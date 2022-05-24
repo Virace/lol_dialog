@@ -1,0 +1,49 @@
+{
+    "character": "sett",
+    "id": "1791885704",
+    "result": "我不是针对你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012772769,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.205]  我不是针对你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不是针对你。",
+                    "SliceSentence": "我 不是 针对 你",
+                    "StartMs": 0,
+                    "EndMs": 2205,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "针对",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.205938
+        },
+        "RequestId": "17022065-69ee-4d31-b371-9cb1f6ac89d3"
+    }
+}

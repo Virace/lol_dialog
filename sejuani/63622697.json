@@ -1,0 +1,44 @@
+{
+    "character": "sejuani",
+    "id": "63622697",
+    "result": "我不会被击败。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012768046,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.368]  我不会被击败。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不会被击败。",
+                    "SliceSentence": "我不 会被 击败",
+                    "StartMs": 0,
+                    "EndMs": 2368,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "会被",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "击败",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.368438
+        },
+        "RequestId": "30c7f985-9514-4e6c-9d32-b4c599b77957"
+    }
+}

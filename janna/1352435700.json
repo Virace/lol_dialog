@@ -1,0 +1,44 @@
+{
+    "character": "janna",
+    "id": "1352435700",
+    "result": "哈哈哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012683260,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.254]  哈哈哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 3254,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.254875
+        },
+        "RequestId": "1a08dc2d-0550-413d-af02-2a2735db89c1"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "leesin",
+    "id": "1662121189",
+    "result": "我必须恪守纪律。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012712865,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.260]  我必须恪守纪律。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我必须恪守纪律。",
+                    "SliceSentence": "我 必须 恪守 纪律",
+                    "StartMs": 0,
+                    "EndMs": 3260,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "必须",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "恪守",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "纪律",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.390125
+        },
+        "RequestId": "f185ef0a-a506-4631-849b-1854f80de0f4"
+    }
+}

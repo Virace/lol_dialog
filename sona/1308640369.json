@@ -1,0 +1,54 @@
+{
+    "character": "sona",
+    "id": "1308640369",
+    "result": "希望这只是一段插曲。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012781116,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.360]  希望这只是一段插曲。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "希望这只是一段插曲。",
+                    "SliceSentence": "希望 这 只是 一段 插曲",
+                    "StartMs": 0,
+                    "EndMs": 5360,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "希望",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "只是",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "一段",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "插曲",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2610
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.327313
+        },
+        "RequestId": "c36b79bb-6340-43cc-ac7f-4e810f1f645e"
+    }
+}

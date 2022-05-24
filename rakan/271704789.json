@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "271704789",
+    "result": "这些舞步是给你的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012752940,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.720]  这些舞步是给你的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这些舞步是给你的。",
+                    "SliceSentence": "这些 舞步 是 给 你的",
+                    "StartMs": 0,
+                    "EndMs": 1720,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这些",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "舞步",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "给",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 7.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.720688
+        },
+        "RequestId": "abc508a3-a181-4bb7-99c0-375bec35e1ba"
+    }
+}

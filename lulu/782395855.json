@@ -1,0 +1,49 @@
+{
+    "character": "lulu",
+    "id": "782395855",
+    "result": "弄碎他们，Pigs。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012719032,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.381]  弄碎他们，Pigs。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "弄碎他们，Pigs。",
+                    "SliceSentence": "弄 碎 他们 Pigs",
+                    "StartMs": 0,
+                    "EndMs": 2381,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "弄",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "碎",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "Pigs",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.381688
+        },
+        "RequestId": "c998b68b-2f4e-4d6f-a1e4-46014d5c0fea"
+    }
+}

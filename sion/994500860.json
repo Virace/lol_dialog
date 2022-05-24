@@ -1,0 +1,54 @@
+{
+    "character": "sion",
+    "id": "994500860",
+    "result": "盟友，敌人，我才不管那么多。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012778417,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.364]  盟友，敌人，我才不管那么多。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "盟友，敌人，我才不管那么多。",
+                    "SliceSentence": "盟友 敌人 我才 不管 那么多",
+                    "StartMs": 0,
+                    "EndMs": 5364,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "盟友",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "敌人",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2550
+                        },
+                        {
+                            "Word": "我才",
+                            "OffsetStartMs": 2850,
+                            "OffsetEndMs": 3450
+                        },
+                        {
+                            "Word": "不管",
+                            "OffsetStartMs": 3450,
+                            "OffsetEndMs": 3900
+                        },
+                        {
+                            "Word": "那么多",
+                            "OffsetStartMs": 3900,
+                            "OffsetEndMs": 5010
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.364188
+        },
+        "RequestId": "a19cda93-0ea0-4d34-811b-ff636d1fbdcd"
+    }
+}

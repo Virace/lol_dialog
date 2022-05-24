@@ -1,0 +1,44 @@
+{
+    "character": "kayn",
+    "id": "1379303876",
+    "result": "谁才够格？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012699512,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.769]  谁才够格？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "谁才够格？",
+                    "SliceSentence": "谁 才 够格",
+                    "StartMs": 0,
+                    "EndMs": 1769,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "谁",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "才",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "够格",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.769625
+        },
+        "RequestId": "01fe29fd-6af7-44d7-a5af-4208760f177a"
+    }
+}

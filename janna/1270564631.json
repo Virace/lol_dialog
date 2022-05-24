@@ -1,0 +1,54 @@
+{
+    "character": "janna",
+    "id": "1270564631",
+    "result": "预测的结果非常清楚。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012683253,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.826]  预测的结果非常清楚。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "预测的结果非常清楚。",
+                    "SliceSentence": "预测 的 结果 非常 清楚",
+                    "StartMs": 0,
+                    "EndMs": 5826,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "预测",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "结果",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "非常",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2940
+                        },
+                        {
+                            "Word": "清楚",
+                            "OffsetStartMs": 2940,
+                            "OffsetEndMs": 4050
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.826313
+        },
+        "RequestId": "6cf29fde-0457-4749-851d-58490b3c7bed"
+    }
+}

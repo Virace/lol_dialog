@@ -1,0 +1,44 @@
+{
+    "character": "taliyah",
+    "id": "985622528",
+    "result": "交给我来处理。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012795384,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.365]  交给我来处理。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "交给我来处理。",
+                    "SliceSentence": "交给 我来 处理",
+                    "StartMs": 0,
+                    "EndMs": 1365,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "交给",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "我来",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "处理",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.365
+        },
+        "RequestId": "f7da9a4b-8828-4ee3-9d84-f7998f6908f9"
+    }
+}

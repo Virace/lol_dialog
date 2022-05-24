@@ -1,0 +1,49 @@
+{
+    "character": "tahmkench",
+    "id": "732614452",
+    "result": "可能会可口吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012790791,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.877]  可能会可口吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "可能会可口吧。",
+                    "SliceSentence": "可能 会 可口 吧",
+                    "StartMs": 0,
+                    "EndMs": 2877,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "可能",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "可口",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.877125
+        },
+        "RequestId": "7cb4906b-9fcd-456b-935f-b982f5e0ade7"
+    }
+}

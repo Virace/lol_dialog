@@ -1,0 +1,59 @@
+{
+    "character": "swain",
+    "id": "1967490606",
+    "result": "这也是一种投降的方式。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012784865,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.408]  这也是一种投降的方式。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这也是一种投降的方式。",
+                    "SliceSentence": "这 也是 一种 投降 的 方式",
+                    "StartMs": 0,
+                    "EndMs": 3408,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "也是",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "一种",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "投降",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "方式",
+                            "OffsetStartMs": 2340,
+                            "OffsetEndMs": 2970
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.408
+        },
+        "RequestId": "eb8959c1-6079-45cc-8220-3731da5b90e4"
+    }
+}

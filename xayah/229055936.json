@@ -1,0 +1,54 @@
+{
+    "character": "xayah",
+    "id": "229055936",
+    "result": "巴西，Comm u TED哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012836234,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.143]  巴西，Comm u TED哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "巴西，Comm u TED哈。",
+                    "SliceSentence": "巴西 Comm u TED 哈",
+                    "StartMs": 0,
+                    "EndMs": 2143,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "巴西",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "Comm",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "u",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "TED",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "哈",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 7.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.143688
+        },
+        "RequestId": "1b08f6aa-2689-43ec-9486-2e0b53517ee5"
+    }
+}

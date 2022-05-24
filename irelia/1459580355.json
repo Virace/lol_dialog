@@ -1,0 +1,54 @@
+{
+    "character": "irelia",
+    "id": "1459580355",
+    "result": "等一下，呃等等等等。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012580830,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.352]  等一下，呃等等等等。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "等一下，呃等等等等。",
+                    "SliceSentence": "等 一下 呃 等等 等等",
+                    "StartMs": 0,
+                    "EndMs": 2352,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "等",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "一下",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "呃",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "等等",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "等等",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.352125
+        },
+        "RequestId": "c99b1498-780f-431d-bcd3-e8786026aa42"
+    }
+}

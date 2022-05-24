@@ -1,0 +1,39 @@
+{
+    "character": "ivern",
+    "id": "2099757146",
+    "result": "哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012584993,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.283]  哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈。",
+                    "SliceSentence": "哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 2283,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.283938
+        },
+        "RequestId": "9e83018b-a47e-43e7-91ac-84be5aa8b49d"
+    }
+}

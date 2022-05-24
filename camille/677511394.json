@@ -1,0 +1,54 @@
+{
+    "character": "camille",
+    "id": "677511394",
+    "result": "我对中间人表示蔑视。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553915,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.330]  我对中间人表示蔑视。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我对中间人表示蔑视。",
+                    "SliceSentence": "我 对 中间人 表示 蔑视",
+                    "StartMs": 0,
+                    "EndMs": 2330,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "对",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "中间人",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "表示",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "蔑视",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.33075
+        },
+        "RequestId": "1f5a290c-ea47-4f91-bc5b-0e4a8bcdab49"
+    }
+}

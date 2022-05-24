@@ -1,0 +1,49 @@
+{
+    "character": "vex",
+    "id": "296890950",
+    "result": "哎呀，到处都是人。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012811261,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.245]  哎呀，到处都是人。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哎呀，到处都是人。",
+                    "SliceSentence": "哎呀 到处 都是 人",
+                    "StartMs": 0,
+                    "EndMs": 3245,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "哎呀",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "到处",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "都是",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "人",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.24575
+        },
+        "RequestId": "2910a5b1-a658-4d91-860e-8cacd97f4bca"
+    }
+}

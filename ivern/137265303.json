@@ -1,0 +1,54 @@
+{
+    "character": "ivern",
+    "id": "137265303",
+    "result": "我的口粮，我来耕种。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012583778,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.465]  我的口粮，我来耕种。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的口粮，我来耕种。",
+                    "SliceSentence": "我 的 口粮 我来 耕种",
+                    "StartMs": 0,
+                    "EndMs": 3465,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "口粮",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "我来",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "耕种",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 3240
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.465688
+        },
+        "RequestId": "8ce2b073-a1d7-4a10-a295-27b3f5bea696"
+    }
+}

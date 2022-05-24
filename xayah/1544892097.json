@@ -1,0 +1,54 @@
+{
+    "character": "xayah",
+    "id": "1544892097",
+    "result": "只有你跟得上罗。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012834861,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.746]  只有你跟得上罗。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "只有你跟得上罗。",
+                    "SliceSentence": "只有 你跟 得 上 罗",
+                    "StartMs": 0,
+                    "EndMs": 1746,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "只有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "你跟",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "得",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "上",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "罗",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.746688
+        },
+        "RequestId": "b978c687-bf0f-4472-a987-2c0c11c3a342"
+    }
+}

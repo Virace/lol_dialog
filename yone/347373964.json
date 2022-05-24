@@ -1,0 +1,44 @@
+{
+    "character": "yone",
+    "id": "347373964",
+    "result": "卸下你的负担。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012843042,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.972]  卸下你的负担。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "卸下你的负担。",
+                    "SliceSentence": "卸下 你的 负担",
+                    "StartMs": 0,
+                    "EndMs": 2972,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "卸下",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "负担",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.972188
+        },
+        "RequestId": "55991a50-114f-4889-bb33-badb05755125"
+    }
+}

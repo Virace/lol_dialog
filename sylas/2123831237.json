@@ -1,0 +1,44 @@
+{
+    "character": "sylas",
+    "id": "2123831237",
+    "result": "啊啊啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012787304,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.898]  啊啊啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊啊啊。",
+                    "SliceSentence": "啊 啊 啊",
+                    "StartMs": 0,
+                    "EndMs": 2898,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2580
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.898625
+        },
+        "RequestId": "3d267ba2-0535-4951-92d4-80004bf87b47"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "rakan",
+    "id": "911171987",
+    "result": "他们会记得我的名字。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012754758,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.037]  他们会记得我的名字。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们会记得我的名字。",
+                    "SliceSentence": "他们 会 记得 我 的 名字",
+                    "StartMs": 0,
+                    "EndMs": 2037,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "记得",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "名字",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.037188
+        },
+        "RequestId": "90921104-10fb-4561-bfe0-d7cc20e03abd"
+    }
+}

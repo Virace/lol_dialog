@@ -1,0 +1,44 @@
+{
+    "character": "pantheon",
+    "id": "1464624341",
+    "result": "你为何而战？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012740877,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.623]  你为何而战？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你为何而战？",
+                    "SliceSentence": "你 为何 而战",
+                    "StartMs": 0,
+                    "EndMs": 2623,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "为何",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "而战",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.623875
+        },
+        "RequestId": "03aed146-136d-4ce5-b4a7-79e5fd29abb1"
+    }
+}

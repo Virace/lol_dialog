@@ -1,0 +1,79 @@
+{
+    "character": "ryze",
+    "id": "983299600",
+    "result": "一个愚蠢的错误，一个我不会再犯的错误。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012765838,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.899]  一个愚蠢的错误，一个我不会再犯的错误。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一个愚蠢的错误，一个我不会再犯的错误。",
+                    "SliceSentence": "一个 愚蠢 的 错误 一个 我不 会 再犯 的 错误",
+                    "StartMs": 0,
+                    "EndMs": 3899,
+                    "WordsNum": 10,
+                    "Words": [
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "愚蠢",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "错误",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 2550
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 2550,
+                            "OffsetEndMs": 2790
+                        },
+                        {
+                            "Word": "再犯",
+                            "OffsetStartMs": 2790,
+                            "OffsetEndMs": 3270
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 3270,
+                            "OffsetEndMs": 3360
+                        },
+                        {
+                            "Word": "错误",
+                            "OffsetStartMs": 3360,
+                            "OffsetEndMs": 3840
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.899
+        },
+        "RequestId": "2e083f98-dfb8-41e4-a9bf-cbebb2068e8e"
+    }
+}

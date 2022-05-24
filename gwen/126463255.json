@@ -1,0 +1,54 @@
+{
+    "character": "gwen",
+    "id": "126463255",
+    "result": "你吓不倒我的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012573973,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.060]  你吓不倒我的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你吓不倒我的。",
+                    "SliceSentence": "你 吓 不倒 我 的",
+                    "StartMs": 0,
+                    "EndMs": 3060,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "吓",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "不倒",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.497688
+        },
+        "RequestId": "78340c48-1ff7-461c-b76e-7602d73227ba"
+    }
+}

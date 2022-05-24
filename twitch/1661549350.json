@@ -1,0 +1,54 @@
+{
+    "character": "twitch",
+    "id": "1661549350",
+    "result": "一直跟着我的是谁？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012803214,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.693]  一直跟着我的是谁？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一直跟着我的是谁？",
+                    "SliceSentence": "一直 跟着 我 的 是谁",
+                    "StartMs": 0,
+                    "EndMs": 2693,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "一直",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "跟着",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "是谁",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.6935
+        },
+        "RequestId": "9a5d171f-e08f-48c0-bac9-3067e137a4db"
+    }
+}

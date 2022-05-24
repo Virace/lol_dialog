@@ -1,0 +1,54 @@
+{
+    "character": "akali",
+    "id": "358359166",
+    "result": "哼哼，姐，我奉陪到底。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012539602,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.120,0:4.299]  哼哼，姐，我奉陪到底。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼，姐，我奉陪到底。",
+                    "SliceSentence": "哼哼 姐 我 奉陪 到底",
+                    "StartMs": 120,
+                    "EndMs": 4299,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "姐",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "奉陪",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 3090
+                        },
+                        {
+                            "Word": "到底",
+                            "OffsetStartMs": 3090,
+                            "OffsetEndMs": 3990
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.299438
+        },
+        "RequestId": "68d47da3-a307-4395-b624-03cc7ff1a1bf"
+    }
+}

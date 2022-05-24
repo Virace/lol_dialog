@@ -1,0 +1,49 @@
+{
+    "character": "vayne",
+    "id": "1427900832",
+    "result": "我没有时间废话。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012808508,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.460]  我没有时间废话。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我没有时间废话。",
+                    "SliceSentence": "我 没有 时间 废话",
+                    "StartMs": 0,
+                    "EndMs": 2460,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "废话",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.665625
+        },
+        "RequestId": "0a75c90d-978a-4101-8a1c-a98bb9682c6e"
+    }
+}

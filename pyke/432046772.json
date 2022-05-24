@@ -1,0 +1,44 @@
+{
+    "character": "pyke",
+    "id": "432046772",
+    "result": "剁成肉酱。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746084,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.863]  剁成肉酱。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "剁成肉酱。",
+                    "SliceSentence": "剁 成 肉酱",
+                    "StartMs": 0,
+                    "EndMs": 1863,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "剁",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "成",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "肉酱",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.863563
+        },
+        "RequestId": "2aa3f50f-3853-4ea4-82ea-72a7f3047618"
+    }
+}

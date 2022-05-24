@@ -1,0 +1,54 @@
+{
+    "character": "ornn",
+    "id": "506779419",
+    "result": "端好我的啤酒。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012739568,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.754]  端好我的啤酒。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "端好我的啤酒。",
+                    "SliceSentence": "端 好 我 的 啤酒",
+                    "StartMs": 0,
+                    "EndMs": 1754,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "端",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "啤酒",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.75425
+        },
+        "RequestId": "a2eeeba8-9422-4fb9-a820-0abc3e4a4f07"
+    }
+}

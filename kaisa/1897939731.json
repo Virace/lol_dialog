@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "1897939731",
+    "result": "退后红头发的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689450,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.144]  退后红头发的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "退后红头发的。",
+                    "SliceSentence": "退后 红头发 的",
+                    "StartMs": 0,
+                    "EndMs": 2144,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "退后",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "红头发",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.144188
+        },
+        "RequestId": "cb0e6dcb-3886-4b7c-8dd0-005d653c9a2e"
+    }
+}

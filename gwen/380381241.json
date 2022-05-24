@@ -1,0 +1,49 @@
+{
+    "character": "gwen",
+    "id": "380381241",
+    "result": "他就在我身边。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012574956,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.562]  他就在我身边。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他就在我身边。",
+                    "SliceSentence": "他 就在 我 身边",
+                    "StartMs": 0,
+                    "EndMs": 2562,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "他",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "就在",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "身边",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.562
+        },
+        "RequestId": "dabc8633-60cc-4dba-a804-29dafc5ac900"
+    }
+}

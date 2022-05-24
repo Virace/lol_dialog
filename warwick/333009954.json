@@ -1,0 +1,44 @@
+{
+    "character": "warwick",
+    "id": "333009954",
+    "result": "鲜血就是代价。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012817819,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.786]  鲜血就是代价。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "鲜血就是代价。",
+                    "SliceSentence": "鲜血 就是 代价",
+                    "StartMs": 0,
+                    "EndMs": 2786,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "鲜血",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "代价",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.786688
+        },
+        "RequestId": "8a802f0f-8167-4f1b-8cdf-e35039da2323"
+    }
+}

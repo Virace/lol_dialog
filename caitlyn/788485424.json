@@ -1,0 +1,54 @@
+{
+    "character": "caitlyn",
+    "id": "788485424",
+    "result": "我不想这样的为。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551903,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.304]  我不想这样的为。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不想这样的为。",
+                    "SliceSentence": "我不 想 这样 的 为",
+                    "StartMs": 0,
+                    "EndMs": 2304,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "想",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "这样",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "为",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.304
+        },
+        "RequestId": "6280e684-c7c0-438f-8222-b2443bc22e30"
+    }
+}

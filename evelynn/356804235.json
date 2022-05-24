@@ -1,0 +1,39 @@
+{
+    "character": "evelynn",
+    "id": "356804235",
+    "result": "呜啦啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012563547,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.780]  呜啦啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "呜啦啦。",
+                    "SliceSentence": "呜 啦啦",
+                    "StartMs": 0,
+                    "EndMs": 2780,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "呜",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "啦啦",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.972188
+        },
+        "RequestId": "6113cc72-f522-440f-baa5-5e75308054f6"
+    }
+}

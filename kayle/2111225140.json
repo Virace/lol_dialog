@@ -1,0 +1,49 @@
+{
+    "character": "kayle",
+    "id": "2111225140",
+    "result": "我什么也没看到。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012698008,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.058]  我什么也没看到。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我什么也没看到。",
+                    "SliceSentence": "我 什么 也没 看到",
+                    "StartMs": 0,
+                    "EndMs": 2058,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "也没",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "看到",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.058375
+        },
+        "RequestId": "32561e7d-8d42-4529-94fd-4c4fdec9babd"
+    }
+}

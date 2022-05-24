@@ -1,0 +1,54 @@
+{
+    "character": "pyke",
+    "id": "955500053",
+    "result": "我想看着世界沉没。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012747029,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.121]  我想看着世界沉没。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我想看着世界沉没。",
+                    "SliceSentence": "我 想 看着 世界 沉没",
+                    "StartMs": 0,
+                    "EndMs": 3121,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "想",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "看着",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "世界",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "沉没",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2670
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.121125
+        },
+        "RequestId": "31fc71c3-7612-4c2b-a782-4a019ea140bf"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "galio",
+    "id": "997539634",
+    "result": "哼，多亏我没有耳朵。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012570274,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.207]  哼，多亏我没有耳朵。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼，多亏我没有耳朵。",
+                    "SliceSentence": "哼 多亏 我 没有 耳朵",
+                    "StartMs": 0,
+                    "EndMs": 2207,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "多亏",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "耳朵",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.207313
+        },
+        "RequestId": "26bfb13b-da2c-4515-befc-2457b4d55e0e"
+    }
+}

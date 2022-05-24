@@ -1,0 +1,39 @@
+{
+    "character": "illaoi",
+    "id": "823264314",
+    "result": "别停。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012579431,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.796]  别停。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别停。",
+                    "SliceSentence": "别 停",
+                    "StartMs": 0,
+                    "EndMs": 796,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "停",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 720
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.796125
+        },
+        "RequestId": "38ff02bd-0108-4d46-af3d-2a4ac1f49be0"
+    }
+}

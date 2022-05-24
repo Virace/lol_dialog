@@ -1,0 +1,59 @@
+{
+    "character": "nasus",
+    "id": "1234347245",
+    "result": "如同沙漠中的黄沙一般。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012728331,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.852]  如同沙漠中的黄沙一般。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "如同沙漠中的黄沙一般。",
+                    "SliceSentence": "如同 沙漠 中 的 黄沙 一般",
+                    "StartMs": 0,
+                    "EndMs": 3852,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "如同",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "沙漠",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "中",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "黄沙",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2700
+                        },
+                        {
+                            "Word": "一般",
+                            "OffsetStartMs": 2700,
+                            "OffsetEndMs": 3480
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.852375
+        },
+        "RequestId": "8057179f-7712-499d-81da-7e0648c2bf48"
+    }
+}

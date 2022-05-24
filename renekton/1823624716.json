@@ -1,0 +1,49 @@
+{
+    "character": "renekton",
+    "id": "1823624716",
+    "result": "开始制造痛楚吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012761586,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.534]  开始制造痛楚吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "开始制造痛楚吧。",
+                    "SliceSentence": "开始 制造 痛楚 吧",
+                    "StartMs": 0,
+                    "EndMs": 2534,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "开始",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "制造",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "痛楚",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.534313
+        },
+        "RequestId": "16ab6dac-e084-4c53-a3b2-35e874be499b"
+    }
+}

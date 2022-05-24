@@ -1,0 +1,49 @@
+{
+    "character": "gwen",
+    "id": "817977808",
+    "result": "今天最适合动手啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012575360,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.073]  今天最适合动手啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "今天最适合动手啦。",
+                    "SliceSentence": "今天 最适合 动手 啦",
+                    "StartMs": 0,
+                    "EndMs": 3073,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "今天",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "最适合",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "动手",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.073688
+        },
+        "RequestId": "f01e994c-25da-4829-a99c-bb60c794407a"
+    }
+}

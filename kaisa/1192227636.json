@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "1192227636",
+    "result": "你是什么东西？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012688187,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.418]  你是什么东西？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你是什么东西？",
+                    "SliceSentence": "你是 什么 东西",
+                    "StartMs": 0,
+                    "EndMs": 1418,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你是",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.418563
+        },
+        "RequestId": "17f35556-290c-4c80-92ec-3c9e80d0b0ab"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "character": "jinx",
+    "id": "1256310990",
+    "result": "额，那一枪伤到我。的感情了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012686924,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.300]  额，那一枪伤到我。\n[0:3.300,0:4.311]  的感情了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "额，那一枪伤到我。",
+                    "SliceSentence": "额 那 一枪 伤到 我",
+                    "StartMs": 0,
+                    "EndMs": 3300,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "额",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "那",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "一枪",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "伤到",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "的感情了。",
+                    "SliceSentence": "的 感情 了",
+                    "StartMs": 3300,
+                    "EndMs": 4311,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "感情",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.311
+        },
+        "RequestId": "a3cdfe7a-2083-41b8-9611-2addbfa8146b"
+    }
+}

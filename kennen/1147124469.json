@@ -1,0 +1,44 @@
+{
+    "character": "kennen",
+    "id": "1147124469",
+    "result": "我们上吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012703312,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.200,0:1.878]  我们上吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们上吧。",
+                    "SliceSentence": "我们 上 吧",
+                    "StartMs": 200,
+                    "EndMs": 1878,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "上",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.878688
+        },
+        "RequestId": "c96dc9df-2080-4183-962c-f71c06e9af11"
+    }
+}

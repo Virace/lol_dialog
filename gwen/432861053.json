@@ -1,0 +1,39 @@
+{
+    "character": "gwen",
+    "id": "432861053",
+    "result": "住他们。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012575086,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.283]  住他们。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "住他们。",
+                    "SliceSentence": "住 他们",
+                    "StartMs": 0,
+                    "EndMs": 2283,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "住",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.283813
+        },
+        "RequestId": "725a8cd7-c7da-44cd-8726-ae8b6ee8eb33"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "kaisa",
+    "id": "51595681",
+    "result": "哎，有效果了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012690840,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.238]  哎，有效果了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哎，有效果了。",
+                    "SliceSentence": "哎 有效 果 了",
+                    "StartMs": 0,
+                    "EndMs": 2238,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "哎",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "有效",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "果",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.238563
+        },
+        "RequestId": "0c89c7ae-ecc1-43f6-af5a-74059887396a"
+    }
+}

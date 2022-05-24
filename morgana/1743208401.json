@@ -1,0 +1,49 @@
+{
+    "character": "morgana",
+    "id": "1743208401",
+    "result": "废话，少说几句。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012726533,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.425]  废话，少说几句。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "废话，少说几句。",
+                    "SliceSentence": "废话 少 说 几句",
+                    "StartMs": 0,
+                    "EndMs": 2425,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "废话",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "少",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "几句",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.425438
+        },
+        "RequestId": "ee375b79-393b-4705-8e78-f41faed52ea0"
+    }
+}

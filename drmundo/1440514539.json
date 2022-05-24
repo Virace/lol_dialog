@@ -1,0 +1,49 @@
+{
+    "character": "drmundo",
+    "id": "1440514539",
+    "result": "需要抽点儿血。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012557520,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.736]  需要抽点儿血。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "需要抽点儿血。",
+                    "SliceSentence": "需要 抽 点儿 血",
+                    "StartMs": 0,
+                    "EndMs": 2736,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "抽",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "点儿",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "血",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.73625
+        },
+        "RequestId": "883f77cc-3174-422b-bd2b-881519871f22"
+    }
+}

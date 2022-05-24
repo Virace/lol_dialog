@@ -1,0 +1,44 @@
+{
+    "character": "quinn",
+    "id": "262731232",
+    "result": "德玛西亚需要英雄。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012748991,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.275]  德玛西亚需要英雄。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "德玛西亚需要英雄。",
+                    "SliceSentence": "德玛西亚 需要 英雄",
+                    "StartMs": 0,
+                    "EndMs": 2275,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "德玛西亚",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "英雄",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.275563
+        },
+        "RequestId": "78f21a56-9c6b-41f6-961a-e55a1fe9ca90"
+    }
+}

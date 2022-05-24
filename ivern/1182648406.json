@@ -1,0 +1,44 @@
+{
+    "character": "ivern",
+    "id": "1182648406",
+    "result": "不错的笑话。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012583366,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.069]  不错的笑话。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不错的笑话。",
+                    "SliceSentence": "不错 的 笑话",
+                    "StartMs": 0,
+                    "EndMs": 2069,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "不错",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "笑话",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.069313
+        },
+        "RequestId": "05d74fd7-7069-4b31-a448-9d524089c5af"
+    }
+}

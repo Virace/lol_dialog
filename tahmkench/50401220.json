@@ -1,0 +1,69 @@
+{
+    "character": "tahmkench",
+    "id": "50401220",
+    "result": "我猜你是这个设施里的服务员。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012789982,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.443]  我猜你是这个设施里的服务员。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我猜你是这个设施里的服务员。",
+                    "SliceSentence": "我 猜 你是 这个 设施 里 的 服务员",
+                    "StartMs": 0,
+                    "EndMs": 4443,
+                    "WordsNum": 8,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "猜",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "你是",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "设施",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "里",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2520
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2520,
+                            "OffsetEndMs": 3090
+                        },
+                        {
+                            "Word": "服务员",
+                            "OffsetStartMs": 3120,
+                            "OffsetEndMs": 4350
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.443875
+        },
+        "RequestId": "ca797732-7c44-4778-9496-fe7bb23ca614"
+    }
+}

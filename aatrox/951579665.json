@@ -1,0 +1,44 @@
+{
+    "character": "aatrox",
+    "id": "951579665",
+    "result": "我回来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012538170,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.452]  我回来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我回来了。",
+                    "SliceSentence": "我 回来 了",
+                    "StartMs": 0,
+                    "EndMs": 2452,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "回来",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.452438
+        },
+        "RequestId": "b22aae65-7a18-4d66-9621-02d9cd9fe0f2"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "zoe",
+    "id": "1738928978",
+    "result": "我想要你当宠物。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012854956,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.097]  我想要你当宠物。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我想要你当宠物。",
+                    "SliceSentence": "我 想要 你 当 宠物",
+                    "StartMs": 0,
+                    "EndMs": 2097,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "想要",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "当",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "宠物",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.097125
+        },
+        "RequestId": "c3c6e23e-a54a-4f0f-aa2b-5f60dd930ce1"
+    }
+}

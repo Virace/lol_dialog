@@ -1,0 +1,39 @@
+{
+    "character": "gangplank",
+    "id": "840701330",
+    "result": "啊，哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012571594,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.001]  啊，哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，哈哈。",
+                    "SliceSentence": "啊 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 1001,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.001938
+        },
+        "RequestId": "8a64e5b3-ce5f-436f-89e7-35069ca5f873"
+    }
+}

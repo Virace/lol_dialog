@@ -1,0 +1,64 @@
+{
+    "character": "leona",
+    "id": "1263582373",
+    "result": "无论刮风还是下雨，太阳照常升起。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012714156,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.800]  无论刮风还是下雨，太阳照常升起。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "无论刮风还是下雨，太阳照常升起。",
+                    "SliceSentence": "无论 刮风 还是 下雨 太阳 照常 升起",
+                    "StartMs": 0,
+                    "EndMs": 4800,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "无论",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "刮风",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "还是",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "下雨",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "太阳",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2700
+                        },
+                        {
+                            "Word": "照常",
+                            "OffsetStartMs": 2700,
+                            "OffsetEndMs": 3270
+                        },
+                        {
+                            "Word": "升起",
+                            "OffsetStartMs": 3270,
+                            "OffsetEndMs": 3870
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.141438
+        },
+        "RequestId": "4cd0ac0a-0340-41e2-a7ac-2ae4797dac96"
+    }
+}

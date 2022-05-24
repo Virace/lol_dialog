@@ -1,0 +1,39 @@
+{
+    "character": "warwick",
+    "id": "997020173",
+    "result": "你是猎物。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012833385,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.604]  你是猎物。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你是猎物。",
+                    "SliceSentence": "你是 猎物",
+                    "StartMs": 0,
+                    "EndMs": 2604,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "你是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "猎物",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.604
+        },
+        "RequestId": "77c657c3-94e8-493e-b4b7-ed500b8c9ff2"
+    }
+}

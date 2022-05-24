@@ -1,0 +1,49 @@
+{
+    "character": "kled",
+    "id": "436916526",
+    "result": "这下抓到你啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012707761,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.863]  这下抓到你啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这下抓到你啦。",
+                    "SliceSentence": "这下 抓到 你 啦",
+                    "StartMs": 0,
+                    "EndMs": 1863,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这下",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "抓到",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.863938
+        },
+        "RequestId": "45cf26fe-bf94-4819-a4cd-59a4f14bdd55"
+    }
+}

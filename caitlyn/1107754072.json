@@ -1,0 +1,54 @@
+{
+    "character": "caitlyn",
+    "id": "1107754072",
+    "result": "我超爱追杀的的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550779,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.389]  我超爱追杀的的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我超爱追杀的的。",
+                    "SliceSentence": "我 超爱 追杀 的 的",
+                    "StartMs": 0,
+                    "EndMs": 2389,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "超爱",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "追杀",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.389313
+        },
+        "RequestId": "463e0052-2fc8-4bd5-8875-cac7e1fa1a10"
+    }
+}

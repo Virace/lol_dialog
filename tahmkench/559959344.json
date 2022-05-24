@@ -1,0 +1,39 @@
+{
+    "character": "tahmkench",
+    "id": "559959344",
+    "result": "就在这里。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012790092,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.321]  就在这里。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "就在这里。",
+                    "SliceSentence": "就在 这里",
+                    "StartMs": 0,
+                    "EndMs": 1321,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "就在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "这里",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.321563
+        },
+        "RequestId": "37e95090-bd11-4d5d-b4e8-ecce2c64604f"
+    }
+}

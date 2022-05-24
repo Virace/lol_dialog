@@ -1,0 +1,44 @@
+{
+    "character": "lucian",
+    "id": "2078348131",
+    "result": "嘘，睡吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718005,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.507]  嘘，睡吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘘，睡吧。",
+                    "SliceSentence": "嘘 睡 吧",
+                    "StartMs": 0,
+                    "EndMs": 2507,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "嘘",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "睡",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.50775
+        },
+        "RequestId": "270927a5-974f-44f5-9640-1248a8259578"
+    }
+}

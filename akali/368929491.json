@@ -1,0 +1,39 @@
+{
+    "character": "akali",
+    "id": "368929491",
+    "result": "你完了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012539562,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.057]  你完了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你完了。",
+                    "SliceSentence": "你 完了",
+                    "StartMs": 0,
+                    "EndMs": 1057,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "完了",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 660
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.057375
+        },
+        "RequestId": "fcad0708-cc54-4328-aabd-253f14f85794"
+    }
+}

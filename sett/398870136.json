@@ -1,0 +1,49 @@
+{
+    "character": "sett",
+    "id": "398870136",
+    "result": "脑袋打坏了吧？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012773238,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.229]  脑袋打坏了吧？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "脑袋打坏了吧？",
+                    "SliceSentence": "脑袋 打坏 了 吧",
+                    "StartMs": 0,
+                    "EndMs": 2229,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "脑袋",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "打坏",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.229125
+        },
+        "RequestId": "5fa9d675-2282-4724-8671-e01cc62a497d"
+    }
+}

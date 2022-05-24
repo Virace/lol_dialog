@@ -1,0 +1,49 @@
+{
+    "character": "camille",
+    "id": "976895354",
+    "result": "友善是如此乏味。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554543,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.604]  友善是如此乏味。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "友善是如此乏味。",
+                    "SliceSentence": "友善 是 如此 乏味",
+                    "StartMs": 0,
+                    "EndMs": 2604,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "友善",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "如此",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "乏味",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.604688
+        },
+        "RequestId": "39f6a66c-cdc7-4c31-aa10-1403db3e487d"
+    }
+}

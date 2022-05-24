@@ -1,0 +1,44 @@
+{
+    "character": "nautilus",
+    "id": "943362549",
+    "result": "死方休。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012729435,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.600]  死方休。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "死方休。",
+                    "SliceSentence": "死 方 休",
+                    "StartMs": 0,
+                    "EndMs": 4600,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "死",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "方",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "休",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 1.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.600875
+        },
+        "RequestId": "f42b9512-5b2d-4339-84b9-6d89c7e6c40c"
+    }
+}

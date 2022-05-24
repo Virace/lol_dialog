@@ -1,0 +1,49 @@
+{
+    "character": "twitch",
+    "id": "1165397646",
+    "result": "您让我想家了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012802700,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.111]  您让我想家了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "您让我想家了。",
+                    "SliceSentence": "您 让我 想家 了",
+                    "StartMs": 0,
+                    "EndMs": 3111,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "您",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "让我",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "想家",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2670
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.1115
+        },
+        "RequestId": "d844c624-a6ed-4fc7-b09d-8952f527c761"
+    }
+}

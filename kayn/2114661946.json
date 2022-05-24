@@ -1,0 +1,49 @@
+{
+    "character": "kayn",
+    "id": "2114661946",
+    "result": "这是给劫的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012700846,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.325]  这是给劫的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是给劫的。",
+                    "SliceSentence": "这是 给 劫 的",
+                    "StartMs": 0,
+                    "EndMs": 1325,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "给",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "劫",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 6.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.325313
+        },
+        "RequestId": "53b1bdf5-a81e-4a6b-8255-6770c4b0613c"
+    }
+}

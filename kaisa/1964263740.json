@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "1964263740",
+    "result": "啊哼，19。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689578,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.086]  啊哼，19。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊哼，19。",
+                    "SliceSentence": "啊 哼 19",
+                    "StartMs": 0,
+                    "EndMs": 2086,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "哼",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "19",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.086125
+        },
+        "RequestId": "bbb89770-4011-494d-a3ad-74bee3de213b"
+    }
+}

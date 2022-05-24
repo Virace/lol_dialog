@@ -1,0 +1,39 @@
+{
+    "character": "diana",
+    "id": "1066070014",
+    "result": "黄昏即将来临。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556005,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.219]  黄昏即将来临。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "黄昏即将来临。",
+                    "SliceSentence": "黄昏 即将来临",
+                    "StartMs": 0,
+                    "EndMs": 2219,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "黄昏",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "即将来临",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.219125
+        },
+        "RequestId": "3d4ae7da-5961-44a6-b811-52e3979dc886"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "72906890",
+    "result": "嘿，我有个计划。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012754194,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.770]  嘿，我有个计划。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘿，我有个计划。",
+                    "SliceSentence": "嘿 我 有个 计划",
+                    "StartMs": 0,
+                    "EndMs": 1770,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "嘿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "有个",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "计划",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.770125
+        },
+        "RequestId": "deb8c77d-e6a8-4e70-80e2-a78697de6abf"
+    }
+}

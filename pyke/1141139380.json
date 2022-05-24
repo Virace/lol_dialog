@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "1141139380",
+    "result": "我们有一笔血债。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744606,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.549]  我们有一笔血债。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们有一笔血债。",
+                    "SliceSentence": "我们 有一 笔 血债",
+                    "StartMs": 0,
+                    "EndMs": 3549,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "有一",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "笔",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "血债",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.549
+        },
+        "RequestId": "c7c2110e-30eb-4bca-8d50-a78d35c7e89d"
+    }
+}

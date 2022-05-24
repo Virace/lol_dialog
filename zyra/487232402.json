@@ -1,0 +1,39 @@
+{
+    "character": "zyra",
+    "id": "487232402",
+    "result": "准备好。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012857499,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.707]  准备好。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "准备好。",
+                    "SliceSentence": "准备 好",
+                    "StartMs": 0,
+                    "EndMs": 1707,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "准备",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.7075
+        },
+        "RequestId": "9e4e5a38-3f60-4c79-a8bb-b37b5e30ee10"
+    }
+}

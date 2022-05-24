@@ -1,0 +1,39 @@
+{
+    "character": "rakan",
+    "id": "712379237",
+    "result": "看好了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012754150,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.943]  看好了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "看好了。",
+                    "SliceSentence": "看 好了",
+                    "StartMs": 0,
+                    "EndMs": 943,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "看",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "好了",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 660
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.943
+        },
+        "RequestId": "cee4e94c-9881-4e05-b016-6bf4094bdbd9"
+    }
+}

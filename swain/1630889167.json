@@ -1,0 +1,44 @@
+{
+    "character": "swain",
+    "id": "1630889167",
+    "result": "又是一次失望。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012784363,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.082]  又是一次失望。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "又是一次失望。",
+                    "SliceSentence": "又是 一次 失望",
+                    "StartMs": 0,
+                    "EndMs": 2082,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "又是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "一次",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "失望",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.082875
+        },
+        "RequestId": "0ee63bd6-5094-4d54-a5e2-2d0030153a34"
+    }
+}

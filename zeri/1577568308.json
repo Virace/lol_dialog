@@ -1,0 +1,39 @@
+{
+    "character": "zeri",
+    "id": "1577568308",
+    "result": "电流冲击。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012851291,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.770]  电流冲击。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "电流冲击。",
+                    "SliceSentence": "电流 冲击",
+                    "StartMs": 0,
+                    "EndMs": 1770,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "电流",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "冲击",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.770688
+        },
+        "RequestId": "e89e70bf-40da-44f5-b13b-2a7d989a23a1"
+    }
+}

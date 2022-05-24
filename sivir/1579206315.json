@@ -1,0 +1,49 @@
+{
+    "character": "sivir",
+    "id": "1579206315",
+    "result": "每个人都可以明码标价。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012778649,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.480]  每个人都可以明码标价。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "每个人都可以明码标价。",
+                    "SliceSentence": "每个人 都可以 明码 标价",
+                    "StartMs": 0,
+                    "EndMs": 2480,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "每个人",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "都可以",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "明码",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "标价",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.48075
+        },
+        "RequestId": "e418677f-aa53-4f41-8f46-869612d03822"
+    }
+}

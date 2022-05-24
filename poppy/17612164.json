@@ -1,0 +1,49 @@
+{
+    "character": "poppy",
+    "id": "17612164",
+    "result": "然后别回来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012742623,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.934]  然后别回来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "然后别回来了。",
+                    "SliceSentence": "然后 别 回来 了",
+                    "StartMs": 0,
+                    "EndMs": 1934,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "然后",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "回来",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.934875
+        },
+        "RequestId": "4a5429f2-802f-42dc-ac9d-8969f093cea9"
+    }
+}

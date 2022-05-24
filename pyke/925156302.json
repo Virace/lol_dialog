@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "925156302",
+    "result": "大怪兽，大买卖。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746938,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.517]  大怪兽，大买卖。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "大怪兽，大买卖。",
+                    "SliceSentence": "大 怪兽 大 买卖",
+                    "StartMs": 0,
+                    "EndMs": 3517,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "大",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "怪兽",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "大",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "买卖",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.517313
+        },
+        "RequestId": "74511c34-8361-45f8-80d3-54a77ac069ac"
+    }
+}

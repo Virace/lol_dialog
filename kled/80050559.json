@@ -1,0 +1,54 @@
+{
+    "character": "kled",
+    "id": "80050559",
+    "result": "我的脑子很多话。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012709691,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.209]  我的脑子很多话。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的脑子很多话。",
+                    "SliceSentence": "我 的 脑子 很多 话",
+                    "StartMs": 0,
+                    "EndMs": 2209,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "脑子",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "很多",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "话",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.209563
+        },
+        "RequestId": "7b2197fa-fa3d-4cff-acbf-abd62bc2f0f4"
+    }
+}

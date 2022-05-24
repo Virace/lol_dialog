@@ -1,0 +1,49 @@
+{
+    "character": "galio",
+    "id": "213508425",
+    "result": "保护我，小冰盾。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568550,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.682]  保护我，小冰盾。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "保护我，小冰盾。",
+                    "SliceSentence": "保护 我 小冰 盾",
+                    "StartMs": 0,
+                    "EndMs": 1682,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "保护",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "小冰",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "盾",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.682125
+        },
+        "RequestId": "fcc51e6d-2885-4a51-be88-63572011cd5c"
+    }
+}

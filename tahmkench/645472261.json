@@ -1,0 +1,54 @@
+{
+    "character": "tahmkench",
+    "id": "645472261",
+    "result": "我们的契约已经到期。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012790452,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.759]  我们的契约已经到期。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们的契约已经到期。",
+                    "SliceSentence": "我们 的 契约 已经 到期",
+                    "StartMs": 0,
+                    "EndMs": 2759,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "契约",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "到期",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.759375
+        },
+        "RequestId": "addd3cd6-9e22-4154-98a4-08571467c861"
+    }
+}

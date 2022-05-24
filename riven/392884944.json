@@ -1,0 +1,39 @@
+{
+    "character": "riven",
+    "id": "392884944",
+    "result": "它发生了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012763025,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.049]  它发生了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "它发生了。",
+                    "SliceSentence": "它 发生了",
+                    "StartMs": 0,
+                    "EndMs": 1049,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "它",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "发生了",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.049438
+        },
+        "RequestId": "e64d13c0-9549-4fa3-919b-1eafa1399b74"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "drmundo",
+    "id": "903071958",
+    "result": "请你闭嘴。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012558964,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.709]  请你闭嘴。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "请你闭嘴。",
+                    "SliceSentence": "请你 闭嘴",
+                    "StartMs": 0,
+                    "EndMs": 1709,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "请你",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "闭嘴",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.709063
+        },
+        "RequestId": "910b3709-766e-4c15-836c-27cc91e764bd"
+    }
+}

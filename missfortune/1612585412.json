@@ -1,0 +1,44 @@
+{
+    "character": "missfortune",
+    "id": "1612585412",
+    "result": "我总是先手。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012723391,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.834]  我总是先手。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我总是先手。",
+                    "SliceSentence": "我 总是 先手",
+                    "StartMs": 0,
+                    "EndMs": 1834,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "总是",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "先手",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.834375
+        },
+        "RequestId": "46ce050b-adab-4879-81f6-5fbf939dcb41"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "jhin",
+    "id": "1474383769",
+    "result": "为我歌唱吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012685116,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.720]  为我歌唱吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "为我歌唱吧。",
+                    "SliceSentence": "为 我 歌唱 吧",
+                    "StartMs": 0,
+                    "EndMs": 2720,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "为",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "歌唱",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.720625
+        },
+        "RequestId": "ce5bde99-ab17-4eab-9a5a-57e95e0e98a8"
+    }
+}

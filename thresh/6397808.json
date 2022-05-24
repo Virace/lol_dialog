@@ -1,0 +1,44 @@
+{
+    "character": "thresh",
+    "id": "6397808",
+    "result": "没有人可以逃脱。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012798801,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.382]  没有人可以逃脱。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没有人可以逃脱。",
+                    "SliceSentence": "没有人 可以 逃脱",
+                    "StartMs": 0,
+                    "EndMs": 3382,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "没有人",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "逃脱",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 3300
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.382063
+        },
+        "RequestId": "35d514bf-488f-484d-a302-14af093fccf3"
+    }
+}

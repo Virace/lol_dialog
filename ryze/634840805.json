@@ -1,0 +1,59 @@
+{
+    "character": "ryze",
+    "id": "634840805",
+    "result": "又一个蠢到死的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012764997,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.760]  又一个蠢到死的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "又一个蠢到死的。",
+                    "SliceSentence": "又一 个 蠢 到 死 的",
+                    "StartMs": 0,
+                    "EndMs": 1760,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "又一",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "个",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "蠢",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "死",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.760938
+        },
+        "RequestId": "3ed30932-473b-4276-9be7-d4e66bd88483"
+    }
+}

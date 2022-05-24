@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "275759269",
+    "result": "你会死在这里？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012690143,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.517]  你会死在这里？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你会死在这里？",
+                    "SliceSentence": "你会 死在 这里",
+                    "StartMs": 0,
+                    "EndMs": 1517,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你会",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "死在",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "这里",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.517063
+        },
+        "RequestId": "60164e37-a915-4ddc-ac8a-61a102145802"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "sona",
+    "id": "1120327627",
+    "result": "心中的音乐由此激发。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012780799,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:6.300]  心中的音乐由此激发。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "心中的音乐由此激发。",
+                    "SliceSentence": "心中 的 音乐 由此 激发",
+                    "StartMs": 0,
+                    "EndMs": 6300,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "心中",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "音乐",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "由此",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 2910
+                        },
+                        {
+                            "Word": "激发",
+                            "OffsetStartMs": 2910,
+                            "OffsetEndMs": 4350
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.309563
+        },
+        "RequestId": "04764811-734f-4c33-950f-55e5adf9081f"
+    }
+}

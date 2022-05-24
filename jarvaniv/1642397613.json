@@ -1,0 +1,44 @@
+{
+    "character": "jarvaniv",
+    "id": "1642397613",
+    "result": "我喜欢挑战。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012683513,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.043]  我喜欢挑战。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我喜欢挑战。",
+                    "SliceSentence": "我 喜欢 挑战",
+                    "StartMs": 0,
+                    "EndMs": 2043,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "挑战",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.043375
+        },
+        "RequestId": "5df536d4-b4f2-4a78-8d05-904a3ce679c7"
+    }
+}

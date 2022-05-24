@@ -1,0 +1,44 @@
+{
+    "character": "evelynn",
+    "id": "121843286",
+    "result": "再见了，亲爱的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012561559,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.800]  再见了，亲爱的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "再见了，亲爱的。",
+                    "SliceSentence": "再见 了 亲爱的",
+                    "StartMs": 0,
+                    "EndMs": 3800,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "再见",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "亲爱的",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 2910
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.08675
+        },
+        "RequestId": "506b064b-2138-4c74-a822-126284231321"
+    }
+}

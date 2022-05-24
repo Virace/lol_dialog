@@ -1,0 +1,39 @@
+{
+    "character": "kayn",
+    "id": "565268203",
+    "result": "你在这儿？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012702224,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.193]  你在这儿？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你在这儿？",
+                    "SliceSentence": "你在 这儿",
+                    "StartMs": 0,
+                    "EndMs": 1193,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "你在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "这儿",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.193125
+        },
+        "RequestId": "8cdef3b2-a465-4e3f-8987-cc44382e030f"
+    }
+}

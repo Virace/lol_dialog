@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "1492232541",
+    "result": "我感觉正好。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012750709,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.457]  我感觉正好。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我感觉正好。",
+                    "SliceSentence": "我 感觉 正好",
+                    "StartMs": 0,
+                    "EndMs": 1457,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "感觉",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "正好",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.457
+        },
+        "RequestId": "1c33477a-33a5-4d2f-b056-22e0c237d1c3"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "1172814392",
+    "result": "别的骗了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012688146,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.265]  别的骗了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别的骗了。",
+                    "SliceSentence": "别的 骗 了",
+                    "StartMs": 0,
+                    "EndMs": 1265,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "别的",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "骗",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.265438
+        },
+        "RequestId": "2026d889-c2b1-4bc3-974a-06480aab9040"
+    }
+}

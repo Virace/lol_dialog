@@ -1,0 +1,44 @@
+{
+    "character": "aurelionsol",
+    "id": "661849536",
+    "result": "龙息在此。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012547653,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.976]  龙息在此。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "龙息在此。",
+                    "SliceSentence": "龙 息 在此",
+                    "StartMs": 0,
+                    "EndMs": 2976,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "龙",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "息",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "在此",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.9765
+        },
+        "RequestId": "945b5fe2-ddc2-409b-af48-50175b32b4d9"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "lissandra",
+    "id": "1322879401",
+    "result": "我是寒冰血脉。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012716470,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.780]  我是寒冰血脉。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我是寒冰血脉。",
+                    "SliceSentence": "我 是 寒冰 血脉",
+                    "StartMs": 0,
+                    "EndMs": 4780,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "寒冰",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2490
+                        },
+                        {
+                            "Word": "血脉",
+                            "OffsetStartMs": 2490,
+                            "OffsetEndMs": 3690
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.780188
+        },
+        "RequestId": "b12db0cb-5a32-4c1e-8644-5505a7cff442"
+    }
+}

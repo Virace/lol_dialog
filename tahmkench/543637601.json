@@ -1,0 +1,64 @@
+{
+    "character": "tahmkench",
+    "id": "543637601",
+    "result": "我很快就会回到这个设施啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012790089,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.369]  我很快就会回到这个设施啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我很快就会回到这个设施啦。",
+                    "SliceSentence": "我 很快就 会 回到 这个 设施 啦",
+                    "StartMs": 0,
+                    "EndMs": 3369,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "很快就",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "回到",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "设施",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2730
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 2730,
+                            "OffsetEndMs": 3180
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.369938
+        },
+        "RequestId": "713a131d-ffb7-4e00-a145-85039b62f437"
+    }
+}

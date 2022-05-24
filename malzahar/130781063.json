@@ -1,0 +1,39 @@
+{
+    "character": "malzahar",
+    "id": "130781063",
+    "result": "完成了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012720260,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.100,0:3.401]  完成了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "完成了。",
+                    "SliceSentence": "完成 了",
+                    "StartMs": 100,
+                    "EndMs": 3401,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "完成",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.401313
+        },
+        "RequestId": "a0d03a01-5ddb-42fc-b00c-f54f48c82255"
+    }
+}

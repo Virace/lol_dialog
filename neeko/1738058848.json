@@ -1,0 +1,49 @@
+{
+    "character": "neeko",
+    "id": "1738058848",
+    "result": "嘿嘿，你上当呀。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012729883,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.265]  嘿嘿，你上当呀。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘿嘿，你上当呀。",
+                    "SliceSentence": "嘿嘿 你 上当 呀",
+                    "StartMs": 0,
+                    "EndMs": 2265,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "嘿嘿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "上当",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "呀",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.265438
+        },
+        "RequestId": "b2ec4bd2-ea51-49cc-88d3-bdd7db080a35"
+    }
+}

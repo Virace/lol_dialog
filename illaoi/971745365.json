@@ -1,0 +1,44 @@
+{
+    "character": "illaoi",
+    "id": "971745365",
+    "result": "动则为上。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012579927,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.453]  动则为上。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "动则为上。",
+                    "SliceSentence": "动 则为 上",
+                    "StartMs": 0,
+                    "EndMs": 1453,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "动",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "则为",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "上",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.453438
+        },
+        "RequestId": "83997a0b-c968-45ea-a8f4-efc12e5acba2"
+    }
+}

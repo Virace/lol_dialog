@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "1521252317",
+    "result": "我闻见了恐惧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745124,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.988]  我闻见了恐惧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我闻见了恐惧。",
+                    "SliceSentence": "我 闻见 了 恐惧",
+                    "StartMs": 0,
+                    "EndMs": 2988,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "闻见",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "恐惧",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.9885
+        },
+        "RequestId": "60c80ed7-50f9-4d8d-8309-1845312905fb"
+    }
+}

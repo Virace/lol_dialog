@@ -1,0 +1,49 @@
+{
+    "character": "riven",
+    "id": "1133856337",
+    "result": "你们已经无药可救了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012762639,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.200,0:3.436]  你们已经无药可救了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你们已经无药可救了。",
+                    "SliceSentence": "你们 已经 无药可救 了",
+                    "StartMs": 200,
+                    "EndMs": 3436,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你们",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "无药可救",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2670
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2670,
+                            "OffsetEndMs": 2880
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.436625
+        },
+        "RequestId": "fd006d09-da1f-4b36-a91f-449c047fc454"
+    }
+}

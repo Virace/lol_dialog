@@ -1,0 +1,44 @@
+{
+    "character": "draven",
+    "id": "800270510",
+    "result": "哥们儿，我很好。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556989,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.600]  哥们儿，我很好。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哥们儿，我很好。",
+                    "SliceSentence": "哥们儿 我 很好",
+                    "StartMs": 0,
+                    "EndMs": 2600,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哥们儿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "很好",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.019688
+        },
+        "RequestId": "4fa3e3f7-6d8d-4fec-a3fc-5748a83e1d3e"
+    }
+}

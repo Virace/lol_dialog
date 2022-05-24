@@ -1,0 +1,49 @@
+{
+    "character": "qiyana",
+    "id": "174034456",
+    "result": "跟我念琪亚娜。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012747701,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.041]  跟我念琪亚娜。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "跟我念琪亚娜。",
+                    "SliceSentence": "跟我 念 琪 亚娜",
+                    "StartMs": 0,
+                    "EndMs": 3041,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "跟我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "念",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "琪",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "亚娜",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.041813
+        },
+        "RequestId": "9bba6ea3-eb9c-4259-93bf-cdab567bdd0c"
+    }
+}

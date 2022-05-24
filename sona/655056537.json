@@ -1,0 +1,39 @@
+{
+    "character": "sona",
+    "id": "655056537",
+    "result": "调子错了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012782751,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.700]  调子错了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "调子错了。",
+                    "SliceSentence": "调子 错了",
+                    "StartMs": 0,
+                    "EndMs": 3700,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "调子",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "错了",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.23675
+        },
+        "RequestId": "699ccc5c-a7cd-4819-b4a0-200fcfe79b7f"
+    }
+}

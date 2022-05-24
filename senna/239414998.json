@@ -1,0 +1,44 @@
+{
+    "character": "senna",
+    "id": "239414998",
+    "result": "准备好了吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012769427,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.671]  准备好了吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "准备好了吗？",
+                    "SliceSentence": "准备 好了 吗",
+                    "StartMs": 0,
+                    "EndMs": 1671,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "准备",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "好了",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.671875
+        },
+        "RequestId": "1689679a-753c-4aee-954b-3e0d09864cec"
+    }
+}

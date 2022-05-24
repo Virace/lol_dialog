@@ -1,0 +1,39 @@
+{
+    "character": "jinx",
+    "id": "104919824",
+    "result": "看看这个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012686741,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.813]  看看这个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "看看这个。",
+                    "SliceSentence": "看看 这个",
+                    "StartMs": 0,
+                    "EndMs": 813,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "看看",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 750
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.813625
+        },
+        "RequestId": "daf3ce04-8d99-4c93-a3a1-873ea9c9c362"
+    }
+}

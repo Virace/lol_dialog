@@ -1,0 +1,59 @@
+{
+    "character": "nunu",
+    "id": "2001786949",
+    "result": "我们去弄点动静出来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012734414,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.207]  我们去弄点动静出来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们去弄点动静出来。",
+                    "SliceSentence": "我们 去 弄 点 动静 出来",
+                    "StartMs": 0,
+                    "EndMs": 2207,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "弄",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "点",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "动静",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "出来",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 6.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.207688
+        },
+        "RequestId": "4d8bf262-96e9-496e-88c9-f5aa201412e3"
+    }
+}

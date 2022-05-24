@@ -1,0 +1,49 @@
+{
+    "character": "janna",
+    "id": "68301702",
+    "result": "风暴就要来临了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012683359,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.299]  风暴就要来临了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "风暴就要来临了。",
+                    "SliceSentence": "风暴 就要 来临 了",
+                    "StartMs": 0,
+                    "EndMs": 5299,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "风暴",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "就要",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "来临",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2610
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2610,
+                            "OffsetEndMs": 3000
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.299125
+        },
+        "RequestId": "591f91e5-fda0-4adc-91fd-0980e33b6ea7"
+    }
+}

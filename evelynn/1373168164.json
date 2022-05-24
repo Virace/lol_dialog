@@ -1,0 +1,54 @@
+{
+    "character": "evelynn",
+    "id": "1373168164",
+    "result": "你寂寞，我可以陪你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012561815,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.320,0:4.840]  你寂寞，我可以陪你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你寂寞，我可以陪你。",
+                    "SliceSentence": "你 寂寞 我 可以 陪你",
+                    "StartMs": 320,
+                    "EndMs": 4840,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "寂寞",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "陪你",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 3180
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.082125
+        },
+        "RequestId": "b771e543-27fc-45d6-822b-c963ab9b162d"
+    }
+}

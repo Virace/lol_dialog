@@ -1,0 +1,54 @@
+{
+    "character": "twitch",
+    "id": "533879225",
+    "result": "你喝得下这个？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012803894,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.205]  你喝得下这个？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你喝得下这个？",
+                    "SliceSentence": "你 喝 得 下 这个",
+                    "StartMs": 0,
+                    "EndMs": 2205,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "喝",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "得",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "下",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.205938
+        },
+        "RequestId": "d7309a8c-f959-423b-8152-27fdeae5b524"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "evelynn",
+    "id": "1874522085",
+    "result": "很好，轮到我了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012562730,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.020]  很好，轮到我了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "很好，轮到我了。",
+                    "SliceSentence": "很好 轮到 我 了",
+                    "StartMs": 0,
+                    "EndMs": 4020,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "很好",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "轮到",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.408688
+        },
+        "RequestId": "07a50403-f9a2-4c50-b93a-8870abfa1a4c"
+    }
+}

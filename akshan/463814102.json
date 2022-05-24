@@ -1,0 +1,59 @@
+{
+    "character": "akshan",
+    "id": "463814102",
+    "result": "行，这样就算是扯平了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012541263,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.773]  行，这样就算是扯平了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "行，这样就算是扯平了。",
+                    "SliceSentence": "行 这样 就 算是 扯平 了",
+                    "StartMs": 0,
+                    "EndMs": 2773,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "行",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "这样",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "算是",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "扯平",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.773313
+        },
+        "RequestId": "0120814b-22d4-470a-b56a-f0b3824ce8d4"
+    }
+}

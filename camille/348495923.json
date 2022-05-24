@@ -1,0 +1,54 @@
+{
+    "character": "camille",
+    "id": "348495923",
+    "result": "结果比宣言更有力。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552979,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.594]  结果比宣言更有力。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "结果比宣言更有力。",
+                    "SliceSentence": "结果 比 宣言 更有 力",
+                    "StartMs": 0,
+                    "EndMs": 2594,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "结果",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "比",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "宣言",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "更有",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "力",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.594813
+        },
+        "RequestId": "7dfc120a-12e3-45d5-8849-4cafc8cd4f3d"
+    }
+}

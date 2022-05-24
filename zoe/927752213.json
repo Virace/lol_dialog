@@ -1,0 +1,39 @@
+{
+    "character": "zoe",
+    "id": "927752213",
+    "result": "因为，所以。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012856978,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.665]  因为，所以。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "因为，所以。",
+                    "SliceSentence": "因为 所以",
+                    "StartMs": 0,
+                    "EndMs": 3665,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "因为",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "所以",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2790
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.66575
+        },
+        "RequestId": "0d1b0870-6e68-48b5-8f9a-0fe0e685f88b"
+    }
+}

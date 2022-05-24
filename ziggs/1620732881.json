@@ -1,0 +1,71 @@
+{
+    "character": "ziggs",
+    "id": "1620732881",
+    "result": "嗯哼。啊？啊？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012853428,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.280]  嗯哼。\n[0:3.220,0:5.260]  啊？\n[0:5.360,0:7.175]  啊？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯哼。",
+                    "SliceSentence": "嗯 哼",
+                    "StartMs": 0,
+                    "EndMs": 2280,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "哼",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "啊？",
+                    "SliceSentence": "啊",
+                    "StartMs": 3220,
+                    "EndMs": 5260,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 1.0,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "啊？",
+                    "SliceSentence": "啊",
+                    "StartMs": 5360,
+                    "EndMs": 7175,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 1.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.175625
+        },
+        "RequestId": "07f86c41-5bc2-4f68-a5b9-d3f6f55dc0bb"
+    }
+}

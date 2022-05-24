@@ -1,0 +1,39 @@
+{
+    "character": "rell",
+    "id": "1359547699",
+    "result": "别跑。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012757037,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.001]  别跑。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别跑。",
+                    "SliceSentence": "别 跑",
+                    "StartMs": 0,
+                    "EndMs": 1001,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "跑",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 660
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.001438
+        },
+        "RequestId": "c8d4a551-6a2e-4521-b326-d29ca79cb5e3"
+    }
+}

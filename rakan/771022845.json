@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "771022845",
+    "result": "美好的时光。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012754338,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.359]  美好的时光。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "美好的时光。",
+                    "SliceSentence": "美 好的 时光",
+                    "StartMs": 0,
+                    "EndMs": 1359,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "美",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "好的",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "时光",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.3595
+        },
+        "RequestId": "adc86983-c726-4168-a33f-cb0df040047b"
+    }
+}

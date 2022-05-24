@@ -1,0 +1,54 @@
+{
+    "character": "kayn",
+    "id": "531881689",
+    "result": "现在你该逃命去了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012702124,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.872]  现在你该逃命去了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "现在你该逃命去了。",
+                    "SliceSentence": "现在 你该 逃命 去 了",
+                    "StartMs": 0,
+                    "EndMs": 2872,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "你该",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "逃命",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.872875
+        },
+        "RequestId": "655ec1e7-a4e9-4854-8b61-c6f64f7db648"
+    }
+}

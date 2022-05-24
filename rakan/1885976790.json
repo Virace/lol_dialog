@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "1885976790",
+    "result": "也包括我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012751848,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.000]  也包括我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "也包括我。",
+                    "SliceSentence": "也 包括 我",
+                    "StartMs": 0,
+                    "EndMs": 1000,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "也",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "包括",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 840
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.00025
+        },
+        "RequestId": "37b65522-905a-4786-8add-a228c73eb8c1"
+    }
+}

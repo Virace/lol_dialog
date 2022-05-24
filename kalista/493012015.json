@@ -1,0 +1,49 @@
+{
+    "character": "kalista",
+    "id": "493012015",
+    "result": "我们，我必须牢记。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012694390,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:6.500]  我们，我必须牢记。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们，我必须牢记。",
+                    "SliceSentence": "我们 我 必须 牢记",
+                    "StartMs": 0,
+                    "EndMs": 6500,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 3210
+                        },
+                        {
+                            "Word": "必须",
+                            "OffsetStartMs": 4020,
+                            "OffsetEndMs": 4740
+                        },
+                        {
+                            "Word": "牢记",
+                            "OffsetStartMs": 4740,
+                            "OffsetEndMs": 6000
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.7265
+        },
+        "RequestId": "1b8dad27-5b11-4287-ab6b-2aca0b6ece7b"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "poppy",
+    "id": "521107109",
+    "result": "英雄越来越少了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012743289,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.909]  英雄越来越少了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "英雄越来越少了。",
+                    "SliceSentence": "英雄 越来 越少 了",
+                    "StartMs": 0,
+                    "EndMs": 1909,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "英雄",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "越来",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "越少",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.909
+        },
+        "RequestId": "3792d0d2-e0c9-456d-a873-21a1467ef61f"
+    }
+}

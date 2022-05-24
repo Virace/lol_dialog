@@ -1,0 +1,44 @@
+{
+    "character": "nunu",
+    "id": "2140528271",
+    "result": "啊，咦耶。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012735157,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.840]  啊，咦耶。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，咦耶。",
+                    "SliceSentence": "啊 咦 耶",
+                    "StartMs": 0,
+                    "EndMs": 3840,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "咦",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "耶",
+                            "OffsetStartMs": 2460,
+                            "OffsetEndMs": 3030
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.456
+        },
+        "RequestId": "952b277b-60fd-461c-8fed-b217632bd5e9"
+    }
+}

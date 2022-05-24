@@ -1,0 +1,49 @@
+{
+    "character": "evelynn",
+    "id": "733576128",
+    "result": "你需要放松一下。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012564828,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.340]  你需要放松一下。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你需要放松一下。",
+                    "SliceSentence": "你 需要 放松 一下",
+                    "StartMs": 0,
+                    "EndMs": 3340,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "放松",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "一下",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.735313
+        },
+        "RequestId": "4c7609fa-9541-4fcc-91d5-a1857878c2b4"
+    }
+}

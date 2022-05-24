@@ -1,0 +1,49 @@
+{
+    "character": "jhin",
+    "id": "1650509052",
+    "result": "你的台词太多了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012685404,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.918]  你的台词太多了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你的台词太多了。",
+                    "SliceSentence": "你的 台词 太 多了",
+                    "StartMs": 0,
+                    "EndMs": 2918,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "台词",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "太",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2370
+                        },
+                        {
+                            "Word": "多了",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 2850
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.918313
+        },
+        "RequestId": "f59a7024-0a1e-4c98-84dc-d29746e71d20"
+    }
+}

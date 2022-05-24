@@ -1,0 +1,44 @@
+{
+    "character": "pyke",
+    "id": "1126525795",
+    "result": "我就是深海。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744587,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.932]  我就是深海。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我就是深海。",
+                    "SliceSentence": "我 就是 深海",
+                    "StartMs": 0,
+                    "EndMs": 1932,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "深海",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.932063
+        },
+        "RequestId": "195109d1-d8dd-4d28-931f-d47c9818b859"
+    }
+}

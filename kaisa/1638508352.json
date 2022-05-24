@@ -1,0 +1,39 @@
+{
+    "character": "kaisa",
+    "id": "1638508352",
+    "result": "抓到一个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012688985,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.942]  抓到一个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "抓到一个。",
+                    "SliceSentence": "抓到 一个",
+                    "StartMs": 0,
+                    "EndMs": 942,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "抓到",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 690
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.942563
+        },
+        "RequestId": "e5e2a719-4ad1-4ac8-9985-8c58c3f7cf17"
+    }
+}

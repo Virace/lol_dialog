@@ -1,0 +1,49 @@
+{
+    "character": "warwick",
+    "id": "832727696",
+    "result": "英雄总是要死的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012833061,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.280]  英雄总是要死的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "英雄总是要死的。",
+                    "SliceSentence": "英雄 总是 要死 的",
+                    "StartMs": 0,
+                    "EndMs": 3280,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "英雄",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "总是",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "要死",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.28
+        },
+        "RequestId": "ae449fcf-7078-41c6-b131-623236f303a7"
+    }
+}

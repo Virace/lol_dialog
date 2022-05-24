@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "1944939817",
+    "result": "到我啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689545,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.165]  到我啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "到我啦。",
+                    "SliceSentence": "到 我 啦",
+                    "StartMs": 0,
+                    "EndMs": 1165,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 870
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.1655
+        },
+        "RequestId": "ed3fd943-10a5-4b66-bb5e-76823138d14f"
+    }
+}

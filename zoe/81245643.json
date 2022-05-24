@@ -1,0 +1,49 @@
+{
+    "character": "zoe",
+    "id": "81245643",
+    "result": "要有趣，有趣最重要。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012856830,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.852]  要有趣，有趣最重要。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "要有趣，有趣最重要。",
+                    "SliceSentence": "要 有趣 有趣 最重要",
+                    "StartMs": 0,
+                    "EndMs": 2852,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "有趣",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "有趣",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "最重要",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.852563
+        },
+        "RequestId": "6d08d2fc-c009-48fb-9919-47fe1207c17b"
+    }
+}

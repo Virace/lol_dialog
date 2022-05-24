@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "1605403165",
+    "result": "有后援就好了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745236,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.131]  有后援就好了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "有后援就好了。",
+                    "SliceSentence": "有 后援 就好 了",
+                    "StartMs": 0,
+                    "EndMs": 2131,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "后援",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "就好",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.13125
+        },
+        "RequestId": "548d2902-3166-4a2a-8052-fbc229a4a958"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "ornn",
+    "id": "1170791510",
+    "result": "打铁时间到。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012737887,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.381]  打铁时间到。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "打铁时间到。",
+                    "SliceSentence": "打铁 时间 到",
+                    "StartMs": 0,
+                    "EndMs": 1381,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "打铁",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.381875
+        },
+        "RequestId": "5b4b0ccd-2654-4105-bc7c-56925e32a8f0"
+    }
+}

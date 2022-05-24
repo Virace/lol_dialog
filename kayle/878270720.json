@@ -1,0 +1,44 @@
+{
+    "character": "kayle",
+    "id": "878270720",
+    "result": "你该当自醉。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012698790,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.209]  你该当自醉。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你该当自醉。",
+                    "SliceSentence": "你该 当 自醉",
+                    "StartMs": 0,
+                    "EndMs": 2209,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你该",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "当",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "自醉",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.209625
+        },
+        "RequestId": "8614d604-4db7-42b0-935c-aa5cb19ed02e"
+    }
+}

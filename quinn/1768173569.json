@@ -1,0 +1,54 @@
+{
+    "character": "quinn",
+    "id": "1768173569",
+    "result": "总会有迹可循的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012748940,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.205]  总会有迹可循的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "总会有迹可循的。",
+                    "SliceSentence": "总会 有 迹 可循 的",
+                    "StartMs": 0,
+                    "EndMs": 2205,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "总会",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "迹",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "可循",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.205938
+        },
+        "RequestId": "35ddbaaa-71ca-4072-8f6e-5b2b4406acdb"
+    }
+}

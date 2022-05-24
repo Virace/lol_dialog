@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "866691720",
+    "result": "找到你啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012692343,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.412]  找到你啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "找到你啦。",
+                    "SliceSentence": "找到 你 啦",
+                    "StartMs": 0,
+                    "EndMs": 1412,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "找到",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.41275
+        },
+        "RequestId": "b14059fe-598e-423e-b94e-e35438a51fa4"
+    }
+}

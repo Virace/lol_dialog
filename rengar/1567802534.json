@@ -1,0 +1,54 @@
+{
+    "character": "rengar",
+    "id": "1567802534",
+    "result": "我征服之旅的记号。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012762188,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.380]  我征服之旅的记号。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我征服之旅的记号。",
+                    "SliceSentence": "我 征服 之旅 的 记号",
+                    "StartMs": 0,
+                    "EndMs": 3380,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "征服",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "之旅",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "记号",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.554688
+        },
+        "RequestId": "8471bb75-d26d-43e7-895c-e8d1fcd6fb54"
+    }
+}

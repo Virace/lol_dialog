@@ -1,0 +1,64 @@
+{
+    "character": "kindred",
+    "id": "257890230",
+    "result": "他们应该只能听到我的声音。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012704567,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.991]  他们应该只能听到我的声音。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们应该只能听到我的声音。",
+                    "SliceSentence": "他们 应该 只能 听到 我 的 声音",
+                    "StartMs": 0,
+                    "EndMs": 2991,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "应该",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "只能",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "听到",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "声音",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 2910
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.991875
+        },
+        "RequestId": "8d33d75b-456e-43bf-9b51-8cac0d68f80e"
+    }
+}

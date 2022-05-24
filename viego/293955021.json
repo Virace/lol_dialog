@@ -1,0 +1,59 @@
+{
+    "character": "viego",
+    "id": "293955021",
+    "result": "这身体可堪一用。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012814020,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.123]  这身体可堪一用。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这身体可堪一用。",
+                    "SliceSentence": "这 身体 可 堪 一 用",
+                    "StartMs": 0,
+                    "EndMs": 4123,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "身体",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "可",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "堪",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "一",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "用",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.123188
+        },
+        "RequestId": "76910b09-5f8d-4ab0-8256-034122c168e5"
+    }
+}

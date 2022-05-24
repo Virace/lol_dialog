@@ -1,0 +1,54 @@
+{
+    "character": "azir",
+    "id": "634821626",
+    "result": "我将随着沙粒移动。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012549136,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.074]  我将随着沙粒移动。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我将随着沙粒移动。",
+                    "SliceSentence": "我 将 随着 沙粒 移动",
+                    "StartMs": 0,
+                    "EndMs": 3074,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "将",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "随着",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "沙粒",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "移动",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 2850
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.074938
+        },
+        "RequestId": "2cc90e12-dceb-493c-a3d2-84d4a6f361bd"
+    }
+}

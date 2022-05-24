@@ -1,0 +1,49 @@
+{
+    "character": "sett",
+    "id": "2024616740",
+    "result": "趴着别动对你有好处。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012772947,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.436]  趴着别动对你有好处。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "趴着别动对你有好处。",
+                    "SliceSentence": "趴着 别动 对你 有好处",
+                    "StartMs": 0,
+                    "EndMs": 3436,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "趴着",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "别动",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "对你",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "有好处",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2700
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.436563
+        },
+        "RequestId": "32a10a30-db84-4516-8f38-81400ce2734c"
+    }
+}

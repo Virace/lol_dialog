@@ -1,0 +1,49 @@
+{
+    "character": "akali",
+    "id": "332388",
+    "result": "来做个了断吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012539522,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.425]  来做个了断吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "来做个了断吧。",
+                    "SliceSentence": "来 做个 了断 吧",
+                    "StartMs": 0,
+                    "EndMs": 1425,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "做个",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "了断",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.425438
+        },
+        "RequestId": "32e934fd-b1bd-405e-81bd-a242fffd93f9"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "warwick",
+    "id": "950807393",
+    "result": "我记得你干了什么？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012833295,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.956]  我记得你干了什么？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我记得你干了什么？",
+                    "SliceSentence": "我记得 你 干 了 什么",
+                    "StartMs": 0,
+                    "EndMs": 3956,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我记得",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "干",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 3840
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.956
+        },
+        "RequestId": "2007c26c-3a5a-4e8a-a89e-0b7bf6842e53"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "swain",
+    "id": "517508733",
+    "result": "我们教化了这野兽。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012785344,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.338]  我们教化了这野兽。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们教化了这野兽。",
+                    "SliceSentence": "我们 教化 了 这 野兽",
+                    "StartMs": 0,
+                    "EndMs": 2338,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "教化",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "野兽",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.338938
+        },
+        "RequestId": "37534e20-aaba-4a31-acd1-2a57e89459f1"
+    }
+}

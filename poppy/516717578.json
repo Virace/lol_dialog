@@ -1,0 +1,54 @@
+{
+    "character": "poppy",
+    "id": "516717578",
+    "result": "小心点儿，这个很沉的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012743303,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.160]  小心点儿，这个很沉的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "小心点儿，这个很沉的。",
+                    "SliceSentence": "小心 点儿 这个 很沉 的",
+                    "StartMs": 0,
+                    "EndMs": 3160,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "小心",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "点儿",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "很沉",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2490
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2490,
+                            "OffsetEndMs": 2880
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.160188
+        },
+        "RequestId": "8c8115ab-34d9-4a6e-93b2-d81fcdefbd6c"
+    }
+}

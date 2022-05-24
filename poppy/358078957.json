@@ -1,0 +1,54 @@
+{
+    "character": "poppy",
+    "id": "358078957",
+    "result": "老板问，想来点什么？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012742969,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.410]  老板问，想来点什么？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "老板问，想来点什么？",
+                    "SliceSentence": "老板 问 想来 点 什么",
+                    "StartMs": 0,
+                    "EndMs": 2410,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "老板",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "问",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "想来",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "点",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.410938
+        },
+        "RequestId": "dd57088a-0003-4952-b390-de485f5a8a2b"
+    }
+}

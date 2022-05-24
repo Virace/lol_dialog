@@ -1,0 +1,49 @@
+{
+    "character": "qiyana",
+    "id": "1926357161",
+    "result": "别了，滚吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012747882,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.322]  别了，滚吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别了，滚吧。",
+                    "SliceSentence": "别 了 滚 吧",
+                    "StartMs": 0,
+                    "EndMs": 2322,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "滚",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.322
+        },
+        "RequestId": "46beab33-a5f8-4d9f-88ad-8edbbb6744a9"
+    }
+}

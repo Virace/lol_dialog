@@ -1,0 +1,44 @@
+{
+    "character": "drmundo",
+    "id": "979519968",
+    "result": "嗯，动手术，辣。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012559052,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.936]  嗯，动手术，辣。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯，动手术，辣。",
+                    "SliceSentence": "嗯 动手术 辣",
+                    "StartMs": 0,
+                    "EndMs": 2936,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "动手术",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "辣",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.9365
+        },
+        "RequestId": "316f6153-2809-44b4-ab9e-bd689da7b557"
+    }
+}

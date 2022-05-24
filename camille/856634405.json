@@ -1,0 +1,59 @@
+{
+    "character": "camille",
+    "id": "856634405",
+    "result": "回飞回落，你也倒下。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554326,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.843]  回飞回落，你也倒下。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "回飞回落，你也倒下。",
+                    "SliceSentence": "回 飞 回 落 你也 倒下",
+                    "StartMs": 0,
+                    "EndMs": 3843,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "回",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "飞",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "回",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "落",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "你也",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 2760
+                        },
+                        {
+                            "Word": "倒下",
+                            "OffsetStartMs": 2760,
+                            "OffsetEndMs": 3780
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.843
+        },
+        "RequestId": "ceb3f118-8237-46f2-8df6-f3d4974a0dbc"
+    }
+}

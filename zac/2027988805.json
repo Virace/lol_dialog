@@ -1,0 +1,44 @@
+{
+    "character": "zac",
+    "id": "2027988805",
+    "result": "我们跳起来吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012848699,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.699]  我们跳起来吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们跳起来吧。",
+                    "SliceSentence": "我们 跳起来 吧",
+                    "StartMs": 0,
+                    "EndMs": 1699,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "跳起来",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.699563
+        },
+        "RequestId": "3f042601-4ef9-4174-abc1-43ff99d4a8f3"
+    }
+}

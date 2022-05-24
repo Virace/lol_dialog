@@ -1,0 +1,39 @@
+{
+    "character": "kayn",
+    "id": "1864694014",
+    "result": "无处可逃。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012700479,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.971]  无处可逃。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "无处可逃。",
+                    "SliceSentence": "无处 可逃",
+                    "StartMs": 0,
+                    "EndMs": 1971,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "无处",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "可逃",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.971563
+        },
+        "RequestId": "f99eae0c-09b3-462f-89e1-be8e5c7daf2b"
+    }
+}

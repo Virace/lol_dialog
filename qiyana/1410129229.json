@@ -1,0 +1,39 @@
+{
+    "character": "qiyana",
+    "id": "1410129229",
+    "result": "基本操作。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012747443,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.763]  基本操作。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "基本操作。",
+                    "SliceSentence": "基本 操作",
+                    "StartMs": 0,
+                    "EndMs": 2763,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "基本",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "操作",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.763188
+        },
+        "RequestId": "48bbf673-8778-491d-b9dc-7e177d31ead3"
+    }
+}

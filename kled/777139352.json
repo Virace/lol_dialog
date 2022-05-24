@@ -1,0 +1,44 @@
+{
+    "character": "kled",
+    "id": "777139352",
+    "result": "时间到啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012709438,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.792]  时间到啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "时间到啦。",
+                    "SliceSentence": "时间 到 啦",
+                    "StartMs": 0,
+                    "EndMs": 1792,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.792875
+        },
+        "RequestId": "4e72122a-2513-43b0-9464-48ce6f9e2596"
+    }
+}

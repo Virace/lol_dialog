@@ -1,0 +1,49 @@
+{
+    "character": "kaisa",
+    "id": "1538813820",
+    "result": "我们一起就会更强。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012688853,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.790]  我们一起就会更强。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们一起就会更强。",
+                    "SliceSentence": "我们 一起 就会 更强",
+                    "StartMs": 0,
+                    "EndMs": 1790,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "一起",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "就会",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "更强",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.790063
+        },
+        "RequestId": "bb2f2418-ffa4-4777-ad28-fc6dd84e19fc"
+    }
+}

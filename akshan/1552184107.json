@@ -1,0 +1,59 @@
+{
+    "character": "akshan",
+    "id": "1552184107",
+    "result": "最后还想说什么吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012540878,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.197]  最后还想说什么吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "最后还想说什么吗？",
+                    "SliceSentence": "最后 还 想 说 什么 吗",
+                    "StartMs": 0,
+                    "EndMs": 2197,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "最后",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "还",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "想",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.197313
+        },
+        "RequestId": "c13293b2-e961-4131-b58e-af197eb57bb6"
+    }
+}

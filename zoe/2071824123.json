@@ -1,0 +1,49 @@
+{
+    "character": "zoe",
+    "id": "2071824123",
+    "result": "他们只会诶额。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012855359,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.776]  他们只会诶额。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们只会诶额。",
+                    "SliceSentence": "他们 只会 诶 额",
+                    "StartMs": 0,
+                    "EndMs": 2776,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "只会",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "诶",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "额",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.776688
+        },
+        "RequestId": "751a0d8d-21cd-4b7c-9581-0ae7d9359034"
+    }
+}

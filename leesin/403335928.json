@@ -1,0 +1,49 @@
+{
+    "character": "leesin",
+    "id": "403335928",
+    "result": "我要回到冥想之中。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012713503,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.820]  我要回到冥想之中。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要回到冥想之中。",
+                    "SliceSentence": "我要 回到 冥想 之中",
+                    "StartMs": 0,
+                    "EndMs": 3820,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "回到",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "冥想",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "之中",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2910
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.970625
+        },
+        "RequestId": "16823470-e667-4bd0-80c7-2dc87c49c049"
+    }
+}

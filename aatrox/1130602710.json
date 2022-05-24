@@ -1,0 +1,54 @@
+{
+    "character": "aatrox",
+    "id": "1130602710",
+    "result": "看，世界的终结者在此。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012531481,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.233]  看，世界的终结者在此。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "看，世界的终结者在此。",
+                    "SliceSentence": "看 世界 的 终结者 在此",
+                    "StartMs": 0,
+                    "EndMs": 4233,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "看",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "世界",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "终结者",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 3150
+                        },
+                        {
+                            "Word": "在此",
+                            "OffsetStartMs": 3150,
+                            "OffsetEndMs": 4080
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.233313
+        },
+        "RequestId": "4c979685-970a-447b-aa6c-c272e5d727ab"
+    }
+}

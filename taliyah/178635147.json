@@ -1,0 +1,49 @@
+{
+    "character": "taliyah",
+    "id": "178635147",
+    "result": "要不你去那边吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012791954,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.729]  要不你去那边吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "要不你去那边吧。",
+                    "SliceSentence": "要不 你去 那边 吧",
+                    "StartMs": 0,
+                    "EndMs": 1729,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "要不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "你去",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "那边",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.729063
+        },
+        "RequestId": "3ed05494-304d-4743-9476-0cb9b1b34f05"
+    }
+}

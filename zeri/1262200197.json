@@ -1,0 +1,49 @@
+{
+    "character": "zeri",
+    "id": "1262200197",
+    "result": "上啊上啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012850817,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.984]  上啊上啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "上啊上啊。",
+                    "SliceSentence": "上 啊 上 啊",
+                    "StartMs": 0,
+                    "EndMs": 1984,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "上",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "上",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.984
+        },
+        "RequestId": "a88af572-9ecf-4026-a795-3cdd119221d2"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "kindred",
+    "id": "579888011",
+    "result": "他们太易碎了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012705191,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.797]  他们太易碎了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们太易碎了。",
+                    "SliceSentence": "他们 太 易碎 了",
+                    "StartMs": 0,
+                    "EndMs": 1797,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "太",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "易碎",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.797938
+        },
+        "RequestId": "db0969f8-3b2a-4fd3-821c-282b5f89c66f"
+    }
+}

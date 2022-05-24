@@ -1,0 +1,50 @@
+{
+    "character": "zed",
+    "id": "1580642548",
+    "result": "啊？嗯。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012849801,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.140]  啊？\n[0:5.260,0:6.440]  嗯。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊？",
+                    "SliceSentence": "啊",
+                    "StartMs": 0,
+                    "EndMs": 3140,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 0.6,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "嗯。",
+                    "SliceSentence": "嗯",
+                    "StartMs": 5260,
+                    "EndMs": 6440,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 660
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.440688
+        },
+        "RequestId": "b159c7c9-51f5-4444-a746-0298cad1da80"
+    }
+}

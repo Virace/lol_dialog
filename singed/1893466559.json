@@ -1,0 +1,49 @@
+{
+    "character": "singed",
+    "id": "1893466559",
+    "result": "我听到你啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012775444,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.322]  我听到你啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我听到你啦。",
+                    "SliceSentence": "我 听到 你 啦",
+                    "StartMs": 0,
+                    "EndMs": 2322,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "听到",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.322
+        },
+        "RequestId": "765976cc-e170-45be-bb8a-f48b5ac8c25e"
+    }
+}

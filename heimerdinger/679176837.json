@@ -1,0 +1,44 @@
+{
+    "character": "heimerdinger",
+    "id": "679176837",
+    "result": "呜呜，哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012576719,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.000]  呜呜，哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "呜呜，哈哈哈哈。",
+                    "SliceSentence": "呜呜 哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 3000,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "呜呜",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2940
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3
+        },
+        "RequestId": "b046e0f2-ab01-4d13-9d1d-534da5746518"
+    }
+}

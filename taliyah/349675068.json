@@ -1,0 +1,54 @@
+{
+    "character": "taliyah",
+    "id": "349675068",
+    "result": "一次不中，再扔一次。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012792790,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.974]  一次不中，再扔一次。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一次不中，再扔一次。",
+                    "SliceSentence": "一次 不中 再 扔 一次",
+                    "StartMs": 0,
+                    "EndMs": 1974,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "一次",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "不中",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "再",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "扔",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "一次",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.974688
+        },
+        "RequestId": "29b74b4c-2175-4b54-9e3b-1aa13905c3be"
+    }
+}

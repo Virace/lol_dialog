@@ -1,0 +1,49 @@
+{
+    "character": "camille",
+    "id": "517636391",
+    "result": "喝个底朝天。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553574,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.202]  喝个底朝天。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "喝个底朝天。",
+                    "SliceSentence": "喝 个 底 朝天",
+                    "StartMs": 0,
+                    "EndMs": 1202,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "喝",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "个",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "底",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "朝天",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 7.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.202125
+        },
+        "RequestId": "8c2835f6-3a89-4e6b-b80d-813ae5ed0ca8"
+    }
+}

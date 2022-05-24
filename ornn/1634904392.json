@@ -1,0 +1,54 @@
+{
+    "character": "ornn",
+    "id": "1634904392",
+    "result": "我刚才想的也是这些东西。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012738611,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.476]  我刚才想的也是这些东西。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我刚才想的也是这些东西。",
+                    "SliceSentence": "我刚 才想 的 也是 这些东西",
+                    "StartMs": 0,
+                    "EndMs": 2476,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我刚",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "才想",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "也是",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "这些东西",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.47675
+        },
+        "RequestId": "d06c6efd-da26-4f45-ba8d-ec1a67eab4c2"
+    }
+}

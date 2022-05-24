@@ -1,0 +1,54 @@
+{
+    "character": "gwen",
+    "id": "1804522676",
+    "result": "针线活儿我来教你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012574520,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.087]  针线活儿我来教你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "针线活儿我来教你。",
+                    "SliceSentence": "针线 活儿 我来 教 你",
+                    "StartMs": 0,
+                    "EndMs": 3087,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "针线",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "活儿",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "我来",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "教",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.087625
+        },
+        "RequestId": "701c36db-15ac-49ec-9b59-5dfedab1894f"
+    }
+}

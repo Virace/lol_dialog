@@ -1,0 +1,44 @@
+{
+    "character": "pyke",
+    "id": "1381788655",
+    "result": "从空中有过。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744973,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.522]  从空中有过。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "从空中有过。",
+                    "SliceSentence": "从 空中 有过",
+                    "StartMs": 0,
+                    "EndMs": 2522,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "从",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "空中",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "有过",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.522813
+        },
+        "RequestId": "90787160-0851-4c47-b352-3058ff0858aa"
+    }
+}

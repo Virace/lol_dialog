@@ -1,0 +1,39 @@
+{
+    "character": "caitlyn",
+    "id": "493321002",
+    "result": "顺利逮捕。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551731,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.005]  顺利逮捕。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "顺利逮捕。",
+                    "SliceSentence": "顺利 逮捕",
+                    "StartMs": 0,
+                    "EndMs": 2005,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "顺利",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "逮捕",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.005313
+        },
+        "RequestId": "0d9604c9-3607-4a88-b94a-f8a89f96f31d"
+    }
+}

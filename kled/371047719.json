@@ -1,0 +1,64 @@
+{
+    "character": "kled",
+    "id": "371047719",
+    "result": "测试，你不就是只鸟吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012707502,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.398]  测试，你不就是只鸟吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "测试，你不就是只鸟吗？",
+                    "SliceSentence": "测试 你 不 就是 只 鸟 吗",
+                    "StartMs": 0,
+                    "EndMs": 3398,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "测试",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "只",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "鸟",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2610
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 2610,
+                            "OffsetEndMs": 3240
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.3985
+        },
+        "RequestId": "b1dd1b52-170f-4ca2-ae1e-c20942ecb3f1"
+    }
+}

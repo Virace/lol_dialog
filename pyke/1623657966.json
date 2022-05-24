@@ -1,0 +1,44 @@
+{
+    "character": "pyke",
+    "id": "1623657966",
+    "result": "我没有盲点。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745272,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.381]  我没有盲点。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我没有盲点。",
+                    "SliceSentence": "我 没有 盲点",
+                    "StartMs": 0,
+                    "EndMs": 2381,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "盲点",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.381688
+        },
+        "RequestId": "09326c72-74ba-42c9-abbf-51f75078fe5a"
+    }
+}

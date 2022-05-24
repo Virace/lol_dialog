@@ -1,0 +1,49 @@
+{
+    "character": "renata",
+    "id": "1571618214",
+    "result": "浪费我的时间。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012759874,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.620]  浪费我的时间。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "浪费我的时间。",
+                    "SliceSentence": "浪费 我 的 时间",
+                    "StartMs": 0,
+                    "EndMs": 2620,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "浪费",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.7775
+        },
+        "RequestId": "cde8a9a9-8ca2-4a7d-8888-08761e92a641"
+    }
+}

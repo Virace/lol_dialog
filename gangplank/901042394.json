@@ -1,0 +1,49 @@
+{
+    "character": "gangplank",
+    "id": "901042394",
+    "result": "不要有侥幸心理。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012571753,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.121]  不要有侥幸心理。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要有侥幸心理。",
+                    "SliceSentence": "不要 有 侥幸 心理",
+                    "StartMs": 0,
+                    "EndMs": 2121,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "侥幸",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "心理",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.121563
+        },
+        "RequestId": "c0064845-a40e-4c51-8b88-9a3138a2a304"
+    }
+}

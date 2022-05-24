@@ -1,0 +1,44 @@
+{
+    "character": "zoe",
+    "id": "1462089253",
+    "result": "我要送你各。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012854667,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.311]  我要送你各。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要送你各。",
+                    "SliceSentence": "我要 送你 各",
+                    "StartMs": 0,
+                    "EndMs": 2311,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "送你",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "各",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.311
+        },
+        "RequestId": "8e49a99c-eabf-451e-99ec-d29d283e639b"
+    }
+}

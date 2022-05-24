@@ -1,0 +1,44 @@
+{
+    "character": "ivern",
+    "id": "56686306",
+    "result": "被保护啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012682524,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.218]  被保护啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "被保护啦。",
+                    "SliceSentence": "被 保护 啦",
+                    "StartMs": 0,
+                    "EndMs": 2218,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "被",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "保护",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.2185
+        },
+        "RequestId": "bc8d6e96-c5e2-4806-a7e0-f18765e1fdb8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "kalista",
+    "id": "541320937",
+    "result": "你们已被定罪。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012694447,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.521]  你们已被定罪。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你们已被定罪。",
+                    "SliceSentence": "你们 已被 定罪",
+                    "StartMs": 0,
+                    "EndMs": 4521,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你们",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "已被",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2550
+                        },
+                        {
+                            "Word": "定罪",
+                            "OffsetStartMs": 2610,
+                            "OffsetEndMs": 3570
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.52125
+        },
+        "RequestId": "c34dcad4-dcb5-41a4-bf0f-d45b9a650e58"
+    }
+}

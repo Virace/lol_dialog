@@ -1,0 +1,39 @@
+{
+    "character": "darius",
+    "id": "779115582",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012555987,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.113]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 2113,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.113
+        },
+        "RequestId": "4c52b41a-bdee-4814-89cd-f3f8fe955a88"
+    }
+}

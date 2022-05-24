@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "1248573136",
+    "result": "他们去哪儿啦？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749966,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.006]  他们去哪儿啦？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们去哪儿啦？",
+                    "SliceSentence": "他们 去 哪儿 啦",
+                    "StartMs": 0,
+                    "EndMs": 1006,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "哪儿",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 720
+                        }
+                    ],
+                    "SpeechSpeed": 9.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.006813
+        },
+        "RequestId": "6c6c3734-8e79-4f56-a7b8-5099fcac84f7"
+    }
+}

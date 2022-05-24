@@ -1,0 +1,50 @@
+{
+    "character": "xinzhao",
+    "id": "401095708",
+    "result": "击鼓。进军。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012840083,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.400]  击鼓。\n[0:1.400,0:2.093]  进军。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "击鼓。",
+                    "SliceSentence": "击鼓",
+                    "StartMs": 0,
+                    "EndMs": 1400,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "击鼓",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "进军。",
+                    "SliceSentence": "进军",
+                    "StartMs": 1400,
+                    "EndMs": 2093,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "进军",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.0935
+        },
+        "RequestId": "ea330b9b-790e-4090-8bf0-6ad31b4ccaf6"
+    }
+}

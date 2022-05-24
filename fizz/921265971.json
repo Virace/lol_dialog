@@ -1,0 +1,75 @@
+{
+    "character": "fizz",
+    "id": "921265971",
+    "result": "你们真无聊，嗯嗯。诶，诶。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568090,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.960]  你们真无聊，嗯嗯。\n[0:5.960,0:8.359]  诶，诶。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你们真无聊，嗯嗯。",
+                    "SliceSentence": "你们 真 无聊 嗯 嗯",
+                    "StartMs": 0,
+                    "EndMs": 5960,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "真",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "无聊",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 2850,
+                            "OffsetEndMs": 3120
+                        },
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 4710,
+                            "OffsetEndMs": 5430
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "诶，诶。",
+                    "SliceSentence": "诶 诶",
+                    "StartMs": 5960,
+                    "EndMs": 8359,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "诶",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "诶",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 8.359188
+        },
+        "RequestId": "7f2a601e-2224-48af-969a-fde66cca59f6"
+    }
+}

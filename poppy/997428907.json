@@ -1,0 +1,44 @@
+{
+    "character": "poppy",
+    "id": "997428907",
+    "result": "不让你过。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744283,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.226]  不让你过。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不让你过。",
+                    "SliceSentence": "不让 你 过",
+                    "StartMs": 0,
+                    "EndMs": 1226,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "不让",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "过",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.226125
+        },
+        "RequestId": "a2f6ece4-b1c2-44f0-8b8d-469ea9a7b5b2"
+    }
+}

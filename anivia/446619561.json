@@ -1,0 +1,44 @@
+{
+    "character": "anivia",
+    "id": "446619561",
+    "result": "总是在观察。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542412,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.484]  总是在观察。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "总是在观察。",
+                    "SliceSentence": "总是 在 观察",
+                    "StartMs": 0,
+                    "EndMs": 2484,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "总是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "观察",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.484563
+        },
+        "RequestId": "68af912e-f0e1-4509-9a4f-b014752ab4f4"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "771713183",
+    "result": "你好好感受这一下。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012754362,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.704]  你好好感受这一下。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你好好感受这一下。",
+                    "SliceSentence": "你 好好 感受 这一下",
+                    "StartMs": 0,
+                    "EndMs": 1704,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "好好",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "感受",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "这一下",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.704875
+        },
+        "RequestId": "90219de2-b108-48c7-896a-d48fa8d142ce"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "jinx",
+    "id": "414093825",
+    "result": "大家都恐慌起来吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012687405,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.952]  大家都恐慌起来吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "大家都恐慌起来吧。",
+                    "SliceSentence": "大家都 恐慌 起来 吧",
+                    "StartMs": 0,
+                    "EndMs": 1952,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "大家都",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "恐慌",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "起来",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.952875
+        },
+        "RequestId": "159f0933-9b1d-41b7-8347-df396fd9689c"
+    }
+}

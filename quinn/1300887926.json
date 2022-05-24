@@ -1,0 +1,49 @@
+{
+    "character": "quinn",
+    "id": "1300887926",
+    "result": "把他们抓出来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012748772,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.648]  把他们抓出来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "把他们抓出来。",
+                    "SliceSentence": "把 他们 抓 出来",
+                    "StartMs": 0,
+                    "EndMs": 1648,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "抓",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "出来",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.648625
+        },
+        "RequestId": "e7205704-5ee1-47b6-bf24-cf59116beae6"
+    }
+}

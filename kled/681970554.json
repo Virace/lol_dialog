@@ -1,0 +1,44 @@
+{
+    "character": "kled",
+    "id": "681970554",
+    "result": "别担心啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012709014,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.437]  别担心啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别担心啦。",
+                    "SliceSentence": "别 担心 啦",
+                    "StartMs": 0,
+                    "EndMs": 1437,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "担心",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.43775
+        },
+        "RequestId": "107e3fe7-1e44-4ed4-8ce5-df64654b393b"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "yuumi",
+    "id": "1778289865",
+    "result": "别打这本书的主意。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012847112,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.423]  别打这本书的主意。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别打这本书的主意。",
+                    "SliceSentence": "别 打 这本书 的 主意",
+                    "StartMs": 0,
+                    "EndMs": 1423,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "打",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "这本书",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "主意",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 9.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.4235
+        },
+        "RequestId": "2c880554-f2d5-4010-9a68-b6569bdc9dd9"
+    }
+}

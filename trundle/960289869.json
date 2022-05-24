@@ -1,0 +1,44 @@
+{
+    "character": "trundle",
+    "id": "960289869",
+    "result": "啊啊啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012801438,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.682]  啊啊啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊啊啊。",
+                    "SliceSentence": "啊 啊 啊",
+                    "StartMs": 0,
+                    "EndMs": 3682,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 2730
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.682688
+        },
+        "RequestId": "81cd3372-812e-444c-b73e-047b3adc7c15"
+    }
+}

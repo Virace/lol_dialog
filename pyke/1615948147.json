@@ -1,0 +1,54 @@
+{
+    "character": "pyke",
+    "id": "1615948147",
+    "result": "比船长们的心还要。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745265,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.422]  比船长们的心还要。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "比船长们的心还要。",
+                    "SliceSentence": "比 船长 们 的心 还要",
+                    "StartMs": 0,
+                    "EndMs": 3422,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "比",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "船长",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "们",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "的心",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "还要",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.422875
+        },
+        "RequestId": "26a23244-e442-4275-96dd-2e01052f19e0"
+    }
+}

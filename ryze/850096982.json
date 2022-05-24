@@ -1,0 +1,54 @@
+{
+    "character": "ryze",
+    "id": "850096982",
+    "result": "来吧，符文在召唤。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012765560,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.345]  来吧，符文在召唤。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "来吧，符文在召唤。",
+                    "SliceSentence": "来 吧 符文 在 召唤",
+                    "StartMs": 0,
+                    "EndMs": 2345,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "符文",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "召唤",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.345625
+        },
+        "RequestId": "7348ba7f-1067-4591-b248-a3295c81966d"
+    }
+}

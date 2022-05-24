@@ -1,0 +1,49 @@
+{
+    "character": "volibear",
+    "id": "159273848",
+    "result": "现在逃跑还来得及。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012815965,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.161]  现在逃跑还来得及。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "现在逃跑还来得及。",
+                    "SliceSentence": "现在 逃跑 还 来得及",
+                    "StartMs": 0,
+                    "EndMs": 3161,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "逃跑",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "还",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "来得及",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.161625
+        },
+        "RequestId": "d8fefd8c-48e1-419e-9b1f-d590ed5fa386"
+    }
+}

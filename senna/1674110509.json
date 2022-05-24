@@ -1,0 +1,59 @@
+{
+    "character": "senna",
+    "id": "1674110509",
+    "result": "你给我活着才能吻我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012768866,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.972]  你给我活着才能吻我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你给我活着才能吻我。",
+                    "SliceSentence": "你 给我 活着 才能 吻 我",
+                    "StartMs": 0,
+                    "EndMs": 2972,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "给我",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "活着",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "才能",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "吻",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.972188
+        },
+        "RequestId": "d7c94644-2f7f-4e55-8cbc-7622d30da594"
+    }
+}

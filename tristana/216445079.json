@@ -1,0 +1,49 @@
+{
+    "character": "tristana",
+    "id": "216445079",
+    "result": "这东西防爆吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012799253,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.095]  这东西防爆吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这东西防爆吗？",
+                    "SliceSentence": "这 东西 防爆 吗",
+                    "StartMs": 0,
+                    "EndMs": 1095,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "防爆",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 9.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.095313
+        },
+        "RequestId": "0f3c0e14-e786-47f4-804e-e0493d78332c"
+    }
+}

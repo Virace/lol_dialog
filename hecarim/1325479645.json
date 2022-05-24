@@ -1,0 +1,39 @@
+{
+    "character": "hecarim",
+    "id": "1325479645",
+    "result": "快说吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012575629,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.049]  快说吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "快说吧。",
+                    "SliceSentence": "快 说吧",
+                    "StartMs": 0,
+                    "EndMs": 3049,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "快",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "说吧",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 2670
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.049188
+        },
+        "RequestId": "63be85a5-c91b-4983-bec2-964b381d616d"
+    }
+}

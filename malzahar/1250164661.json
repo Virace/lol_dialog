@@ -1,0 +1,39 @@
+{
+    "character": "malzahar",
+    "id": "1250164661",
+    "result": "哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012720247,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.686]  哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈。",
+                    "SliceSentence": "哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 1686,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.686813
+        },
+        "RequestId": "17c9d484-98bd-4798-9854-8fdcf0a873d3"
+    }
+}

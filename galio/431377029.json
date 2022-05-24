@@ -1,0 +1,54 @@
+{
+    "character": "galio",
+    "id": "431377029",
+    "result": "算我欺负你了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012569069,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.601]  算我欺负你了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "算我欺负你了。",
+                    "SliceSentence": "算 我 欺负 你 了",
+                    "StartMs": 0,
+                    "EndMs": 1601,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "算",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "欺负",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.601688
+        },
+        "RequestId": "c15bd3e5-1530-48f4-9cdb-70229ebfad72"
+    }
+}

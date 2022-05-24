@@ -1,0 +1,44 @@
+{
+    "character": "ornn",
+    "id": "836951636",
+    "result": "回去工作了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012740112,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.335]  回去工作了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "回去工作了。",
+                    "SliceSentence": "回去 工作 了",
+                    "StartMs": 0,
+                    "EndMs": 1335,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "回去",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "工作",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.335625
+        },
+        "RequestId": "1768d96f-a4b1-4d97-96c0-6d91f4758ec1"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "ryze",
+    "id": "294246536",
+    "result": "这就对了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012764205,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.881]  这就对了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这就对了。",
+                    "SliceSentence": "这就 对了",
+                    "StartMs": 0,
+                    "EndMs": 881,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "这就",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "对了",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 6.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.881688
+        },
+        "RequestId": "403e6705-45b1-4cf5-8932-9f5cf389d803"
+    }
+}

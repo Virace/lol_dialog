@@ -1,0 +1,54 @@
+{
+    "character": "kaisa",
+    "id": "1486273807",
+    "result": "我必须重新汇集力量。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012688734,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.345]  我必须重新汇集力量。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我必须重新汇集力量。",
+                    "SliceSentence": "我 必须 重新 汇集 力量",
+                    "StartMs": 0,
+                    "EndMs": 2345,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "必须",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "重新",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "汇集",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "力量",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.3455
+        },
+        "RequestId": "052972c2-296b-4d93-a28e-09adec417531"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "1970101819",
+    "result": "那真美好。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012752201,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.996]  那真美好。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "那真美好。",
+                    "SliceSentence": "那 真美 好",
+                    "StartMs": 0,
+                    "EndMs": 1996,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "那",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "真美",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.99625
+        },
+        "RequestId": "697b3725-8274-466d-a3e1-3e4f6f8e7fd1"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "zoe",
+    "id": "777835918",
+    "result": "我在想，这里还有谁在？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012856800,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.711]  我在想，这里还有谁在？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我在想，这里还有谁在？",
+                    "SliceSentence": "我 在想 这里 还有 谁 在",
+                    "StartMs": 0,
+                    "EndMs": 2711,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "在想",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "这里",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "还有",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "谁",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.711563
+        },
+        "RequestId": "80fbee65-d379-4753-b952-bd29ed22043d"
+    }
+}

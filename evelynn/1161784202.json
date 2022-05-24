@@ -1,0 +1,54 @@
+{
+    "character": "evelynn",
+    "id": "1161784202",
+    "result": "我要对你做一些事情。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012561524,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.260]  我要对你做一些事情。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要对你做一些事情。",
+                    "SliceSentence": "我要 对你 做 一些 事情",
+                    "StartMs": 0,
+                    "EndMs": 3260,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "对你",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "做",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "一些",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "事情",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.665688
+        },
+        "RequestId": "13c1b463-0f78-4f12-b90b-40488edd35dc"
+    }
+}

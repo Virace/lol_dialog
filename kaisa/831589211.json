@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "831589211",
+    "result": "我正好需要。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012692198,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.372]  我正好需要。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我正好需要。",
+                    "SliceSentence": "我 正好 需要",
+                    "StartMs": 0,
+                    "EndMs": 1372,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "正好",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.372125
+        },
+        "RequestId": "d3b219b1-08d7-4d90-81fc-ea64f3e42278"
+    }
+}

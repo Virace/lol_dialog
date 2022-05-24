@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "1141826858",
+    "result": "尽量别死。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749665,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.115]  尽量别死。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "尽量别死。",
+                    "SliceSentence": "尽量 别 死",
+                    "StartMs": 0,
+                    "EndMs": 1115,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "尽量",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "死",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.115625
+        },
+        "RequestId": "f11848e5-c513-4e9d-aea6-7e4f1f027c04"
+    }
+}

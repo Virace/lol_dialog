@@ -1,0 +1,39 @@
+{
+    "character": "rakan",
+    "id": "1610660385",
+    "result": "你说之前。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012751151,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.862]  你说之前。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你说之前。",
+                    "SliceSentence": "你说 之前",
+                    "StartMs": 0,
+                    "EndMs": 862,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "你说",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "之前",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.862438
+        },
+        "RequestId": "1f92c4f6-5186-487a-8f4b-8465961c894d"
+    }
+}

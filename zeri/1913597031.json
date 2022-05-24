@@ -1,0 +1,44 @@
+{
+    "character": "zeri",
+    "id": "1913597031",
+    "result": "火花准备就绪。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012851868,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.133]  火花准备就绪。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "火花准备就绪。",
+                    "SliceSentence": "火花 准备 就绪",
+                    "StartMs": 0,
+                    "EndMs": 2133,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "火花",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "准备",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "就绪",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.133313
+        },
+        "RequestId": "cc938824-3796-4488-83e0-95d54e44846b"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "kaisa",
+    "id": "1957495283",
+    "result": "信号已经放出去了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689550,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.668]  信号已经放出去了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "信号已经放出去了。",
+                    "SliceSentence": "信号 已经 放出 去 了",
+                    "StartMs": 0,
+                    "EndMs": 1668,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "信号",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "放出",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 7.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.668063
+        },
+        "RequestId": "93b8a642-dc36-4954-bf83-544efdcfbee2"
+    }
+}

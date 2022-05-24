@@ -1,0 +1,59 @@
+{
+    "character": "camille",
+    "id": "274079459",
+    "result": "你的局限导致了你的衰亡。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552689,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.123]  你的局限导致了你的衰亡。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你的局限导致了你的衰亡。",
+                    "SliceSentence": "你的 局限 导致 了 你的 衰亡",
+                    "StartMs": 0,
+                    "EndMs": 3123,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "局限",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "导致",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "衰亡",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 3060
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.123188
+        },
+        "RequestId": "6499f1bc-a3b1-470b-8ce1-adf61972edcd"
+    }
+}

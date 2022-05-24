@@ -1,0 +1,39 @@
+{
+    "character": "gwen",
+    "id": "94321893",
+    "result": "真有趣。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012575468,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.245]  真有趣。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "真有趣。",
+                    "SliceSentence": "真 有趣",
+                    "StartMs": 0,
+                    "EndMs": 2245,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "真",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "有趣",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 600
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.245313
+        },
+        "RequestId": "8521cecd-663c-4434-a2f1-672a49b56f14"
+    }
+}

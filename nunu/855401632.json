@@ -1,0 +1,49 @@
+{
+    "character": "nunu",
+    "id": "855401632",
+    "result": "今天越来越惊险了呢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012736611,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.649]  今天越来越惊险了呢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "今天越来越惊险了呢。",
+                    "SliceSentence": "今天 越来越 惊险 了呢",
+                    "StartMs": 0,
+                    "EndMs": 2649,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "今天",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "越来越",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "惊险",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "了呢",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.64925
+        },
+        "RequestId": "5e523c1a-c70a-4093-88a7-0104e4de8f93"
+    }
+}

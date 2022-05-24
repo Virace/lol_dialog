@@ -1,0 +1,44 @@
+{
+    "character": "caitlyn",
+    "id": "490400346",
+    "result": "下午茶结束了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551726,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.410]  下午茶结束了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "下午茶结束了。",
+                    "SliceSentence": "下午茶 结束 了",
+                    "StartMs": 0,
+                    "EndMs": 2410,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "下午茶",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "结束",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.410688
+        },
+        "RequestId": "90716ccc-9e72-4f2a-8f13-e8fec63143b6"
+    }
+}

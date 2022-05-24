@@ -1,0 +1,49 @@
+{
+    "character": "yuumi",
+    "id": "365647902",
+    "result": "打你，打你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012847557,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.927]  打你，打你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "打你，打你。",
+                    "SliceSentence": "打 你 打 你",
+                    "StartMs": 0,
+                    "EndMs": 927,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "打",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "打",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 8.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.927875
+        },
+        "RequestId": "17cd1bc9-7659-495d-95a0-aa9124133b4f"
+    }
+}

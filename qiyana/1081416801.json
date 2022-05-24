@@ -1,0 +1,39 @@
+{
+    "character": "qiyana",
+    "id": "1081416801",
+    "result": "赠送我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012747055,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.880]  赠送我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "赠送我。",
+                    "SliceSentence": "赠 送我",
+                    "StartMs": 0,
+                    "EndMs": 1880,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "赠",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "送我",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.880813
+        },
+        "RequestId": "1b51ce24-6971-45d7-b710-acc2ea3a2cc1"
+    }
+}

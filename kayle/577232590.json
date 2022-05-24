@@ -1,0 +1,49 @@
+{
+    "character": "kayle",
+    "id": "577232590",
+    "result": "我什么也没说。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012698510,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.991]  我什么也没说。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我什么也没说。",
+                    "SliceSentence": "我 什么 也没 说",
+                    "StartMs": 0,
+                    "EndMs": 1991,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "也没",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.991375
+        },
+        "RequestId": "ccec0fb0-c2bf-4849-91c3-4be67e1471f9"
+    }
+}

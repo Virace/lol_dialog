@@ -1,0 +1,44 @@
+{
+    "character": "quinn",
+    "id": "1271744213",
+    "result": "啊啊啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012748770,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.140,0:3.575]  啊啊啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊啊啊。",
+                    "SliceSentence": "啊 啊 啊",
+                    "StartMs": 140,
+                    "EndMs": 3575,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 3300
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.575875
+        },
+        "RequestId": "1662a89b-8d94-4da5-b7ee-6a0dd0c938bb"
+    }
+}

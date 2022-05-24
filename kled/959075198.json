@@ -1,0 +1,49 @@
+{
+    "character": "kled",
+    "id": "959075198",
+    "result": "我停不下来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012710462,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.807]  我停不下来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我停不下来。",
+                    "SliceSentence": "我 停 不 下来",
+                    "StartMs": 0,
+                    "EndMs": 1807,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "停",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "下来",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.8075
+        },
+        "RequestId": "586e7da4-bf19-48e7-9c33-9946a752a149"
+    }
+}

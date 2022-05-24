@@ -1,0 +1,44 @@
+{
+    "character": "karthus",
+    "id": "226510821",
+    "result": "我看到了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012695779,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.380,0:2.981]  我看到了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我看到了。",
+                    "SliceSentence": "我 看到 了",
+                    "StartMs": 380,
+                    "EndMs": 2981,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "看到",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.981313
+        },
+        "RequestId": "96a24d2f-355e-496c-a5c6-12e3672f95b8"
+    }
+}

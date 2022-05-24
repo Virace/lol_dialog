@@ -1,0 +1,49 @@
+{
+    "character": "ezreal",
+    "id": "893435351",
+    "result": "一点问题也没有。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012567123,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.675]  一点问题也没有。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一点问题也没有。",
+                    "SliceSentence": "一点 问题 也 没有",
+                    "StartMs": 0,
+                    "EndMs": 1675,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "一点",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "问题",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "也",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.675438
+        },
+        "RequestId": "00bde091-351c-41da-8b6c-f8fd5b95b887"
+    }
+}

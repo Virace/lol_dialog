@@ -1,0 +1,54 @@
+{
+    "character": "elise",
+    "id": "1495732841",
+    "result": "没有什么好害怕的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560546,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.360]  没有什么好害怕的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没有什么好害怕的。",
+                    "SliceSentence": "没有 什么 好 害怕 的",
+                    "StartMs": 0,
+                    "EndMs": 3360,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "害怕",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.733625
+        },
+        "RequestId": "3b6b637f-3ad2-4670-8827-d0093b5f4a83"
+    }
+}

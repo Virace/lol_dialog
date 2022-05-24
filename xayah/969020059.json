@@ -1,0 +1,59 @@
+{
+    "character": "xayah",
+    "id": "969020059",
+    "result": "这是对隐私的粗暴侵犯。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012838356,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.129]  这是对隐私的粗暴侵犯。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是对隐私的粗暴侵犯。",
+                    "SliceSentence": "这是 对 隐私 的 粗暴 侵犯",
+                    "StartMs": 0,
+                    "EndMs": 2129,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "对",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "隐私",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "粗暴",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "侵犯",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 7.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.129938
+        },
+        "RequestId": "d30b7f70-5d3f-4e65-b01d-c54fc2401616"
+    }
+}

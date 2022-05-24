@@ -1,0 +1,59 @@
+{
+    "character": "pyke",
+    "id": "1200289457",
+    "result": "我的归我，你的闺女。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744799,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.116]  我的归我，你的闺女。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的归我，你的闺女。",
+                    "SliceSentence": "我 的 归 我 你的 闺女",
+                    "StartMs": 0,
+                    "EndMs": 4116,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "归",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "闺女",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2700
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.116313
+        },
+        "RequestId": "9caf17ad-317a-40c7-9af6-294430074de2"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "camille",
+    "id": "1022209198",
+    "result": "你想的还不够长远。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552127,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.901]  你想的还不够长远。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你想的还不够长远。",
+                    "SliceSentence": "你想 的 还不够 长远",
+                    "StartMs": 0,
+                    "EndMs": 1901,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你想",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "还不够",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "长远",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.901063
+        },
+        "RequestId": "595b2d89-a58e-4c58-9eb8-a7a122974923"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "lillia",
+    "id": "961843021",
+    "result": "一只蹄子，两只蹄子回来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012716387,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.240]  一只蹄子，两只蹄子回来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一只蹄子，两只蹄子回来。",
+                    "SliceSentence": "一只 蹄子 两只 蹄子 回来",
+                    "StartMs": 0,
+                    "EndMs": 5240,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "一只",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "蹄子",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "两只",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "蹄子",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2760
+                        },
+                        {
+                            "Word": "回来",
+                            "OffsetStartMs": 3210,
+                            "OffsetEndMs": 3930
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.19975
+        },
+        "RequestId": "f985fb81-030d-4eb7-8827-d8d7b0f0d4cc"
+    }
+}

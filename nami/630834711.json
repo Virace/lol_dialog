@@ -1,0 +1,59 @@
+{
+    "character": "nami",
+    "id": "630834711",
+    "result": "我将找到我的道路。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012728020,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.050]  我将找到我的道路。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我将找到我的道路。",
+                    "SliceSentence": "我 将 找到 我 的 道路",
+                    "StartMs": 0,
+                    "EndMs": 2050,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "将",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "找到",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "道路",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 6.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.050875
+        },
+        "RequestId": "920e6cc2-729f-42b8-aa8b-0c90ccb8cc77"
+    }
+}

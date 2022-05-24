@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "1518948791",
+    "result": "我有些坐不住了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012750843,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.318]  我有些坐不住了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我有些坐不住了。",
+                    "SliceSentence": "我 有些 坐 不住 了",
+                    "StartMs": 0,
+                    "EndMs": 1318,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "有些",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "坐",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "不住",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 9.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.318313
+        },
+        "RequestId": "0c83a52b-c3ed-435e-a9a0-9b5eea288d78"
+    }
+}

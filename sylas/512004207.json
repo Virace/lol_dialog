@@ -1,0 +1,49 @@
+{
+    "character": "sylas",
+    "id": "512004207",
+    "result": "人人头悬一线。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012787811,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.677]  人人头悬一线。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "人人头悬一线。",
+                    "SliceSentence": "人人 头 悬 一线",
+                    "StartMs": 0,
+                    "EndMs": 1677,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "人人",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "头",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "悬",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "一线",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.677375
+        },
+        "RequestId": "09789803-19eb-4b91-b7d0-8806a6159d12"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "pyke",
+    "id": "1154157048",
+    "result": "闻起来像新鲜的船长。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744680,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.959]  闻起来像新鲜的船长。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "闻起来像新鲜的船长。",
+                    "SliceSentence": "闻 起来 像 新鲜 的 船长",
+                    "StartMs": 0,
+                    "EndMs": 2959,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "闻",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "起来",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "像",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "新鲜",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "船长",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.959688
+        },
+        "RequestId": "45a64b46-e63a-453e-8df1-318017e1c37f"
+    }
+}

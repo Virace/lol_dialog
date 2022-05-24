@@ -1,0 +1,39 @@
+{
+    "character": "illaoi",
+    "id": "319043564",
+    "result": "如此更好。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012577710,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.201]  如此更好。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "如此更好。",
+                    "SliceSentence": "如此 更好",
+                    "StartMs": 0,
+                    "EndMs": 2201,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "如此",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "更好",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.201375
+        },
+        "RequestId": "71e02d82-a772-4f84-be18-33c69d25fdc5"
+    }
+}

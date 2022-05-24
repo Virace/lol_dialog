@@ -1,0 +1,39 @@
+{
+    "character": "kayn",
+    "id": "323296502",
+    "result": "再来好啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012701225,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.889]  再来好啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "再来好啊。",
+                    "SliceSentence": "再来 好啊",
+                    "StartMs": 0,
+                    "EndMs": 1889,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "再来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "好啊",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.889375
+        },
+        "RequestId": "212cc9a5-8b16-43f1-9b23-b2c7f4eee38d"
+    }
+}

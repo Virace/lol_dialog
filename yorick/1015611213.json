@@ -1,0 +1,59 @@
+{
+    "character": "yorick",
+    "id": "1015611213",
+    "result": "我认识你，我总会看见你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012843634,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.609]  我认识你，我总会看见你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我认识你，我总会看见你。",
+                    "SliceSentence": "我 认识 你我 总会 看见 你",
+                    "StartMs": 0,
+                    "EndMs": 5609,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "认识",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "你我",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 3120
+                        },
+                        {
+                            "Word": "总会",
+                            "OffsetStartMs": 3120,
+                            "OffsetEndMs": 4080
+                        },
+                        {
+                            "Word": "看见",
+                            "OffsetStartMs": 4080,
+                            "OffsetEndMs": 4890
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 4890,
+                            "OffsetEndMs": 5340
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.609063
+        },
+        "RequestId": "aceaef88-2fa8-4c22-a1d0-9627b2e90a0e"
+    }
+}

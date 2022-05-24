@@ -1,0 +1,66 @@
+{
+    "character": "rakan",
+    "id": "1354239390",
+    "result": "啊？该死。啊？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012750315,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.400]  啊？\n[0:1.400,0:3.300]  该死。\n[0:3.300,0:4.819]  啊？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊？",
+                    "SliceSentence": "啊",
+                    "StartMs": 0,
+                    "EndMs": 1400,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        }
+                    ],
+                    "SpeechSpeed": 1.4,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "该死。",
+                    "SliceSentence": "该死",
+                    "StartMs": 1400,
+                    "EndMs": 3300,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "该死",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "啊？",
+                    "SliceSentence": "啊",
+                    "StartMs": 3300,
+                    "EndMs": 4819,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 1.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.819
+        },
+        "RequestId": "29b0e04e-bfd6-4bf8-bd4d-43c8e21f7b3b"
+    }
+}

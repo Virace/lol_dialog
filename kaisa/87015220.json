@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "87015220",
+    "result": "这样没用的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012692359,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.508]  这样没用的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这样没用的。",
+                    "SliceSentence": "这样 没用 的",
+                    "StartMs": 0,
+                    "EndMs": 1508,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这样",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "没用",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.508688
+        },
+        "RequestId": "fc104fe0-298c-4b27-bf4e-1ee2d0e65e0e"
+    }
+}

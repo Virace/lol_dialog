@@ -1,0 +1,44 @@
+{
+    "character": "vex",
+    "id": "1624122972",
+    "result": "感觉好多了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012810638,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.467]  感觉好多了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "感觉好多了。",
+                    "SliceSentence": "感觉 好多 了",
+                    "StartMs": 0,
+                    "EndMs": 2467,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "感觉",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "好多",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.467063
+        },
+        "RequestId": "5424d4c7-00f3-4f5a-a601-3116619572ac"
+    }
+}

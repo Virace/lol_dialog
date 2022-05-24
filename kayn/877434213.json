@@ -1,0 +1,59 @@
+{
+    "character": "kayn",
+    "id": "877434213",
+    "result": "劫本不应该弄成这样的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012703142,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.478]  劫本不应该弄成这样的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "劫本不应该弄成这样的。",
+                    "SliceSentence": "劫 本 不应该 弄成 这样 的",
+                    "StartMs": 0,
+                    "EndMs": 2478,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "劫",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "本",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "不应该",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "弄成",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "这样",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.478375
+        },
+        "RequestId": "40217827-f299-4ddd-8380-6a54a2ef110c"
+    }
+}

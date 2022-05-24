@@ -1,0 +1,44 @@
+{
+    "character": "karthus",
+    "id": "523020261",
+    "result": "我们即使永恒。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012696130,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:6.605]  我们即使永恒。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们即使永恒。",
+                    "SliceSentence": "我们 即使 永恒",
+                    "StartMs": 0,
+                    "EndMs": 6605,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "即使",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 3600
+                        },
+                        {
+                            "Word": "永恒",
+                            "OffsetStartMs": 4140,
+                            "OffsetEndMs": 6060
+                        }
+                    ],
+                    "SpeechSpeed": 1.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.605313
+        },
+        "RequestId": "80877e82-aaaf-4bb9-9c70-c27d5da4ac7a"
+    }
+}

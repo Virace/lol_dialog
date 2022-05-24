@@ -1,0 +1,59 @@
+{
+    "character": "ornn",
+    "id": "1647696692",
+    "result": "这不代表着咱们就是朋友了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012738612,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.906]  这不代表着咱们就是朋友了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这不代表着咱们就是朋友了。",
+                    "SliceSentence": "这不 代表着 咱们 就是 朋友 了",
+                    "StartMs": 0,
+                    "EndMs": 2906,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "这不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "代表着",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "咱们",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "朋友",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2490
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2490,
+                            "OffsetEndMs": 2670
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.906938
+        },
+        "RequestId": "13ffc7ca-cfe7-4e38-8797-92a2e9ae83c1"
+    }
+}

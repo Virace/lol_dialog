@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "1140375880",
+    "result": "深渊里的灯。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744584,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.595]  深渊里的灯。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "深渊里的灯。",
+                    "SliceSentence": "深渊 里 的 灯",
+                    "StartMs": 0,
+                    "EndMs": 2595,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "深渊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "里",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "灯",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.595188
+        },
+        "RequestId": "a444e4e1-f8f5-45a8-ad16-de64f2eb23fe"
+    }
+}

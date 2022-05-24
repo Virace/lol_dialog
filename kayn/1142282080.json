@@ -1,0 +1,39 @@
+{
+    "character": "kayn",
+    "id": "1142282080",
+    "result": "啊啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012699117,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.324]  啊啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊啊。",
+                    "SliceSentence": "啊 啊",
+                    "StartMs": 0,
+                    "EndMs": 3324,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 3000
+                        }
+                    ],
+                    "SpeechSpeed": 1.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.324188
+        },
+        "RequestId": "056cba61-5fe9-4906-8a75-0aad66ceff30"
+    }
+}

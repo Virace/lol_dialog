@@ -1,0 +1,54 @@
+{
+    "character": "karthus",
+    "id": "1045880070",
+    "result": "生命不过是一场骗局。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012695583,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.510]  生命不过是一场骗局。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "生命不过是一场骗局。",
+                    "SliceSentence": "生命 不过 是 一场 骗局",
+                    "StartMs": 0,
+                    "EndMs": 5510,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "生命",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "不过",
+                            "OffsetStartMs": 2370,
+                            "OffsetEndMs": 2940
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 2940,
+                            "OffsetEndMs": 3120
+                        },
+                        {
+                            "Word": "一场",
+                            "OffsetStartMs": 3120,
+                            "OffsetEndMs": 3630
+                        },
+                        {
+                            "Word": "骗局",
+                            "OffsetStartMs": 3660,
+                            "OffsetEndMs": 5040
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.510188
+        },
+        "RequestId": "30e0db1f-a6b7-4e6f-ad62-7603657d6da0"
+    }
+}

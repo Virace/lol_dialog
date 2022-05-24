@@ -1,0 +1,54 @@
+{
+    "character": "seraphine",
+    "id": "695528171",
+    "result": "全世界都能听到我啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012771722,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.940]  全世界都能听到我啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "全世界都能听到我啦。",
+                    "SliceSentence": "全世界 都能 听到 我 啦",
+                    "StartMs": 0,
+                    "EndMs": 2940,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "全世界",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "都能",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "听到",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.506438
+        },
+        "RequestId": "e62178b6-48c0-40e0-9b9b-b5f7c9281773"
+    }
+}

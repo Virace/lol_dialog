@@ -1,0 +1,44 @@
+{
+    "character": "vex",
+    "id": "348264460",
+    "result": "别折腾啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012811273,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.335]  别折腾啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别折腾啦。",
+                    "SliceSentence": "别 折腾 啦",
+                    "StartMs": 0,
+                    "EndMs": 2335,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "折腾",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.335938
+        },
+        "RequestId": "51049864-5f43-464b-b7ed-1778eb8d51f1"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "ivern",
+    "id": "446307636",
+    "result": "我会看到什么呢？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012682403,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.598]  我会看到什么呢？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会看到什么呢？",
+                    "SliceSentence": "我会 看到 什么 呢",
+                    "StartMs": 0,
+                    "EndMs": 2598,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "看到",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.598875
+        },
+        "RequestId": "f4cdd721-b40a-4215-aa00-17f2dd98c865"
+    }
+}

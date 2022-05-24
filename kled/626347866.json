@@ -1,0 +1,49 @@
+{
+    "character": "kled",
+    "id": "626347866",
+    "result": "这位小姐乱七八糟的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012708730,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.049]  这位小姐乱七八糟的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这位小姐乱七八糟的。",
+                    "SliceSentence": "这位 小姐 乱七八糟 的",
+                    "StartMs": 0,
+                    "EndMs": 2049,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这位",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "小姐",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "乱七八糟",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.049
+        },
+        "RequestId": "d2f7a2e0-b369-4017-809a-e82913259a39"
+    }
+}

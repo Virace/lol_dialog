@@ -1,0 +1,49 @@
+{
+    "character": "malzahar",
+    "id": "279838461",
+    "result": "用最合适的手法。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012720527,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.349]  用最合适的手法。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "用最合适的手法。",
+                    "SliceSentence": "用 最合适 的 手法",
+                    "StartMs": 0,
+                    "EndMs": 4349,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "用",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "最合适",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "手法",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 3840
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.349125
+        },
+        "RequestId": "88b94df1-b2a5-4f8c-ac58-bcb9a67d47ec"
+    }
+}

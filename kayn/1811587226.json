@@ -1,0 +1,49 @@
+{
+    "character": "kayn",
+    "id": "1811587226",
+    "result": "可找到你了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012700422,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.554]  可找到你了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "可找到你了。",
+                    "SliceSentence": "可 找到 你 了",
+                    "StartMs": 0,
+                    "EndMs": 1554,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "可",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "找到",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.55475
+        },
+        "RequestId": "242a6378-9d02-4852-be48-7e781d08b3d5"
+    }
+}

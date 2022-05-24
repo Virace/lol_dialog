@@ -1,0 +1,44 @@
+{
+    "character": "viego",
+    "id": "143296844",
+    "result": "你将肝肠寸断。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012813181,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.624]  你将肝肠寸断。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你将肝肠寸断。",
+                    "SliceSentence": "你 将 肝肠寸断",
+                    "StartMs": 0,
+                    "EndMs": 3624,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "将",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "肝肠寸断",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.624563
+        },
+        "RequestId": "ed82e677-5d24-45d6-919b-015b63575238"
+    }
+}

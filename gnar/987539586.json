@@ -1,0 +1,44 @@
+{
+    "character": "gnar",
+    "id": "987539586",
+    "result": "的玛卡。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012573125,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.931]  的玛卡。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "的玛卡。",
+                    "SliceSentence": "的 玛 卡",
+                    "StartMs": 0,
+                    "EndMs": 931,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "玛",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "卡",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 720
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.931188
+        },
+        "RequestId": "fb935890-924b-44fe-930d-fd690c5b5bdf"
+    }
+}

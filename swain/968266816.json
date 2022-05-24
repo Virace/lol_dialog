@@ -1,0 +1,59 @@
+{
+    "character": "swain",
+    "id": "968266816",
+    "result": "你超越了我的期待。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012785953,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.211]  你超越了我的期待。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你超越了我的期待。",
+                    "SliceSentence": "你 超越 了 我 的 期待",
+                    "StartMs": 0,
+                    "EndMs": 2211,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "超越",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "期待",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.211375
+        },
+        "RequestId": "6bb1015d-6edc-4740-a10d-390f7f4ad912"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "character": "poppy",
+    "id": "703689939",
+    "result": "这个应该就是英雄干的活。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012743744,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.230]  这个应该就是英雄干的活。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这个应该就是英雄干的活。",
+                    "SliceSentence": "这个 应该 就是 英雄 干 的 活",
+                    "StartMs": 0,
+                    "EndMs": 2230,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "应该",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "英雄",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "干",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "活",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 8.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.230063
+        },
+        "RequestId": "551bdf45-af2f-4a25-99b3-fac09bc1142b"
+    }
+}

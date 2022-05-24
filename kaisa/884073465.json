@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "884073465",
+    "result": "你就是猎物。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012692434,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.526]  你就是猎物。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你就是猎物。",
+                    "SliceSentence": "你就 是 猎物",
+                    "StartMs": 0,
+                    "EndMs": 1526,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你就",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "猎物",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.526
+        },
+        "RequestId": "452262ed-7352-4022-bae6-1125ff583708"
+    }
+}

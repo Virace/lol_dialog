@@ -1,0 +1,49 @@
+{
+    "character": "taliyah",
+    "id": "703438970",
+    "result": "给你来一片儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012794236,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.177]  给你来一片儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "给你来一片儿。",
+                    "SliceSentence": "给 你来 一 片儿",
+                    "StartMs": 0,
+                    "EndMs": 1177,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "给",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "你来",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "一",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "片儿",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 8.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.177563
+        },
+        "RequestId": "40c091d2-1609-43b4-b947-cf0973b2d391"
+    }
+}

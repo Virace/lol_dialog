@@ -1,0 +1,44 @@
+{
+    "character": "annie",
+    "id": "414477296",
+    "result": "抓到他啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542646,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.060]  抓到他啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "抓到他啦。",
+                    "SliceSentence": "抓到 他 啦",
+                    "StartMs": 0,
+                    "EndMs": 1060,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "抓到",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "他",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.060625
+        },
+        "RequestId": "bd8e34b9-e7a4-4675-acbf-760082bb7260"
+    }
+}

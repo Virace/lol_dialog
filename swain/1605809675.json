@@ -1,0 +1,54 @@
+{
+    "character": "swain",
+    "id": "1605809675",
+    "result": "你已经没有价值了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012784359,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.746]  你已经没有价值了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你已经没有价值了。",
+                    "SliceSentence": "你 已经 没有 价值 了",
+                    "StartMs": 0,
+                    "EndMs": 2746,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "价值",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.746875
+        },
+        "RequestId": "abff0c8f-6150-4686-8bdd-173e5fa869a3"
+    }
+}

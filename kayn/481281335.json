@@ -1,0 +1,49 @@
+{
+    "character": "kayn",
+    "id": "481281335",
+    "result": "放这儿也许有用。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012701965,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.886]  放这儿也许有用。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "放这儿也许有用。",
+                    "SliceSentence": "放 这儿 也许 有用",
+                    "StartMs": 0,
+                    "EndMs": 2886,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "放",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "这儿",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "也许",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "有用",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.886688
+        },
+        "RequestId": "7397d1e4-a398-429f-860f-001f84d1a8f2"
+    }
+}

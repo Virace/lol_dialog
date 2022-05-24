@@ -1,0 +1,49 @@
+{
+    "character": "illaoi",
+    "id": "724580556",
+    "result": "你正经受教化。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012579128,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.223]  你正经受教化。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你正经受教化。",
+                    "SliceSentence": "你 正经 受教 化",
+                    "StartMs": 0,
+                    "EndMs": 2223,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "正经",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "受教",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "化",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.223313
+        },
+        "RequestId": "9e4b4cba-927d-4bc3-a71b-33c613516dec"
+    }
+}

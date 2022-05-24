@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "192980202",
+    "result": "你看起来眼熟。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689533,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.482]  你看起来眼熟。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你看起来眼熟。",
+                    "SliceSentence": "你看 起来 眼熟",
+                    "StartMs": 0,
+                    "EndMs": 1482,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你看",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "起来",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "眼熟",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.482438
+        },
+        "RequestId": "0155c50b-3a10-4c5c-95b5-143909ec5134"
+    }
+}

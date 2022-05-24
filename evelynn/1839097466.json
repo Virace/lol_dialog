@@ -1,0 +1,39 @@
+{
+    "character": "evelynn",
+    "id": "1839097466",
+    "result": "不要离开。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012562606,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.623]  不要离开。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要离开。",
+                    "SliceSentence": "不要 离开",
+                    "StartMs": 0,
+                    "EndMs": 2623,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "离开",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.623875
+        },
+        "RequestId": "4bb1c4ed-2c1a-4d63-9fc9-f765b8e43a33"
+    }
+}

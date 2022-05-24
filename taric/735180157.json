@@ -1,0 +1,49 @@
+{
+    "character": "taric",
+    "id": "735180157",
+    "result": "并不是说我需要这个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012797384,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.553]  并不是说我需要这个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "并不是说我需要这个。",
+                    "SliceSentence": "并不是说 我 需要 这个",
+                    "StartMs": 0,
+                    "EndMs": 2553,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "并不是说",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.55325
+        },
+        "RequestId": "f556372e-4aa9-483b-8a4f-5b9471db7336"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "thresh",
+    "id": "1936795088",
+    "result": "我们走起来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012798620,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.178]  我们走起来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们走起来。",
+                    "SliceSentence": "我们 走 起来",
+                    "StartMs": 0,
+                    "EndMs": 2178,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "走",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "起来",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.17825
+        },
+        "RequestId": "a5bc0632-c752-4b04-bf24-370a1fcd437f"
+    }
+}

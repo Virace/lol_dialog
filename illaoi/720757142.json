@@ -1,0 +1,54 @@
+{
+    "character": "illaoi",
+    "id": "720757142",
+    "result": "第一课已传授完毕。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012579133,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.700]  第一课已传授完毕。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "第一课已传授完毕。",
+                    "SliceSentence": "第一 课 已 传授 完毕",
+                    "StartMs": 0,
+                    "EndMs": 2700,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "第一",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "课",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "已",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "传授",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "完毕",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.700625
+        },
+        "RequestId": "c3048043-a8c1-4f43-bba2-160087f82315"
+    }
+}

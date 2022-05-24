@@ -1,0 +1,49 @@
+{
+    "character": "aatrox",
+    "id": "669667132",
+    "result": "我要的只是安静。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012537708,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.201]  我要的只是安静。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要的只是安静。",
+                    "SliceSentence": "我要 的 只是 安静",
+                    "StartMs": 0,
+                    "EndMs": 2201,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "只是",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "安静",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.201938
+        },
+        "RequestId": "3fc21214-d497-4d77-b7e0-662ae7dd3dbb"
+    }
+}

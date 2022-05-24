@@ -1,0 +1,39 @@
+{
+    "character": "taliyah",
+    "id": "46371271",
+    "result": "我来喽。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012793380,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.731]  我来喽。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我来喽。",
+                    "SliceSentence": "我来 喽",
+                    "StartMs": 0,
+                    "EndMs": 1731,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "喽",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.731375
+        },
+        "RequestId": "f3fbc1ab-7731-4075-b806-7fc05190c21d"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "character": "lucian",
+    "id": "1619791589",
+    "result": "药效慢。好爸。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012717595,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.520]  药效慢。\n[0:1.600,0:3.204]  好爸。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "药效慢。",
+                    "SliceSentence": "药效 慢",
+                    "StartMs": 0,
+                    "EndMs": 1520,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "药效",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "慢",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "好爸。",
+                    "SliceSentence": "好 爸",
+                    "StartMs": 1600,
+                    "EndMs": 3204,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "爸",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.204375
+        },
+        "RequestId": "01361a06-7392-4644-94e4-9d3b3233d7e5"
+    }
+}

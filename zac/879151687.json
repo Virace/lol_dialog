@@ -1,0 +1,49 @@
+{
+    "character": "zac",
+    "id": "879151687",
+    "result": "我该穿套衣服。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012849430,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.280]  我该穿套衣服。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我该穿套衣服。",
+                    "SliceSentence": "我该 穿 套 衣服",
+                    "StartMs": 0,
+                    "EndMs": 1280,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我该",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "穿",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "套",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "衣服",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 7.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.2805
+        },
+        "RequestId": "3abb5f2c-559b-4a04-acf5-c1454d41f5ae"
+    }
+}

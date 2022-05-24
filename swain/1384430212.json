@@ -1,0 +1,39 @@
+{
+    "character": "swain",
+    "id": "1384430212",
+    "result": "服从我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012783846,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.564]  服从我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "服从我。",
+                    "SliceSentence": "服从 我",
+                    "StartMs": 0,
+                    "EndMs": 1564,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "服从",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.564938
+        },
+        "RequestId": "7fde0170-d872-4dd6-a0d3-dc7050694d40"
+    }
+}

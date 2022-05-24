@@ -1,0 +1,54 @@
+{
+    "character": "taliyah",
+    "id": "370409071",
+    "result": "我叫你后退了的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012792949,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.456]  我叫你后退了的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我叫你后退了的。",
+                    "SliceSentence": "我 叫你 后退 了 的",
+                    "StartMs": 0,
+                    "EndMs": 1456,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "叫你",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "后退",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 8.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.456938
+        },
+        "RequestId": "6df98b67-034a-4f01-b04d-599388676d95"
+    }
+}

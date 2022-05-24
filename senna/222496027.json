@@ -1,0 +1,54 @@
+{
+    "character": "senna",
+    "id": "222496027",
+    "result": "就像那些旧的回忆一样。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012769421,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.809]  就像那些旧的回忆一样。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "就像那些旧的回忆一样。",
+                    "SliceSentence": "就像 那些 旧的 回忆 一样",
+                    "StartMs": 0,
+                    "EndMs": 2809,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "就像",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "那些",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "旧的",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "回忆",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "一样",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.809625
+        },
+        "RequestId": "81ae1263-04a7-432a-b1ba-5d856a94d314"
+    }
+}

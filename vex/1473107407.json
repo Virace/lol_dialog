@@ -1,0 +1,54 @@
+{
+    "character": "vex",
+    "id": "1473107407",
+    "result": "还得再来一次，好耶。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012810479,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.401]  还得再来一次，好耶。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "还得再来一次，好耶。",
+                    "SliceSentence": "还得 再来 一次 好 耶",
+                    "StartMs": 0,
+                    "EndMs": 4401,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "还得",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "再来",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "一次",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 2520,
+                            "OffsetEndMs": 2700
+                        },
+                        {
+                            "Word": "耶",
+                            "OffsetStartMs": 2700,
+                            "OffsetEndMs": 3390
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.401313
+        },
+        "RequestId": "b8fb86a7-c596-4858-ba32-c85e75994cb9"
+    }
+}

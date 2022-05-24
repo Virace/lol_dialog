@@ -1,0 +1,54 @@
+{
+    "character": "elise",
+    "id": "1440983801",
+    "result": "蜘蛛是我尔，你是苍蝇。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560558,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.806]  蜘蛛是我尔，你是苍蝇。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "蜘蛛是我尔，你是苍蝇。",
+                    "SliceSentence": "蜘蛛 是我 尔 你是 苍蝇",
+                    "StartMs": 0,
+                    "EndMs": 5806,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "蜘蛛",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "尔",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2730
+                        },
+                        {
+                            "Word": "你是",
+                            "OffsetStartMs": 2730,
+                            "OffsetEndMs": 3660
+                        },
+                        {
+                            "Word": "苍蝇",
+                            "OffsetStartMs": 3660,
+                            "OffsetEndMs": 4830
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.806813
+        },
+        "RequestId": "e017627b-072d-425d-872f-3585fceb002e"
+    }
+}

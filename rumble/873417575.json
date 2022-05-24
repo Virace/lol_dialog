@@ -1,0 +1,49 @@
+{
+    "character": "rumble",
+    "id": "873417575",
+    "result": "哈哈哈哈哈啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012763569,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:6.858]  哈哈哈哈哈啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈哈啊。",
+                    "SliceSentence": "哈哈 哈 哈哈 啊",
+                    "StartMs": 0,
+                    "EndMs": 6858,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "哈",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 3900
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 5040,
+                            "OffsetEndMs": 6540
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.85825
+        },
+        "RequestId": "a73ca8b9-60d6-4c31-bb05-8b8d7d9a6537"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "kayle",
+    "id": "2117817729",
+    "result": "必要的事情。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012698020,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.969]  必要的事情。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "必要的事情。",
+                    "SliceSentence": "必要 的 事情",
+                    "StartMs": 0,
+                    "EndMs": 1969,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "必要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "事情",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.969313
+        },
+        "RequestId": "9331a6d2-afcb-4308-8628-cf897553bc58"
+    }
+}

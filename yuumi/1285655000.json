@@ -1,0 +1,44 @@
+{
+    "character": "yuumi",
+    "id": "1285655000",
+    "result": "啊，没有没事儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012846608,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:2.100,0:6.559]  啊，没有没事儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，没有没事儿。",
+                    "SliceSentence": "啊 没有 没事儿",
+                    "StartMs": 2100,
+                    "EndMs": 6559,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 2460,
+                            "OffsetEndMs": 2730
+                        },
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 3120,
+                            "OffsetEndMs": 3480
+                        },
+                        {
+                            "Word": "没事儿",
+                            "OffsetStartMs": 3780,
+                            "OffsetEndMs": 4260
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.559375
+        },
+        "RequestId": "070ceef0-9a6e-4b03-93da-6466f267f294"
+    }
+}

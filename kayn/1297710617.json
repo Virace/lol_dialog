@@ -1,0 +1,49 @@
+{
+    "character": "kayn",
+    "id": "1297710617",
+    "result": "沉默，接着是痛苦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012699282,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.316]  沉默，接着是痛苦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "沉默，接着是痛苦。",
+                    "SliceSentence": "沉默 接着 是 痛苦",
+                    "StartMs": 0,
+                    "EndMs": 3316,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "沉默",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "接着",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "痛苦",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2730
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.316625
+        },
+        "RequestId": "351c556f-adf0-4d2a-aed7-9efede59731d"
+    }
+}

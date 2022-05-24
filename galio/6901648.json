@@ -1,0 +1,39 @@
+{
+    "character": "galio",
+    "id": "6901648",
+    "result": "太轻松。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012569566,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.361]  太轻松。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "太轻松。",
+                    "SliceSentence": "太 轻松",
+                    "StartMs": 0,
+                    "EndMs": 1361,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "太",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "轻松",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.36125
+        },
+        "RequestId": "d18edd4d-342f-41be-bf1b-6086911ca7e7"
+    }
+}

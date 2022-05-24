@@ -1,0 +1,44 @@
+{
+    "character": "gwen",
+    "id": "903519401",
+    "result": "太笨了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012575464,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.069]  太笨了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "太笨了。",
+                    "SliceSentence": "太 笨 了",
+                    "StartMs": 0,
+                    "EndMs": 3069,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "太",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "笨",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.069313
+        },
+        "RequestId": "4be05e1d-3f7f-4558-bfdd-0d3fe5a79256"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "character": "heimerdinger",
+    "id": "1844417306",
+    "result": "我把文字方案做成图像方案了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012576402,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.832]  我把文字方案做成图像方案了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我把文字方案做成图像方案了。",
+                    "SliceSentence": "我 把 文字 方案 做成 图像 方案 了",
+                    "StartMs": 0,
+                    "EndMs": 2832,
+                    "WordsNum": 8,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "文字",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "方案",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "做成",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "图像",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "方案",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2370
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2370,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.832563
+        },
+        "RequestId": "986cdf43-4e78-4058-855d-90d7b40dc420"
+    }
+}

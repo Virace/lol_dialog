@@ -1,0 +1,54 @@
+{
+    "character": "neeko",
+    "id": "1062168010",
+    "result": "你可要给你上一课。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012729466,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.538]  你可要给你上一课。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你可要给你上一课。",
+                    "SliceSentence": "你可 要 给你 上一 课",
+                    "StartMs": 0,
+                    "EndMs": 1538,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你可",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "给你",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "上一",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "课",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 8.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.538125
+        },
+        "RequestId": "35af18d3-1145-4f62-8ee2-6a1b088c239e"
+    }
+}

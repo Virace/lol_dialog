@@ -1,0 +1,39 @@
+{
+    "character": "graves",
+    "id": "1657830278",
+    "result": "啊，呃。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012573500,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.380]  啊，呃。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，呃。",
+                    "SliceSentence": "啊 呃",
+                    "StartMs": 0,
+                    "EndMs": 5380,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 3420
+                        },
+                        {
+                            "Word": "呃",
+                            "OffsetStartMs": 3660,
+                            "OffsetEndMs": 4350
+                        }
+                    ],
+                    "SpeechSpeed": 0.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.523375
+        },
+        "RequestId": "b644b599-387c-49c2-94da-7f742e396566"
+    }
+}

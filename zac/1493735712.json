@@ -1,0 +1,44 @@
+{
+    "character": "zac",
+    "id": "1493735712",
+    "result": "要扁他们。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012848504,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.740]  要扁他们。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "要扁他们。",
+                    "SliceSentence": "要 扁 他们",
+                    "StartMs": 0,
+                    "EndMs": 1740,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "扁",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.740125
+        },
+        "RequestId": "94744d37-37b8-4ecd-a892-0c037d00abca"
+    }
+}

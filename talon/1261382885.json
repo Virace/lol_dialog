@@ -1,0 +1,39 @@
+{
+    "character": "talon",
+    "id": "1261382885",
+    "result": "是啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012795447,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.179]  是啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "是啊。",
+                    "SliceSentence": "是 啊",
+                    "StartMs": 0,
+                    "EndMs": 1179,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.179813
+        },
+        "RequestId": "827777c0-a2e9-4b74-8b32-a6077b41c945"
+    }
+}

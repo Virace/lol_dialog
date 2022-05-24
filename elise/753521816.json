@@ -1,0 +1,54 @@
+{
+    "character": "elise",
+    "id": "753521816",
+    "result": "我能感受到他们的恐惧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012561102,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.942]  我能感受到他们的恐惧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我能感受到他们的恐惧。",
+                    "SliceSentence": "我能 感受到 他们 的 恐惧",
+                    "StartMs": 0,
+                    "EndMs": 4942,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我能",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "感受到",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2640
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2640,
+                            "OffsetEndMs": 2730
+                        },
+                        {
+                            "Word": "恐惧",
+                            "OffsetStartMs": 2730,
+                            "OffsetEndMs": 3990
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.942188
+        },
+        "RequestId": "6c8dbfae-d131-4573-9564-365e00507706"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "warwick",
+    "id": "653471680",
+    "result": "这点疼痛算不了什么。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012832775,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.713]  这点疼痛算不了什么。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这点疼痛算不了什么。",
+                    "SliceSentence": "这点 疼痛 算不了 什么",
+                    "StartMs": 0,
+                    "EndMs": 3713,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这点",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "疼痛",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "算不了",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 3030
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.713
+        },
+        "RequestId": "45ddba57-ca51-48e0-af1b-39fffa468483"
+    }
+}

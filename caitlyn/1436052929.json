@@ -1,0 +1,44 @@
+{
+    "character": "caitlyn",
+    "id": "1436052929",
+    "result": "案子还没结束。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551105,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.754]  案子还没结束。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "案子还没结束。",
+                    "SliceSentence": "案子 还没 结束",
+                    "StartMs": 0,
+                    "EndMs": 3754,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "案子",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "还没",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "结束",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 3000
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.754688
+        },
+        "RequestId": "7d388605-b018-4593-8f6d-1ad991fdaf3a"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "morgana",
+    "id": "166484886",
+    "result": "感受我的痛苦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012726427,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.461]  感受我的痛苦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "感受我的痛苦。",
+                    "SliceSentence": "感受 我 的 痛苦",
+                    "StartMs": 0,
+                    "EndMs": 2461,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "感受",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "痛苦",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.461563
+        },
+        "RequestId": "446e41b7-8fef-4751-adfe-741e26e8b5f6"
+    }
+}

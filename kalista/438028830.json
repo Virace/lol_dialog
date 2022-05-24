@@ -1,0 +1,49 @@
+{
+    "character": "kalista",
+    "id": "438028830",
+    "result": "我们开始行动啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012694257,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.617]  我们开始行动啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们开始行动啦。",
+                    "SliceSentence": "我们 开始 行动 啦",
+                    "StartMs": 0,
+                    "EndMs": 3617,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "开始",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "行动",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.617
+        },
+        "RequestId": "61474715-837c-467c-8ec1-7f0ba7d8b870"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "kindred",
+    "id": "871801203",
+    "result": "你散发着明亮的光。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012705806,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.980]  你散发着明亮的光。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你散发着明亮的光。",
+                    "SliceSentence": "你 散发 着 明亮 的 光",
+                    "StartMs": 0,
+                    "EndMs": 1980,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "散发",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "着",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "明亮",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "光",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 7.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.980875
+        },
+        "RequestId": "1201fcbd-9d73-4bd7-8b05-ee5178e367fb"
+    }
+}

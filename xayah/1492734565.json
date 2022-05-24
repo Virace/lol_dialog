@@ -1,0 +1,54 @@
+{
+    "character": "xayah",
+    "id": "1492734565",
+    "result": "我想再去一次。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012834726,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.247]  我想再去一次。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我想再去一次。",
+                    "SliceSentence": "我 想 再 去 一次",
+                    "StartMs": 0,
+                    "EndMs": 1247,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "想",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "再",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "一次",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 8.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.247438
+        },
+        "RequestId": "23add85f-6380-4419-a827-972750574eb6"
+    }
+}

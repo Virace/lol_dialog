@@ -1,0 +1,39 @@
+{
+    "character": "seraphine",
+    "id": "566229928",
+    "result": "注意听。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012771664,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.100]  注意听。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "注意听。",
+                    "SliceSentence": "注意 听",
+                    "StartMs": 0,
+                    "EndMs": 2100,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "注意",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "听",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.47225
+        },
+        "RequestId": "1864033b-5a4f-4de7-be66-1d534092d3e5"
+    }
+}

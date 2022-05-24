@@ -1,0 +1,39 @@
+{
+    "character": "taliyah",
+    "id": "154608867",
+    "result": "给我起来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012791919,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.051]  给我起来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "给我起来。",
+                    "SliceSentence": "给我 起来",
+                    "StartMs": 0,
+                    "EndMs": 1051,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "给我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "起来",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 720
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.051563
+        },
+        "RequestId": "c6a52d3f-407d-4fa6-9fb4-7fe9d8d490d1"
+    }
+}

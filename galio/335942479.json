@@ -1,0 +1,54 @@
+{
+    "character": "galio",
+    "id": "335942479",
+    "result": "你好啊，美人干嘛呢？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568804,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.898]  你好啊，美人干嘛呢？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你好啊，美人干嘛呢？",
+                    "SliceSentence": "你好 啊 美人 干嘛 呢",
+                    "StartMs": 0,
+                    "EndMs": 2898,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "美人",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "干嘛",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 2670
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.898375
+        },
+        "RequestId": "4e9de9c6-7520-406e-a46f-eb9476ad82e5"
+    }
+}

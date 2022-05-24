@@ -1,0 +1,49 @@
+{
+    "character": "tristana",
+    "id": "347335296",
+    "result": "像飞虫一样落下。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012799475,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.902]  像飞虫一样落下。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "像飞虫一样落下。",
+                    "SliceSentence": "像 飞虫 一样 落下",
+                    "StartMs": 0,
+                    "EndMs": 1902,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "像",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "飞虫",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "一样",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "落下",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.902875
+        },
+        "RequestId": "52cbcf11-1804-422e-b183-307dec46eeb4"
+    }
+}

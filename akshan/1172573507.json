@@ -1,0 +1,44 @@
+{
+    "character": "akshan",
+    "id": "1172573507",
+    "result": "我开枪了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012540515,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.749]  我开枪了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我开枪了。",
+                    "SliceSentence": "我 开枪 了",
+                    "StartMs": 0,
+                    "EndMs": 1749,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "开枪",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 720
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.749313
+        },
+        "RequestId": "9bf1d0eb-554a-471e-9feb-a611c0ba90db"
+    }
+}

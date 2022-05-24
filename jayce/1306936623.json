@@ -1,0 +1,39 @@
+{
+    "character": "jayce",
+    "id": "1306936623",
+    "result": "He heh。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012684019,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.275]  He heh。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "He heh。",
+                    "SliceSentence": "He heh",
+                    "StartMs": 0,
+                    "EndMs": 2275,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "He",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "heh",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.275563
+        },
+        "RequestId": "d6ec39ab-bc54-43fb-bccb-832780881bfe"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "akali",
+    "id": "1960460161",
+    "result": "你看起来很安详。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012539320,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.820]  你看起来很安详。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你看起来很安详。",
+                    "SliceSentence": "你看 起来 很 安详",
+                    "StartMs": 0,
+                    "EndMs": 1820,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你看",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "起来",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "很",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "安详",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.820375
+        },
+        "RequestId": "376a18a0-04b2-4129-906f-59bd3eb34b0d"
+    }
+}

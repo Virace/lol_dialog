@@ -1,0 +1,39 @@
+{
+    "character": "camille",
+    "id": "790181818",
+    "result": "呆在这里。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554124,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.127]  呆在这里。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "呆在这里。",
+                    "SliceSentence": "呆在 这里",
+                    "StartMs": 0,
+                    "EndMs": 1127,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "呆在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "这里",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.127375
+        },
+        "RequestId": "82659e10-f9cf-4900-9e51-e81f6caab7c7"
+    }
+}

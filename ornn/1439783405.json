@@ -1,0 +1,60 @@
+{
+    "character": "ornn",
+    "id": "1439783405",
+    "result": "哼哼哼。嗯，哼哼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012738322,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.320]  哼哼哼。\n[0:4.800,0:8.123]  嗯，哼哼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼哼。",
+                    "SliceSentence": "哼哼 哼",
+                    "StartMs": 0,
+                    "EndMs": 3320,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "哼",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "嗯，哼哼。",
+                    "SliceSentence": "嗯 哼哼",
+                    "StartMs": 4800,
+                    "EndMs": 8123,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 3150
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 8.123875
+        },
+        "RequestId": "3122f5a6-c382-4262-b230-854a363add24"
+    }
+}

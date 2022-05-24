@@ -1,0 +1,39 @@
+{
+    "character": "lucian",
+    "id": "570994031",
+    "result": "我会等他。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718327,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.506]  我会等他。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会等他。",
+                    "SliceSentence": "我会 等他",
+                    "StartMs": 0,
+                    "EndMs": 3506,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "等他",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2970
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.50625
+        },
+        "RequestId": "a64d3fbc-ec74-480a-b5a3-70fc171e3c6e"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "karthus",
+    "id": "574629107",
+    "result": "逃不掉的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012696164,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.299]  逃不掉的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "逃不掉的。",
+                    "SliceSentence": "逃 不掉 的",
+                    "StartMs": 0,
+                    "EndMs": 3299,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "逃",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "不掉",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.29975
+        },
+        "RequestId": "bf189506-b6d8-4645-86f2-1e53fd6bb70b"
+    }
+}

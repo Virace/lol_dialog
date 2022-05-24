@@ -1,0 +1,49 @@
+{
+    "character": "orianna",
+    "id": "1989530272",
+    "result": "魔偶生气啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012737478,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.897]  魔偶生气啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "魔偶生气啦。",
+                    "SliceSentence": "魔 偶 生气 啦",
+                    "StartMs": 0,
+                    "EndMs": 1897,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "魔",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "偶",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "生气",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.897
+        },
+        "RequestId": "b693275b-2815-401a-acd1-5305b13b3ce1"
+    }
+}

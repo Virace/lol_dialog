@@ -1,0 +1,44 @@
+{
+    "character": "vex",
+    "id": "1474951349",
+    "result": "别跟我说话。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012810500,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.344]  别跟我说话。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别跟我说话。",
+                    "SliceSentence": "别 跟我 说话",
+                    "StartMs": 0,
+                    "EndMs": 2344,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "跟我",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "说话",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.344563
+        },
+        "RequestId": "4cb59fac-ea6f-4a5f-be7b-24f742c62d19"
+    }
+}

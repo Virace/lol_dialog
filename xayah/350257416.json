@@ -1,0 +1,39 @@
+{
+    "character": "xayah",
+    "id": "350257416",
+    "result": "他们走了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012836433,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.858]  他们走了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们走了。",
+                    "SliceSentence": "他们 走了",
+                    "StartMs": 0,
+                    "EndMs": 858,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "走了",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 750
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.858625
+        },
+        "RequestId": "98f479dd-f843-43a8-896b-a343bb857a66"
+    }
+}

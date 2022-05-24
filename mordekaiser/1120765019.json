@@ -1,0 +1,39 @@
+{
+    "character": "mordekaiser",
+    "id": "1120765019",
+    "result": "无处可逃。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012724165,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.442]  无处可逃。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "无处可逃。",
+                    "SliceSentence": "无处 可逃",
+                    "StartMs": 0,
+                    "EndMs": 2442,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "无处",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "可逃",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.442438
+        },
+        "RequestId": "739b9abc-a0a8-439b-bd93-cfc5729a22b7"
+    }
+}

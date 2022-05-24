@@ -1,0 +1,49 @@
+{
+    "character": "thresh",
+    "id": "562868882",
+    "result": "把他们关起来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012798778,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.488]  把他们关起来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "把他们关起来。",
+                    "SliceSentence": "把 他们 关 起来",
+                    "StartMs": 0,
+                    "EndMs": 2488,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "关",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "起来",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.488625
+        },
+        "RequestId": "1e739a2b-6466-4284-bd5c-68148709a0e5"
+    }
+}

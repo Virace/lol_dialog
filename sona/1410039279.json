@@ -1,0 +1,44 @@
+{
+    "character": "sona",
+    "id": "1410039279",
+    "result": "正义的交响乐。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012781150,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.480]  正义的交响乐。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "正义的交响乐。",
+                    "SliceSentence": "正义 的 交响乐",
+                    "StartMs": 0,
+                    "EndMs": 4480,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "正义",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "交响乐",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.76375
+        },
+        "RequestId": "e2e8e23b-2820-4551-b760-d9ed01b9558a"
+    }
+}

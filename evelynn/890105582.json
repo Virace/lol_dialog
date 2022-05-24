@@ -1,0 +1,49 @@
+{
+    "character": "evelynn",
+    "id": "890105582",
+    "result": "猜猜谁回来了？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012565091,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.200]  猜猜谁回来了？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "猜猜谁回来了？",
+                    "SliceSentence": "猜猜 谁 回来 了",
+                    "StartMs": 0,
+                    "EndMs": 3200,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "猜猜",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "谁",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "回来",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.320438
+        },
+        "RequestId": "45a53c36-191d-49c3-ac8f-d5b52594db65"
+    }
+}

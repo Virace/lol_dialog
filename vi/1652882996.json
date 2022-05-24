@@ -1,0 +1,39 @@
+{
+    "character": "vi",
+    "id": "1652882996",
+    "result": "没打中。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012812134,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.151]  没打中。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没打中。",
+                    "SliceSentence": "没 打中",
+                    "StartMs": 0,
+                    "EndMs": 1151,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "没",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "打中",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.1515
+        },
+        "RequestId": "a49cb7eb-731f-4658-8630-2656b76a5f83"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "taliyah",
+    "id": "955190683",
+    "result": "控制控制控制。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012795241,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.030]  控制控制控制。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "控制控制控制。",
+                    "SliceSentence": "控制 控制 控制",
+                    "StartMs": 0,
+                    "EndMs": 2030,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "控制",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "控制",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "控制",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.030563
+        },
+        "RequestId": "c1dc43fa-bb3b-4052-adf5-6b585807ea0f"
+    }
+}

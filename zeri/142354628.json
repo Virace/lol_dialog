@@ -1,0 +1,64 @@
+{
+    "character": "zeri",
+    "id": "142354628",
+    "result": "我属于这里，我们都属于这里。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012851173,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.626]  我属于这里，我们都属于这里。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我属于这里，我们都属于这里。",
+                    "SliceSentence": "我 属于 这里 我们 都 属于 这里",
+                    "StartMs": 0,
+                    "EndMs": 3626,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "属于",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "这里",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "都",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "属于",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "这里",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 3120
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.626688
+        },
+        "RequestId": "18bf884f-97b9-45ec-aebe-c3728640350c"
+    }
+}

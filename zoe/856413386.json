@@ -1,0 +1,54 @@
+{
+    "character": "zoe",
+    "id": "856413386",
+    "result": "我就是过来打个招呼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012856919,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.412]  我就是过来打个招呼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我就是过来打个招呼。",
+                    "SliceSentence": "我 就是 过来 打个 招呼",
+                    "StartMs": 0,
+                    "EndMs": 2412,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "过来",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "打个",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "招呼",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.412063
+        },
+        "RequestId": "0557ad54-6f4b-4e98-a756-420e05ad75dd"
+    }
+}

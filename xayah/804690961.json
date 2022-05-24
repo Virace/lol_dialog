@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "804690961",
+    "result": "敌人不见了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012837950,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.179]  敌人不见了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "敌人不见了。",
+                    "SliceSentence": "敌人 不见 了",
+                    "StartMs": 0,
+                    "EndMs": 1179,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "敌人",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "不见",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 6.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.179063
+        },
+        "RequestId": "431bd642-8ff6-4ba3-ba6a-795e585a27c7"
+    }
+}

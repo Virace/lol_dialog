@@ -1,0 +1,44 @@
+{
+    "character": "gwen",
+    "id": "2025345307",
+    "result": "没时间休息。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012574771,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.245]  没时间休息。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没时间休息。",
+                    "SliceSentence": "没 时间 休息",
+                    "StartMs": 0,
+                    "EndMs": 2245,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "没",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "休息",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.24575
+        },
+        "RequestId": "54cdbe47-dc0b-4481-a028-49cca1831dec"
+    }
+}

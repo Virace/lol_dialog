@@ -1,0 +1,49 @@
+{
+    "character": "drmundo",
+    "id": "1931324649",
+    "result": "嗯，啊颠啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012558047,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.521]  嗯，啊颠啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯，啊颠啊。",
+                    "SliceSentence": "嗯 啊 颠 啊",
+                    "StartMs": 0,
+                    "EndMs": 3521,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "颠",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 2880
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.52175
+        },
+        "RequestId": "e678cc10-898a-4502-aedf-490fd466798d"
+    }
+}

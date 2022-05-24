@@ -1,0 +1,54 @@
+{
+    "character": "braum",
+    "id": "1014047825",
+    "result": "仔细思考，我的朋友。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012549974,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.642]  仔细思考，我的朋友。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "仔细思考，我的朋友。",
+                    "SliceSentence": "仔细 思考 我 的 朋友",
+                    "StartMs": 0,
+                    "EndMs": 2642,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "仔细",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "思考",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "朋友",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.642688
+        },
+        "RequestId": "7a6c78fe-7ffb-46d0-b70c-a81d812e0db3"
+    }
+}

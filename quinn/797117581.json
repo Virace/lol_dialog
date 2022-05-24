@@ -1,0 +1,39 @@
+{
+    "character": "quinn",
+    "id": "797117581",
+    "result": "我们可以做到。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749157,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.741]  我们可以做到。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们可以做到。",
+                    "SliceSentence": "我们 可以做到",
+                    "StartMs": 0,
+                    "EndMs": 1741,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "可以做到",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.7415
+        },
+        "RequestId": "13d70dbd-900b-4d69-8737-d7e8fb5dc5f8"
+    }
+}

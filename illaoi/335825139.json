@@ -1,0 +1,85 @@
+{
+    "character": "illaoi",
+    "id": "335825139",
+    "result": "我喜欢这个。我该为所有人都买一份。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012577749,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.000]  我喜欢这个。\n[0:2.000,0:4.283]  我该为所有人都买一份。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我喜欢这个。",
+                    "SliceSentence": "我 喜欢 这个",
+                    "StartMs": 0,
+                    "EndMs": 2000,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "我该为所有人都买一份。",
+                    "SliceSentence": "我该 为 所有人 都 买 一份",
+                    "StartMs": 2000,
+                    "EndMs": 4283,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我该",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "为",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "所有人",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "都",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "买",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "一份",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.283
+        },
+        "RequestId": "0b0ce4ac-4c75-438c-ac9c-a494618349b8"
+    }
+}

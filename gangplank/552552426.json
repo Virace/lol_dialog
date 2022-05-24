@@ -1,0 +1,39 @@
+{
+    "character": "gangplank",
+    "id": "552552426",
+    "result": "烧吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012571171,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.693]  烧吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "烧吧。",
+                    "SliceSentence": "烧 吧",
+                    "StartMs": 0,
+                    "EndMs": 1693,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "烧",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.693688
+        },
+        "RequestId": "d96cb47a-fad0-4539-b08f-e2bfe0a09886"
+    }
+}

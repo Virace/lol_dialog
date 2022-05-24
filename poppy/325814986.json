@@ -1,0 +1,39 @@
+{
+    "character": "poppy",
+    "id": "325814986",
+    "result": "不许动。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012742875,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.888]  不许动。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不许动。",
+                    "SliceSentence": "不许 动",
+                    "StartMs": 0,
+                    "EndMs": 888,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "不许",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "动",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 540
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.888063
+        },
+        "RequestId": "ed47554a-a46c-4e2d-8f85-354efb0146ee"
+    }
+}

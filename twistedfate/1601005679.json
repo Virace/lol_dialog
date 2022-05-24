@@ -1,0 +1,54 @@
+{
+    "character": "twistedfate",
+    "id": "1601005679",
+    "result": "别碰我的帽子。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012802162,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.219]  别碰我的帽子。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别碰我的帽子。",
+                    "SliceSentence": "别 碰 我 的 帽子",
+                    "StartMs": 0,
+                    "EndMs": 3219,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "碰",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "帽子",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.219313
+        },
+        "RequestId": "62934a58-3b26-4bae-a9ea-dc7621447ac6"
+    }
+}

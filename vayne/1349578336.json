@@ -1,0 +1,49 @@
+{
+    "character": "vayne",
+    "id": "1349578336",
+    "result": "黑夜也会怕我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012808432,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.920]  黑夜也会怕我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "黑夜也会怕我。",
+                    "SliceSentence": "黑夜 也会 怕 我",
+                    "StartMs": 0,
+                    "EndMs": 3920,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "黑夜",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "也会",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "怕",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 3120
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.229188
+        },
+        "RequestId": "675f71dd-3ff4-4167-9389-628f8b79a7ac"
+    }
+}

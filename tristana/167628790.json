@@ -1,0 +1,44 @@
+{
+    "character": "tristana",
+    "id": "167628790",
+    "result": "我有这个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012799119,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.019]  我有这个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我有这个。",
+                    "SliceSentence": "我 有 这个",
+                    "StartMs": 0,
+                    "EndMs": 1019,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 840
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.019688
+        },
+        "RequestId": "35691152-6177-4ed2-81e0-56c11281b300"
+    }
+}

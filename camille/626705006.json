@@ -1,0 +1,59 @@
+{
+    "character": "camille",
+    "id": "626705006",
+    "result": "精准是唯一重要的标准。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553688,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.975]  精准是唯一重要的标准。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "精准是唯一重要的标准。",
+                    "SliceSentence": "精准 是 唯一 重要 的 标准",
+                    "StartMs": 0,
+                    "EndMs": 2975,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "精准",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "唯一",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "重要",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "标准",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.975563
+        },
+        "RequestId": "d5e6b7f1-f169-43b7-92aa-c7ccc23867e7"
+    }
+}

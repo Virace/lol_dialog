@@ -1,0 +1,49 @@
+{
+    "character": "gnar",
+    "id": "900443609",
+    "result": "下就发啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012573080,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.137]  下就发啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "下就发啦。",
+                    "SliceSentence": "下 就 发 啦",
+                    "StartMs": 0,
+                    "EndMs": 1137,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "下",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "发",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.137438
+        },
+        "RequestId": "49e15dfc-6436-4c2b-8ae5-01c46a6df85e"
+    }
+}

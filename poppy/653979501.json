@@ -1,0 +1,39 @@
+{
+    "character": "poppy",
+    "id": "653979501",
+    "result": "不是今天。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012743649,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.759]  不是今天。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不是今天。",
+                    "SliceSentence": "不是 今天",
+                    "StartMs": 0,
+                    "EndMs": 1759,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "今天",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.759625
+        },
+        "RequestId": "4f373d04-434c-4a3a-807c-7933724a4e97"
+    }
+}

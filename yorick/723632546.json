@@ -1,0 +1,54 @@
+{
+    "character": "yorick",
+    "id": "723632546",
+    "result": "生命之泪，保佑我吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012845696,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.408]  生命之泪，保佑我吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "生命之泪，保佑我吧。",
+                    "SliceSentence": "生命 之泪 保佑 我 吧",
+                    "StartMs": 0,
+                    "EndMs": 4408,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "生命",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "之泪",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "保佑",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 3120
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 3120,
+                            "OffsetEndMs": 3540
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 3540,
+                            "OffsetEndMs": 4320
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.408
+        },
+        "RequestId": "0e8d8149-f39d-4b7c-8480-bc1eca5ced01"
+    }
+}

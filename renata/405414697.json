@@ -1,0 +1,49 @@
+{
+    "character": "renata",
+    "id": "405414697",
+    "result": "我的最新产品。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012760596,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.626]  我的最新产品。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的最新产品。",
+                    "SliceSentence": "我 的 最新 产品",
+                    "StartMs": 0,
+                    "EndMs": 2626,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "最新",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "产品",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.626563
+        },
+        "RequestId": "ef07461a-0891-4e0d-875b-3be93d56696a"
+    }
+}

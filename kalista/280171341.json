@@ -1,0 +1,49 @@
+{
+    "character": "kalista",
+    "id": "280171341",
+    "result": "看看你的愚蠢吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012693883,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.593]  看看你的愚蠢吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "看看你的愚蠢吧。",
+                    "SliceSentence": "看看 你的 愚蠢 吧",
+                    "StartMs": 0,
+                    "EndMs": 3593,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "看看",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "愚蠢",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.593
+        },
+        "RequestId": "4c570896-49c3-43c3-9893-d82ae9ae685c"
+    }
+}

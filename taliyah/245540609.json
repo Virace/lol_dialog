@@ -1,0 +1,49 @@
+{
+    "character": "taliyah",
+    "id": "245540609",
+    "result": "选择并不是注定的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012792090,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.311]  选择并不是注定的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "选择并不是注定的。",
+                    "SliceSentence": "选择 并不是 注定 的",
+                    "StartMs": 0,
+                    "EndMs": 2311,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "选择",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "并不是",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "注定",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.311438
+        },
+        "RequestId": "1bb1ad64-9f0e-487b-b570-8dfdc88a67f2"
+    }
+}

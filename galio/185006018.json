@@ -1,0 +1,54 @@
+{
+    "character": "galio",
+    "id": "185006018",
+    "result": "好多的东西要砸碎。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568422,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.029]  好多的东西要砸碎。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好多的东西要砸碎。",
+                    "SliceSentence": "好多 的 东西 要 砸碎",
+                    "StartMs": 0,
+                    "EndMs": 2029,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "好多",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "砸碎",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.029125
+        },
+        "RequestId": "cadacc45-7356-4371-9910-ae08ff766310"
+    }
+}

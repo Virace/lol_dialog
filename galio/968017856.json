@@ -1,0 +1,44 @@
+{
+    "character": "galio",
+    "id": "968017856",
+    "result": "嗨，大家好。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012570210,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.031]  嗨，大家好。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗨，大家好。",
+                    "SliceSentence": "嗨 大家 好",
+                    "StartMs": 0,
+                    "EndMs": 2031,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "嗨",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "大家",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.031813
+        },
+        "RequestId": "70e8dac4-bc30-42d7-b8ea-7b448f688c63"
+    }
+}

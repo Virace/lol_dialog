@@ -1,0 +1,39 @@
+{
+    "character": "graves",
+    "id": "487508898",
+    "result": "放松伙计。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012573722,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.546]  放松伙计。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "放松伙计。",
+                    "SliceSentence": "放松 伙计",
+                    "StartMs": 0,
+                    "EndMs": 1546,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "放松",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "伙计",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.546625
+        },
+        "RequestId": "d61d1189-bdb0-44bd-adba-526fb352e56f"
+    }
+}

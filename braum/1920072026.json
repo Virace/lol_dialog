@@ -1,0 +1,39 @@
+{
+    "character": "braum",
+    "id": "1920072026",
+    "result": "振作起来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550256,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.142]  振作起来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "振作起来。",
+                    "SliceSentence": "振作 起来",
+                    "StartMs": 0,
+                    "EndMs": 1142,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "振作",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "起来",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.14275
+        },
+        "RequestId": "4ac97ad2-a7fa-44c8-9cfb-2bc7ce9a0486"
+    }
+}

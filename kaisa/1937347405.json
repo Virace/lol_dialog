@@ -1,0 +1,49 @@
+{
+    "character": "kaisa",
+    "id": "1937347405",
+    "result": "啊，这样就好多了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689558,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.707]  啊，这样就好多了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，这样就好多了。",
+                    "SliceSentence": "啊 这样 就好 多了",
+                    "StartMs": 0,
+                    "EndMs": 2707,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "这样",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "就好",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "多了",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.70725
+        },
+        "RequestId": "3e573d47-f6ad-49c6-86d6-74ab9958b2c9"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "yuumi",
+    "id": "236668848",
+    "result": "我们来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012847480,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.910]  我们来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们来了。",
+                    "SliceSentence": "我们 来了",
+                    "StartMs": 0,
+                    "EndMs": 910,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "来了",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 540
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.910375
+        },
+        "RequestId": "a4b75ae6-d922-4164-b667-4d317826e290"
+    }
+}

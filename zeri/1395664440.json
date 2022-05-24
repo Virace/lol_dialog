@@ -1,0 +1,39 @@
+{
+    "character": "zeri",
+    "id": "1395664440",
+    "result": "快点快点。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012851027,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.749]  快点快点。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "快点快点。",
+                    "SliceSentence": "快点 快点",
+                    "StartMs": 0,
+                    "EndMs": 1749,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "快点",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "快点",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.749313
+        },
+        "RequestId": "5fa2e18f-bcd9-41a0-8c64-601877dcf5b3"
+    }
+}

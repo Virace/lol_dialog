@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "1214894569",
+    "result": "我真的新潮的要死。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749814,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.429]  我真的新潮的要死。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我真的新潮的要死。",
+                    "SliceSentence": "我 真的 新潮 的 要死",
+                    "StartMs": 0,
+                    "EndMs": 2429,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "真的",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "新潮",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "要死",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.429188
+        },
+        "RequestId": "873e934b-d1d7-44b9-89ba-9762d399b0ae"
+    }
+}

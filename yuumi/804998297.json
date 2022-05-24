@@ -1,0 +1,54 @@
+{
+    "character": "yuumi",
+    "id": "804998297",
+    "result": "这是我最喜欢的一张。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012848033,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.155]  这是我最喜欢的一张。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是我最喜欢的一张。",
+                    "SliceSentence": "这 是我 最喜欢 的 一张",
+                    "StartMs": 0,
+                    "EndMs": 2155,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "最喜欢",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "一张",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.155188
+        },
+        "RequestId": "3c911179-b0f3-4152-98a5-87bad1683f03"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "ivern",
+    "id": "1080829355",
+    "result": "留意新朋友。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012583271,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.281]  留意新朋友。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "留意新朋友。",
+                    "SliceSentence": "留意 新朋 友",
+                    "StartMs": 0,
+                    "EndMs": 2281,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "留意",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "新朋",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "友",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.281688
+        },
+        "RequestId": "1de97029-3faa-4aef-818e-a6b53e15d7f7"
+    }
+}

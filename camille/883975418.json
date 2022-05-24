@@ -1,0 +1,80 @@
+{
+    "character": "camille",
+    "id": "883975418",
+    "result": "你和我来了结这件事情吧。立刻。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554360,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.820]  你和我来了结这件事情吧。\n[0:2.820,0:3.709]  立刻。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你和我来了结这件事情吧。",
+                    "SliceSentence": "你 和 我来 了结 这件 事情 吧",
+                    "StartMs": 0,
+                    "EndMs": 2820,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "和",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "我来",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "了结",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "这件",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "事情",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "立刻。",
+                    "SliceSentence": "立刻",
+                    "StartMs": 2820,
+                    "EndMs": 3709,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "立刻",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.709375
+        },
+        "RequestId": "1fd8db8a-8a08-4de6-a28a-2364839056d0"
+    }
+}

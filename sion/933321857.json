@@ -1,0 +1,49 @@
+{
+    "character": "sion",
+    "id": "933321857",
+    "result": "饥饿感在增长。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012778200,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.433]  饥饿感在增长。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "饥饿感在增长。",
+                    "SliceSentence": "饥饿 感 在 增长",
+                    "StartMs": 0,
+                    "EndMs": 3433,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "饥饿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "感",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "增长",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 3120
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.433563
+        },
+        "RequestId": "10c260c8-0175-482f-b3e7-ffa80e4d8953"
+    }
+}

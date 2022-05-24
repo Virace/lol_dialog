@@ -1,0 +1,49 @@
+{
+    "character": "ekko",
+    "id": "563304188",
+    "result": "有始必有终。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560116,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.709]  有始必有终。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "有始必有终。",
+                    "SliceSentence": "有 始 必有 终",
+                    "StartMs": 0,
+                    "EndMs": 1709,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "始",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "必有",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "终",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.709375
+        },
+        "RequestId": "8e2ea8c5-57f8-4bc0-9083-1538d35a4f0a"
+    }
+}

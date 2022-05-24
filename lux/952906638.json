@@ -1,0 +1,49 @@
+{
+    "character": "lux",
+    "id": "952906638",
+    "result": "你好啊，华洛。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012719847,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.372]  你好啊，华洛。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你好啊，华洛。",
+                    "SliceSentence": "你 好啊 华 洛",
+                    "StartMs": 0,
+                    "EndMs": 1372,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "好啊",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "华",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "洛",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.372063
+        },
+        "RequestId": "99ee38e7-11fe-4e88-b133-e3ba62fd3e17"
+    }
+}

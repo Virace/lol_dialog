@@ -1,0 +1,49 @@
+{
+    "character": "lucian",
+    "id": "941130633",
+    "result": "打靶训练开始了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718647,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.577]  打靶训练开始了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "打靶训练开始了。",
+                    "SliceSentence": "打靶 训练 开始 了",
+                    "StartMs": 0,
+                    "EndMs": 2577,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "打靶",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "训练",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "开始",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.577438
+        },
+        "RequestId": "e1d2570e-0bfe-40b5-b060-7a4485993656"
+    }
+}

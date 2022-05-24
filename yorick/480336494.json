@@ -1,0 +1,59 @@
+{
+    "character": "yorick",
+    "id": "480336494",
+    "result": "我的目的已经装满了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012845012,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.386]  我的目的已经装满了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的目的已经装满了。",
+                    "SliceSentence": "我 的 目的 已经 装满 了",
+                    "StartMs": 0,
+                    "EndMs": 3386,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "目的",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "装满",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2490
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2490,
+                            "OffsetEndMs": 2970
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.386938
+        },
+        "RequestId": "9a0af4f2-9b8c-4dc3-981f-b423540ffe88"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "volibear",
+    "id": "1020656280",
+    "result": "这是，这是什么小崽子？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012815462,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.968]  这是，这是什么小崽子？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是，这是什么小崽子？",
+                    "SliceSentence": "这是 这是 什么 小崽子",
+                    "StartMs": 0,
+                    "EndMs": 4968,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "小崽子",
+                            "OffsetStartMs": 2640,
+                            "OffsetEndMs": 3810
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.968938
+        },
+        "RequestId": "8fc29683-bc31-40be-b944-76fb5803904f"
+    }
+}

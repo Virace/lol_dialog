@@ -1,0 +1,54 @@
+{
+    "character": "pyke",
+    "id": "1224000151",
+    "result": "我仍然在海中游荡。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744795,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.956]  我仍然在海中游荡。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我仍然在海中游荡。",
+                    "SliceSentence": "我 仍然 在 海中 游荡",
+                    "StartMs": 0,
+                    "EndMs": 2956,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "仍然",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "海中",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "游荡",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.956125
+        },
+        "RequestId": "fffab32b-611c-4fe9-a84c-119331d691d2"
+    }
+}

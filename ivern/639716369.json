@@ -1,0 +1,49 @@
+{
+    "character": "ivern",
+    "id": "639716369",
+    "result": "看起来不错，阿红。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012682595,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.708]  看起来不错，阿红。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "看起来不错，阿红。",
+                    "SliceSentence": "看起来 不错 阿 红",
+                    "StartMs": 0,
+                    "EndMs": 2708,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "看起来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "不错",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "阿",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "红",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2610
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.708938
+        },
+        "RequestId": "3c5e2be2-34db-42db-b074-2ed6b6d1da18"
+    }
+}

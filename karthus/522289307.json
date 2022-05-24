@@ -1,0 +1,49 @@
+{
+    "character": "karthus",
+    "id": "522289307",
+    "result": "坟墓里有的是时间。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012696109,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.440,0:5.758]  坟墓里有的是时间。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "坟墓里有的是时间。",
+                    "SliceSentence": "坟墓 里 有的是 时间",
+                    "StartMs": 440,
+                    "EndMs": 5758,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "坟墓",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "里",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "有的是",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 3060
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 3060,
+                            "OffsetEndMs": 4230
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.758
+        },
+        "RequestId": "60988ba6-84e3-4c7c-a836-d994642d54ae"
+    }
+}

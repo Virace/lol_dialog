@@ -1,0 +1,44 @@
+{
+    "character": "drmundo",
+    "id": "1212913100",
+    "result": "女卧床休息。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012557252,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.064]  女卧床休息。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "女卧床休息。",
+                    "SliceSentence": "女 卧床 休息",
+                    "StartMs": 0,
+                    "EndMs": 2064,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "女",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "卧床",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "休息",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.064125
+        },
+        "RequestId": "df24ac17-dc5a-4cab-92f6-a90d49730f82"
+    }
+}

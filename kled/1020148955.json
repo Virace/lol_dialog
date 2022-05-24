@@ -1,0 +1,49 @@
+{
+    "character": "kled",
+    "id": "1020148955",
+    "result": "你准备好了吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012706034,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.283]  你准备好了吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你准备好了吗？",
+                    "SliceSentence": "你 准备 好了 吗",
+                    "StartMs": 0,
+                    "EndMs": 1283,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "准备",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "好了",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 7.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.283813
+        },
+        "RequestId": "9995eaf2-23b3-45a0-95ea-ce1e3c8d78d2"
+    }
+}

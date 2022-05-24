@@ -1,0 +1,44 @@
+{
+    "character": "renekton",
+    "id": "452773066",
+    "result": "没有退路了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012761911,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.840]  没有退路了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没有退路了。",
+                    "SliceSentence": "没有 退路 了",
+                    "StartMs": 0,
+                    "EndMs": 2840,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "退路",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.041813
+        },
+        "RequestId": "91c3ec23-60cb-49cf-a41f-5cf31daba94c"
+    }
+}

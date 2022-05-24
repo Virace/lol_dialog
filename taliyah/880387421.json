@@ -1,0 +1,39 @@
+{
+    "character": "taliyah",
+    "id": "880387421",
+    "result": "炸了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012795030,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.592]  炸了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "炸了。",
+                    "SliceSentence": "炸 了",
+                    "StartMs": 0,
+                    "EndMs": 592,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "炸",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 360
+                        }
+                    ],
+                    "SpeechSpeed": 6.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.5925
+        },
+        "RequestId": "d2466e38-429d-45c2-b70e-c4491f15b62a"
+    }
+}

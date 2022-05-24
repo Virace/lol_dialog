@@ -1,0 +1,49 @@
+{
+    "character": "aatrox",
+    "id": "682967511",
+    "result": "你的死亡在等待。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012537744,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.704]  你的死亡在等待。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你的死亡在等待。",
+                    "SliceSentence": "你的 死亡 在 等待",
+                    "StartMs": 0,
+                    "EndMs": 2704,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "死亡",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "等待",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.704313
+        },
+        "RequestId": "ccdeb390-804c-409f-b008-ca5ec435e759"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "illaoi",
+    "id": "770308164",
+    "result": "再来向前推进。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012579167,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.579]  再来向前推进。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "再来向前推进。",
+                    "SliceSentence": "再来 向前 推进",
+                    "StartMs": 0,
+                    "EndMs": 2579,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "再来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "向前",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "推进",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.579875
+        },
+        "RequestId": "127c9eef-f315-4467-bb19-0fb09c78d6d7"
+    }
+}

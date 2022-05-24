@@ -1,0 +1,39 @@
+{
+    "character": "zac",
+    "id": "803357984",
+    "result": "啊，哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012849403,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.123]  啊，哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，哈哈。",
+                    "SliceSentence": "啊 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 1123,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.123438
+        },
+        "RequestId": "7f780097-d831-455c-9c12-1a94cf669b9a"
+    }
+}

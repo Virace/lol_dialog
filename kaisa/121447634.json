@@ -1,0 +1,39 @@
+{
+    "character": "kaisa",
+    "id": "121447634",
+    "result": "对啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012688241,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.160,0:1.349]  对啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "对啊。",
+                    "SliceSentence": "对 啊",
+                    "StartMs": 160,
+                    "EndMs": 1349,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "对",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 870
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.349688
+        },
+        "RequestId": "d685f6f9-d464-4f42-8ef1-04afad63540e"
+    }
+}

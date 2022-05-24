@@ -1,0 +1,39 @@
+{
+    "character": "kaisa",
+    "id": "757599120",
+    "result": "该死，该死。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012691817,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.271]  该死，该死。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "该死，该死。",
+                    "SliceSentence": "该死 该死",
+                    "StartMs": 0,
+                    "EndMs": 2271,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "该死",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "该死",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.271875
+        },
+        "RequestId": "16b35043-4920-46a6-aa16-5126db585ce8"
+    }
+}

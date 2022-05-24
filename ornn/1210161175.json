@@ -1,0 +1,49 @@
+{
+    "character": "ornn",
+    "id": "1210161175",
+    "result": "等我来了再动手。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012737949,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.759]  等我来了再动手。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "等我来了再动手。",
+                    "SliceSentence": "等我 来了 再 动手",
+                    "StartMs": 0,
+                    "EndMs": 1759,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "等我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "来了",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "再",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "动手",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.759125
+        },
+        "RequestId": "6a19e8b6-dde1-413b-b298-3dd9ad9ed593"
+    }
+}

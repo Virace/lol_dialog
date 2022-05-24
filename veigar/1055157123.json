@@ -1,0 +1,59 @@
+{
+    "character": "veigar",
+    "id": "1055157123",
+    "result": "我能看见你内心的恐惧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012808756,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.180,0:3.287]  我能看见你内心的恐惧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我能看见你内心的恐惧。",
+                    "SliceSentence": "我能 看见 你 内心 的 恐惧",
+                    "StartMs": 180,
+                    "EndMs": 3287,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我能",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "看见",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "内心",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "恐惧",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 3000
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.287813
+        },
+        "RequestId": "b3de7b00-bb67-4ef4-9e15-b303036eb16a"
+    }
+}

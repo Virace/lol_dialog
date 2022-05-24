@@ -1,0 +1,54 @@
+{
+    "character": "vex",
+    "id": "2002709935",
+    "result": "这种事难免的啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012811014,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.060,0:2.652]  这种事难免的啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这种事难免的啦。",
+                    "SliceSentence": "这种 事 难免 的 啦",
+                    "StartMs": 60,
+                    "EndMs": 2652,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这种",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "事",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "难免",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.652875
+        },
+        "RequestId": "90c117c0-cc7c-4d86-8d2a-a67edf2703bb"
+    }
+}

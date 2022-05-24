@@ -1,0 +1,54 @@
+{
+    "character": "tristana",
+    "id": "905607804",
+    "result": "他们加入了错误的队伍。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012800681,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.875]  他们加入了错误的队伍。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们加入了错误的队伍。",
+                    "SliceSentence": "他们 加入了 错误 的 队伍",
+                    "StartMs": 0,
+                    "EndMs": 1875,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "加入了",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "错误",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "队伍",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 8.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.875688
+        },
+        "RequestId": "2c76a7ce-c5f8-461e-b708-b24cf7fd7183"
+    }
+}

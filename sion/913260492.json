@@ -1,0 +1,39 @@
+{
+    "character": "sion",
+    "id": "913260492",
+    "result": "太久了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012778155,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.708]  太久了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "太久了。",
+                    "SliceSentence": "太久 了",
+                    "StartMs": 0,
+                    "EndMs": 2708,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "太久",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.708563
+        },
+        "RequestId": "2d9674fe-ae91-45d1-bb57-3daf638a40f9"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "seraphine",
+    "id": "1540716745",
+    "result": "听听这混响。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012770534,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.460]  听听这混响。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "听听这混响。",
+                    "SliceSentence": "听听 这 混响",
+                    "StartMs": 0,
+                    "EndMs": 2460,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "听听",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "混响",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.994313
+        },
+        "RequestId": "bcbe20cd-5cb4-4245-a960-e1691a91a134"
+    }
+}

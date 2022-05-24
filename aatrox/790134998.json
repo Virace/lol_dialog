@@ -1,0 +1,85 @@
+{
+    "character": "aatrox",
+    "id": "790134998",
+    "result": "我迈向死亡。多么希望是我自己的死亡。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012537971,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.340]  我迈向死亡。\n[0:3.340,0:7.890]  多么希望是我自己的死亡。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我迈向死亡。",
+                    "SliceSentence": "我 迈向 死亡",
+                    "StartMs": 0,
+                    "EndMs": 3340,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "迈向",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "死亡",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "多么希望是我自己的死亡。",
+                    "SliceSentence": "多么 希望 是我 自己 的 死亡",
+                    "StartMs": 3340,
+                    "EndMs": 7890,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "多么",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "希望",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "自己",
+                            "OffsetStartMs": 2340,
+                            "OffsetEndMs": 3060
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 3060,
+                            "OffsetEndMs": 3210
+                        },
+                        {
+                            "Word": "死亡",
+                            "OffsetStartMs": 3210,
+                            "OffsetEndMs": 4440
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.890188
+        },
+        "RequestId": "edffe3e4-2ab6-454c-891c-feb1539ceb8a"
+    }
+}

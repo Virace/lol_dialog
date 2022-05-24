@@ -1,0 +1,49 @@
+{
+    "character": "camille",
+    "id": "448037425",
+    "result": "你的行为不可容忍。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553325,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.275]  你的行为不可容忍。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你的行为不可容忍。",
+                    "SliceSentence": "你的 行为 不可 容忍",
+                    "StartMs": 0,
+                    "EndMs": 2275,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "行为",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "不可",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "容忍",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.275
+        },
+        "RequestId": "6d867f2b-0c21-45e4-853f-8aaace1ddfb4"
+    }
+}

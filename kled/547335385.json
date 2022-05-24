@@ -1,0 +1,44 @@
+{
+    "character": "kled",
+    "id": "547335385",
+    "result": "哇哦，时机刚好。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012708371,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.857]  哇哦，时机刚好。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哇哦，时机刚好。",
+                    "SliceSentence": "哇哦 时机 刚好",
+                    "StartMs": 0,
+                    "EndMs": 1857,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哇哦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "时机",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "刚好",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.85775
+        },
+        "RequestId": "c9860f89-04fd-461f-a39a-27e213f10c70"
+    }
+}

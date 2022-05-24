@@ -1,0 +1,44 @@
+{
+    "character": "diana",
+    "id": "1981880687",
+    "result": "他们让我别无选择。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556209,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.955]  他们让我别无选择。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们让我别无选择。",
+                    "SliceSentence": "他们 让我 别无选择",
+                    "StartMs": 0,
+                    "EndMs": 2955,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "让我",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "别无选择",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2880
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.95525
+        },
+        "RequestId": "acd1bc00-220e-4b28-b7af-47b11018db77"
+    }
+}

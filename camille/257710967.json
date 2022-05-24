@@ -1,0 +1,59 @@
+{
+    "character": "camille",
+    "id": "257710967",
+    "result": "你挡了我的路。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552648,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.410]  你挡了我的路。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你挡了我的路。",
+                    "SliceSentence": "你 挡 了 我 的 路",
+                    "StartMs": 0,
+                    "EndMs": 1410,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "挡",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "路",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 8.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.410438
+        },
+        "RequestId": "ead36790-7dd0-4ebc-ba1f-d56bd07cdff4"
+    }
+}

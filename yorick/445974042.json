@@ -1,0 +1,49 @@
+{
+    "character": "yorick",
+    "id": "445974042",
+    "result": "向将死之人致意。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012844850,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.131]  向将死之人致意。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "向将死之人致意。",
+                    "SliceSentence": "向 将死 之人 致意",
+                    "StartMs": 0,
+                    "EndMs": 3131,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "向",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "将死",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "之人",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "致意",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2970
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.131125
+        },
+        "RequestId": "b199e60e-439f-4430-9931-886e854876f4"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "darius",
+    "id": "1339926379",
+    "result": "保持警惕。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012555819,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.880]  保持警惕。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "保持警惕。",
+                    "SliceSentence": "保持 警惕",
+                    "StartMs": 0,
+                    "EndMs": 1880,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "保持",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "警惕",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.880813
+        },
+        "RequestId": "d927460b-cb73-4366-843c-55b463916450"
+    }
+}

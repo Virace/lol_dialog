@@ -1,0 +1,54 @@
+{
+    "character": "varus",
+    "id": "121589655",
+    "result": "我是被遗忘者。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012807856,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.534]  我是被遗忘者。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我是被遗忘者。",
+                    "SliceSentence": "我 是 被 遗忘 者",
+                    "StartMs": 0,
+                    "EndMs": 3534,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "被",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "遗忘",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "者",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2970
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.534813
+        },
+        "RequestId": "e4c4485b-0050-4a9e-8bd2-c5512962d948"
+    }
+}

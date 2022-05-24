@@ -1,0 +1,54 @@
+{
+    "character": "leona",
+    "id": "671099480",
+    "result": "我会冲破他们的防线。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012714409,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.002]  我会冲破他们的防线。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会冲破他们的防线。",
+                    "SliceSentence": "我会 冲破 他们 的 防线",
+                    "StartMs": 0,
+                    "EndMs": 3002,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "冲破",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "防线",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.002
+        },
+        "RequestId": "eb2bd494-05f0-4683-812b-85ec534ae980"
+    }
+}

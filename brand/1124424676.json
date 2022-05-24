@@ -1,0 +1,39 @@
+{
+    "character": "brand",
+    "id": "1124424676",
+    "result": "正在前进。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012549668,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.869]  正在前进。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "正在前进。",
+                    "SliceSentence": "正在 前进",
+                    "StartMs": 0,
+                    "EndMs": 1869,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "前进",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.869375
+        },
+        "RequestId": "da74a168-4440-450f-b7a5-88ed0d0cb7c5"
+    }
+}

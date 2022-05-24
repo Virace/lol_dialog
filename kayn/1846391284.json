@@ -1,0 +1,59 @@
+{
+    "character": "kayn",
+    "id": "1846391284",
+    "result": "我出钱，他们出血，非常简单。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012700467,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.585]  我出钱，他们出血，非常简单。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我出钱，他们出血，非常简单。",
+                    "SliceSentence": "我 出钱 他们 出血 非常 简单",
+                    "StartMs": 0,
+                    "EndMs": 4585,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "出钱",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "出血",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2700
+                        },
+                        {
+                            "Word": "非常",
+                            "OffsetStartMs": 2880,
+                            "OffsetEndMs": 3690
+                        },
+                        {
+                            "Word": "简单",
+                            "OffsetStartMs": 3690,
+                            "OffsetEndMs": 4410
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.585125
+        },
+        "RequestId": "06aae5df-5634-408b-a4bb-873b9b0db1d7"
+    }
+}

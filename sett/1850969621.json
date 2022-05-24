@@ -1,0 +1,59 @@
+{
+    "character": "sett",
+    "id": "1850969621",
+    "result": "哎，这家伙好像有两下子。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012772825,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.645]  哎，这家伙好像有两下子。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哎，这家伙好像有两下子。",
+                    "SliceSentence": "哎 这 家伙 好像 有 两下子",
+                    "StartMs": 0,
+                    "EndMs": 3645,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "哎",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "家伙",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "好像",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "两下子",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.645563
+        },
+        "RequestId": "f273e900-fd1f-48e4-a708-d3f9a8c98584"
+    }
+}

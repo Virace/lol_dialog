@@ -1,0 +1,39 @@
+{
+    "character": "pyke",
+    "id": "75126747",
+    "result": "先走一步。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746750,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.375]  先走一步。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "先走一步。",
+                    "SliceSentence": "先走 一步",
+                    "StartMs": 0,
+                    "EndMs": 2375,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "先走",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "一步",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.375
+        },
+        "RequestId": "e93bacb8-2155-4c6c-a238-c968a8542c5f"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "tristana",
+    "id": "744404561",
+    "result": "行动起来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012800487,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.914]  行动起来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "行动起来。",
+                    "SliceSentence": "行 动起来",
+                    "StartMs": 0,
+                    "EndMs": 914,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "行",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "动起来",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.914625
+        },
+        "RequestId": "87a325e3-b093-4016-8ca1-ff496c55015f"
+    }
+}

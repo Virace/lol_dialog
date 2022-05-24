@@ -1,0 +1,54 @@
+{
+    "character": "karthus",
+    "id": "1025945540",
+    "result": "我歌唱这死亡之道。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012695556,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.618]  我歌唱这死亡之道。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我歌唱这死亡之道。",
+                    "SliceSentence": "我 歌唱 这 死亡 之道",
+                    "StartMs": 0,
+                    "EndMs": 4618,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "歌唱",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "死亡",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2790
+                        },
+                        {
+                            "Word": "之道",
+                            "OffsetStartMs": 2790,
+                            "OffsetEndMs": 3750
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.618813
+        },
+        "RequestId": "65a8b90f-4279-4d4d-bca8-531842916654"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "zac",
+    "id": "1653175264",
+    "result": "我真想马上吃到小点心。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012848534,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.714]  我真想马上吃到小点心。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我真想马上吃到小点心。",
+                    "SliceSentence": "我 真想 马上 吃到 小 点心",
+                    "StartMs": 0,
+                    "EndMs": 2714,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "真想",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "马上",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "吃到",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "小",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "点心",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.71425
+        },
+        "RequestId": "dc797045-f84a-4637-ad76-ddd568eb02d4"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "tahmkench",
+    "id": "305283619",
+    "result": "我们所有人都在吃个不停。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012789594,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.552]  我们所有人都在吃个不停。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们所有人都在吃个不停。",
+                    "SliceSentence": "我们 所有人 都在 吃 个 不停",
+                    "StartMs": 0,
+                    "EndMs": 3552,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "所有人",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "都在",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "吃",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "个",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "不停",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 3420
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.552125
+        },
+        "RequestId": "bdba7dbd-09b9-4113-a18d-fdc67ce2d449"
+    }
+}

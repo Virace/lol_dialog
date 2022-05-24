@@ -1,0 +1,39 @@
+{
+    "character": "twitch",
+    "id": "1978419777",
+    "result": "禁止入内。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012803567,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.438]  禁止入内。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "禁止入内。",
+                    "SliceSentence": "禁止 入内",
+                    "StartMs": 0,
+                    "EndMs": 2438,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "禁止",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "入内",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.438125
+        },
+        "RequestId": "b7fbb5d7-8591-4464-a7c8-4ac7e97bd82c"
+    }
+}

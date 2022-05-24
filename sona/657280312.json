@@ -1,0 +1,44 @@
+{
+    "character": "sona",
+    "id": "657280312",
+    "result": "我心里有谱。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012782763,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.700]  我心里有谱。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我心里有谱。",
+                    "SliceSentence": "我 心里 有谱",
+                    "StartMs": 0,
+                    "EndMs": 3700,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "心里",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "有谱",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.416438
+        },
+        "RequestId": "67ffd980-6374-4fb8-87d6-e5950a91bf59"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "rell",
+    "id": "1720750287",
+    "result": "别太得意，我喜欢单干。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012757435,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.462]  别太得意，我喜欢单干。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别太得意，我喜欢单干。",
+                    "SliceSentence": "别太 得意 我 喜欢 单干",
+                    "StartMs": 0,
+                    "EndMs": 2462,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "别太",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "得意",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "单干",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.46275
+        },
+        "RequestId": "3fa55329-013a-4e99-aaa8-69cd21f4766c"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "azir",
+    "id": "425665269",
+    "result": "相信我的眼界。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012548863,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.623]  相信我的眼界。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "相信我的眼界。",
+                    "SliceSentence": "相信 我 的 眼界",
+                    "StartMs": 0,
+                    "EndMs": 2623,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "相信",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "眼界",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.62375
+        },
+        "RequestId": "d155e7f2-def7-4047-b836-4cf57d64dc33"
+    }
+}

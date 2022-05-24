@@ -1,0 +1,39 @@
+{
+    "character": "olaf",
+    "id": "1076589735",
+    "result": "快点参战。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012736825,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.020,0:1.804]  快点参战。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "快点参战。",
+                    "SliceSentence": "快点 参战",
+                    "StartMs": 20,
+                    "EndMs": 1804,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "快点",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "参战",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.804188
+        },
+        "RequestId": "b94b9631-420f-41f7-b28b-f8ad0c25bfe9"
+    }
+}

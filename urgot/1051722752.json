@@ -1,0 +1,54 @@
+{
+    "character": "urgot",
+    "id": "1051722752",
+    "result": "我来让你认识一下死亡。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012804810,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.041]  我来让你认识一下死亡。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我来让你认识一下死亡。",
+                    "SliceSentence": "我来 让你 认识 一下 死亡",
+                    "StartMs": 0,
+                    "EndMs": 5041,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我来",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "让你",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "认识",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "一下",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2700
+                        },
+                        {
+                            "Word": "死亡",
+                            "OffsetStartMs": 2700,
+                            "OffsetEndMs": 4560
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.041313
+        },
+        "RequestId": "e22f5f45-62eb-4825-9bef-4a804de84684"
+    }
+}

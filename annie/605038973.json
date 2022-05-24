@@ -1,0 +1,59 @@
+{
+    "character": "annie",
+    "id": "605038973",
+    "result": "你看见过我的？小熊骂。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542675,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.807]  你看见过我的？小熊骂。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你看见过我的？小熊骂。",
+                    "SliceSentence": "你看 见过 我 的 小熊 骂",
+                    "StartMs": 0,
+                    "EndMs": 2807,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你看",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "见过",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "小熊",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "骂",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 2730
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.807563
+        },
+        "RequestId": "4bdf40d1-f112-480d-9432-17d55a44cc98"
+    }
+}

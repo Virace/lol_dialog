@@ -1,0 +1,54 @@
+{
+    "character": "kayle",
+    "id": "1764194042",
+    "result": "我的羽翼不可以。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012697819,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.829]  我的羽翼不可以。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的羽翼不可以。",
+                    "SliceSentence": "我 的 羽翼 不可 以",
+                    "StartMs": 0,
+                    "EndMs": 3829,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "羽翼",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "不可",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2550
+                        },
+                        {
+                            "Word": "以",
+                            "OffsetStartMs": 2550,
+                            "OffsetEndMs": 3120
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.829188
+        },
+        "RequestId": "ae64d530-b410-4622-b9c6-232339dd540b"
+    }
+}

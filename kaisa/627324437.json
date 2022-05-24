@@ -1,0 +1,75 @@
+{
+    "character": "kaisa",
+    "id": "627324437",
+    "result": "放下愤怒吧。没有任何用处的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012691376,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.780]  放下愤怒吧。\n[0:1.780,0:3.371]  没有任何用处的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "放下愤怒吧。",
+                    "SliceSentence": "放下 愤怒 吧",
+                    "StartMs": 0,
+                    "EndMs": 1780,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "放下",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "愤怒",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "没有任何用处的。",
+                    "SliceSentence": "没有 任何 用处 的",
+                    "StartMs": 1780,
+                    "EndMs": 3371,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "任何",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "用处",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.371688
+        },
+        "RequestId": "8ce2ddc3-0e0f-4b64-a403-1e04d2a53a68"
+    }
+}

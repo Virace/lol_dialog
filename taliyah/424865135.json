@@ -1,0 +1,49 @@
+{
+    "character": "taliyah",
+    "id": "424865135",
+    "result": "我感觉棒极了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012793076,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.060]  我感觉棒极了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我感觉棒极了。",
+                    "SliceSentence": "我 感觉 棒 极了",
+                    "StartMs": 0,
+                    "EndMs": 2060,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "感觉",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "棒",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "极了",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.060313
+        },
+        "RequestId": "db213882-322e-4047-b61a-5968e2cfbae2"
+    }
+}

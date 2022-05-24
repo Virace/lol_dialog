@@ -1,0 +1,49 @@
+{
+    "character": "akshan",
+    "id": "1876456565",
+    "result": "你个秤毁。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012540985,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.877]  你个秤毁。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你个秤毁。",
+                    "SliceSentence": "你 个 秤 毁",
+                    "StartMs": 0,
+                    "EndMs": 1877,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "个",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "秤",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "毁",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.877313
+        },
+        "RequestId": "5911e2bc-cccf-47ed-8fa8-fdd43c5fb9b3"
+    }
+}

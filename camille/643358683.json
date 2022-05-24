@@ -1,0 +1,54 @@
+{
+    "character": "camille",
+    "id": "643358683",
+    "result": "你很快，但我更快。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553754,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.206]  你很快，但我更快。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你很快，但我更快。",
+                    "SliceSentence": "你 很快 但 我 更快",
+                    "StartMs": 0,
+                    "EndMs": 2206,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "很快",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "但",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "更快",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.206438
+        },
+        "RequestId": "e83db95b-1df6-4966-9701-dd8f4ec9d45b"
+    }
+}

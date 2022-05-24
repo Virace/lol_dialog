@@ -1,0 +1,59 @@
+{
+    "character": "yorick",
+    "id": "739985522",
+    "result": "我们的时代还没有到来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012845752,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.314]  我们的时代还没有到来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们的时代还没有到来。",
+                    "SliceSentence": "我们 的 时代 还 没有 到来",
+                    "StartMs": 0,
+                    "EndMs": 3314,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "时代",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "还",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "到来",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 3090
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.314688
+        },
+        "RequestId": "583cc4ff-181b-4d06-9cfd-a2ffe42dbda5"
+    }
+}

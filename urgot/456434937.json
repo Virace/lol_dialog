@@ -1,0 +1,44 @@
+{
+    "character": "urgot",
+    "id": "456434937",
+    "result": "哈哈哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012807104,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.800]  哈哈哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 1800,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.800125
+        },
+        "RequestId": "a4b5a8df-aaba-4d22-99bd-8d19ced03017"
+    }
+}

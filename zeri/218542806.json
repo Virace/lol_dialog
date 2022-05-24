@@ -1,0 +1,54 @@
+{
+    "character": "zeri",
+    "id": "218542806",
+    "result": "谁也别想抢我的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012852132,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.432]  谁也别想抢我的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "谁也别想抢我的。",
+                    "SliceSentence": "谁也 别想 抢 我 的",
+                    "StartMs": 0,
+                    "EndMs": 2432,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "谁也",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "别想",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "抢",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.432
+        },
+        "RequestId": "80f42d1b-46be-4f1e-9e84-b8b0ad7d8c64"
+    }
+}

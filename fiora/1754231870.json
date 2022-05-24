@@ -1,0 +1,39 @@
+{
+    "character": "fiora",
+    "id": "1754231870",
+    "result": "说是被。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012567414,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.253]  说是被。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "说是被。",
+                    "SliceSentence": "说是 被",
+                    "StartMs": 0,
+                    "EndMs": 1253,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "说是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "被",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.253875
+        },
+        "RequestId": "2a886679-055e-4682-b711-e1749f44d4fe"
+    }
+}

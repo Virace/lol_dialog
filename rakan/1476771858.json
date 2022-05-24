@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "1476771858",
+    "result": "再来一下，别走。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012750669,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.609]  再来一下，别走。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "再来一下，别走。",
+                    "SliceSentence": "再来 一下 别走",
+                    "StartMs": 0,
+                    "EndMs": 1609,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "再来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "一下",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "别走",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.60975
+        },
+        "RequestId": "39bc52e4-35a2-452b-beb3-e6248526619a"
+    }
+}

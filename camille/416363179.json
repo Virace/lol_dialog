@@ -1,0 +1,39 @@
+{
+    "character": "camille",
+    "id": "416363179",
+    "result": "投弹完毕。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553237,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.483]  投弹完毕。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "投弹完毕。",
+                    "SliceSentence": "投弹 完毕",
+                    "StartMs": 0,
+                    "EndMs": 1483,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "投弹",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "完毕",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.483125
+        },
+        "RequestId": "573fc12f-1167-49f3-8246-18dff9621234"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "aatrox",
+    "id": "449026134",
+    "result": "我来找你啦，潘森。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012537502,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.478]  我来找你啦，潘森。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我来找你啦，潘森。",
+                    "SliceSentence": "我来 找你 啦 潘 森",
+                    "StartMs": 0,
+                    "EndMs": 3478,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "找你",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "潘",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2580
+                        },
+                        {
+                            "Word": "森",
+                            "OffsetStartMs": 2580,
+                            "OffsetEndMs": 3270
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.478938
+        },
+        "RequestId": "b28827a0-fbb7-4817-b6e8-68f9a3bfe86d"
+    }
+}

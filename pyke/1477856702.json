@@ -1,0 +1,54 @@
+{
+    "character": "pyke",
+    "id": "1477856702",
+    "result": "你随便乱蹬无所谓。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745108,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.447]  你随便乱蹬无所谓。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你随便乱蹬无所谓。",
+                    "SliceSentence": "你 随便 乱 蹬 无所谓",
+                    "StartMs": 0,
+                    "EndMs": 3447,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "随便",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "乱",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "蹬",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "无所谓",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2730
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.447625
+        },
+        "RequestId": "99f5770c-158b-4ec5-8e69-8e34e7e913f0"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "morgana",
+    "id": "1779126438",
+    "result": "替我问候妈妈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012726644,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.336]  替我问候妈妈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "替我问候妈妈。",
+                    "SliceSentence": "替我 问候 妈妈",
+                    "StartMs": 0,
+                    "EndMs": 2336,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "替我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "问候",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "妈妈",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.33625
+        },
+        "RequestId": "f199a868-e26f-4e0e-aa88-e013e077e0fd"
+    }
+}

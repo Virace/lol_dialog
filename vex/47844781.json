@@ -1,0 +1,39 @@
+{
+    "character": "vex",
+    "id": "47844781",
+    "result": "嗯，不行。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012811355,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.335]  嗯，不行。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯，不行。",
+                    "SliceSentence": "嗯 不行",
+                    "StartMs": 0,
+                    "EndMs": 2335,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "不行",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.335938
+        },
+        "RequestId": "2b4d0666-f599-4e7d-915b-30713376cee6"
+    }
+}

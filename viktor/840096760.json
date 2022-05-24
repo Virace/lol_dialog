@@ -1,0 +1,44 @@
+{
+    "character": "viktor",
+    "id": "840096760",
+    "result": "他们全是废品。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012815011,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.737]  他们全是废品。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们全是废品。",
+                    "SliceSentence": "他们 全是 废品",
+                    "StartMs": 0,
+                    "EndMs": 2737,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "全是",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "废品",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.737563
+        },
+        "RequestId": "0163c548-3221-4e19-872c-e1dd90a7c1bb"
+    }
+}

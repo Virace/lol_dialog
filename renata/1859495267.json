@@ -1,0 +1,54 @@
+{
+    "character": "renata",
+    "id": "1859495267",
+    "result": "别碰我的衣服。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012760160,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.336]  别碰我的衣服。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别碰我的衣服。",
+                    "SliceSentence": "别 碰 我 的 衣服",
+                    "StartMs": 0,
+                    "EndMs": 2336,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "碰",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "衣服",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.336313
+        },
+        "RequestId": "32365635-0bc7-4148-93f7-4eb48a8cc9e1"
+    }
+}

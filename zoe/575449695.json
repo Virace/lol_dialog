@@ -1,0 +1,64 @@
+{
+    "character": "zoe",
+    "id": "575449695",
+    "result": "你好漂亮，可以和我做朋友，求求你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012856410,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.651]  你好漂亮，可以和我做朋友，求求你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你好漂亮，可以和我做朋友，求求你。",
+                    "SliceSentence": "你好 漂亮 可以 和 我做 朋友 求求你",
+                    "StartMs": 0,
+                    "EndMs": 3651,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "你好",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "漂亮",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "和",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "我做",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "朋友",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "求求你",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2970
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.651
+        },
+        "RequestId": "bf6959d6-7c85-47d4-b550-d9c43eceb8c4"
+    }
+}

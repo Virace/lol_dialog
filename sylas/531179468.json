@@ -1,0 +1,44 @@
+{
+    "character": "sylas",
+    "id": "531179468",
+    "result": "我会加以善用。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012787809,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.533]  我会加以善用。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会加以善用。",
+                    "SliceSentence": "我会 加以 善用",
+                    "StartMs": 0,
+                    "EndMs": 1533,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "加以",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "善用",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.533125
+        },
+        "RequestId": "c566fb7f-87d9-429d-8797-3f48b095a658"
+    }
+}

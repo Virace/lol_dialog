@@ -1,0 +1,85 @@
+{
+    "character": "karthus",
+    "id": "263665514",
+    "result": "他的力量会随着时间增长。我也会。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012695863,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.360,0:5.760]  他的力量会随着时间增长。\n[0:5.820,0:8.552]  我也会。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他的力量会随着时间增长。",
+                    "SliceSentence": "他 的 力量 会 随着 时间 增长",
+                    "StartMs": 360,
+                    "EndMs": 5760,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "他",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "力量",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "随着",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2640
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 2640,
+                            "OffsetEndMs": 3450
+                        },
+                        {
+                            "Word": "增长",
+                            "OffsetStartMs": 3450,
+                            "OffsetEndMs": 4290
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "我也会。",
+                    "SliceSentence": "我 也会",
+                    "StartMs": 5820,
+                    "EndMs": 8552,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "也会",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 8.552125
+        },
+        "RequestId": "a722fd56-d9d2-40b7-a079-719ada39a91d"
+    }
+}

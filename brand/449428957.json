@@ -1,0 +1,44 @@
+{
+    "character": "brand",
+    "id": "449428957",
+    "result": "这只是零头。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012549868,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.151]  这只是零头。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这只是零头。",
+                    "SliceSentence": "这 只是 零头",
+                    "StartMs": 0,
+                    "EndMs": 3151,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "只是",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "零头",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 3090
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.151375
+        },
+        "RequestId": "04c32be1-0a34-44af-ad7f-31df9cb54296"
+    }
+}

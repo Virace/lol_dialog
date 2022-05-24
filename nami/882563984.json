@@ -1,0 +1,55 @@
+{
+    "character": "nami",
+    "id": "882563984",
+    "result": "啊啊。嗯。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012728162,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.140]  啊啊。\n[0:2.140,0:2.834]  嗯。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊啊。",
+                    "SliceSentence": "啊 啊",
+                    "StartMs": 0,
+                    "EndMs": 2140,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "嗯。",
+                    "SliceSentence": "嗯",
+                    "StartMs": 2140,
+                    "EndMs": 2834,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.834375
+        },
+        "RequestId": "4e321696-5624-4716-ac8f-bd29d7f896e9"
+    }
+}

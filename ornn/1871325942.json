@@ -1,0 +1,44 @@
+{
+    "character": "ornn",
+    "id": "1871325942",
+    "result": "准备好了吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012738823,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.453]  准备好了吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "准备好了吗？",
+                    "SliceSentence": "准备 好了 吗",
+                    "StartMs": 0,
+                    "EndMs": 1453,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "准备",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "好了",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.45325
+        },
+        "RequestId": "e1d3d2cb-cdaf-4de7-9827-8e9bc074d9fb"
+    }
+}

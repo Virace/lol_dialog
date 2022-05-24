@@ -1,0 +1,49 @@
+{
+    "character": "camille",
+    "id": "1025764422",
+    "result": "我来抓你了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552122,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.709]  我来抓你了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我来抓你了。",
+                    "SliceSentence": "我来 抓 你 了",
+                    "StartMs": 0,
+                    "EndMs": 1709,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "抓",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.709625
+        },
+        "RequestId": "1d02ce9f-8cbb-483f-bea3-e9c329061bd7"
+    }
+}

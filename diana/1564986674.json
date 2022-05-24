@@ -1,0 +1,54 @@
+{
+    "character": "diana",
+    "id": "1564986674",
+    "result": "会有人听到我的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556161,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.301]  会有人听到我的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "会有人听到我的。",
+                    "SliceSentence": "会有 人 听到 我 的",
+                    "StartMs": 0,
+                    "EndMs": 2301,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "会有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "人",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "听到",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.301063
+        },
+        "RequestId": "f3cc5c2a-4982-499f-a3a6-9fa29e6b9065"
+    }
+}

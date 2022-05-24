@@ -1,0 +1,39 @@
+{
+    "character": "viktor",
+    "id": "1904666135",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012814756,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.001]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 2001,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.001
+        },
+        "RequestId": "fb56e20f-0403-42f7-a2ab-1e43eef0a03b"
+    }
+}

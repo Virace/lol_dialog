@@ -1,0 +1,54 @@
+{
+    "character": "galio",
+    "id": "578113512",
+    "result": "我赶时间，咱们开打吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012569369,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.245]  我赶时间，咱们开打吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我赶时间，咱们开打吧。",
+                    "SliceSentence": "我 赶时间 咱们 开打 吧",
+                    "StartMs": 0,
+                    "EndMs": 2245,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "赶时间",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "咱们",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "开打",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.245188
+        },
+        "RequestId": "f2425a19-1dc8-45bc-b0ad-a8b3a99c77ab"
+    }
+}

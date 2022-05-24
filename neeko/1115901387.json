@@ -1,0 +1,54 @@
+{
+    "character": "neeko",
+    "id": "1115901387",
+    "result": "谁也别小看你一口。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012729518,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.526]  谁也别小看你一口。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "谁也别小看你一口。",
+                    "SliceSentence": "谁也 别 小看 你 一口",
+                    "StartMs": 0,
+                    "EndMs": 1526,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "谁也",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "小看",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "一口",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 8.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.526
+        },
+        "RequestId": "e573cfb9-ce4b-4eb4-97e3-fbf050e40383"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "vex",
+    "id": "379725158",
+    "result": "我就在这儿发呆好了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012811315,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.969]  我就在这儿发呆好了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我就在这儿发呆好了。",
+                    "SliceSentence": "我 就 在这儿 发呆 好了",
+                    "StartMs": 0,
+                    "EndMs": 2969,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "在这儿",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "发呆",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "好了",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.96975
+        },
+        "RequestId": "f692ad6c-d2b3-41f7-9061-233e55cc187d"
+    }
+}

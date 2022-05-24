@@ -1,0 +1,49 @@
+{
+    "character": "kayle",
+    "id": "602504464",
+    "result": "圣火将你洗涤。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012698550,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.617]  圣火将你洗涤。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "圣火将你洗涤。",
+                    "SliceSentence": "圣火 将 你 洗涤",
+                    "StartMs": 0,
+                    "EndMs": 3617,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "圣火",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "将",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "洗涤",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2880
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.617438
+        },
+        "RequestId": "4031fe37-ac0e-40a7-bcfe-8addecc1c3c0"
+    }
+}

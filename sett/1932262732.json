@@ -1,0 +1,44 @@
+{
+    "character": "sett",
+    "id": "1932262732",
+    "result": "全都收拾了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012772878,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.787]  全都收拾了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "全都收拾了。",
+                    "SliceSentence": "全都 收拾 了",
+                    "StartMs": 0,
+                    "EndMs": 1787,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "全都",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "收拾",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.787938
+        },
+        "RequestId": "5ca617a1-001a-49a7-91f8-bda58e28a1c6"
+    }
+}

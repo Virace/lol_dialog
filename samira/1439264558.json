@@ -1,0 +1,44 @@
+{
+    "character": "samira",
+    "id": "1439264558",
+    "result": "这样才好玩。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012766300,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.182]  这样才好玩。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这样才好玩。",
+                    "SliceSentence": "这样 才 好玩",
+                    "StartMs": 0,
+                    "EndMs": 2182,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这样",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "才",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "好玩",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.182688
+        },
+        "RequestId": "1c517237-a4dd-4a0c-af45-52aeb5419536"
+    }
+}

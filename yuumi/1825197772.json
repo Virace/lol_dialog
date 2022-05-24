@@ -1,0 +1,54 @@
+{
+    "character": "yuumi",
+    "id": "1825197772",
+    "result": "拍死了一只小虫子。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012847139,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.695]  拍死了一只小虫子。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "拍死了一只小虫子。",
+                    "SliceSentence": "拍死 了 一只 小 虫子",
+                    "StartMs": 0,
+                    "EndMs": 1695,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "拍死",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "一只",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "小",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "虫子",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 7.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.69525
+        },
+        "RequestId": "6c759a1d-6474-41b0-8e34-3360283f02de"
+    }
+}

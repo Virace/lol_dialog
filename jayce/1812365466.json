@@ -1,0 +1,54 @@
+{
+    "character": "jayce",
+    "id": "1812365466",
+    "result": "这就是未来的样子。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012684134,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.366]  这就是未来的样子。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这就是未来的样子。",
+                    "SliceSentence": "这 就是 未来 的 样子",
+                    "StartMs": 0,
+                    "EndMs": 3366,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "未来",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "样子",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 3000
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.366875
+        },
+        "RequestId": "49ce8a7a-8112-4ef0-a685-a9db9961e9cc"
+    }
+}

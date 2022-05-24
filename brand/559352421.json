@@ -1,0 +1,44 @@
+{
+    "character": "brand",
+    "id": "559352421",
+    "result": "哼哼，哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012549890,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.080,0:4.165]  哼哼，哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼，哈哈哈哈。",
+                    "SliceSentence": "哼哼 哈哈 哈哈",
+                    "StartMs": 80,
+                    "EndMs": 4165,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 3030
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.165813
+        },
+        "RequestId": "27e162b7-c7fc-4670-8cd8-1604c7cdc17f"
+    }
+}

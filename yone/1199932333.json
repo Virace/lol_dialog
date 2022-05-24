@@ -1,0 +1,44 @@
+{
+    "character": "yone",
+    "id": "1199932333",
+    "result": "必行之事。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012841567,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.554]  必行之事。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "必行之事。",
+                    "SliceSentence": "必 行之 事",
+                    "StartMs": 0,
+                    "EndMs": 2554,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "必",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "行之",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "事",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.554188
+        },
+        "RequestId": "32cb81f8-4c7e-4854-9b9d-27c952f28675"
+    }
+}

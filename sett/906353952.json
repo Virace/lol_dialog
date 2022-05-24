@@ -1,0 +1,39 @@
+{
+    "character": "sett",
+    "id": "906353952",
+    "result": "给我砸。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012773741,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.322]  给我砸。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "给我砸。",
+                    "SliceSentence": "给我 砸",
+                    "StartMs": 0,
+                    "EndMs": 2322,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "给我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "砸",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.322
+        },
+        "RequestId": "7efe2545-02a0-4113-9904-5a66db91c2cd"
+    }
+}

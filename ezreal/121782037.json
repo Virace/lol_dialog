@@ -1,0 +1,49 @@
+{
+    "character": "ezreal",
+    "id": "121782037",
+    "result": "哦，看起来好像很疼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012565630,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.317]  哦，看起来好像很疼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哦，看起来好像很疼。",
+                    "SliceSentence": "哦 看起来 好像 很疼",
+                    "StartMs": 0,
+                    "EndMs": 2317,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "哦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "看起来",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "好像",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "很疼",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.31775
+        },
+        "RequestId": "20f313cd-a2d2-4da0-b3e0-7b09fac5d3b1"
+    }
+}

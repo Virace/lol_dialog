@@ -1,0 +1,44 @@
+{
+    "character": "yorick",
+    "id": "652455790",
+    "result": "一切都将加入。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012845573,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.060,0:3.093]  一切都将加入。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一切都将加入。",
+                    "SliceSentence": "一切 都将 加入",
+                    "StartMs": 60,
+                    "EndMs": 3093,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "一切",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "都将",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "加入",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2850
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.093875
+        },
+        "RequestId": "f569fb7d-3e17-4249-a8cc-15e0599c50a8"
+    }
+}

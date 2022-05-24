@@ -1,0 +1,49 @@
+{
+    "character": "heimerdinger",
+    "id": "447943508",
+    "result": "正在按计划工作。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012576620,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.604]  正在按计划工作。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "正在按计划工作。",
+                    "SliceSentence": "正在 按 计划 工作",
+                    "StartMs": 0,
+                    "EndMs": 1604,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "按",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "计划",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "工作",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.604875
+        },
+        "RequestId": "4f29ffa4-12ad-4cfa-a06b-542c38a7774a"
+    }
+}

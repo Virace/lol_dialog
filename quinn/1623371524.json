@@ -1,0 +1,59 @@
+{
+    "character": "quinn",
+    "id": "1623371524",
+    "result": "快看，华洛点心来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012748865,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.018]  快看，华洛点心来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "快看，华洛点心来了。",
+                    "SliceSentence": "快 看 华 洛 点心 来了",
+                    "StartMs": 0,
+                    "EndMs": 3018,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "快",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "看",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "华",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "洛",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "点心",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "来了",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.018625
+        },
+        "RequestId": "7f3b76d3-df15-4d6c-ac25-dda430ee5f0d"
+    }
+}

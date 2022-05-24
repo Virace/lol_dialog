@@ -1,0 +1,39 @@
+{
+    "character": "katarina",
+    "id": "7745964",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012697128,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.840]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 1840,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.840688
+        },
+        "RequestId": "5d4b356d-d9ed-44c6-ac2c-b848180febf5"
+    }
+}

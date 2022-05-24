@@ -1,0 +1,44 @@
+{
+    "character": "ryze",
+    "id": "121830579",
+    "result": "没时间闲聊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012763823,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.214]  没时间闲聊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没时间闲聊。",
+                    "SliceSentence": "没 时间 闲聊",
+                    "StartMs": 0,
+                    "EndMs": 1214,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "没",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "闲聊",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.214563
+        },
+        "RequestId": "ba5141ed-a924-4a7b-b07b-4bb886e7db7d"
+    }
+}

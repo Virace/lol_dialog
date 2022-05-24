@@ -1,0 +1,44 @@
+{
+    "character": "jayce",
+    "id": "1691921322",
+    "result": "大炮已组装。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012684032,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.554]  大炮已组装。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "大炮已组装。",
+                    "SliceSentence": "大炮 已 组装",
+                    "StartMs": 0,
+                    "EndMs": 2554,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "大炮",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "已",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "组装",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.554188
+        },
+        "RequestId": "e321952c-d844-4324-b2d2-161255e34224"
+    }
+}

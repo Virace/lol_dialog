@@ -1,0 +1,60 @@
+{
+    "character": "kaisa",
+    "id": "504806701",
+    "result": "稍有不慎。就是生死之别。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012690824,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.640]  稍有不慎。\n[0:1.640,0:3.587]  就是生死之别。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "稍有不慎。",
+                    "SliceSentence": "稍有不慎",
+                    "StartMs": 0,
+                    "EndMs": 1640,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "稍有不慎",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "就是生死之别。",
+                    "SliceSentence": "就是 生死 之别",
+                    "StartMs": 1640,
+                    "EndMs": 3587,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "生死",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "之别",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.58775
+        },
+        "RequestId": "2cf4023a-bcea-4635-8258-2fb8c345e816"
+    }
+}

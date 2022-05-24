@@ -1,0 +1,49 @@
+{
+    "character": "taliyah",
+    "id": "509177404",
+    "result": "盲目行动就是梦游。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012793556,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.880]  盲目行动就是梦游。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "盲目行动就是梦游。",
+                    "SliceSentence": "盲目 行动 就是 梦游",
+                    "StartMs": 0,
+                    "EndMs": 1880,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "盲目",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "行动",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "梦游",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.880313
+        },
+        "RequestId": "21ef102a-390f-40ea-8440-22da95e882d7"
+    }
+}

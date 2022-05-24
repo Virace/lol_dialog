@@ -1,0 +1,39 @@
+{
+    "character": "xayah",
+    "id": "1067056925",
+    "result": "别死。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012833736,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.752]  别死。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别死。",
+                    "SliceSentence": "别 死",
+                    "StartMs": 0,
+                    "EndMs": 752,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "死",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 690
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.752
+        },
+        "RequestId": "c5f58357-40b6-4a71-a393-0b6d93fdebc3"
+    }
+}

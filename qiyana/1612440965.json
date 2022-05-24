@@ -1,0 +1,49 @@
+{
+    "character": "qiyana",
+    "id": "1612440965",
+    "result": "绿色和我很搭。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012747634,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.252]  绿色和我很搭。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "绿色和我很搭。",
+                    "SliceSentence": "绿色 和 我很 搭",
+                    "StartMs": 0,
+                    "EndMs": 2252,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "绿色",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "和",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "我很",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "搭",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.252375
+        },
+        "RequestId": "00521dfb-ec7f-43eb-9590-25d077174de0"
+    }
+}

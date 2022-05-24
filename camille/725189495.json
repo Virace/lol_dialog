@@ -1,0 +1,54 @@
+{
+    "character": "camille",
+    "id": "725189495",
+    "result": "这是职业水平的展示。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553966,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.204]  这是职业水平的展示。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是职业水平的展示。",
+                    "SliceSentence": "这是 职业 水平 的 展示",
+                    "StartMs": 0,
+                    "EndMs": 2204,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "职业",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "水平",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "展示",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.204938
+        },
+        "RequestId": "bbb6a2ac-07a7-4149-b59e-503739905b33"
+    }
+}

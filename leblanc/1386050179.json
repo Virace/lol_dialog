@@ -1,0 +1,44 @@
+{
+    "character": "leblanc",
+    "id": "1386050179",
+    "result": "你有把握吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012711577,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.660]  你有把握吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你有把握吗？",
+                    "SliceSentence": "你 有把握 吗",
+                    "StartMs": 0,
+                    "EndMs": 1660,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 60
+                        },
+                        {
+                            "Word": "有把握",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.660813
+        },
+        "RequestId": "4d03e3f0-0dd2-44c5-bcd7-bdb8b2429ccc"
+    }
+}

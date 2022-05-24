@@ -1,0 +1,54 @@
+{
+    "character": "yorick",
+    "id": "540228803",
+    "result": "你的鲜肉很快就会落地。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012845178,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.635]  你的鲜肉很快就会落地。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你的鲜肉很快就会落地。",
+                    "SliceSentence": "你的 鲜肉 很快 就会 落地",
+                    "StartMs": 0,
+                    "EndMs": 3635,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "鲜肉",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "很快",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "就会",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2460
+                        },
+                        {
+                            "Word": "落地",
+                            "OffsetStartMs": 2460,
+                            "OffsetEndMs": 3480
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.635
+        },
+        "RequestId": "d0923881-8cfc-46a6-867b-f962dea44826"
+    }
+}

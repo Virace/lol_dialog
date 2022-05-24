@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "544027025",
+    "result": "你的手真白净。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746422,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.472]  你的手真白净。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你的手真白净。",
+                    "SliceSentence": "你的 手 真 白净",
+                    "StartMs": 0,
+                    "EndMs": 2472,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "手",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "真",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "白净",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.472688
+        },
+        "RequestId": "bb388645-f87d-4221-b9ed-5492cc64c33e"
+    }
+}

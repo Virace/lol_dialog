@@ -1,0 +1,39 @@
+{
+    "character": "varus",
+    "id": "1606247889",
+    "result": "啊啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012807964,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.827]  啊啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊啊。",
+                    "SliceSentence": "啊 啊",
+                    "StartMs": 0,
+                    "EndMs": 4827,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 3960
+                        }
+                    ],
+                    "SpeechSpeed": 0.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.827375
+        },
+        "RequestId": "5f621fde-f30f-4fef-b717-11ee1a7846a5"
+    }
+}

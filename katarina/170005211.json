@@ -1,0 +1,44 @@
+{
+    "character": "katarina",
+    "id": "170005211",
+    "result": "快逃吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012697013,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.657]  快逃吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "快逃吧。",
+                    "SliceSentence": "快 逃 吧",
+                    "StartMs": 0,
+                    "EndMs": 1657,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "快",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "逃",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.657375
+        },
+        "RequestId": "c8843261-4066-4b68-bc0e-2ae4c3286d24"
+    }
+}

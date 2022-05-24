@@ -1,0 +1,54 @@
+{
+    "character": "yuumi",
+    "id": "1031899149",
+    "result": "两只猫一起出城啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012846418,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.433]  两只猫一起出城啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "两只猫一起出城啦。",
+                    "SliceSentence": "两只 猫 一起 出城 啦",
+                    "StartMs": 0,
+                    "EndMs": 2433,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "两只",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "猫",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "一起",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "出城",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.433063
+        },
+        "RequestId": "b891dfc4-cf80-4188-86b9-d9af5c29402a"
+    }
+}

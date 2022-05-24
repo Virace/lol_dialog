@@ -1,0 +1,49 @@
+{
+    "character": "lux",
+    "id": "901486741",
+    "result": "这是我的选择。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012719766,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.523]  这是我的选择。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是我的选择。",
+                    "SliceSentence": "这 是我 的 选择",
+                    "StartMs": 0,
+                    "EndMs": 1523,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "选择",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.523
+        },
+        "RequestId": "2e8c25ef-7f61-4af2-b260-58a3877fe649"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "62060157",
+    "result": "可，可是吃的呢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012753940,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.887]  可，可是吃的呢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "可，可是吃的呢。",
+                    "SliceSentence": "可 可是 吃的 呢",
+                    "StartMs": 0,
+                    "EndMs": 1887,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "可",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "可是",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "吃的",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.887
+        },
+        "RequestId": "4c74128e-dae8-4253-9b99-3a6987ada9ef"
+    }
+}

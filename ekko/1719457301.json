@@ -1,0 +1,49 @@
+{
+    "character": "ekko",
+    "id": "1719457301",
+    "result": "每一秒都很重要。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012559555,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.444]  每一秒都很重要。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "每一秒都很重要。",
+                    "SliceSentence": "每一 秒 都很 重要",
+                    "StartMs": 0,
+                    "EndMs": 1444,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "每一",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "秒",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "都很",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "重要",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 7.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.444
+        },
+        "RequestId": "5ea636a9-7a10-4bcb-9817-e40f7d176d87"
+    }
+}

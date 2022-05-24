@@ -1,0 +1,39 @@
+{
+    "character": "teemo",
+    "id": "1044153922",
+    "result": "正在报告。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012798011,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.083]  正在报告。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "正在报告。",
+                    "SliceSentence": "正在 报告",
+                    "StartMs": 0,
+                    "EndMs": 1083,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "报告",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.083125
+        },
+        "RequestId": "587b632a-0015-4cdd-85f0-f758faa9a96a"
+    }
+}

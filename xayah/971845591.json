@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "971845591",
+    "result": "这是同一场战斗。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012838379,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.598]  这是同一场战斗。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是同一场战斗。",
+                    "SliceSentence": "这是 同一 场 战斗",
+                    "StartMs": 0,
+                    "EndMs": 1598,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "同一",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "场",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "战斗",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.598
+        },
+        "RequestId": "761eedd4-a8e2-40ac-b34b-5b46bceb38b1"
+    }
+}

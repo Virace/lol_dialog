@@ -1,0 +1,49 @@
+{
+    "character": "katarina",
+    "id": "601697586",
+    "result": "死人总比呆子好。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012697070,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.020,0:2.938]  死人总比呆子好。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "死人总比呆子好。",
+                    "SliceSentence": "死人 总比 呆子 好",
+                    "StartMs": 20,
+                    "EndMs": 2938,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "死人",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "总比",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "呆子",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2760
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.938125
+        },
+        "RequestId": "c8b19884-c958-4bdc-906f-72c89b89eae8"
+    }
+}

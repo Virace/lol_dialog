@@ -1,0 +1,49 @@
+{
+    "character": "renata",
+    "id": "1874015944",
+    "result": "做生意就是这样的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012760185,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.880]  做生意就是这样的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "做生意就是这样的。",
+                    "SliceSentence": "做生意 就是 这样 的",
+                    "StartMs": 0,
+                    "EndMs": 2880,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "做生意",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "这样",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.996563
+        },
+        "RequestId": "a767e224-977c-45d4-949e-b9b5419f085e"
+    }
+}

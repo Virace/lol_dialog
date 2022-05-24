@@ -1,0 +1,39 @@
+{
+    "character": "singed",
+    "id": "1672583805",
+    "result": "正在路上。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012775421,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.462]  正在路上。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "正在路上。",
+                    "SliceSentence": "正在 路上",
+                    "StartMs": 0,
+                    "EndMs": 1462,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "路上",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.462875
+        },
+        "RequestId": "9744dfce-979e-4b76-ade5-72763d37b04b"
+    }
+}

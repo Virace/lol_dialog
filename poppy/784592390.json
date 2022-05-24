@@ -1,0 +1,49 @@
+{
+    "character": "poppy",
+    "id": "784592390",
+    "result": "啊，没想到我能做到。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012743909,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.442]  啊，没想到我能做到。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，没想到我能做到。",
+                    "SliceSentence": "啊 没想到 我能 做到",
+                    "StartMs": 0,
+                    "EndMs": 2442,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "没想到",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "我能",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "做到",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.442625
+        },
+        "RequestId": "b8c72f1c-910f-4d32-84f2-4a2eb5c644b9"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "ornn",
+    "id": "1276075311",
+    "result": "打掉了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012737996,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.166]  打掉了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "打掉了。",
+                    "SliceSentence": "打掉 了",
+                    "StartMs": 0,
+                    "EndMs": 1166,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "打掉",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 720
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.166375
+        },
+        "RequestId": "8aba7862-cda1-4b1a-b567-0154feef2d52"
+    }
+}

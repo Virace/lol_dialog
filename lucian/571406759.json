@@ -1,0 +1,49 @@
+{
+    "character": "lucian",
+    "id": "571406759",
+    "result": "你我之间只有枪火。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718334,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.320]  你我之间只有枪火。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你我之间只有枪火。",
+                    "SliceSentence": "你我 之间 只有 枪火",
+                    "StartMs": 0,
+                    "EndMs": 3320,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "之间",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "只有",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "枪火",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.320438
+        },
+        "RequestId": "e96371bf-245b-468e-89ab-858aa3f1e2a2"
+    }
+}

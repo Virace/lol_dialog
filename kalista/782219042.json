@@ -1,0 +1,49 @@
+{
+    "character": "kalista",
+    "id": "782219042",
+    "result": "你的背叛结束了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012694774,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.977]  你的背叛结束了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你的背叛结束了。",
+                    "SliceSentence": "你的 背叛 结束 了",
+                    "StartMs": 0,
+                    "EndMs": 3977,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "背叛",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "结束",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2940
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2970,
+                            "OffsetEndMs": 3210
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.977
+        },
+        "RequestId": "b87a087b-e177-4ce5-aa71-55c0b6d51b83"
+    }
+}

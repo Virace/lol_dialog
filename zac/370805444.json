@@ -1,0 +1,54 @@
+{
+    "character": "zac",
+    "id": "370805444",
+    "result": "它的出现让我憎恨。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012849173,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.590]  它的出现让我憎恨。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "它的出现让我憎恨。",
+                    "SliceSentence": "它 的 出现 让我 憎恨",
+                    "StartMs": 0,
+                    "EndMs": 1590,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "它",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "出现",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "让我",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "憎恨",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 8.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.59075
+        },
+        "RequestId": "bf4a34c7-4df1-48a8-a4e9-14ec923e5a05"
+    }
+}

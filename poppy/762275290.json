@@ -1,0 +1,95 @@
+{
+    "character": "poppy",
+    "id": "762275290",
+    "result": "它有点大。但我再长高些救和珅啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012743872,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.760]  它有点大。\n[0:1.760,0:3.916]  但我再长高些救和珅啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "它有点大。",
+                    "SliceSentence": "它 有点 大",
+                    "StartMs": 0,
+                    "EndMs": 1760,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "它",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "有点",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "大",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "但我再长高些救和珅啦。",
+                    "SliceSentence": "但 我 再 长高 些 救 和珅 啦",
+                    "StartMs": 1760,
+                    "EndMs": 3916,
+                    "WordsNum": 8,
+                    "Words": [
+                        {
+                            "Word": "但",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "再",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "长高",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "些",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "救",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "和珅",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 8.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.916313
+        },
+        "RequestId": "e43f8e32-e21f-4dbb-968f-6826f4750815"
+    }
+}

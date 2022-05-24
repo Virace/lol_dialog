@@ -1,0 +1,49 @@
+{
+    "character": "taliyah",
+    "id": "456531569",
+    "result": "你也可以试一次。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012793390,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.365]  你也可以试一次。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你也可以试一次。",
+                    "SliceSentence": "你也 可以 试 一次",
+                    "StartMs": 0,
+                    "EndMs": 1365,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你也",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "试",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "一次",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 8.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.365
+        },
+        "RequestId": "fa5b3ca7-59a0-4265-88a9-70fb828f22c2"
+    }
+}

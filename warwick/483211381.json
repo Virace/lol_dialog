@@ -1,0 +1,64 @@
+{
+    "character": "warwick",
+    "id": "483211381",
+    "result": "你连喊都喊不出来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012832270,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.204]  你连喊都喊不出来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你连喊都喊不出来。",
+                    "SliceSentence": "你 连 喊 都 喊 不 出来",
+                    "StartMs": 0,
+                    "EndMs": 3204,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "连",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "喊",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "都",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "喊",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "出来",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.204688
+        },
+        "RequestId": "42161f22-454e-4a46-8f87-ab757ffe7a51"
+    }
+}

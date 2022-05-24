@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "1655818231",
+    "result": "我就在这里。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012751283,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.361]  我就在这里。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我就在这里。",
+                    "SliceSentence": "我 就在 这里",
+                    "StartMs": 0,
+                    "EndMs": 1361,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "就在",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "这里",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.361625
+        },
+        "RequestId": "234202c2-a19f-41a4-8291-5a013a3ea2af"
+    }
+}

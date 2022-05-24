@@ -1,0 +1,80 @@
+{
+    "character": "sylas",
+    "id": "1421994051",
+    "result": "哎。我们会砸碎这个老鼠笼子的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786478,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.360]  哎。\n[0:6.380,0:9.078]  我们会砸碎这个老鼠笼子的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哎。",
+                    "SliceSentence": "哎",
+                    "StartMs": 0,
+                    "EndMs": 1360,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "哎",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "我们会砸碎这个老鼠笼子的。",
+                    "SliceSentence": "我们 会 砸碎 这个 老鼠 笼子 的",
+                    "StartMs": 6380,
+                    "EndMs": 9078,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "砸碎",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "老鼠",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "笼子",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2370
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2370,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 9.078313
+        },
+        "RequestId": "2e24078a-cbe1-4613-8371-45c5cba12bd3"
+    }
+}

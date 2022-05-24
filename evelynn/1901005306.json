@@ -1,0 +1,54 @@
+{
+    "character": "evelynn",
+    "id": "1901005306",
+    "result": "我让他们痛无可痛。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012562734,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.720]  我让他们痛无可痛。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我让他们痛无可痛。",
+                    "SliceSentence": "我让 他们 痛 无可 痛",
+                    "StartMs": 0,
+                    "EndMs": 3720,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我让",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "痛",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "无可",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "痛",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.87775
+        },
+        "RequestId": "43408674-b157-42da-bf9c-7d7813958c38"
+    }
+}

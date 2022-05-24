@@ -1,0 +1,44 @@
+{
+    "character": "fiora",
+    "id": "1066158011",
+    "result": "他们不敢还击。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012567207,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.205]  他们不敢还击。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们不敢还击。",
+                    "SliceSentence": "他们 不敢 还击",
+                    "StartMs": 0,
+                    "EndMs": 2205,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "不敢",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "还击",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.205938
+        },
+        "RequestId": "451c58d8-9ed5-43bb-8809-75db18aaac1b"
+    }
+}

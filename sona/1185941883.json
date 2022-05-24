@@ -1,0 +1,49 @@
+{
+    "character": "sona",
+    "id": "1185941883",
+    "result": "每个音符都很重要。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012780814,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.140]  每个音符都很重要。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "每个音符都很重要。",
+                    "SliceSentence": "每个 音符 都很 重要",
+                    "StartMs": 0,
+                    "EndMs": 5140,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "每个",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "音符",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "都很",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "重要",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2580
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.48925
+        },
+        "RequestId": "2badca61-6ea1-411d-93e6-a28e8746d41b"
+    }
+}

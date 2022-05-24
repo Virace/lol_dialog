@@ -1,0 +1,44 @@
+{
+    "character": "evelynn",
+    "id": "381678999",
+    "result": "爱上，然后离开。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012563628,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.460]  爱上，然后离开。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "爱上，然后离开。",
+                    "SliceSentence": "爱上 然后 离开",
+                    "StartMs": 0,
+                    "EndMs": 3460,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "爱上",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "然后",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "离开",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2790
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.575875
+        },
+        "RequestId": "ce8cffb4-cd24-48a1-8e95-739380eaa411"
+    }
+}

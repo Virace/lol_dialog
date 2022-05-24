@@ -1,0 +1,44 @@
+{
+    "character": "khazix",
+    "id": "958223575",
+    "result": "我要刺穿他们。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012704234,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.380]  我要刺穿他们。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要刺穿他们。",
+                    "SliceSentence": "我要 刺穿 他们",
+                    "StartMs": 0,
+                    "EndMs": 3380,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "刺穿",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2730
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.557313
+        },
+        "RequestId": "d0ec6997-7778-4adc-ae89-7d61383d3a44"
+    }
+}

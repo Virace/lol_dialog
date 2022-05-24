@@ -1,0 +1,59 @@
+{
+    "character": "kaisa",
+    "id": "171033104",
+    "result": "我们准备好了，他们会来的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689192,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.831]  我们准备好了，他们会来的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们准备好了，他们会来的。",
+                    "SliceSentence": "我们 准备 好了 他们 会来 的",
+                    "StartMs": 0,
+                    "EndMs": 2831,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "准备",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "好了",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "会来",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.831625
+        },
+        "RequestId": "abb9460e-a39b-4c83-a595-dcf6a7a1919d"
+    }
+}

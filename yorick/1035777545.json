@@ -1,0 +1,54 @@
+{
+    "character": "yorick",
+    "id": "1035777545",
+    "result": "这个部落将吞噬一切。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012843751,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.886]  这个部落将吞噬一切。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这个部落将吞噬一切。",
+                    "SliceSentence": "这个 部落 将 吞噬 一切",
+                    "StartMs": 0,
+                    "EndMs": 3886,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "部落",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "将",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "吞噬",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2610
+                        },
+                        {
+                            "Word": "一切",
+                            "OffsetStartMs": 2610,
+                            "OffsetEndMs": 3630
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.886125
+        },
+        "RequestId": "9d8ef8b3-7053-4676-a45e-0f7735117087"
+    }
+}

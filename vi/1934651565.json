@@ -1,0 +1,59 @@
+{
+    "character": "vi",
+    "id": "1934651565",
+    "result": "我只是喜欢痛扁你们而已。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012812431,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.860,0:4.204]  我只是喜欢痛扁你们而已。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我只是喜欢痛扁你们而已。",
+                    "SliceSentence": "我 只是 喜欢 痛扁 你们 而已",
+                    "StartMs": 860,
+                    "EndMs": 4204,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "只是",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "痛扁",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "你们",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 2670
+                        },
+                        {
+                            "Word": "而已",
+                            "OffsetStartMs": 2670,
+                            "OffsetEndMs": 3180
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.204625
+        },
+        "RequestId": "78f32bc5-7085-45b8-a7db-18d3326bc275"
+    }
+}

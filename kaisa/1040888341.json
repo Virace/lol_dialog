@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "1040888341",
+    "result": "别想难住我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012687912,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.527]  别想难住我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别想难住我。",
+                    "SliceSentence": "别想 难住 我",
+                    "StartMs": 0,
+                    "EndMs": 1527,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "别想",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "难住",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.527938
+        },
+        "RequestId": "e6afe871-3159-4e90-a328-2d8335e2ab7b"
+    }
+}

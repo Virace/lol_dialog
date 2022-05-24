@@ -1,0 +1,59 @@
+{
+    "character": "azir",
+    "id": "192425076",
+    "result": "我们走在一条辉煌之路上。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012548628,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.501]  我们走在一条辉煌之路上。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们走在一条辉煌之路上。",
+                    "SliceSentence": "我们 走在 一条 辉煌 之路 上",
+                    "StartMs": 0,
+                    "EndMs": 3501,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "走在",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "一条",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "辉煌",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2520
+                        },
+                        {
+                            "Word": "之路",
+                            "OffsetStartMs": 2520,
+                            "OffsetEndMs": 3000
+                        },
+                        {
+                            "Word": "上",
+                            "OffsetStartMs": 3000,
+                            "OffsetEndMs": 3270
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.50175
+        },
+        "RequestId": "10eebfb3-73e4-4804-b49e-f323d1a4769b"
+    }
+}

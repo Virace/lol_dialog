@@ -1,0 +1,49 @@
+{
+    "character": "aatrox",
+    "id": "1504272944",
+    "result": "我是弑神者。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012532059,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.814]  我是弑神者。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我是弑神者。",
+                    "SliceSentence": "我 是 弑神 者",
+                    "StartMs": 0,
+                    "EndMs": 4814,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "弑神",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 3780
+                        },
+                        {
+                            "Word": "者",
+                            "OffsetStartMs": 3780,
+                            "OffsetEndMs": 4560
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.814313
+        },
+        "RequestId": "c286f60b-dddc-45d7-b5d8-4b8a66f1a7c4"
+    }
+}

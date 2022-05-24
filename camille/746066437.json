@@ -1,0 +1,59 @@
+{
+    "character": "camille",
+    "id": "746066437",
+    "result": "你正在展示自己的无知。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554095,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.254]  你正在展示自己的无知。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你正在展示自己的无知。",
+                    "SliceSentence": "你 正在 展示 自己 的 无知",
+                    "StartMs": 0,
+                    "EndMs": 2254,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "展示",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "自己",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "无知",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 7.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.254438
+        },
+        "RequestId": "49771739-18ed-4112-8c0f-9747c8d42ac2"
+    }
+}

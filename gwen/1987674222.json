@@ -1,0 +1,39 @@
+{
+    "character": "gwen",
+    "id": "1987674222",
+    "result": "诶，啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012574787,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.233]  诶，啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "诶，啊。",
+                    "SliceSentence": "诶 啊",
+                    "StartMs": 0,
+                    "EndMs": 3233,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "诶",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 1.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.233563
+        },
+        "RequestId": "07da9f7f-b11c-4f22-a2c9-badcf4ff438e"
+    }
+}

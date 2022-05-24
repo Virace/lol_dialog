@@ -1,0 +1,44 @@
+{
+    "character": "sona",
+    "id": "1591666328",
+    "result": "你跑掉了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012781528,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.260]  你跑掉了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你跑掉了。",
+                    "SliceSentence": "你 跑掉 了",
+                    "StartMs": 0,
+                    "EndMs": 3260,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "跑掉",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.914813
+        },
+        "RequestId": "4977dbb4-07e1-45d4-86e3-98e86dda8958"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "senna",
+    "id": "88375686",
+    "result": "安息吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012770022,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.555]  安息吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "安息吧。",
+                    "SliceSentence": "安息 吧",
+                    "StartMs": 0,
+                    "EndMs": 1555,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "安息",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.55575
+        },
+        "RequestId": "581aee04-9236-4811-8256-615119637cb1"
+    }
+}

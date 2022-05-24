@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "202108292",
+    "result": "大姑娘的事情太多了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012752297,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.110]  大姑娘的事情太多了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "大姑娘的事情太多了。",
+                    "SliceSentence": "大姑娘 的 事情 太 多了",
+                    "StartMs": 0,
+                    "EndMs": 2110,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "大姑娘",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "事情",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "太",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "多了",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.1105
+        },
+        "RequestId": "eb66a566-bd34-44c3-9205-e5755a173ddd"
+    }
+}

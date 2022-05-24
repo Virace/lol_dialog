@@ -1,0 +1,59 @@
+{
+    "character": "nidalee",
+    "id": "1288271786",
+    "result": "我将指引您通往胜利。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012731210,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.100,0:2.597]  我将指引您通往胜利。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我将指引您通往胜利。",
+                    "SliceSentence": "我 将指 引 您 通往 胜利",
+                    "StartMs": 100,
+                    "EndMs": 2597,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "将指",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "引",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "您",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "通往",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "胜利",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.59725
+        },
+        "RequestId": "b4552de2-1420-4f86-bbf5-9d1d7fa1a7d9"
+    }
+}

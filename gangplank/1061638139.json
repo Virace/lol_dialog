@@ -1,0 +1,54 @@
+{
+    "character": "gangplank",
+    "id": "1061638139",
+    "result": "电刃在手，好处多多。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012570378,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.316]  电刃在手，好处多多。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "电刃在手，好处多多。",
+                    "SliceSentence": "电 刃 在手 好处 多多",
+                    "StartMs": 0,
+                    "EndMs": 3316,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "电",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "刃",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "在手",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "好处",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "多多",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 3120
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.316375
+        },
+        "RequestId": "a30b0ba7-961f-4cf5-89ff-61f6e4c47ede"
+    }
+}

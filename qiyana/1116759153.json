@@ -1,0 +1,59 @@
+{
+    "character": "qiyana",
+    "id": "1116759153",
+    "result": "谁也别碰我的东西。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012747097,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.140,0:3.645]  谁也别碰我的东西。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "谁也别碰我的东西。",
+                    "SliceSentence": "谁也 别 碰 我 的 东西",
+                    "StartMs": 140,
+                    "EndMs": 3645,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "谁也",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "碰",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 3060
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.645563
+        },
+        "RequestId": "5e2d7c4f-3216-44af-9c25-2dbe848d1470"
+    }
+}

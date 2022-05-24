@@ -1,0 +1,49 @@
+{
+    "character": "braum",
+    "id": "820122382",
+    "result": "很简单，看到了吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550611,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.619]  很简单，看到了吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "很简单，看到了吗？",
+                    "SliceSentence": "很简单 看到 了 吗",
+                    "StartMs": 0,
+                    "EndMs": 1619,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "很简单",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "看到",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 6.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.619375
+        },
+        "RequestId": "ee1cde3f-a098-4db4-8397-5ab458f631f9"
+    }
+}

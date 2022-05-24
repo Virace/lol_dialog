@@ -1,0 +1,39 @@
+{
+    "character": "gangplank",
+    "id": "668044794",
+    "result": "连环爆炸。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012571334,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.645]  连环爆炸。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "连环爆炸。",
+                    "SliceSentence": "连环 爆炸",
+                    "StartMs": 0,
+                    "EndMs": 1645,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "连环",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "爆炸",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.645688
+        },
+        "RequestId": "f4d70969-5e88-48a8-9877-247da8ee1e3d"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "gnar",
+    "id": "734418951",
+    "result": "黑狗黑狗。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012572981,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.457]  黑狗黑狗。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "黑狗黑狗。",
+                    "SliceSentence": "黑狗 黑狗",
+                    "StartMs": 0,
+                    "EndMs": 1457,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "黑狗",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "黑狗",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.45725
+        },
+        "RequestId": "2d519b5f-dfcb-4968-ae90-30cf0d09ca47"
+    }
+}

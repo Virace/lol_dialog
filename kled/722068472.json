@@ -1,0 +1,44 @@
+{
+    "character": "kled",
+    "id": "722068472",
+    "result": "终于清静啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012709195,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.604]  终于清静啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "终于清静啦。",
+                    "SliceSentence": "终于 清静 啦",
+                    "StartMs": 0,
+                    "EndMs": 2604,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "终于",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "清静",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.604375
+        },
+        "RequestId": "07475f7f-434f-44bf-900e-94748c8d03c7"
+    }
+}

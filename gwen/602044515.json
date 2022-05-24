@@ -1,0 +1,49 @@
+{
+    "character": "gwen",
+    "id": "602044515",
+    "result": "我感觉活力满满。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012575182,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.718]  我感觉活力满满。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我感觉活力满满。",
+                    "SliceSentence": "我 感觉 活力 满满",
+                    "StartMs": 0,
+                    "EndMs": 2718,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "感觉",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "活力",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "满满",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.718875
+        },
+        "RequestId": "1267189e-9d39-477d-83f4-5b9e024c46d2"
+    }
+}

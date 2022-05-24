@@ -1,0 +1,49 @@
+{
+    "character": "akshan",
+    "id": "1966417578",
+    "result": "休息的还好吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012541072,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.800]  休息的还好吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "休息的还好吗？",
+                    "SliceSentence": "休息 的 还好 吗",
+                    "StartMs": 0,
+                    "EndMs": 2800,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "休息",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "还好",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 9.578688
+        },
+        "RequestId": "db5f977b-776f-490b-9743-defebdee5305"
+    }
+}

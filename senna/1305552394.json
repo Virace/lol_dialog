@@ -1,0 +1,64 @@
+{
+    "character": "senna",
+    "id": "1305552394",
+    "result": "我能握紧的只有手里的枪。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012768350,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.459]  我能握紧的只有手里的枪。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我能握紧的只有手里的枪。",
+                    "SliceSentence": "我能 握紧 的 只有 手里 的 枪",
+                    "StartMs": 0,
+                    "EndMs": 3459,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我能",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "握紧",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "只有",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "手里",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "枪",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 3000
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.459813
+        },
+        "RequestId": "8b6aa2d6-506d-4254-b418-f5237d65cfde"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "swain",
+    "id": "154570574",
+    "result": "我已经知道了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012784083,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.041]  我已经知道了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我已经知道了。",
+                    "SliceSentence": "我 已经 知道 了",
+                    "StartMs": 0,
+                    "EndMs": 2041,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.041813
+        },
+        "RequestId": "a95c741d-681d-49d9-8167-4d083075cfce"
+    }
+}

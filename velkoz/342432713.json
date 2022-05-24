@@ -1,0 +1,54 @@
+{
+    "character": "velkoz",
+    "id": "342432713",
+    "result": "我需要仔细的看一看。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012809691,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.600]  我需要仔细的看一看。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我需要仔细的看一看。",
+                    "SliceSentence": "我 需要 仔细 的 看一看",
+                    "StartMs": 0,
+                    "EndMs": 4600,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "仔细",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "看一看",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 3150
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.81575
+        },
+        "RequestId": "3b60cc15-11ee-4034-b781-47e962b4cc57"
+    }
+}

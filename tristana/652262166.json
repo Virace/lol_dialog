@@ -1,0 +1,44 @@
+{
+    "character": "tristana",
+    "id": "652262166",
+    "result": "炸弹再说，嗨。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012800332,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.546]  炸弹再说，嗨。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "炸弹再说，嗨。",
+                    "SliceSentence": "炸弹 再说 嗨",
+                    "StartMs": 0,
+                    "EndMs": 1546,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "炸弹",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "再说",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "嗨",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.546125
+        },
+        "RequestId": "8cfae9e1-0d35-4d7d-82de-ad8edf38286b"
+    }
+}

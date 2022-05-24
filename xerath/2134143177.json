@@ -1,0 +1,44 @@
+{
+    "character": "xerath",
+    "id": "2134143177",
+    "result": "飞升属于我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012839418,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.971]  飞升属于我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "飞升属于我。",
+                    "SliceSentence": "飞升 属于 我",
+                    "StartMs": 0,
+                    "EndMs": 4971,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "飞升",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "属于",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2580
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 2580,
+                            "OffsetEndMs": 4200
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.971438
+        },
+        "RequestId": "52bd588c-6929-4305-a1e2-053216ca9099"
+    }
+}

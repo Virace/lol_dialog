@@ -1,0 +1,54 @@
+{
+    "character": "heimerdinger",
+    "id": "1349865939",
+    "result": "他已经失去理智了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012576142,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.433]  他已经失去理智了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他已经失去理智了。",
+                    "SliceSentence": "他 已经 失去 理智 了",
+                    "StartMs": 0,
+                    "EndMs": 2433,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "他",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "失去",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "理智",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.433875
+        },
+        "RequestId": "c080ad40-7204-494c-8c2e-2485e280f939"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "kled",
+    "id": "329122249",
+    "result": "我要杀光他们。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012707284,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.333]  我要杀光他们。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要杀光他们。",
+                    "SliceSentence": "我要 杀光 他们",
+                    "StartMs": 0,
+                    "EndMs": 2333,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "杀光",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.333
+        },
+        "RequestId": "d136ea0f-cf8f-4b81-9206-b603f293b164"
+    }
+}

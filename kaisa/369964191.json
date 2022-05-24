@@ -1,0 +1,54 @@
+{
+    "character": "kaisa",
+    "id": "369964191",
+    "result": "咱们就别兜圈子了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012690434,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.740]  咱们就别兜圈子了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "咱们就别兜圈子了。",
+                    "SliceSentence": "咱们 就 别 兜圈子 了",
+                    "StartMs": 0,
+                    "EndMs": 1740,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "咱们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "兜圈子",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 7.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.740875
+        },
+        "RequestId": "62759cfc-33cd-4092-a7ca-0d885e0db16c"
+    }
+}

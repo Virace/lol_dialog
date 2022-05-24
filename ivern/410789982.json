@@ -1,0 +1,44 @@
+{
+    "character": "ivern",
+    "id": "410789982",
+    "result": "不要在这儿逗留。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012682193,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.941]  不要在这儿逗留。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要在这儿逗留。",
+                    "SliceSentence": "不要 在这儿 逗留",
+                    "StartMs": 0,
+                    "EndMs": 1941,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "在这儿",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "逗留",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.941875
+        },
+        "RequestId": "dab52bdc-cdfd-4857-8bf0-fb42757102b8"
+    }
+}

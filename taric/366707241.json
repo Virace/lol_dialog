@@ -1,0 +1,44 @@
+{
+    "character": "taric",
+    "id": "366707241",
+    "result": "这真是以毒攻毒。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012796743,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.005]  这真是以毒攻毒。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这真是以毒攻毒。",
+                    "SliceSentence": "这 真是 以毒攻毒",
+                    "StartMs": 0,
+                    "EndMs": 3005,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "真是",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "以毒攻毒",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.0055
+        },
+        "RequestId": "87d1a68c-f6e1-47e1-843d-bd1503a96120"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "galio",
+    "id": "1019216182",
+    "result": "我来者不拒。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568134,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.693]  我来者不拒。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我来者不拒。",
+                    "SliceSentence": "我 来者不拒",
+                    "StartMs": 0,
+                    "EndMs": 1693,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "来者不拒",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.693375
+        },
+        "RequestId": "3eff4311-65ea-491e-a8ec-7461753f02a0"
+    }
+}

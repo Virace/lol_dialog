@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "319840555",
+    "result": "我们还活着呀。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012836383,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.433]  我们还活着呀。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们还活着呀。",
+                    "SliceSentence": "我们 还 活着 呀",
+                    "StartMs": 0,
+                    "EndMs": 1433,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "还",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "活着",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "呀",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.433125
+        },
+        "RequestId": "091e89f8-d460-4b2d-aa50-5d8cbff88c9c"
+    }
+}

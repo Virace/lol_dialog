@@ -1,0 +1,39 @@
+{
+    "character": "cassiopeia",
+    "id": "62679078",
+    "result": "别害羞。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012555024,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.395]  别害羞。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别害羞。",
+                    "SliceSentence": "别 害羞",
+                    "StartMs": 0,
+                    "EndMs": 1395,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "害羞",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.395938
+        },
+        "RequestId": "2477cecf-93ac-4c20-b6f4-8151676d71fb"
+    }
+}

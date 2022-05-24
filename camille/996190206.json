@@ -1,0 +1,49 @@
+{
+    "character": "camille",
+    "id": "996190206",
+    "result": "看来你不是英雄。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554578,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.894]  看来你不是英雄。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "看来你不是英雄。",
+                    "SliceSentence": "看来 你 不是 英雄",
+                    "StartMs": 0,
+                    "EndMs": 1894,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "看来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "英雄",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.894813
+        },
+        "RequestId": "92fb63af-1f01-447b-9345-23fa5e2da1d1"
+    }
+}

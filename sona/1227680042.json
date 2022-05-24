@@ -1,0 +1,39 @@
+{
+    "character": "sona",
+    "id": "1227680042",
+    "result": "低音循环。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012781017,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.680]  低音循环。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "低音循环。",
+                    "SliceSentence": "低音 循环",
+                    "StartMs": 0,
+                    "EndMs": 3680,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "低音",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "循环",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.089625
+        },
+        "RequestId": "6be94404-8903-4d77-8301-625b23839de1"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "poppy",
+    "id": "77283234",
+    "result": "准备好了吗，锤子？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012743874,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.534]  准备好了吗，锤子？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "准备好了吗，锤子？",
+                    "SliceSentence": "准备 好了 吗 锤子",
+                    "StartMs": 0,
+                    "EndMs": 1534,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "准备",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "好了",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "锤子",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 7.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.534375
+        },
+        "RequestId": "13dda8f4-3825-4baa-91b4-6323d2a1bb0d"
+    }
+}

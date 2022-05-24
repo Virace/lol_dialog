@@ -1,0 +1,44 @@
+{
+    "character": "aatrox",
+    "id": "1051975519",
+    "result": "啊啊啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012531466,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.499]  啊啊啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊啊啊。",
+                    "SliceSentence": "啊 啊 啊",
+                    "StartMs": 0,
+                    "EndMs": 3499,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 3090
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.499625
+        },
+        "RequestId": "a6609771-7424-403c-93f4-a32c783a7276"
+    }
+}

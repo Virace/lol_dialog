@@ -1,0 +1,49 @@
+{
+    "character": "nocturne",
+    "id": "887687747",
+    "result": "黑暗来了，害怕吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012732477,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.393]  黑暗来了，害怕吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "黑暗来了，害怕吗？",
+                    "SliceSentence": "黑暗 来了 害怕 吗",
+                    "StartMs": 0,
+                    "EndMs": 4393,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "黑暗",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "来了",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "害怕",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 3300
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 3300,
+                            "OffsetEndMs": 3780
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.393688
+        },
+        "RequestId": "157f18f3-67b0-42f0-8a15-e6b3051cd58d"
+    }
+}

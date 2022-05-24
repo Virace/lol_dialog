@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "1024696679",
+    "result": "你好意思说。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012833417,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.188]  你好意思说。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你好意思说。",
+                    "SliceSentence": "你 好意思 说",
+                    "StartMs": 0,
+                    "EndMs": 1188,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 60
+                        },
+                        {
+                            "Word": "好意思",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.188188
+        },
+        "RequestId": "89bb42b1-a143-41f7-ac81-36314dd1f6fe"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "maokai",
+    "id": "964297510",
+    "result": "这是我与生俱来的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012722698,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.254]  这是我与生俱来的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是我与生俱来的。",
+                    "SliceSentence": "这 是我 与生俱来 的",
+                    "StartMs": 0,
+                    "EndMs": 3254,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "与生俱来",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.254875
+        },
+        "RequestId": "8b96f182-b689-4b4d-84d0-77d8f68d0202"
+    }
+}

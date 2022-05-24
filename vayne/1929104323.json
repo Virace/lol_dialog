@@ -1,0 +1,49 @@
+{
+    "character": "vayne",
+    "id": "1929104323",
+    "result": "我让他们得到解脱。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012808606,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.820]  我让他们得到解脱。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我让他们得到解脱。",
+                    "SliceSentence": "我让 他们 得到 解脱",
+                    "StartMs": 0,
+                    "EndMs": 3820,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我让",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "得到",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "解脱",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 3510
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.119063
+        },
+        "RequestId": "86bc5508-31de-4c26-9a1a-22e11fe1482a"
+    }
+}

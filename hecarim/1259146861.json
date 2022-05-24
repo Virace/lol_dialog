@@ -1,0 +1,44 @@
+{
+    "character": "hecarim",
+    "id": "1259146861",
+    "result": "我从不休息。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012575590,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.178]  我从不休息。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我从不休息。",
+                    "SliceSentence": "我 从不 休息",
+                    "StartMs": 0,
+                    "EndMs": 3178,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "从不",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "休息",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.178813
+        },
+        "RequestId": "b693fc65-7351-44e6-9ef7-11cd4ab94ab3"
+    }
+}

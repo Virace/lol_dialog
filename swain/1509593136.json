@@ -1,0 +1,54 @@
+{
+    "character": "swain",
+    "id": "1509593136",
+    "result": "我们必须提醒他们的身份。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012784048,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.149]  我们必须提醒他们的身份。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们必须提醒他们的身份。",
+                    "SliceSentence": "我们必须 提醒 他们 的 身份",
+                    "StartMs": 0,
+                    "EndMs": 3149,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我们必须",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "提醒",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "身份",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2910
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.149563
+        },
+        "RequestId": "23ed5ebc-da3f-425a-8987-ef39bb5c7147"
+    }
+}

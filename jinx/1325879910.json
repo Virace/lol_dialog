@@ -1,0 +1,39 @@
+{
+    "character": "jinx",
+    "id": "1325879910",
+    "result": "啊啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012686949,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.632]  啊啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊啊。",
+                    "SliceSentence": "啊 啊",
+                    "StartMs": 0,
+                    "EndMs": 2632,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.632875
+        },
+        "RequestId": "f7e4864b-a178-45b6-9134-b576899e7cf2"
+    }
+}

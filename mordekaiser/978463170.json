@@ -1,0 +1,44 @@
+{
+    "character": "mordekaiser",
+    "id": "978463170",
+    "result": "抓住你了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012725675,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.385]  抓住你了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "抓住你了。",
+                    "SliceSentence": "抓住 你 了",
+                    "StartMs": 0,
+                    "EndMs": 2385,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "抓住",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.385125
+        },
+        "RequestId": "a7d4b235-8b8a-4e0a-9e40-2ce093045bb9"
+    }
+}

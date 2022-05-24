@@ -1,0 +1,54 @@
+{
+    "character": "samira",
+    "id": "742932571",
+    "result": "我从来不会丢了架子。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012767163,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.739]  我从来不会丢了架子。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我从来不会丢了架子。",
+                    "SliceSentence": "我 从来 不会 丢了 架子",
+                    "StartMs": 0,
+                    "EndMs": 2739,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "从来",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "丢了",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "架子",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.739938
+        },
+        "RequestId": "73cfa0a4-d8ac-4e6c-a017-5242249ad321"
+    }
+}

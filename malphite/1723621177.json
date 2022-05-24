@@ -1,0 +1,39 @@
+{
+    "character": "malphite",
+    "id": "1723621177",
+    "result": "啊，哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012719951,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.000]  啊，哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，哈哈。",
+                    "SliceSentence": "啊 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 3000,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3
+        },
+        "RequestId": "30307f78-dbea-4488-ba3b-f76ce76ebed1"
+    }
+}

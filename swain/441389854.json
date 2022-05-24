@@ -1,0 +1,54 @@
+{
+    "character": "swain",
+    "id": "441389854",
+    "result": "这场仗还没打完呢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012785210,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.371]  这场仗还没打完呢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这场仗还没打完呢。",
+                    "SliceSentence": "这场 仗 还没 打完 呢",
+                    "StartMs": 0,
+                    "EndMs": 2371,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这场",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "仗",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "还没",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "打完",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.371125
+        },
+        "RequestId": "01f834f1-975a-4669-99f8-4a5ffdb7086a"
+    }
+}

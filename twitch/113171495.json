@@ -1,0 +1,49 @@
+{
+    "character": "twitch",
+    "id": "113171495",
+    "result": "我在监视着。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012802666,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.832]  我在监视着。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我在监视着。",
+                    "SliceSentence": "我 在 监视 着",
+                    "StartMs": 0,
+                    "EndMs": 2832,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "监视",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "着",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2610
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.832875
+        },
+        "RequestId": "24f26a69-e396-45de-a2f6-a8ec305ea9a8"
+    }
+}

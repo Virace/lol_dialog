@@ -1,0 +1,49 @@
+{
+    "character": "galio",
+    "id": "353614909",
+    "result": "这个大家伙留给我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568839,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.625]  这个大家伙留给我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这个大家伙留给我。",
+                    "SliceSentence": "这个 大家伙 留 给我",
+                    "StartMs": 0,
+                    "EndMs": 1625,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "大家伙",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "留",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "给我",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.6255
+        },
+        "RequestId": "22511484-b926-443d-b61c-ff77ddeedc35"
+    }
+}

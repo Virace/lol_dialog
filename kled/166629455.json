@@ -1,0 +1,49 @@
+{
+    "character": "kled",
+    "id": "166629455",
+    "result": "放松点，孩子放松。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012706521,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.277]  放松点，孩子放松。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "放松点，孩子放松。",
+                    "SliceSentence": "放松 点 孩子 放松",
+                    "StartMs": 0,
+                    "EndMs": 2277,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "放松",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "点",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "孩子",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "放松",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.277313
+        },
+        "RequestId": "dce2c269-423f-457e-b5d0-c12f135dc009"
+    }
+}

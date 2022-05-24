@@ -1,0 +1,54 @@
+{
+    "character": "sylas",
+    "id": "1270639215",
+    "result": "合理的归我啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786291,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.437]  合理的归我啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "合理的归我啦。",
+                    "SliceSentence": "合理 的 归 我 啦",
+                    "StartMs": 0,
+                    "EndMs": 1437,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "合理",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "归",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 7.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.43775
+        },
+        "RequestId": "d6776eec-577a-4cea-84ca-d964b3afb935"
+    }
+}

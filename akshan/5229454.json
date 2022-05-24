@@ -1,0 +1,44 @@
+{
+    "character": "akshan",
+    "id": "5229454",
+    "result": "嘿嘿，来吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012541278,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.026]  嘿嘿，来吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘿嘿，来吧。",
+                    "SliceSentence": "嘿嘿 来 吧",
+                    "StartMs": 0,
+                    "EndMs": 2026,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "嘿嘿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.026688
+        },
+        "RequestId": "080a0320-2b00-4c5e-899e-837ab203ea4d"
+    }
+}

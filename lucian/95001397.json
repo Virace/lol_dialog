@@ -1,0 +1,49 @@
+{
+    "character": "lucian",
+    "id": "95001397",
+    "result": "因为我试过哦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718679,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.436]  因为我试过哦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "因为我试过哦。",
+                    "SliceSentence": "因为 我 试过 哦",
+                    "StartMs": 0,
+                    "EndMs": 3436,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "因为",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "试过",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "哦",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2730
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.436563
+        },
+        "RequestId": "e00e3eb7-e7f5-4da6-a707-4257d66390df"
+    }
+}

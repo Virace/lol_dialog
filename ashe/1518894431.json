@@ -1,0 +1,49 @@
+{
+    "character": "ashe",
+    "id": "1518894431",
+    "result": "我从不手抖。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012545009,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.718]  我从不手抖。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我从不手抖。",
+                    "SliceSentence": "我 从不 手 抖",
+                    "StartMs": 0,
+                    "EndMs": 1718,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "从不",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "手",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "抖",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.718313
+        },
+        "RequestId": "f45b0948-88af-4013-b077-a5ac87791e4a"
+    }
+}

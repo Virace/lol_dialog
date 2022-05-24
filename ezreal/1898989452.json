@@ -1,0 +1,49 @@
+{
+    "character": "ezreal",
+    "id": "1898989452",
+    "result": "我总能抄近道。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012566227,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.345]  我总能抄近道。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我总能抄近道。",
+                    "SliceSentence": "我 总能 抄 近道",
+                    "StartMs": 0,
+                    "EndMs": 1345,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "总能",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "抄",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "近道",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.345438
+        },
+        "RequestId": "60e8df00-f826-4eb3-8a28-89a09a38f12b"
+    }
+}

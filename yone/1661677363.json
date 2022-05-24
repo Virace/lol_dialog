@@ -1,0 +1,49 @@
+{
+    "character": "yone",
+    "id": "1661677363",
+    "result": "我知道你的名字。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012842474,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.413]  我知道你的名字。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我知道你的名字。",
+                    "SliceSentence": "我 知道 你的 名字",
+                    "StartMs": 0,
+                    "EndMs": 3413,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "名字",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.413375
+        },
+        "RequestId": "c7ca95fb-afae-4ed8-a014-f48ec7c95456"
+    }
+}

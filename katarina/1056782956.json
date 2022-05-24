@@ -1,0 +1,59 @@
+{
+    "character": "katarina",
+    "id": "1056782956",
+    "result": "我已经做出了我的选择。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012696850,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.315]  我已经做出了我的选择。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我已经做出了我的选择。",
+                    "SliceSentence": "我 已经 做出了 我 的 选择",
+                    "StartMs": 0,
+                    "EndMs": 2315,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "做出了",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "选择",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.315375
+        },
+        "RequestId": "33ae92bf-5e99-489e-8b2a-60c75e4a090e"
+    }
+}

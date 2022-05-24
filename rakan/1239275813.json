@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "1239275813",
+    "result": "披风蠢透了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749866,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.635]  披风蠢透了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "披风蠢透了。",
+                    "SliceSentence": "披风 蠢 透 了",
+                    "StartMs": 0,
+                    "EndMs": 1635,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "披风",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "蠢",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "透",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.635875
+        },
+        "RequestId": "0601651c-7d58-497d-95b8-066c5ab18ecf"
+    }
+}

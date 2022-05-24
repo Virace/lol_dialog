@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "2062807735",
+    "result": "快了，亲爱的，慢慢来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012836039,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.115]  快了，亲爱的，慢慢来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "快了，亲爱的，慢慢来。",
+                    "SliceSentence": "快了 亲爱的 慢慢来",
+                    "StartMs": 0,
+                    "EndMs": 2115,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "快了",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "亲爱的",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "慢慢来",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.1155
+        },
+        "RequestId": "f4e754db-0730-4d0f-bbb0-8d5e65a89d91"
+    }
+}

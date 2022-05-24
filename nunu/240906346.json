@@ -1,0 +1,49 @@
+{
+    "character": "nunu",
+    "id": "240906346",
+    "result": "我可以的啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012735245,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.569]  我可以的啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我可以的啊。",
+                    "SliceSentence": "我 可以 的 啊",
+                    "StartMs": 0,
+                    "EndMs": 2569,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.569188
+        },
+        "RequestId": "c364c88a-e0dd-4c7a-bc70-f26048ff06eb"
+    }
+}

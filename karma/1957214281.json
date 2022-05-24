@@ -1,0 +1,49 @@
+{
+    "character": "karma",
+    "id": "1957214281",
+    "result": "Saw Alice the TV。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012695235,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.176]  Saw Alice the TV。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "Saw Alice the TV。",
+                    "SliceSentence": "Saw Alice the TV",
+                    "StartMs": 0,
+                    "EndMs": 2176,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "Saw",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "Alice",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "the",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "TV",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 7.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.176375
+        },
+        "RequestId": "5afd5b22-f990-49bf-9ceb-025c5645848e"
+    }
+}

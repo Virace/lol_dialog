@@ -1,0 +1,54 @@
+{
+    "character": "xayah",
+    "id": "1307603262",
+    "result": "请帮我挡一下。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012834290,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.576]  请帮我挡一下。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "请帮我挡一下。",
+                    "SliceSentence": "请 帮 我 挡 一下",
+                    "StartMs": 0,
+                    "EndMs": 1576,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "请",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "帮",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "挡",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "一下",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.576125
+        },
+        "RequestId": "479ed22d-4135-4818-9a0c-2dd37f58f9ac"
+    }
+}

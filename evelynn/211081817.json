@@ -1,0 +1,54 @@
+{
+    "character": "evelynn",
+    "id": "211081817",
+    "result": "这种饥渴很快就会被满足。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012563063,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.500]  这种饥渴很快就会被满足。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这种饥渴很快就会被满足。",
+                    "SliceSentence": "这种 饥渴 很快就 会被 满足",
+                    "StartMs": 0,
+                    "EndMs": 5500,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这种",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "饥渴",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "很快就",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2610
+                        },
+                        {
+                            "Word": "会被",
+                            "OffsetStartMs": 2610,
+                            "OffsetEndMs": 2910
+                        },
+                        {
+                            "Word": "满足",
+                            "OffsetStartMs": 2910,
+                            "OffsetEndMs": 3870
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.685813
+        },
+        "RequestId": "63e9cd7d-3c60-43a3-b323-122d3d3f5e65"
+    }
+}

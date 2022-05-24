@@ -1,0 +1,59 @@
+{
+    "character": "yuumi",
+    "id": "1491566636",
+    "result": "我是最神奇的猫咪。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012846774,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.108]  我是最神奇的猫咪。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我是最神奇的猫咪。",
+                    "SliceSentence": "我 是 最 神奇 的 猫咪",
+                    "StartMs": 0,
+                    "EndMs": 2108,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "最",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "神奇",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "猫咪",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.108438
+        },
+        "RequestId": "210ea43c-bdab-4f49-9420-b12e9260d511"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "ornn",
+    "id": "920101207",
+    "result": "我一点也不开心。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012740208,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.875]  我一点也不开心。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我一点也不开心。",
+                    "SliceSentence": "我 一点 也不 开心",
+                    "StartMs": 0,
+                    "EndMs": 1875,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "一点",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "也不",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "开心",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.875375
+        },
+        "RequestId": "28f5930a-856d-4286-80f5-be7b79944500"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "character": "sylas",
+    "id": "1127484800",
+    "result": "呵呵。啊？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786131,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.260]  呵呵。\n[0:1.260,0:2.307]  啊？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "呵呵。",
+                    "SliceSentence": "呵呵",
+                    "StartMs": 0,
+                    "EndMs": 1260,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "呵呵",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "啊？",
+                    "SliceSentence": "啊",
+                    "StartMs": 1260,
+                    "EndMs": 2307,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.307125
+        },
+        "RequestId": "b997be18-a4b0-4d11-8394-16ee410997df"
+    }
+}

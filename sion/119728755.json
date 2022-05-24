@@ -1,0 +1,44 @@
+{
+    "character": "sion",
+    "id": "119728755",
+    "result": "我需要屠戮。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012776007,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.736]  我需要屠戮。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我需要屠戮。",
+                    "SliceSentence": "我 需要 屠戮",
+                    "StartMs": 0,
+                    "EndMs": 2736,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "屠戮",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.736563
+        },
+        "RequestId": "989eed1c-316e-4941-bc40-b4c4fa41bcb2"
+    }
+}

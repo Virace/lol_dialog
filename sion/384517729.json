@@ -1,0 +1,59 @@
+{
+    "character": "sion",
+    "id": "384517729",
+    "result": "我要把你碾成灰。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012776835,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.433]  我要把你碾成灰。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要把你碾成灰。",
+                    "SliceSentence": "我要 把 你 碾 成 灰",
+                    "StartMs": 0,
+                    "EndMs": 3433,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "碾",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "成",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "灰",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 3240
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.433563
+        },
+        "RequestId": "cdbf2fcf-f47a-42a7-b028-8f29c4552c6f"
+    }
+}

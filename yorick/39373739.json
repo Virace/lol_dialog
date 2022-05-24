@@ -1,0 +1,39 @@
+{
+    "character": "yorick",
+    "id": "39373739",
+    "result": "为了生命。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012844723,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.656]  为了生命。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "为了生命。",
+                    "SliceSentence": "为了 生命",
+                    "StartMs": 0,
+                    "EndMs": 1656,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "为了",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "生命",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.656313
+        },
+        "RequestId": "b1ede4a0-2e87-45a2-8633-9e99ad2ce16d"
+    }
+}

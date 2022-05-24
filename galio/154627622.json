@@ -1,0 +1,59 @@
+{
+    "character": "galio",
+    "id": "154627622",
+    "result": "一堆写满字的纸。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568409,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.138]  一堆写满字的纸。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一堆写满字的纸。",
+                    "SliceSentence": "一堆 写 满 字 的 纸",
+                    "StartMs": 0,
+                    "EndMs": 2138,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "一堆",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "写",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "满",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "字",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "纸",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.138625
+        },
+        "RequestId": "e0c4f8fd-56cd-4f7e-a269-8f675a03b37a"
+    }
+}

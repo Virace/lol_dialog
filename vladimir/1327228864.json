@@ -1,0 +1,49 @@
+{
+    "character": "vladimir",
+    "id": "1327228864",
+    "result": "一次重大的抉择。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012815081,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.517]  一次重大的抉择。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一次重大的抉择。",
+                    "SliceSentence": "一次 重大 的 抉择",
+                    "StartMs": 0,
+                    "EndMs": 2517,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "一次",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "重大",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "抉择",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.517
+        },
+        "RequestId": "d1e49ea1-2455-4b9c-a3fc-5da28e2b59eb"
+    }
+}

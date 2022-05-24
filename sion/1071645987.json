@@ -1,0 +1,49 @@
+{
+    "character": "sion",
+    "id": "1071645987",
+    "result": "你什么也不是。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012775935,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.024]  你什么也不是。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你什么也不是。",
+                    "SliceSentence": "你 什么 也 不是",
+                    "StartMs": 0,
+                    "EndMs": 3024,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "也",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2760
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.02475
+        },
+        "RequestId": "bdde3d43-12af-4ead-b76a-b2e559e184a6"
+    }
+}

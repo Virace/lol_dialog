@@ -1,0 +1,49 @@
+{
+    "character": "kaisa",
+    "id": "2116162",
+    "result": "专为你准备的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689939,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.747]  专为你准备的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "专为你准备的。",
+                    "SliceSentence": "专为 你 准备 的",
+                    "StartMs": 0,
+                    "EndMs": 1747,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "专为",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "准备",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.747438
+        },
+        "RequestId": "c2d9adc4-8c21-414f-be20-14ea16641db1"
+    }
+}

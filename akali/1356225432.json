@@ -1,0 +1,39 @@
+{
+    "character": "akali",
+    "id": "1356225432",
+    "result": "好爸。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012539019,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.171]  好爸。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好爸。",
+                    "SliceSentence": "好 爸",
+                    "StartMs": 0,
+                    "EndMs": 1171,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "爸",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.171188
+        },
+        "RequestId": "1697422a-ebe7-4cd7-a7c0-0d5f9494b3b9"
+    }
+}

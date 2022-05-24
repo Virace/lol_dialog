@@ -1,0 +1,44 @@
+{
+    "character": "kayn",
+    "id": "208828642",
+    "result": "谁都逃不了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012700822,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.389]  谁都逃不了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "谁都逃不了。",
+                    "SliceSentence": "谁都 逃 不了",
+                    "StartMs": 0,
+                    "EndMs": 1389,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "谁都",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "逃",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "不了",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.389188
+        },
+        "RequestId": "ddaf9946-cabd-4c8e-95be-d97dc65be3ff"
+    }
+}

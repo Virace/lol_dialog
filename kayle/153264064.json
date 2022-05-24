@@ -1,0 +1,44 @@
+{
+    "character": "kayle",
+    "id": "153264064",
+    "result": "罪恶不分大小。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012697660,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.827]  罪恶不分大小。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "罪恶不分大小。",
+                    "SliceSentence": "罪恶 不分 大小",
+                    "StartMs": 0,
+                    "EndMs": 2827,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "罪恶",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "不分",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "大小",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.827625
+        },
+        "RequestId": "04b0e1bf-b7e0-40fa-b23c-b367b16214d4"
+    }
+}

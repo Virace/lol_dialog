@@ -1,0 +1,49 @@
+{
+    "character": "seraphine",
+    "id": "876355586",
+    "result": "跟着我的声音。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012771880,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.340]  跟着我的声音。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "跟着我的声音。",
+                    "SliceSentence": "跟着 我 的 声音",
+                    "StartMs": 0,
+                    "EndMs": 2340,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "跟着",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "声音",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.73275
+        },
+        "RequestId": "62179b6b-78b2-4e78-aced-997c670497fa"
+    }
+}

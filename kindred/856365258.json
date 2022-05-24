@@ -1,0 +1,44 @@
+{
+    "character": "kindred",
+    "id": "856365258",
+    "result": "又一位朋友。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012705637,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.587]  又一位朋友。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "又一位朋友。",
+                    "SliceSentence": "又一 位 朋友",
+                    "StartMs": 0,
+                    "EndMs": 1587,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "又一",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "位",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "朋友",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.5875
+        },
+        "RequestId": "078df987-96e1-4c76-bc0b-b1c05a7372b2"
+    }
+}

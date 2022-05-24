@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "1519302741",
+    "result": "不如你美。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012750848,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.375]  不如你美。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不如你美。",
+                    "SliceSentence": "不如 你 美",
+                    "StartMs": 0,
+                    "EndMs": 1375,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "不如",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "美",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.375188
+        },
+        "RequestId": "e5b9f132-b01c-4bf4-954b-d1f76be892b0"
+    }
+}

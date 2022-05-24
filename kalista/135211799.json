@@ -1,0 +1,44 @@
+{
+    "character": "kalista",
+    "id": "135211799",
+    "result": "他厌恶我们。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012693411,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.025]  他厌恶我们。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他厌恶我们。",
+                    "SliceSentence": "他 厌恶 我们",
+                    "StartMs": 0,
+                    "EndMs": 3025,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "他",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "厌恶",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.02525
+        },
+        "RequestId": "383ba85d-a8c2-4017-a3b7-6e70951f01ed"
+    }
+}

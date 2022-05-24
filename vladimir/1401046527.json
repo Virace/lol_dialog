@@ -1,0 +1,54 @@
+{
+    "character": "vladimir",
+    "id": "1401046527",
+    "result": "让我们合伙干吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012815135,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.281]  让我们合伙干吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "让我们合伙干吧。",
+                    "SliceSentence": "让 我们 合伙 干 吧",
+                    "StartMs": 0,
+                    "EndMs": 3281,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "让",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "合伙",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "干",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 2610
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 2610,
+                            "OffsetEndMs": 2790
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.2815
+        },
+        "RequestId": "56cd30dd-43dd-43dd-b585-0f0df405fcba"
+    }
+}

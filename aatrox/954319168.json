@@ -1,0 +1,59 @@
+{
+    "character": "aatrox",
+    "id": "954319168",
+    "result": "这是我给凡人的礼物。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012538167,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.929]  这是我给凡人的礼物。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是我给凡人的礼物。",
+                    "SliceSentence": "这 是我 给 凡人 的 礼物",
+                    "StartMs": 0,
+                    "EndMs": 3929,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "给",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "凡人",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "礼物",
+                            "OffsetStartMs": 2850,
+                            "OffsetEndMs": 3630
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.929875
+        },
+        "RequestId": "2db22c5e-f61c-4dc5-aa97-6240e3709a59"
+    }
+}

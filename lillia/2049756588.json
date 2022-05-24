@@ -1,0 +1,54 @@
+{
+    "character": "lillia",
+    "id": "2049756588",
+    "result": "我们的世界生机满满。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012715506,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.680]  我们的世界生机满满。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们的世界生机满满。",
+                    "SliceSentence": "我们 的 世界 生机 满满",
+                    "StartMs": 0,
+                    "EndMs": 3680,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "世界",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "生机",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "满满",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.551125
+        },
+        "RequestId": "df469c29-3042-494a-9529-df421042e2d0"
+    }
+}

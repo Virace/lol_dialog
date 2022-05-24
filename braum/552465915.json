@@ -1,0 +1,39 @@
+{
+    "character": "braum",
+    "id": "552465915",
+    "result": "啊啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550459,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.399]  啊啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊啊。",
+                    "SliceSentence": "啊 啊",
+                    "StartMs": 0,
+                    "EndMs": 3399,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2700
+                        }
+                    ],
+                    "SpeechSpeed": 1.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.399813
+        },
+        "RequestId": "50c1ec17-cf70-4d5e-9c2b-fdd5f617dfa7"
+    }
+}

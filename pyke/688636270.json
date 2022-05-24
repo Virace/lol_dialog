@@ -1,0 +1,44 @@
+{
+    "character": "pyke",
+    "id": "688636270",
+    "result": "三个丢了魂。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746719,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.174]  三个丢了魂。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "三个丢了魂。",
+                    "SliceSentence": "三个 丢了 魂",
+                    "StartMs": 0,
+                    "EndMs": 3174,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "三个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "丢了",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "魂",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.174313
+        },
+        "RequestId": "87ef756f-65ff-4685-bd87-cd39bb2e1182"
+    }
+}

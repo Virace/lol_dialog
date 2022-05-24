@@ -1,0 +1,49 @@
+{
+    "character": "varus",
+    "id": "372106012",
+    "result": "挡我者死。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012808344,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.040]  挡我者死。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "挡我者死。",
+                    "SliceSentence": "挡 我 者 死",
+                    "StartMs": 0,
+                    "EndMs": 4040,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "挡",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "者",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "死",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 3150
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.17225
+        },
+        "RequestId": "7a3d1763-026f-47e4-a424-cbf31a7f1396"
+    }
+}

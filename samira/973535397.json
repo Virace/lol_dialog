@@ -1,0 +1,39 @@
+{
+    "character": "samira",
+    "id": "973535397",
+    "result": "开始落。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012767413,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.950]  开始落。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "开始落。",
+                    "SliceSentence": "开始 落",
+                    "StartMs": 0,
+                    "EndMs": 1950,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "开始",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "落",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.9505
+        },
+        "RequestId": "7ad17154-b7d6-4be7-897e-5246f3553f93"
+    }
+}

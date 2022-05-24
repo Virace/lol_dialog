@@ -1,0 +1,39 @@
+{
+    "character": "camille",
+    "id": "386077800",
+    "result": "目标清除。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553194,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.272]  目标清除。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "目标清除。",
+                    "SliceSentence": "目标 清除",
+                    "StartMs": 0,
+                    "EndMs": 1272,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "目标",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "清除",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.272938
+        },
+        "RequestId": "65ff9923-0334-4930-927b-2bb279aeb72d"
+    }
+}

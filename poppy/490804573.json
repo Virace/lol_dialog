@@ -1,0 +1,59 @@
+{
+    "character": "poppy",
+    "id": "490804573",
+    "result": "一锤在手，两锤无忧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012743238,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.120]  一锤在手，两锤无忧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一锤在手，两锤无忧。",
+                    "SliceSentence": "一 锤 在手 两 锤 无忧",
+                    "StartMs": 0,
+                    "EndMs": 2120,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "一",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "锤",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "在手",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "两",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "锤",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "无忧",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.120063
+        },
+        "RequestId": "d5db0396-ab4e-4731-b73b-c6797f0e43fc"
+    }
+}

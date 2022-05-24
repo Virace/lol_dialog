@@ -1,0 +1,49 @@
+{
+    "character": "yorick",
+    "id": "506477701",
+    "result": "他将占有你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012845033,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.368]  他将占有你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他将占有你。",
+                    "SliceSentence": "他 将 占有 你",
+                    "StartMs": 0,
+                    "EndMs": 2368,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "他",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "将",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "占有",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.368438
+        },
+        "RequestId": "165a9742-27f5-4e7f-821f-291d64e6c179"
+    }
+}

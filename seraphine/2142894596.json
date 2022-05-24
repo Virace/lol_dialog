@@ -1,0 +1,44 @@
+{
+    "character": "seraphine",
+    "id": "2142894596",
+    "result": "一起来吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012771041,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.240]  一起来吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一起来吧。",
+                    "SliceSentence": "一起 来 吧",
+                    "StartMs": 0,
+                    "EndMs": 2240,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "一起",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 870
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.732813
+        },
+        "RequestId": "5f032106-04dc-42b0-ab84-e6434a16d511"
+    }
+}

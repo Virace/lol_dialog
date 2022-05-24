@@ -1,0 +1,39 @@
+{
+    "character": "senna",
+    "id": "903193811",
+    "result": "简单直接。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012770061,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.973]  简单直接。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "简单直接。",
+                    "SliceSentence": "简单 直接",
+                    "StartMs": 0,
+                    "EndMs": 1973,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "简单",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "直接",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.973688
+        },
+        "RequestId": "c4030414-18e5-4c8e-9f29-4778a6ea0201"
+    }
+}

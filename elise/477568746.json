@@ -1,0 +1,39 @@
+{
+    "character": "elise",
+    "id": "477568746",
+    "result": "呵呵呵呵。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560909,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.003]  呵呵呵呵。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "呵呵呵呵。",
+                    "SliceSentence": "呵呵 呵呵",
+                    "StartMs": 0,
+                    "EndMs": 3003,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "呵呵",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "呵呵",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.003
+        },
+        "RequestId": "e638e8f8-2859-45b4-a1d7-d591311a4a35"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "akali",
+    "id": "2105810630",
+    "result": "黑影吓不住我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012539410,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.541]  黑影吓不住我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "黑影吓不住我。",
+                    "SliceSentence": "黑影 吓 不住 我",
+                    "StartMs": 0,
+                    "EndMs": 1541,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "黑影",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "吓",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "不住",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.541563
+        },
+        "RequestId": "c3bfbda8-a4cf-4d88-9800-3b4217023e7a"
+    }
+}

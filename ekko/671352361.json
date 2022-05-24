@@ -1,0 +1,59 @@
+{
+    "character": "ekko",
+    "id": "671352361",
+    "result": "我本可以打得轻一点。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560209,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.802]  我本可以打得轻一点。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我本可以打得轻一点。",
+                    "SliceSentence": "我 本 可以 打得 轻 一点",
+                    "StartMs": 0,
+                    "EndMs": 1802,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "本",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "打得",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "轻",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "一点",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 8.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.802
+        },
+        "RequestId": "7557216c-22fb-4a55-8305-04cc76b31ffb"
+    }
+}

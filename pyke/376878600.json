@@ -1,0 +1,44 @@
+{
+    "character": "pyke",
+    "id": "376878600",
+    "result": "深吸最后一口气。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746061,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.775]  深吸最后一口气。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "深吸最后一口气。",
+                    "SliceSentence": "深吸 最后 一口气",
+                    "StartMs": 0,
+                    "EndMs": 2775,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "深吸",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "最后",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "一口气",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.775563
+        },
+        "RequestId": "e2b0ca65-6cd6-474e-9dc9-3219241bb4d5"
+    }
+}

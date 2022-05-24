@@ -1,0 +1,49 @@
+{
+    "character": "shen",
+    "id": "1314242261",
+    "result": "那我出发了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012774292,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.941]  那我出发了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "那我出发了。",
+                    "SliceSentence": "那 我 出发 了",
+                    "StartMs": 0,
+                    "EndMs": 1941,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "那",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "出发",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.941
+        },
+        "RequestId": "54b2bea2-b627-4594-881d-a279ec65addf"
+    }
+}

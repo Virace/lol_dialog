@@ -1,0 +1,81 @@
+{
+    "character": "ekko",
+    "id": "262044868",
+    "result": "哈哈。冻结了时间。真有趣。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012559861,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.440]  哈哈。\n[0:1.440,0:3.140]  冻结了时间。\n[0:3.240,0:4.256]  真有趣。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈。",
+                    "SliceSentence": "哈哈",
+                    "StartMs": 0,
+                    "EndMs": 1440,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 570
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "冻结了时间。",
+                    "SliceSentence": "冻 结了 时间",
+                    "StartMs": 1440,
+                    "EndMs": 3140,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "冻",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "结了",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "真有趣。",
+                    "SliceSentence": "真 有趣",
+                    "StartMs": 3240,
+                    "EndMs": 4256,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "真",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "有趣",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.256
+        },
+        "RequestId": "ccd87c14-2129-4c9e-98d4-9f5fcbe1fe53"
+    }
+}

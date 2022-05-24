@@ -1,0 +1,59 @@
+{
+    "character": "seraphine",
+    "id": "119745534",
+    "result": "下一段和我一起唱吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012770173,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.820]  下一段和我一起唱吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "下一段和我一起唱吧。",
+                    "SliceSentence": "下 一段 和 我 一起 唱吧",
+                    "StartMs": 0,
+                    "EndMs": 2820,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "下",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "一段",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "和",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "一起",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "唱吧",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.371625
+        },
+        "RequestId": "d5c27a79-2383-413c-8dfb-57e31687befc"
+    }
+}

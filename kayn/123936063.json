@@ -1,0 +1,49 @@
+{
+    "character": "kayn",
+    "id": "123936063",
+    "result": "阴影有了新的主人。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012699230,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.448]  阴影有了新的主人。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "阴影有了新的主人。",
+                    "SliceSentence": "阴影 有了 新的 主人",
+                    "StartMs": 0,
+                    "EndMs": 3448,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "阴影",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "有了",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "新的",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "主人",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2760
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.4485
+        },
+        "RequestId": "4b63aeac-df2b-4bc8-ab91-29fd5bb9ca85"
+    }
+}

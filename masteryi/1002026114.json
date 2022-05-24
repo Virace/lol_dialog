@@ -1,0 +1,39 @@
+{
+    "character": "masteryi",
+    "id": "1002026114",
+    "result": "哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012722714,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.556]  哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈。",
+                    "SliceSentence": "哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 556,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 480
+                        }
+                    ],
+                    "SpeechSpeed": 9.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.55675
+        },
+        "RequestId": "78fb6743-d64a-43cc-a218-b7e7f2c23d67"
+    }
+}

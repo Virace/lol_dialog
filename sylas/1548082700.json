@@ -1,0 +1,49 @@
+{
+    "character": "sylas",
+    "id": "1548082700",
+    "result": "很疼吧，对不对？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786632,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.680]  很疼吧，对不对？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "很疼吧，对不对？",
+                    "SliceSentence": "很疼 吧 对 不对",
+                    "StartMs": 0,
+                    "EndMs": 1680,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "很疼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "对",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "不对",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.68
+        },
+        "RequestId": "3a2c7d9e-a85e-4698-b48e-9796572a7b1c"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "camille",
+    "id": "813631518",
+    "result": "你简直就是个低能儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554182,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.090]  你简直就是个低能儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你简直就是个低能儿。",
+                    "SliceSentence": "你 简直 就是 个 低能 儿",
+                    "StartMs": 0,
+                    "EndMs": 2090,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "简直",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "个",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "低能",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "儿",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 7.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.090063
+        },
+        "RequestId": "5ddeabed-a3fb-41c0-bfd0-35d875a7d34f"
+    }
+}

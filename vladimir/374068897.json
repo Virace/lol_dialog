@@ -1,0 +1,54 @@
+{
+    "character": "vladimir",
+    "id": "374068897",
+    "result": "我觉得你让我很不爽。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012815274,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.393]  我觉得你让我很不爽。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我觉得你让我很不爽。",
+                    "SliceSentence": "我 觉得 你让 我很 不爽",
+                    "StartMs": 0,
+                    "EndMs": 4393,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "觉得",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "你让",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "我很",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 3030
+                        },
+                        {
+                            "Word": "不爽",
+                            "OffsetStartMs": 3060,
+                            "OffsetEndMs": 3900
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.393813
+        },
+        "RequestId": "d00e342c-5f88-4d34-9af6-7875adf5415d"
+    }
+}

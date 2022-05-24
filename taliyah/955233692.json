@@ -1,0 +1,44 @@
+{
+    "character": "taliyah",
+    "id": "955233692",
+    "result": "好像结束了呢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012795213,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.273]  好像结束了呢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好像结束了呢。",
+                    "SliceSentence": "好像 结束 了呢",
+                    "StartMs": 0,
+                    "EndMs": 1273,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "好像",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "结束",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "了呢",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 7.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.273375
+        },
+        "RequestId": "5134ba86-10c3-479b-a36d-2418c47f4380"
+    }
+}

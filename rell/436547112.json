@@ -1,0 +1,100 @@
+{
+    "character": "rell",
+    "id": "436547112",
+    "result": "相比人类，我更愿意和规矩作对。但我也可以破例。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012758425,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.400]  相比人类，我更愿意和规矩作对。\n[0:3.400,0:4.782]  但我也可以破例。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "相比人类，我更愿意和规矩作对。",
+                    "SliceSentence": "相比 人类 我 更 愿意 和 规矩 作对",
+                    "StartMs": 0,
+                    "EndMs": 3400,
+                    "WordsNum": 8,
+                    "Words": [
+                        {
+                            "Word": "相比",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "人类",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "更",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "愿意",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "和",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "规矩",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "作对",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2730
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "但我也可以破例。",
+                    "SliceSentence": "但 我也 可以 破例",
+                    "StartMs": 3400,
+                    "EndMs": 4782,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "但",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "我也",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "破例",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 8.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.78275
+        },
+        "RequestId": "29804245-1e01-4093-a662-3d5b64409a6c"
+    }
+}

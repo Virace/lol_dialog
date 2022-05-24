@@ -1,0 +1,54 @@
+{
+    "character": "lucian",
+    "id": "1177321825",
+    "result": "我没时间受死。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012717140,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.763]  我没时间受死。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我没时间受死。",
+                    "SliceSentence": "我 没 时间 受 死",
+                    "StartMs": 0,
+                    "EndMs": 2763,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "没",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "受",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "死",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.763188
+        },
+        "RequestId": "182ea508-dd45-4716-b55e-9716f4943b64"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "vi",
+    "id": "1389800306",
+    "result": "耶，团队合作。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012812062,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.085]  耶，团队合作。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "耶，团队合作。",
+                    "SliceSentence": "耶 团队 合作",
+                    "StartMs": 0,
+                    "EndMs": 2085,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "耶",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "团队",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "合作",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.085438
+        },
+        "RequestId": "1c5aa8c4-648a-42dd-8f50-8d1e0767e0a1"
+    }
+}

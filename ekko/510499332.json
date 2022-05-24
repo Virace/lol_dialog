@@ -1,0 +1,59 @@
+{
+    "character": "ekko",
+    "id": "510499332",
+    "result": "这东西吓着我了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560109,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.303]  这东西吓着我了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这东西吓着我了。",
+                    "SliceSentence": "这 东西 吓 着 我 了",
+                    "StartMs": 0,
+                    "EndMs": 1303,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "吓",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "着",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 10.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.303375
+        },
+        "RequestId": "418aea84-d749-4b75-866d-dce02bc9f965"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "anivia",
+    "id": "112260228",
+    "result": "不要引起暴风雪。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542217,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.157]  不要引起暴风雪。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要引起暴风雪。",
+                    "SliceSentence": "不要 引起 暴风雪",
+                    "StartMs": 0,
+                    "EndMs": 3157,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "引起",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "暴风雪",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.157938
+        },
+        "RequestId": "f13c601d-8f71-467c-91ff-04b0cf5c5956"
+    }
+}

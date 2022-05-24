@@ -1,0 +1,39 @@
+{
+    "character": "yorick",
+    "id": "160331881",
+    "result": "嗨，朋友。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012843885,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.069]  嗨，朋友。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗨，朋友。",
+                    "SliceSentence": "嗨 朋友",
+                    "StartMs": 0,
+                    "EndMs": 2069,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "嗨",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "朋友",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.069625
+        },
+        "RequestId": "7e1f0711-fe70-4b17-85e0-465e003e57ad"
+    }
+}

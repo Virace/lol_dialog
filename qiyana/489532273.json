@@ -1,0 +1,100 @@
+{
+    "character": "qiyana",
+    "id": "489532273",
+    "result": "有人看到刚才的事儿吗？好吧，我只能全部灭口了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012748248,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.020]  有人看到刚才的事儿吗？\n[0:2.020,0:5.572]  好吧，我只能全部灭口了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "有人看到刚才的事儿吗？",
+                    "SliceSentence": "有人 看到 刚才 的 事儿 吗",
+                    "StartMs": 0,
+                    "EndMs": 2020,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "有人",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "看到",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "刚才",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "事儿",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 7.9,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "好吧，我只能全部灭口了。",
+                    "SliceSentence": "好吧 我 只能 全部 灭口 了",
+                    "StartMs": 2020,
+                    "EndMs": 5572,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "好吧",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "只能",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "全部",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "灭口",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 2730
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.572813
+        },
+        "RequestId": "a142f345-8011-4801-8346-9874e1033180"
+    }
+}

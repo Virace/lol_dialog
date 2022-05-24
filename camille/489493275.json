@@ -1,0 +1,44 @@
+{
+    "character": "camille",
+    "id": "489493275",
+    "result": "目标已消除。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553552,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.471]  目标已消除。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "目标已消除。",
+                    "SliceSentence": "目标 已 消除",
+                    "StartMs": 0,
+                    "EndMs": 1471,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "目标",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "已",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "消除",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.471875
+        },
+        "RequestId": "0a68e66a-5bf9-4468-ab52-8ab592f72342"
+    }
+}

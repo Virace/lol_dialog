@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "2112454393",
+    "result": "我知道我们有问题。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012752734,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.794]  我知道我们有问题。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我知道我们有问题。",
+                    "SliceSentence": "我 知道 我们 有问题",
+                    "StartMs": 0,
+                    "EndMs": 1794,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "有问题",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.794563
+        },
+        "RequestId": "6e89568d-cfbb-4e4d-a8e6-b61c548c8c66"
+    }
+}

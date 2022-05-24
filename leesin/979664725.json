@@ -1,0 +1,44 @@
+{
+    "character": "leesin",
+    "id": "979664725",
+    "result": "我会弥补的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012713969,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.380]  我会弥补的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会弥补的。",
+                    "SliceSentence": "我会 弥补 的",
+                    "StartMs": 0,
+                    "EndMs": 2380,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "弥补",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.08825
+        },
+        "RequestId": "8634e2c6-c9ff-4606-9880-883e92bc743b"
+    }
+}

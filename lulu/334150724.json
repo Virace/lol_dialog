@@ -1,0 +1,39 @@
+{
+    "character": "lulu",
+    "id": "334150724",
+    "result": "啊啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718929,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.313]  啊啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊啊。",
+                    "SliceSentence": "啊 啊",
+                    "StartMs": 0,
+                    "EndMs": 1313,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.313813
+        },
+        "RequestId": "0724f0b8-50ae-49c8-8ac4-758f0c5588da"
+    }
+}

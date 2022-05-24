@@ -1,0 +1,39 @@
+{
+    "character": "varus",
+    "id": "744123854",
+    "result": "哼哼，哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012808374,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.158]  哼哼，哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼，哈哈。",
+                    "SliceSentence": "哼哼 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 4158,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 3330
+                        }
+                    ],
+                    "SpeechSpeed": 1.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.158063
+        },
+        "RequestId": "b9d8e675-e9dd-411f-a315-354df46e65c2"
+    }
+}

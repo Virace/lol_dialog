@@ -1,0 +1,49 @@
+{
+    "character": "camille",
+    "id": "483331964",
+    "result": "有样学样美猴王。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553360,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.980]  有样学样美猴王。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "有样学样美猴王。",
+                    "SliceSentence": "有 样 学样 美猴王",
+                    "StartMs": 0,
+                    "EndMs": 2980,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "样",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "学样",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "美猴王",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2910
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.980563
+        },
+        "RequestId": "788511ef-6403-44b9-abd0-200af210324e"
+    }
+}

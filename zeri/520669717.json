@@ -1,0 +1,44 @@
+{
+    "character": "zeri",
+    "id": "520669717",
+    "result": "我就是闪电。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012852508,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.114]  我就是闪电。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我就是闪电。",
+                    "SliceSentence": "我 就是 闪电",
+                    "StartMs": 0,
+                    "EndMs": 3114,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "闪电",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.114688
+        },
+        "RequestId": "d21aba00-7ac4-43b8-b501-342434f2d4c2"
+    }
+}

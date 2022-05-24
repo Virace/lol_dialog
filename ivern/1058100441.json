@@ -1,0 +1,44 @@
+{
+    "character": "ivern",
+    "id": "1058100441",
+    "result": "哇哦，哈哈，车长。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012583248,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.720]  哇哦，哈哈，车长。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哇哦，哈哈，车长。",
+                    "SliceSentence": "哇哦 哈哈 车长",
+                    "StartMs": 0,
+                    "EndMs": 2720,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哇哦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "车长",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.720375
+        },
+        "RequestId": "8f195d98-2553-44e4-b266-10846743b43f"
+    }
+}

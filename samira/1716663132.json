@@ -1,0 +1,49 @@
+{
+    "character": "samira",
+    "id": "1716663132",
+    "result": "我都不用瞄准。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012766494,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.182]  我都不用瞄准。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我都不用瞄准。",
+                    "SliceSentence": "我 都 不用 瞄准",
+                    "StartMs": 0,
+                    "EndMs": 2182,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "都",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "不用",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "瞄准",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.182688
+        },
+        "RequestId": "051238cc-5c1b-4734-87d5-3fc48cc90509"
+    }
+}

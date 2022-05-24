@@ -1,0 +1,39 @@
+{
+    "character": "kindred",
+    "id": "485599913",
+    "result": "我的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012705056,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.883]  我的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的。",
+                    "SliceSentence": "我 的",
+                    "StartMs": 0,
+                    "EndMs": 883,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 690
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.883313
+        },
+        "RequestId": "114f3c86-35d8-4e2b-8aac-e01cc7a88eff"
+    }
+}

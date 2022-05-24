@@ -1,0 +1,64 @@
+{
+    "character": "kled",
+    "id": "404163859",
+    "result": "我说了，我不会后退的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012707681,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.565]  我说了，我不会后退的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我说了，我不会后退的。",
+                    "SliceSentence": "我 说 了 我 不会 后退 的",
+                    "StartMs": 0,
+                    "EndMs": 2565,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "后退",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.5655
+        },
+        "RequestId": "a3133f8b-0269-435a-9279-b69847397a4a"
+    }
+}

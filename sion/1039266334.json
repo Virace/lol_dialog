@@ -1,0 +1,49 @@
+{
+    "character": "sion",
+    "id": "1039266334",
+    "result": "我觉得我活了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012775914,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.643]  我觉得我活了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我觉得我活了。",
+                    "SliceSentence": "我 觉得 我 活了",
+                    "StartMs": 0,
+                    "EndMs": 5643,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "觉得",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 2940,
+                            "OffsetEndMs": 3330
+                        },
+                        {
+                            "Word": "活了",
+                            "OffsetStartMs": 3330,
+                            "OffsetEndMs": 5460
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.643688
+        },
+        "RequestId": "88dda32c-8624-4b25-9398-a88039bf60a9"
+    }
+}

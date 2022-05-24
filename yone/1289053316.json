@@ -1,0 +1,54 @@
+{
+    "character": "yone",
+    "id": "1289053316",
+    "result": "你的对手是你自己。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012841559,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.181]  你的对手是你自己。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你的对手是你自己。",
+                    "SliceSentence": "你的 对手 是 你 自己",
+                    "StartMs": 0,
+                    "EndMs": 3181,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "对手",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "自己",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.181125
+        },
+        "RequestId": "1969377d-9533-43b4-9c6c-9faa7561c2aa"
+    }
+}

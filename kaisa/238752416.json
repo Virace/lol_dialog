@@ -1,0 +1,49 @@
+{
+    "character": "kaisa",
+    "id": "238752416",
+    "result": "有什么东西不对劲？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689986,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.523]  有什么东西不对劲？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "有什么东西不对劲？",
+                    "SliceSentence": "有 什么 东西 不对劲",
+                    "StartMs": 0,
+                    "EndMs": 1523,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "不对劲",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 7.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.523563
+        },
+        "RequestId": "b57c5b27-8798-4959-ac09-ef181f294725"
+    }
+}

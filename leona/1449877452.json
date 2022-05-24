@@ -1,0 +1,50 @@
+{
+    "character": "leona",
+    "id": "1449877452",
+    "result": "啊？啊？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012714194,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.140]  啊？\n[0:2.300,0:5.080]  啊？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊？",
+                    "SliceSentence": "啊",
+                    "StartMs": 0,
+                    "EndMs": 2140,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        }
+                    ],
+                    "SpeechSpeed": 0.9,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "啊？",
+                    "SliceSentence": "啊",
+                    "StartMs": 2300,
+                    "EndMs": 5080,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 0.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.353625
+        },
+        "RequestId": "dadc47cd-9e10-48b8-a359-a6b286d1cb50"
+    }
+}

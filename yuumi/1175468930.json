@@ -1,0 +1,49 @@
+{
+    "character": "yuumi",
+    "id": "1175468930",
+    "result": "我要高兴死了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012846524,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.480]  我要高兴死了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要高兴死了。",
+                    "SliceSentence": "我要 高兴 死 了",
+                    "StartMs": 0,
+                    "EndMs": 1480,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "高兴",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "死",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 6.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.48025
+        },
+        "RequestId": "93892a0e-0874-4ee8-8a90-a146a94a5132"
+    }
+}

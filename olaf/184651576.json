@@ -1,0 +1,39 @@
+{
+    "character": "olaf",
+    "id": "184651576",
+    "result": "行动吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012737189,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.924]  行动吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "行动吧。",
+                    "SliceSentence": "行动 吧",
+                    "StartMs": 0,
+                    "EndMs": 1924,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "行动",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.924188
+        },
+        "RequestId": "0a0c2683-d9ec-4c2a-bc81-f31170d64ef8"
+    }
+}

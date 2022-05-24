@@ -1,0 +1,49 @@
+{
+    "character": "sylas",
+    "id": "1581730513",
+    "result": "我谁也不跪。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786652,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.348]  我谁也不跪。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我谁也不跪。",
+                    "SliceSentence": "我 谁也 不 跪",
+                    "StartMs": 0,
+                    "EndMs": 1348,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "谁也",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "跪",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.348625
+        },
+        "RequestId": "144fda7e-2433-4064-b391-78d1f164b82a"
+    }
+}

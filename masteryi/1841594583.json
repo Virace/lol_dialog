@@ -1,0 +1,49 @@
+{
+    "character": "masteryi",
+    "id": "1841594583",
+    "result": "我将为你指路。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012723107,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.134]  我将为你指路。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我将为你指路。",
+                    "SliceSentence": "我 将为 你 指路",
+                    "StartMs": 0,
+                    "EndMs": 3134,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "将为",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "指路",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.134125
+        },
+        "RequestId": "8e5e9008-5f60-4539-a5a7-9580b73256b0"
+    }
+}

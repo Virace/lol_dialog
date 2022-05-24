@@ -1,0 +1,59 @@
+{
+    "character": "pyke",
+    "id": "1368863143",
+    "result": "每个人都能讲出100万句道歉。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744951,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.958]  每个人都能讲出100万句道歉。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "每个人都能讲出100万句道歉。",
+                    "SliceSentence": "每个人 都能 讲出 100万 句 道歉",
+                    "StartMs": 0,
+                    "EndMs": 3958,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "每个人",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "都能",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "讲出",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "100万",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "句",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 2460
+                        },
+                        {
+                            "Word": "道歉",
+                            "OffsetStartMs": 2460,
+                            "OffsetEndMs": 3150
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.958375
+        },
+        "RequestId": "fae75808-60dd-4972-b2ff-c03febba8831"
+    }
+}

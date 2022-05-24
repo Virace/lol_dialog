@@ -1,0 +1,44 @@
+{
+    "character": "garen",
+    "id": "1280668967",
+    "result": "我准备好了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012571953,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.092]  我准备好了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我准备好了。",
+                    "SliceSentence": "我 准备 好了",
+                    "StartMs": 0,
+                    "EndMs": 1092,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "准备",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "好了",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 7.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.092188
+        },
+        "RequestId": "66a2ebe1-243e-4f72-8aaf-31efd174c8ae"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "ziggs",
+    "id": "1584485100",
+    "result": "即将到来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012853391,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.354]  即将到来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "即将到来。",
+                    "SliceSentence": "即将 到来",
+                    "StartMs": 0,
+                    "EndMs": 1354,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "即将",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "到来",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.354313
+        },
+        "RequestId": "87a6b4d7-8084-4b7e-8da7-b9bc807e7808"
+    }
+}

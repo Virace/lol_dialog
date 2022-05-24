@@ -1,0 +1,44 @@
+{
+    "character": "urgot",
+    "id": "1328279779",
+    "result": "这孩子有潜力。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012805563,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.700]  这孩子有潜力。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这孩子有潜力。",
+                    "SliceSentence": "这 孩子 有潜力",
+                    "StartMs": 0,
+                    "EndMs": 3700,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "孩子",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "有潜力",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2700
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.700188
+        },
+        "RequestId": "bd72869f-7a82-4d23-9985-dd2056dc852b"
+    }
+}

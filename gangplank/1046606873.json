@@ -1,0 +1,44 @@
+{
+    "character": "gangplank",
+    "id": "1046606873",
+    "result": "当心炸药桶。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012570364,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.537]  当心炸药桶。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "当心炸药桶。",
+                    "SliceSentence": "当心 炸药 桶",
+                    "StartMs": 0,
+                    "EndMs": 1537,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "当心",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "炸药",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "桶",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.53725
+        },
+        "RequestId": "da274a6a-63ec-4459-832d-bf2912d761e0"
+    }
+}

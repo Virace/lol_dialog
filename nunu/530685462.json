@@ -1,0 +1,59 @@
+{
+    "character": "nunu",
+    "id": "530685462",
+    "result": "威朗普，我们成功啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012736017,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.409]  威朗普，我们成功啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "威朗普，我们成功啦。",
+                    "SliceSentence": "威 朗 普 我们 成功 啦",
+                    "StartMs": 0,
+                    "EndMs": 2409,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "威",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "朗",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "普",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "成功",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.409875
+        },
+        "RequestId": "e94efc70-a81b-4983-b0cd-95b88e7d7042"
+    }
+}

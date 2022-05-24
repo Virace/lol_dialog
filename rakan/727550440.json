@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "727550440",
+    "result": "这里没人了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012754180,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.025]  这里没人了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这里没人了。",
+                    "SliceSentence": "这里 没人 了",
+                    "StartMs": 0,
+                    "EndMs": 1025,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这里",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "没人",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 7.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.025813
+        },
+        "RequestId": "0efd3471-eca1-4e97-8e4a-4386608181bc"
+    }
+}

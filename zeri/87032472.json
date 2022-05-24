@@ -1,0 +1,59 @@
+{
+    "character": "zeri",
+    "id": "87032472",
+    "result": "嗨，听到滋滋响了骂。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012852966,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.136]  嗨，听到滋滋响了骂。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗨，听到滋滋响了骂。",
+                    "SliceSentence": "嗨 听到 滋滋 响 了 骂",
+                    "StartMs": 0,
+                    "EndMs": 3136,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "嗨",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "听到",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "滋滋",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "响",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "骂",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.136
+        },
+        "RequestId": "2e7fff4d-a3e9-4d62-9d01-aad9e7fd5c8c"
+    }
+}

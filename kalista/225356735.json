@@ -1,0 +1,49 @@
+{
+    "character": "kalista",
+    "id": "225356735",
+    "result": "始于斯，终于斯。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012693721,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.900]  始于斯，终于斯。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "始于斯，终于斯。",
+                    "SliceSentence": "始于 斯 终于 斯",
+                    "StartMs": 0,
+                    "EndMs": 3900,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "始于",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "斯",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "终于",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2670
+                        },
+                        {
+                            "Word": "斯",
+                            "OffsetStartMs": 2670,
+                            "OffsetEndMs": 3660
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.24575
+        },
+        "RequestId": "f93c97da-b0dd-4a97-a9c9-d4b95ca211c2"
+    }
+}

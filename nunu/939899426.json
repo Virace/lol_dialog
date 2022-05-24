@@ -1,0 +1,44 @@
+{
+    "character": "nunu",
+    "id": "939899426",
+    "result": "瞧瞧这个，砰。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012736783,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.285]  瞧瞧这个，砰。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "瞧瞧这个，砰。",
+                    "SliceSentence": "瞧瞧 这个 砰",
+                    "StartMs": 0,
+                    "EndMs": 2285,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "瞧瞧",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "砰",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.285813
+        },
+        "RequestId": "b553ebad-f199-427b-a28b-debf26ffb191"
+    }
+}

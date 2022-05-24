@@ -1,0 +1,49 @@
+{
+    "character": "yone",
+    "id": "1236161773",
+    "result": "你在逼我动手？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012841597,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.763]  你在逼我动手？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你在逼我动手？",
+                    "SliceSentence": "你在 逼 我 动手",
+                    "StartMs": 0,
+                    "EndMs": 2763,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你在",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "逼",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "动手",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.763188
+        },
+        "RequestId": "0fe97d26-61f1-475a-93fb-198874e69e32"
+    }
+}

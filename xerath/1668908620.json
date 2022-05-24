@@ -1,0 +1,59 @@
+{
+    "character": "xerath",
+    "id": "1668908620",
+    "result": "我站在永恒的边缘上。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012839060,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.120,0:6.095]  我站在永恒的边缘上。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我站在永恒的边缘上。",
+                    "SliceSentence": "我 站在 永恒 的 边缘 上",
+                    "StartMs": 120,
+                    "EndMs": 6095,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "站在",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "永恒",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 3240
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 3240,
+                            "OffsetEndMs": 3420
+                        },
+                        {
+                            "Word": "边缘",
+                            "OffsetStartMs": 3420,
+                            "OffsetEndMs": 4410
+                        },
+                        {
+                            "Word": "上",
+                            "OffsetStartMs": 4410,
+                            "OffsetEndMs": 5100
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.09575
+        },
+        "RequestId": "6de0f8ee-acdc-4665-a7b1-0f964453f43e"
+    }
+}

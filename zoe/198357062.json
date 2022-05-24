@@ -1,0 +1,39 @@
+{
+    "character": "zoe",
+    "id": "198357062",
+    "result": "你叫什么？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012855307,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.137]  你叫什么？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你叫什么？",
+                    "SliceSentence": "你叫 什么",
+                    "StartMs": 0,
+                    "EndMs": 2137,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "你叫",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.137125
+        },
+        "RequestId": "a82421a9-5888-4ee7-bf8d-9a06b81ddc24"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "413593395",
+    "result": "这些人看起来好蠢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012753340,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.730]  这些人看起来好蠢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这些人看起来好蠢。",
+                    "SliceSentence": "这些 人看 起来 好 蠢",
+                    "StartMs": 0,
+                    "EndMs": 1730,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这些",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "人看",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "起来",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "蠢",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 7.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.730625
+        },
+        "RequestId": "fac8fa5e-f572-4840-b720-ad44723d42cf"
+    }
+}

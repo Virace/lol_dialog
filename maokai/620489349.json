@@ -1,0 +1,49 @@
+{
+    "character": "maokai",
+    "id": "620489349",
+    "result": "你们弄乱了花园。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012722336,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.000]  你们弄乱了花园。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你们弄乱了花园。",
+                    "SliceSentence": "你们 弄 乱了 花园",
+                    "StartMs": 0,
+                    "EndMs": 3000,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "弄",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "乱了",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "花园",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.000375
+        },
+        "RequestId": "3926339c-4620-4ba1-9b2c-858073e09fe8"
+    }
+}

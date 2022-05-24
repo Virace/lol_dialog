@@ -1,0 +1,70 @@
+{
+    "character": "lucian",
+    "id": "468534174",
+    "result": "哈。我怀念生者的气息。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718233,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.620]  哈。\n[0:1.620,0:4.620]  我怀念生者的气息。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈。",
+                    "SliceSentence": "哈",
+                    "StartMs": 0,
+                    "EndMs": 1620,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 1.2,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "我怀念生者的气息。",
+                    "SliceSentence": "我 怀念 生者 的 气息",
+                    "StartMs": 1620,
+                    "EndMs": 4620,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "怀念",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "生者",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "气息",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.620813
+        },
+        "RequestId": "6e85a7f0-af50-4541-bc4e-685dd2da54e6"
+    }
+}

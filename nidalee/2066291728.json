@@ -1,0 +1,49 @@
+{
+    "character": "nidalee",
+    "id": "2066291728",
+    "result": "让我为您指路。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012731363,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.672]  让我为您指路。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "让我为您指路。",
+                    "SliceSentence": "让我 为 您 指路",
+                    "StartMs": 0,
+                    "EndMs": 1672,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "让我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "为",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "您",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "指路",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.672563
+        },
+        "RequestId": "cd614eaf-4f3a-468a-a8fc-7273cc40485f"
+    }
+}

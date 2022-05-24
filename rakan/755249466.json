@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "755249466",
+    "result": "不，我才有幸。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012754329,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.598]  不，我才有幸。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不，我才有幸。",
+                    "SliceSentence": "不 我才 有幸",
+                    "StartMs": 0,
+                    "EndMs": 1598,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "我才",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "有幸",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.598438
+        },
+        "RequestId": "4d7ce9a5-542b-46d9-ab98-41f68d4ece0d"
+    }
+}

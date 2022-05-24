@@ -1,0 +1,39 @@
+{
+    "character": "zeri",
+    "id": "921427119",
+    "result": "一个不留。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012853027,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.706]  一个不留。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一个不留。",
+                    "SliceSentence": "一个 不留",
+                    "StartMs": 0,
+                    "EndMs": 1706,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "不留",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.706688
+        },
+        "RequestId": "174bad91-f5b8-4f98-818e-dafe4b7279ad"
+    }
+}

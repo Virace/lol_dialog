@@ -1,0 +1,44 @@
+{
+    "character": "camille",
+    "id": "89859354",
+    "result": "结果意味着一切。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554379,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.795]  结果意味着一切。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "结果意味着一切。",
+                    "SliceSentence": "结果 意味着 一切",
+                    "StartMs": 0,
+                    "EndMs": 1795,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "结果",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "意味着",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "一切",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.795875
+        },
+        "RequestId": "b2bff19a-9eb7-4075-898b-d74804a7b1b3"
+    }
+}

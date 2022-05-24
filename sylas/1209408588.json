@@ -1,0 +1,49 @@
+{
+    "character": "sylas",
+    "id": "1209408588",
+    "result": "啊，你让我怎么办？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786288,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.527]  啊，你让我怎么办？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，你让我怎么办？",
+                    "SliceSentence": "啊 你让 我 怎么办",
+                    "StartMs": 0,
+                    "EndMs": 2527,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "你让",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "怎么办",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.527625
+        },
+        "RequestId": "162d15d1-53b3-4e02-baff-9a1162f73654"
+    }
+}

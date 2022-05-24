@@ -1,0 +1,39 @@
+{
+    "character": "rammus",
+    "id": "1265288038",
+    "result": "如你所言。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012755072,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.648]  如你所言。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "如你所言。",
+                    "SliceSentence": "如你 所言",
+                    "StartMs": 0,
+                    "EndMs": 1648,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "如你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "所言",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.648625
+        },
+        "RequestId": "0fc68361-f02a-42bd-832f-072f2ee09a3d"
+    }
+}

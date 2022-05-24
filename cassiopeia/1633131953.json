@@ -1,0 +1,49 @@
+{
+    "character": "cassiopeia",
+    "id": "1633131953",
+    "result": "优雅地去死吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554778,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.449]  优雅地去死吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "优雅地去死吧。",
+                    "SliceSentence": "优雅 地 去 死吧",
+                    "StartMs": 0,
+                    "EndMs": 2449,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "优雅",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "地",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "死吧",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.449
+        },
+        "RequestId": "747512b2-b4bc-48f8-92c7-2b121adac65d"
+    }
+}

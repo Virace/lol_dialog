@@ -1,0 +1,59 @@
+{
+    "character": "senna",
+    "id": "697060954",
+    "result": "我会带你一起活下去的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012769769,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.600]  我会带你一起活下去的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会带你一起活下去的。",
+                    "SliceSentence": "我会 带你 一起 活 下去 的",
+                    "StartMs": 0,
+                    "EndMs": 2600,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "带你",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "一起",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "活",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "下去",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.600625
+        },
+        "RequestId": "772a4efb-60fd-43df-a1fc-5615355f26dd"
+    }
+}

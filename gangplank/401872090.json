@@ -1,0 +1,44 @@
+{
+    "character": "gangplank",
+    "id": "401872090",
+    "result": "就需要那个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012570962,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.411]  就需要那个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "就需要那个。",
+                    "SliceSentence": "就 需要 那个",
+                    "StartMs": 0,
+                    "EndMs": 1411,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "那个",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.411125
+        },
+        "RequestId": "5357dcc3-daa5-49da-b577-fbe2b6d83c41"
+    }
+}

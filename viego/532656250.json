@@ -1,0 +1,49 @@
+{
+    "character": "viego",
+    "id": "532656250",
+    "result": "告诉我他在哪里？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012814162,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.910]  告诉我他在哪里？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "告诉我他在哪里？",
+                    "SliceSentence": "告诉 我 他在 哪里",
+                    "StartMs": 0,
+                    "EndMs": 3910,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "告诉",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "他在",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "哪里",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.910063
+        },
+        "RequestId": "a2f92683-69e6-44cf-a35a-fc259c30e884"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "caitlyn",
+    "id": "1585110332",
+    "result": "当场抓获货。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551124,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.792]  当场抓获货。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "当场抓获货。",
+                    "SliceSentence": "当场 抓获 货",
+                    "StartMs": 0,
+                    "EndMs": 1792,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "当场",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "抓获",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "货",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.792
+        },
+        "RequestId": "5a457bb0-ee7f-4214-b1f9-dd9a09a8e254"
+    }
+}

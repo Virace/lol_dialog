@@ -1,0 +1,49 @@
+{
+    "character": "taliyah",
+    "id": "176692427",
+    "result": "这块地方不太稳当。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012791953,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.546]  这块地方不太稳当。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这块地方不太稳当。",
+                    "SliceSentence": "这块 地方 不太 稳当",
+                    "StartMs": 0,
+                    "EndMs": 1546,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这块",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "地方",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "不太",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "稳当",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 7.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.54675
+        },
+        "RequestId": "b2e16786-25df-4898-b701-c305aef8c265"
+    }
+}

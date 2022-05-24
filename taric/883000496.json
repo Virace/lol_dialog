@@ -1,0 +1,54 @@
+{
+    "character": "taric",
+    "id": "883000496",
+    "result": "让我来展示一点东西。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012797706,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.953]  让我来展示一点东西。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "让我来展示一点东西。",
+                    "SliceSentence": "让我 来 展示 一点 东西",
+                    "StartMs": 0,
+                    "EndMs": 2953,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "让我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "展示",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "一点",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.953938
+        },
+        "RequestId": "d5c70045-32f2-45e8-b8b9-d1a840b3a52e"
+    }
+}

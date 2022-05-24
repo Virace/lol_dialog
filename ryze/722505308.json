@@ -1,0 +1,54 @@
+{
+    "character": "ryze",
+    "id": "722505308",
+    "result": "符文决定了我的路。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012765167,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.960]  符文决定了我的路。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "符文决定了我的路。",
+                    "SliceSentence": "符文 决定了 我 的 路",
+                    "StartMs": 0,
+                    "EndMs": 1960,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "符文",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "决定了",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "路",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.960313
+        },
+        "RequestId": "9625ef53-567e-4a58-8a87-09fc0f1aab69"
+    }
+}

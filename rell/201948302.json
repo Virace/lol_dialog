@@ -1,0 +1,39 @@
+{
+    "character": "rell",
+    "id": "201948302",
+    "result": "给我坐下。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012757844,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.310]  给我坐下。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "给我坐下。",
+                    "SliceSentence": "给我 坐下",
+                    "StartMs": 0,
+                    "EndMs": 1310,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "给我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "坐下",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.31075
+        },
+        "RequestId": "6d987d5f-d0af-4412-9154-2abac2d65e25"
+    }
+}

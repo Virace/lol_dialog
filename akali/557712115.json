@@ -1,0 +1,49 @@
+{
+    "character": "akali",
+    "id": "557712115",
+    "result": "我能让麻烦消失。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012539784,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.651]  我能让麻烦消失。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我能让麻烦消失。",
+                    "SliceSentence": "我能 让 麻烦 消失",
+                    "StartMs": 0,
+                    "EndMs": 2651,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我能",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "让",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "麻烦",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "消失",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.651438
+        },
+        "RequestId": "ec707daf-2305-401e-9193-ac49e5a57512"
+    }
+}

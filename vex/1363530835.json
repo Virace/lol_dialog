@@ -1,0 +1,64 @@
+{
+    "character": "vex",
+    "id": "1363530835",
+    "result": "行啦行啦，在路上啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012810357,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.516]  行啦行啦，在路上啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "行啦行啦，在路上啦。",
+                    "SliceSentence": "行 啦 行 啦 在 路上 啦",
+                    "StartMs": 0,
+                    "EndMs": 3516,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "行",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "行",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "路上",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 2610
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.516125
+        },
+        "RequestId": "2a3f9141-4b84-4c6e-8a7d-767062b1f32a"
+    }
+}

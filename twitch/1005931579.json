@@ -1,0 +1,59 @@
+{
+    "character": "twitch",
+    "id": "1005931579",
+    "result": "瞄准，然后射击，瞄准，然后射击。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012802559,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.645]  瞄准，然后射击，瞄准，然后射击。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "瞄准，然后射击，瞄准，然后射击。",
+                    "SliceSentence": "瞄准 然后 射击 瞄准 然后 射击",
+                    "StartMs": 0,
+                    "EndMs": 3645,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "瞄准",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "然后",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "射击",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "瞄准",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "然后",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "射击",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 3390
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.645563
+        },
+        "RequestId": "3fc98af7-507c-48d1-b0fc-60c3ca414373"
+    }
+}

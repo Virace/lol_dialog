@@ -1,0 +1,49 @@
+{
+    "character": "drmundo",
+    "id": "1737811364",
+    "result": "我是好医生。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012557897,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.444]  我是好医生。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我是好医生。",
+                    "SliceSentence": "我 是 好 医生",
+                    "StartMs": 0,
+                    "EndMs": 2444,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "医生",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.444438
+        },
+        "RequestId": "733bd09c-fd8b-445e-9ec9-4efeed2ccfdb"
+    }
+}

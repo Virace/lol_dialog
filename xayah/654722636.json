@@ -1,0 +1,39 @@
+{
+    "character": "xayah",
+    "id": "654722636",
+    "result": "是吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012837543,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.855]  是吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "是吗？",
+                    "SliceSentence": "是 吗",
+                    "StartMs": 0,
+                    "EndMs": 855,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 750
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.855938
+        },
+        "RequestId": "6c6b7894-f89f-4437-a662-fc1b5cc8274a"
+    }
+}

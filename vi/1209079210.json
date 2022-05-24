@@ -1,0 +1,44 @@
+{
+    "character": "vi",
+    "id": "1209079210",
+    "result": "啊，嗯哼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012812022,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.180,0:2.936]  啊，嗯哼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，嗯哼。",
+                    "SliceSentence": "啊 嗯 哼",
+                    "StartMs": 180,
+                    "EndMs": 2936,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "哼",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.936313
+        },
+        "RequestId": "a3784161-74b6-4fca-af57-6395ddd5621a"
+    }
+}

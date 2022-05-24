@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "810866163",
+    "result": "不跳舞就死。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012754490,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.520]  不跳舞就死。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不跳舞就死。",
+                    "SliceSentence": "不 跳舞 就死",
+                    "StartMs": 0,
+                    "EndMs": 1520,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "跳舞",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "就死",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.520938
+        },
+        "RequestId": "e99b8804-3488-49ee-9160-e0f86b7162d1"
+    }
+}

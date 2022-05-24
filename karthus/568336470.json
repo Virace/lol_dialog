@@ -1,0 +1,54 @@
+{
+    "character": "karthus",
+    "id": "568336470",
+    "result": "你感受到呼唤了马。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012696172,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.264]  你感受到呼唤了马。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你感受到呼唤了马。",
+                    "SliceSentence": "你 感受到 呼唤 了 马",
+                    "StartMs": 0,
+                    "EndMs": 4264,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "感受到",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "呼唤",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2520
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2550,
+                            "OffsetEndMs": 2760
+                        },
+                        {
+                            "Word": "马",
+                            "OffsetStartMs": 2760,
+                            "OffsetEndMs": 3570
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.26475
+        },
+        "RequestId": "842045ac-2887-4f1b-8d77-487c97e874cc"
+    }
+}

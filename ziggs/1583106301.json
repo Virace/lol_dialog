@@ -1,0 +1,54 @@
+{
+    "character": "ziggs",
+    "id": "1583106301",
+    "result": "嗯，这个看起来不安全，嗯。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012853387,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.077]  嗯，这个看起来不安全，嗯。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯，这个看起来不安全，嗯。",
+                    "SliceSentence": "嗯 这个 看起来 不安全 嗯",
+                    "StartMs": 0,
+                    "EndMs": 3077,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "看起来",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "不安全",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 2970
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.077125
+        },
+        "RequestId": "6f57d84b-4ee8-4f66-8e0d-0b8aa69fa890"
+    }
+}

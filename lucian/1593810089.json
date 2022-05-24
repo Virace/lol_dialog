@@ -1,0 +1,60 @@
+{
+    "character": "lucian",
+    "id": "1593810089",
+    "result": "呵呵呵呵。哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012717580,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.400]  呵呵呵呵。\n[0:1.400,0:2.580]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "呵呵呵呵。",
+                    "SliceSentence": "呵呵 呵呵",
+                    "StartMs": 0,
+                    "EndMs": 1400,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "呵呵",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "呵呵",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 1400,
+                    "EndMs": 2580,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 870
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.71675
+        },
+        "RequestId": "43b0c28b-4773-4a96-8592-b1ad06d239d1"
+    }
+}

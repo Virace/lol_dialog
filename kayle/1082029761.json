@@ -1,0 +1,49 @@
+{
+    "character": "kayle",
+    "id": "1082029761",
+    "result": "我是神圣之怒。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012697349,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.814]  我是神圣之怒。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我是神圣之怒。",
+                    "SliceSentence": "我 是 神圣 之怒",
+                    "StartMs": 0,
+                    "EndMs": 2814,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "神圣",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "之怒",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.8145
+        },
+        "RequestId": "edd452ba-3113-4a28-9d29-6ce53782a755"
+    }
+}

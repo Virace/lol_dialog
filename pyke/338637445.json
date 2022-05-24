@@ -1,0 +1,39 @@
+{
+    "character": "pyke",
+    "id": "338637445",
+    "result": "哼哼，哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746039,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.926]  哼哼，哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼，哈哈。",
+                    "SliceSentence": "哼哼 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 2926,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.926438
+        },
+        "RequestId": "a6c6835b-c7f1-4443-be3f-a7d49fd25a6c"
+    }
+}

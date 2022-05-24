@@ -1,0 +1,54 @@
+{
+    "character": "heimerdinger",
+    "id": "2042378896",
+    "result": "这个习惯相当影响效率。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012576493,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.224]  这个习惯相当影响效率。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这个习惯相当影响效率。",
+                    "SliceSentence": "这个 习惯 相当 影响 效率",
+                    "StartMs": 0,
+                    "EndMs": 2224,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "习惯",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "相当",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "影响",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "效率",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.224688
+        },
+        "RequestId": "05b9c859-718f-4a68-9400-00d660812982"
+    }
+}

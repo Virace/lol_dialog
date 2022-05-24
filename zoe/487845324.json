@@ -1,0 +1,49 @@
+{
+    "character": "zoe",
+    "id": "487845324",
+    "result": "啊，我困了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012856111,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.839]  啊，我困了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，我困了。",
+                    "SliceSentence": "啊 我 困 了",
+                    "StartMs": 0,
+                    "EndMs": 3839,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "困",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 2790
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2790,
+                            "OffsetEndMs": 3060
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.839125
+        },
+        "RequestId": "ac026f41-6419-41d8-abb8-7073efe87d23"
+    }
+}

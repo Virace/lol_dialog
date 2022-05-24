@@ -1,0 +1,44 @@
+{
+    "character": "cassiopeia",
+    "id": "248194298",
+    "result": "哈哈哈哈，嘘。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554896,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.280]  哈哈哈哈，嘘。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈，嘘。",
+                    "SliceSentence": "哈哈 哈哈 嘘",
+                    "StartMs": 0,
+                    "EndMs": 5280,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 3090
+                        },
+                        {
+                            "Word": "嘘",
+                            "OffsetStartMs": 3600,
+                            "OffsetEndMs": 4650
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.724938
+        },
+        "RequestId": "964fcddb-2e59-4eec-ac76-3069abd60da2"
+    }
+}

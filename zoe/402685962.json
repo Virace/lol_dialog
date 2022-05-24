@@ -1,0 +1,59 @@
+{
+    "character": "zoe",
+    "id": "402685962",
+    "result": "好啦，这样就更漂亮啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012855835,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.735]  好啦，这样就更漂亮啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好啦，这样就更漂亮啦。",
+                    "SliceSentence": "好啦 这样 就 更 漂亮 啦",
+                    "StartMs": 0,
+                    "EndMs": 2735,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "好啦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "这样",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "更",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "漂亮",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.73525
+        },
+        "RequestId": "5f37cf14-427c-4058-9f6b-a83ae5411654"
+    }
+}

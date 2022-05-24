@@ -1,0 +1,54 @@
+{
+    "character": "azir",
+    "id": "625856489",
+    "result": "未来将由飞升者撰写。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012549084,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.559]  未来将由飞升者撰写。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "未来将由飞升者撰写。",
+                    "SliceSentence": "未来 将由 飞升 者 撰写",
+                    "StartMs": 0,
+                    "EndMs": 3559,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "未来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "将由",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "飞升",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "者",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "撰写",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 3000
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.5595
+        },
+        "RequestId": "d3f30d6a-a2de-47a6-a2b5-ea4079bcf79c"
+    }
+}

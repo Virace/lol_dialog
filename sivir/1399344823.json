@@ -1,0 +1,39 @@
+{
+    "character": "sivir",
+    "id": "1399344823",
+    "result": "尝尝这个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012778576,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.904]  尝尝这个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "尝尝这个。",
+                    "SliceSentence": "尝尝 这个",
+                    "StartMs": 0,
+                    "EndMs": 904,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "尝尝",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 840
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.90475
+        },
+        "RequestId": "ae424140-836d-4f81-82fb-cba318083f35"
+    }
+}

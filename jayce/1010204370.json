@@ -1,0 +1,39 @@
+{
+    "character": "jayce",
+    "id": "1010204370",
+    "result": "铺平道路。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012683961,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.718]  铺平道路。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "铺平道路。",
+                    "SliceSentence": "铺平 道路",
+                    "StartMs": 0,
+                    "EndMs": 1718,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "铺平",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "道路",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.718313
+        },
+        "RequestId": "582dca58-d0a1-4253-be71-2d63e881bd71"
+    }
+}

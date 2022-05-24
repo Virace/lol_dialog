@@ -1,0 +1,39 @@
+{
+    "character": "rakan",
+    "id": "1063971871",
+    "result": "马上就来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749331,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.115]  马上就来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "马上就来。",
+                    "SliceSentence": "马上 就来",
+                    "StartMs": 0,
+                    "EndMs": 1115,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "马上",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "就来",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 870
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.11525
+        },
+        "RequestId": "c1d64b29-4dbf-44d3-ab6f-2bfdaeff9cc8"
+    }
+}

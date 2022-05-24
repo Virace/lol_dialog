@@ -1,0 +1,44 @@
+{
+    "character": "tahmkench",
+    "id": "5853999",
+    "result": "多么令人愉快。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012790185,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.284]  多么令人愉快。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "多么令人愉快。",
+                    "SliceSentence": "多么 令人 愉快",
+                    "StartMs": 0,
+                    "EndMs": 3284,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "多么",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "令人",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "愉快",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.284375
+        },
+        "RequestId": "1fd5946a-2faa-4f71-a3bf-08bb9dc866a2"
+    }
+}

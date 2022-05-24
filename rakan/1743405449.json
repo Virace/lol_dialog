@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "1743405449",
+    "result": "我正打算处理。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012751531,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.776]  我正打算处理。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我正打算处理。",
+                    "SliceSentence": "我 正 打算 处理",
+                    "StartMs": 0,
+                    "EndMs": 1776,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "正",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "打算",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "处理",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.776875
+        },
+        "RequestId": "dd10cd92-a12e-4141-8105-21c18feb1dbe"
+    }
+}

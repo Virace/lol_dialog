@@ -1,0 +1,59 @@
+{
+    "character": "pyke",
+    "id": "1640223403",
+    "result": "我不喜欢你，我更不喜欢他们。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745280,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.964]  我不喜欢你，我更不喜欢他们。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不喜欢你，我更不喜欢他们。",
+                    "SliceSentence": "我 不喜欢 你我 更不 喜欢 他们",
+                    "StartMs": 0,
+                    "EndMs": 4964,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "不喜欢",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "你我",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 2370
+                        },
+                        {
+                            "Word": "更不",
+                            "OffsetStartMs": 2370,
+                            "OffsetEndMs": 2790
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 2790,
+                            "OffsetEndMs": 3330
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 3330,
+                            "OffsetEndMs": 3870
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.9645
+        },
+        "RequestId": "17a6662f-9ff4-4a37-80b3-46ea9c852b87"
+    }
+}

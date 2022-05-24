@@ -1,0 +1,54 @@
+{
+    "character": "sona",
+    "id": "1515258699",
+    "result": "韵律牵动着我们所有人。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012781465,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.720]  韵律牵动着我们所有人。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "韵律牵动着我们所有人。",
+                    "SliceSentence": "韵律 牵动 着 我们 所有人",
+                    "StartMs": 0,
+                    "EndMs": 5720,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "韵律",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "牵动",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "着",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "所有人",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2970
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.830563
+        },
+        "RequestId": "197e1c8e-faab-43db-bd8e-a026fd1eb413"
+    }
+}

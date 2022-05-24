@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "796634490",
+    "result": "我能让混沌起舞。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012837899,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.470]  我能让混沌起舞。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我能让混沌起舞。",
+                    "SliceSentence": "我能 让 混沌 起舞",
+                    "StartMs": 0,
+                    "EndMs": 2470,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我能",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "让",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "混沌",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "起舞",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.470625
+        },
+        "RequestId": "b4f19d13-d3b5-4059-b2fb-9df6cb45c0b0"
+    }
+}

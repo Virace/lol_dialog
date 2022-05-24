@@ -1,0 +1,39 @@
+{
+    "character": "caitlyn",
+    "id": "2014121944",
+    "result": "不许动。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551415,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.493]  不许动。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不许动。",
+                    "SliceSentence": "不许 动",
+                    "StartMs": 0,
+                    "EndMs": 1493,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "不许",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "动",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.493313
+        },
+        "RequestId": "47b5ee85-23c3-44a2-a2d5-9614fa22fba4"
+    }
+}

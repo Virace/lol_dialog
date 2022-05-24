@@ -1,0 +1,54 @@
+{
+    "character": "fizz",
+    "id": "1835741997",
+    "result": "沉到海底去吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012567856,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.763]  沉到海底去吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "沉到海底去吧。",
+                    "SliceSentence": "沉 到 海底 去 吧",
+                    "StartMs": 0,
+                    "EndMs": 2763,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "沉",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "海底",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.763188
+        },
+        "RequestId": "4e70134c-5046-4aef-b960-7523f476c28a"
+    }
+}

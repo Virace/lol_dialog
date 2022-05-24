@@ -1,0 +1,49 @@
+{
+    "character": "akshan",
+    "id": "748414159",
+    "result": "这个你肯定喜欢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012541571,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.050]  这个你肯定喜欢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这个你肯定喜欢。",
+                    "SliceSentence": "这个 你 肯定 喜欢",
+                    "StartMs": 0,
+                    "EndMs": 3050,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "肯定",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.050688
+        },
+        "RequestId": "b5234f88-4b05-4e16-90a7-bff0cd8eae2a"
+    }
+}

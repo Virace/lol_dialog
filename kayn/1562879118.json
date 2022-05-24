@@ -1,0 +1,54 @@
+{
+    "character": "kayn",
+    "id": "1562879118",
+    "result": "现在只有拉亚斯特拉。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012699829,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.129]  现在只有拉亚斯特拉。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "现在只有拉亚斯特拉。",
+                    "SliceSentence": "现在 只有 拉 亚斯 特拉",
+                    "StartMs": 0,
+                    "EndMs": 4129,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "只有",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "拉",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "亚斯",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 2940
+                        },
+                        {
+                            "Word": "特拉",
+                            "OffsetStartMs": 2940,
+                            "OffsetEndMs": 4020
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.129438
+        },
+        "RequestId": "8367219d-fb2e-4d3e-afb0-c2e6a0299651"
+    }
+}

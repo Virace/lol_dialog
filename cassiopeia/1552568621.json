@@ -1,0 +1,49 @@
+{
+    "character": "cassiopeia",
+    "id": "1552568621",
+    "result": "一次接触足以致命。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554771,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.595]  一次接触足以致命。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一次接触足以致命。",
+                    "SliceSentence": "一次 接触 足以 致命",
+                    "StartMs": 0,
+                    "EndMs": 2595,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "一次",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "接触",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "足以",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "致命",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.595938
+        },
+        "RequestId": "1e6a350e-b808-4f42-902d-e986d508e641"
+    }
+}

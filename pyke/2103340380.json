@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "2103340380",
+    "result": "就像安康鲨一样。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745861,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.596]  就像安康鲨一样。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "就像安康鲨一样。",
+                    "SliceSentence": "就像 安康 鲨 一样",
+                    "StartMs": 0,
+                    "EndMs": 2596,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "就像",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "安康",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "鲨",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "一样",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.596875
+        },
+        "RequestId": "d30d79c8-1c87-4cfc-9d86-fefdc9ba0b15"
+    }
+}

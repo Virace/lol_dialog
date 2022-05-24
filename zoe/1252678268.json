@@ -1,0 +1,49 @@
+{
+    "character": "zoe",
+    "id": "1252678268",
+    "result": "你在跟我掏心掏肺吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012854357,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.141]  你在跟我掏心掏肺吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你在跟我掏心掏肺吗？",
+                    "SliceSentence": "你在 跟我 掏心掏肺 吗",
+                    "StartMs": 0,
+                    "EndMs": 3141,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "跟我",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "掏心掏肺",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.141063
+        },
+        "RequestId": "6579bf88-56df-4d73-beb6-f4c1e1030bc6"
+    }
+}

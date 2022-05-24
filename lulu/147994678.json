@@ -1,0 +1,44 @@
+{
+    "character": "lulu",
+    "id": "147994678",
+    "result": "快快变大。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718772,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.376]  快快变大。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "快快变大。",
+                    "SliceSentence": "快快 变 大",
+                    "StartMs": 0,
+                    "EndMs": 2376,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "快快",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "变",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "大",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.376813
+        },
+        "RequestId": "a95c42ae-ef92-4e89-9f85-53c80c17ff82"
+    }
+}

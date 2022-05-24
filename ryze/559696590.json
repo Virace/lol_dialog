@@ -1,0 +1,49 @@
+{
+    "character": "ryze",
+    "id": "559696590",
+    "result": "如果你坚持的话。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012764867,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.297]  如果你坚持的话。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "如果你坚持的话。",
+                    "SliceSentence": "如果 你 坚持 的话",
+                    "StartMs": 0,
+                    "EndMs": 1297,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "如果",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "坚持",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "的话",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 8.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.297688
+        },
+        "RequestId": "699d8c64-c487-49a8-b0f4-2d82774605da"
+    }
+}

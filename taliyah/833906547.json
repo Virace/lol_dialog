@@ -1,0 +1,59 @@
+{
+    "character": "taliyah",
+    "id": "833906547",
+    "result": "想来就来，想走就走。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012794986,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.258]  想来就来，想走就走。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "想来就来，想走就走。",
+                    "SliceSentence": "想来 就来 想 走 就 走",
+                    "StartMs": 0,
+                    "EndMs": 2258,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "想来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "就来",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "想",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "走",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "走",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.258875
+        },
+        "RequestId": "a5086916-4f14-4c85-b895-2b1eaf8662e9"
+    }
+}

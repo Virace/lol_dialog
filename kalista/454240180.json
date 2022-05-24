@@ -1,0 +1,44 @@
+{
+    "character": "kalista",
+    "id": "454240180",
+    "result": "我们从不休息。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012694293,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.740]  我们从不休息。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们从不休息。",
+                    "SliceSentence": "我们 从不 休息",
+                    "StartMs": 0,
+                    "EndMs": 3740,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "从不",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "休息",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 3150
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.19375
+        },
+        "RequestId": "56656e2e-47ea-4730-ab1c-0d5f12bf9d84"
+    }
+}

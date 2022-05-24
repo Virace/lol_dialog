@@ -1,0 +1,49 @@
+{
+    "character": "chogath",
+    "id": "306340045",
+    "result": "不，我不住在床底下。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012555342,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.647]  不，我不住在床底下。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不，我不住在床底下。",
+                    "SliceSentence": "不 我不 住在 床底下",
+                    "StartMs": 0,
+                    "EndMs": 4647,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "住在",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "床底下",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2850
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.647188
+        },
+        "RequestId": "bcc0ac96-7149-4c86-a827-bec63f27e6d8"
+    }
+}

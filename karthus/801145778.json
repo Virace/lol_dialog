@@ -1,0 +1,39 @@
+{
+    "character": "karthus",
+    "id": "801145778",
+    "result": "听我歌唱。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012696376,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.917]  听我歌唱。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "听我歌唱。",
+                    "SliceSentence": "听我 歌唱",
+                    "StartMs": 0,
+                    "EndMs": 3917,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "听我",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "歌唱",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 3030
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.917688
+        },
+        "RequestId": "0d6bbfd8-d5e3-45f3-b4c6-a0a888a9f6f0"
+    }
+}

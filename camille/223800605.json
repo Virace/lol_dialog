@@ -1,0 +1,64 @@
+{
+    "character": "camille",
+    "id": "223800605",
+    "result": "该剪断你的线了，小木偶。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552622,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.144]  该剪断你的线了，小木偶。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "该剪断你的线了，小木偶。",
+                    "SliceSentence": "该 剪断 你的 线 了 小木 偶",
+                    "StartMs": 0,
+                    "EndMs": 3144,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "该",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "剪断",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "线",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "小木",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2370
+                        },
+                        {
+                            "Word": "偶",
+                            "OffsetStartMs": 2370,
+                            "OffsetEndMs": 3060
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.144313
+        },
+        "RequestId": "db3481a2-7c95-4f5d-a434-98fcc86a3908"
+    }
+}

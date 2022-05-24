@@ -1,0 +1,59 @@
+{
+    "character": "heimerdinger",
+    "id": "1723858268",
+    "result": "这正如我假设的那样。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012576287,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.885]  这正如我假设的那样。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这正如我假设的那样。",
+                    "SliceSentence": "这 正如 我 假设 的 那样",
+                    "StartMs": 0,
+                    "EndMs": 1885,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 60
+                        },
+                        {
+                            "Word": "正如",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "假设",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "那样",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 8.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.885563
+        },
+        "RequestId": "8e5dd84e-2834-4f45-b581-67ce227ca4ee"
+    }
+}

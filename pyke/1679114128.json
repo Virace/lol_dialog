@@ -1,0 +1,54 @@
+{
+    "character": "pyke",
+    "id": "1679114128",
+    "result": "失，睡吧，睡吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745384,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:6.385]  失，睡吧，睡吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "失，睡吧，睡吧。",
+                    "SliceSentence": "失 睡 吧 睡 吧",
+                    "StartMs": 0,
+                    "EndMs": 6385,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "失",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "睡",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2850
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 2850,
+                            "OffsetEndMs": 3570
+                        },
+                        {
+                            "Word": "睡",
+                            "OffsetStartMs": 3750,
+                            "OffsetEndMs": 4740
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 4740,
+                            "OffsetEndMs": 5910
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.385438
+        },
+        "RequestId": "d9397ae2-4e7a-4f36-b895-d18a53771457"
+    }
+}

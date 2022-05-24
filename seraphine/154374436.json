@@ -1,0 +1,49 @@
+{
+    "character": "seraphine",
+    "id": "154374436",
+    "result": "谢谢你听我的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012770518,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.420]  谢谢你听我的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "谢谢你听我的。",
+                    "SliceSentence": "谢谢 你听 我 的",
+                    "StartMs": 0,
+                    "EndMs": 2420,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "谢谢",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "你听",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.957938
+        },
+        "RequestId": "041254c8-e4cf-44a3-8942-c16bb2e15660"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "xayah",
+    "id": "360618328",
+    "result": "我希望你能更谨慎一些。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012836479,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.943]  我希望你能更谨慎一些。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我希望你能更谨慎一些。",
+                    "SliceSentence": "我 希望 你能 更 谨慎 一些",
+                    "StartMs": 0,
+                    "EndMs": 1943,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "希望",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "你能",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "更",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "谨慎",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "一些",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 8.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.943813
+        },
+        "RequestId": "0430362f-59ac-48ba-96a4-a3d59e2b47de"
+    }
+}

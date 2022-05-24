@@ -1,0 +1,39 @@
+{
+    "character": "rakan",
+    "id": "1241888182",
+    "result": "快来帮忙。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749971,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.248]  快来帮忙。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "快来帮忙。",
+                    "SliceSentence": "快来 帮忙",
+                    "StartMs": 0,
+                    "EndMs": 1248,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "快来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "帮忙",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.248063
+        },
+        "RequestId": "231deb8e-0693-4777-9ec5-738aa889c642"
+    }
+}

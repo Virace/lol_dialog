@@ -1,0 +1,54 @@
+{
+    "character": "swain",
+    "id": "1590788282",
+    "result": "为此而已，别无他般。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012784304,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.091]  为此而已，别无他般。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "为此而已，别无他般。",
+                    "SliceSentence": "为此 而已 别无 他 般",
+                    "StartMs": 0,
+                    "EndMs": 5091,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "为此",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "而已",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "别无",
+                            "OffsetStartMs": 2580,
+                            "OffsetEndMs": 3600
+                        },
+                        {
+                            "Word": "他",
+                            "OffsetStartMs": 3600,
+                            "OffsetEndMs": 4050
+                        },
+                        {
+                            "Word": "般",
+                            "OffsetStartMs": 4050,
+                            "OffsetEndMs": 4500
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.091938
+        },
+        "RequestId": "e6430914-dc1a-4089-bbd6-53b9bf6b2f97"
+    }
+}

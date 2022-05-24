@@ -1,0 +1,44 @@
+{
+    "character": "fizz",
+    "id": "1420521770",
+    "result": "快，我们走。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012567797,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.950]  快，我们走。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "快，我们走。",
+                    "SliceSentence": "快 我们 走",
+                    "StartMs": 0,
+                    "EndMs": 1950,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "快",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "走",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.9505
+        },
+        "RequestId": "7541f091-fef0-406f-b80d-2affb2fdd452"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "ekko",
+    "id": "14190230",
+    "result": "最终警告，回家去。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012559408,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.710]  最终警告，回家去。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "最终警告，回家去。",
+                    "SliceSentence": "最终 警告 回家 去",
+                    "StartMs": 0,
+                    "EndMs": 2710,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "最终",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "警告",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "回家",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.710688
+        },
+        "RequestId": "401f10c7-4313-431a-876f-7a38d22128b7"
+    }
+}

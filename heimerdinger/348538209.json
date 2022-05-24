@@ -1,0 +1,44 @@
+{
+    "character": "heimerdinger",
+    "id": "348538209",
+    "result": "注意你的向量。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012576569,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.986]  注意你的向量。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "注意你的向量。",
+                    "SliceSentence": "注意 你的 向量",
+                    "StartMs": 0,
+                    "EndMs": 1986,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "注意",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "向量",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.986438
+        },
+        "RequestId": "89ab162f-691d-426b-a918-ca0cac26d0d5"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "gangplank",
+    "id": "246214492",
+    "result": "我回来时会变得更强。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012570594,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.490]  我回来时会变得更强。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我回来时会变得更强。",
+                    "SliceSentence": "我 回来 时会 变得 更强",
+                    "StartMs": 0,
+                    "EndMs": 2490,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "回来",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "时会",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "变得",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "更强",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.490063
+        },
+        "RequestId": "65840949-af3b-4c9a-8962-3fcfe20911b1"
+    }
+}

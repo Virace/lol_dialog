@@ -1,0 +1,59 @@
+{
+    "character": "rakan",
+    "id": "1606790375",
+    "result": "我来了，我们可以开始啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012751109,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.447]  我来了，我们可以开始啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我来了，我们可以开始啦。",
+                    "SliceSentence": "我来 了 我们 可以 开始 啦",
+                    "StartMs": 0,
+                    "EndMs": 2447,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "开始",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.44725
+        },
+        "RequestId": "10eae740-9626-4230-af50-43b2e5536ec6"
+    }
+}

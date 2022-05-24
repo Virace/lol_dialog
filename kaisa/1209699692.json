@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "1209699692",
+    "result": "这里不是虚空。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012688223,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.598]  这里不是虚空。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这里不是虚空。",
+                    "SliceSentence": "这里 不是 虚空",
+                    "StartMs": 0,
+                    "EndMs": 1598,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这里",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "虚空",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.5985
+        },
+        "RequestId": "ee0001a2-6da7-4595-a1c6-c18d4fd31a40"
+    }
+}

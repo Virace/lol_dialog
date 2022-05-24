@@ -1,0 +1,44 @@
+{
+    "character": "gwen",
+    "id": "1597613963",
+    "result": "线头统统去掉。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012574252,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.828]  线头统统去掉。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "线头统统去掉。",
+                    "SliceSentence": "线头 统统 去掉",
+                    "StartMs": 0,
+                    "EndMs": 2828,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "线头",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "统统",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "去掉",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.82825
+        },
+        "RequestId": "39a7f9e1-5a99-41aa-a2b4-147e26a8c22e"
+    }
+}

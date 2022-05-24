@@ -1,0 +1,79 @@
+{
+    "character": "gwen",
+    "id": "825815351",
+    "result": "请你好好对待那位小姐，否则我不会让你好过。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012575381,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.040,0:6.440]  请你好好对待那位小姐，否则我不会让你好过。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "请你好好对待那位小姐，否则我不会让你好过。",
+                    "SliceSentence": "请你 好好 对待 那位 小姐 否则 我 不会 让你 好过",
+                    "StartMs": 40,
+                    "EndMs": 6440,
+                    "WordsNum": 10,
+                    "Words": [
+                        {
+                            "Word": "请你",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "好好",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "对待",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "那位",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "小姐",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "否则",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 2970
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 3450,
+                            "OffsetEndMs": 3570
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 3570,
+                            "OffsetEndMs": 3900
+                        },
+                        {
+                            "Word": "让你",
+                            "OffsetStartMs": 3900,
+                            "OffsetEndMs": 4080
+                        },
+                        {
+                            "Word": "好过",
+                            "OffsetStartMs": 4080,
+                            "OffsetEndMs": 4500
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.953625
+        },
+        "RequestId": "3124c668-adc0-4416-9c34-085392794da4"
+    }
+}

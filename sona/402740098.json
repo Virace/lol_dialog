@@ -1,0 +1,39 @@
+{
+    "character": "sona",
+    "id": "402740098",
+    "result": "音量渐强。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012782442,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.720]  音量渐强。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "音量渐强。",
+                    "SliceSentence": "音量 渐强",
+                    "StartMs": 0,
+                    "EndMs": 3720,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "音量",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "渐强",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.1235
+        },
+        "RequestId": "fb73b282-1be7-4a1a-a095-f8561e330cb3"
+    }
+}

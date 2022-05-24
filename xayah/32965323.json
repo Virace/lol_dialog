@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "32965323",
+    "result": "呃，不要这样。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012836415,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.674]  呃，不要这样。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "呃，不要这样。",
+                    "SliceSentence": "呃 不要 这样",
+                    "StartMs": 0,
+                    "EndMs": 1674,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "呃",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "这样",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.674375
+        },
+        "RequestId": "1cd16cf4-2032-445e-b203-85e65567342f"
+    }
+}

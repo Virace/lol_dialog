@@ -1,0 +1,69 @@
+{
+    "character": "monkeyking",
+    "id": "343091913",
+    "result": "中国有句老话叫做不打不相识。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012723747,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.422]  中国有句老话叫做不打不相识。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "中国有句老话叫做不打不相识。",
+                    "SliceSentence": "中国 有 句 老话 叫做 不打 不 相识",
+                    "StartMs": 0,
+                    "EndMs": 3422,
+                    "WordsNum": 8,
+                    "Words": [
+                        {
+                            "Word": "中国",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "句",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "老话",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "叫做",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "不打",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2700
+                        },
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 2700,
+                            "OffsetEndMs": 2880
+                        },
+                        {
+                            "Word": "相识",
+                            "OffsetStartMs": 2880,
+                            "OffsetEndMs": 3360
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.422063
+        },
+        "RequestId": "dcee6c27-0b57-433d-b93d-5c4f363441fa"
+    }
+}

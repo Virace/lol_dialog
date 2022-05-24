@@ -1,0 +1,39 @@
+{
+    "character": "galio",
+    "id": "407563866",
+    "result": "飞吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012569052,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.046]  飞吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "飞吧。",
+                    "SliceSentence": "飞 吧",
+                    "StartMs": 0,
+                    "EndMs": 1046,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "飞",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.046
+        },
+        "RequestId": "f9726cbc-0f82-4d98-b844-eb942793c243"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "volibear",
+    "id": "909245870",
+    "result": "我是马耳。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012817258,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.891]  我是马耳。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我是马耳。",
+                    "SliceSentence": "我 是 马 耳",
+                    "StartMs": 0,
+                    "EndMs": 3891,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "马",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "耳",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.891125
+        },
+        "RequestId": "67523088-ee7d-44d5-aaac-17593f38407d"
+    }
+}

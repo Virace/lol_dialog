@@ -1,0 +1,49 @@
+{
+    "character": "camille",
+    "id": "148407291",
+    "result": "这是你的极限了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552428,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.820]  这是你的极限了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是你的极限了。",
+                    "SliceSentence": "这是 你的 极限 了",
+                    "StartMs": 0,
+                    "EndMs": 1820,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "极限",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.820875
+        },
+        "RequestId": "f729f8d9-a00a-4733-a7d8-9f8a938230cc"
+    }
+}

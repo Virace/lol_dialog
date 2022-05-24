@@ -1,0 +1,59 @@
+{
+    "character": "camille",
+    "id": "131302664",
+    "result": "你逃避不了行为的后果。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552415,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.120]  你逃避不了行为的后果。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你逃避不了行为的后果。",
+                    "SliceSentence": "你 逃避 不了 行为 的 后果",
+                    "StartMs": 0,
+                    "EndMs": 2120,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "逃避",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "不了",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "行为",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "后果",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 7.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.120313
+        },
+        "RequestId": "311874f5-c596-4d34-a20a-aca29dd1b462"
+    }
+}

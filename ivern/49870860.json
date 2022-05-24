@@ -1,0 +1,44 @@
+{
+    "character": "ivern",
+    "id": "49870860",
+    "result": "恶意正在接近。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012682441,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.114]  恶意正在接近。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "恶意正在接近。",
+                    "SliceSentence": "恶意 正在 接近",
+                    "StartMs": 0,
+                    "EndMs": 2114,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "恶意",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "接近",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.114625
+        },
+        "RequestId": "dd8d5dbe-c5c0-40f6-ac3c-8ac9dc21bd45"
+    }
+}

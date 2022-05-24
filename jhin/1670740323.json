@@ -1,0 +1,44 @@
+{
+    "character": "jhin",
+    "id": "1670740323",
+    "result": "疼痛如此美妙。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012685413,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.017]  疼痛如此美妙。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "疼痛如此美妙。",
+                    "SliceSentence": "疼痛 如此 美妙",
+                    "StartMs": 0,
+                    "EndMs": 3017,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "疼痛",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "如此",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "美妙",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2910
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.017188
+        },
+        "RequestId": "0b915dea-5707-4c38-8f70-f096aae4db66"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "cassiopeia",
+    "id": "1131400470",
+    "result": "当心，我要咬了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554658,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.116]  当心，我要咬了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "当心，我要咬了。",
+                    "SliceSentence": "当心 我要 咬 了",
+                    "StartMs": 0,
+                    "EndMs": 3116,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "当心",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "咬",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2460
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2490,
+                            "OffsetEndMs": 3060
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.116313
+        },
+        "RequestId": "59d8c5c1-2f6a-4b12-a1c5-a8fa165a7343"
+    }
+}

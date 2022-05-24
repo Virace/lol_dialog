@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "1055881476",
+    "result": "大部分情况会。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012833709,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.542]  大部分情况会。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "大部分情况会。",
+                    "SliceSentence": "大部分 情况 会",
+                    "StartMs": 0,
+                    "EndMs": 1542,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "大部分",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "情况",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.54225
+        },
+        "RequestId": "ff245f90-5c2c-474c-ade8-bae91fe9b6b7"
+    }
+}

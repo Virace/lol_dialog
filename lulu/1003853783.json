@@ -1,0 +1,39 @@
+{
+    "character": "lulu",
+    "id": "1003853783",
+    "result": "跑快快。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718703,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.556]  跑快快。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "跑快快。",
+                    "SliceSentence": "跑 快快",
+                    "StartMs": 0,
+                    "EndMs": 1556,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "跑",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "快快",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.556375
+        },
+        "RequestId": "4038af69-b442-4202-b23c-7fe58682d693"
+    }
+}

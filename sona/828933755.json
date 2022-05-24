@@ -1,0 +1,64 @@
+{
+    "character": "sona",
+    "id": "828933755",
+    "result": "我的音乐就是我的声音。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012782904,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.980]  我的音乐就是我的声音。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的音乐就是我的声音。",
+                    "SliceSentence": "我 的 音乐 就是 我 的 声音",
+                    "StartMs": 0,
+                    "EndMs": 5980,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "音乐",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "声音",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 3090
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.86825
+        },
+        "RequestId": "3c7422db-c960-406f-8421-941549ae74bb"
+    }
+}

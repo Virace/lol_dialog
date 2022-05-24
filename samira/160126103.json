@@ -1,0 +1,49 @@
+{
+    "character": "samira",
+    "id": "160126103",
+    "result": "危险，怕我才对。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012766386,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.461]  危险，怕我才对。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "危险，怕我才对。",
+                    "SliceSentence": "危险 怕 我才 对",
+                    "StartMs": 0,
+                    "EndMs": 2461,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "危险",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "怕",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "我才",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "对",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.461313
+        },
+        "RequestId": "b95faa55-d277-4bdb-b174-aebca0ceb267"
+    }
+}

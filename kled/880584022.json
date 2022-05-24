@@ -1,0 +1,54 @@
+{
+    "character": "kled",
+    "id": "880584022",
+    "result": "他看起来已经烂啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012709852,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.991]  他看起来已经烂啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他看起来已经烂啦。",
+                    "SliceSentence": "他 看起来 已经 烂 啦",
+                    "StartMs": 0,
+                    "EndMs": 1991,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "他",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "看起来",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "烂",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.991125
+        },
+        "RequestId": "d2995055-6d8d-461b-8bbb-fc0508024a84"
+    }
+}

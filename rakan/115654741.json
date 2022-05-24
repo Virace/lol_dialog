@@ -1,0 +1,39 @@
+{
+    "character": "rakan",
+    "id": "115654741",
+    "result": "他们走了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749651,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.962]  他们走了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们走了。",
+                    "SliceSentence": "他们 走了",
+                    "StartMs": 0,
+                    "EndMs": 962,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "走了",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.962625
+        },
+        "RequestId": "eb09a849-477f-48f0-ae57-23e1ebfe29f4"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "kayle",
+    "id": "599120658",
+    "result": "以神之名。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012698536,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.984]  以神之名。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "以神之名。",
+                    "SliceSentence": "以 神之 名",
+                    "StartMs": 0,
+                    "EndMs": 1984,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "以",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "神之",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "名",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.98425
+        },
+        "RequestId": "2df3cfe4-8c46-49b3-a41e-07d8dbfb57e2"
+    }
+}

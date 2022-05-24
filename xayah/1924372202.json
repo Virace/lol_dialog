@@ -1,0 +1,39 @@
+{
+    "character": "xayah",
+    "id": "1924372202",
+    "result": "解决他们。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012835710,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.165]  解决他们。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "解决他们。",
+                    "SliceSentence": "解决 他们",
+                    "StartMs": 0,
+                    "EndMs": 1165,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "解决",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 690
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.165
+        },
+        "RequestId": "5d875718-b474-4043-8fae-5174e3a41e06"
+    }
+}

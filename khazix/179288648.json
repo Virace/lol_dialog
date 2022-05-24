@@ -1,0 +1,39 @@
+{
+    "character": "khazix",
+    "id": "179288648",
+    "result": "一行不行？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012703718,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.320]  一行不行？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一行不行？",
+                    "SliceSentence": "一行 不行",
+                    "StartMs": 0,
+                    "EndMs": 4320,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "一行",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "不行",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 3600
+                        }
+                    ],
+                    "SpeechSpeed": 1.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.684063
+        },
+        "RequestId": "6abe4a22-c4d3-491b-ba03-fb90ddc9b8c1"
+    }
+}

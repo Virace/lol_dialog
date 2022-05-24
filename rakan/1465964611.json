@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "1465964611",
+    "result": "真话从来都不啰嗦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012750630,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.663]  真话从来都不啰嗦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "真话从来都不啰嗦。",
+                    "SliceSentence": "真话 从来 都不 啰嗦",
+                    "StartMs": 0,
+                    "EndMs": 1663,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "真话",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "从来",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "都不",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "啰嗦",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 7.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.663125
+        },
+        "RequestId": "9576fa29-f8b2-41be-9026-79a204a3730b"
+    }
+}

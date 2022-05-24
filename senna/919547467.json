@@ -1,0 +1,44 @@
+{
+    "character": "senna",
+    "id": "919547467",
+    "result": "嘘，睡吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012770082,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.275]  嘘，睡吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘘，睡吧。",
+                    "SliceSentence": "嘘 睡 吧",
+                    "StartMs": 0,
+                    "EndMs": 2275,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "嘘",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "睡",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.275563
+        },
+        "RequestId": "8e5ce2b8-c113-41ea-89d9-4b2e9de67a33"
+    }
+}

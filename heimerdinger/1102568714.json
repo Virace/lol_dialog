@@ -1,0 +1,59 @@
+{
+    "character": "heimerdinger",
+    "id": "1102568714",
+    "result": "变量不足摁变量远远不足。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012576110,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.402]  变量不足摁变量远远不足。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "变量不足摁变量远远不足。",
+                    "SliceSentence": "变量 不足 摁 变量 远远 不足",
+                    "StartMs": 0,
+                    "EndMs": 3402,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "变量",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "不足",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "摁",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "变量",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "远远",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2550
+                        },
+                        {
+                            "Word": "不足",
+                            "OffsetStartMs": 2550,
+                            "OffsetEndMs": 3240
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.40225
+        },
+        "RequestId": "c79dfad0-290a-4a71-b0be-4dc0004ee649"
+    }
+}

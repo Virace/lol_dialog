@@ -1,0 +1,59 @@
+{
+    "character": "nunu",
+    "id": "347832271",
+    "result": "你有大麻烦了，大山那么大。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012735604,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.150]  你有大麻烦了，大山那么大。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你有大麻烦了，大山那么大。",
+                    "SliceSentence": "你有 大麻烦 了 大山 那么 大",
+                    "StartMs": 0,
+                    "EndMs": 3150,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "大麻烦",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "大山",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "那么",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "大",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.15
+        },
+        "RequestId": "9d0c141c-7654-4945-8ebc-bb853eb2a81d"
+    }
+}

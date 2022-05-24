@@ -1,0 +1,64 @@
+{
+    "character": "ryze",
+    "id": "567849019",
+    "result": "我背着的是什么？与你何干？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012764909,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.141]  我背着的是什么？与你何干？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我背着的是什么？与你何干？",
+                    "SliceSentence": "我 背着 的是 什么 与 你 何干",
+                    "StartMs": 0,
+                    "EndMs": 3141,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "背着",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "的是",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "与",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "何干",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 3030
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.141438
+        },
+        "RequestId": "48a24bd0-a950-4725-890a-d3eadd1630e8"
+    }
+}

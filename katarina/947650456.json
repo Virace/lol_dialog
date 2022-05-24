@@ -1,0 +1,44 @@
+{
+    "character": "katarina",
+    "id": "947650456",
+    "result": "我等不及啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012697191,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.628]  我等不及啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我等不及啦。",
+                    "SliceSentence": "我 等不及 啦",
+                    "StartMs": 0,
+                    "EndMs": 1628,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "等不及",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.628938
+        },
+        "RequestId": "8cb12ce4-f675-4c02-b1d5-54bebda6d5b2"
+    }
+}

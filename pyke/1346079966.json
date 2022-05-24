@@ -1,0 +1,54 @@
+{
+    "character": "pyke",
+    "id": "1346079966",
+    "result": "和我一起下沉吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744939,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.327]  和我一起下沉吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "和我一起下沉吧。",
+                    "SliceSentence": "和 我 一起 下沉 吧",
+                    "StartMs": 0,
+                    "EndMs": 3327,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "和",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "一起",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "下沉",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.327125
+        },
+        "RequestId": "87460c2a-e674-4a86-b79b-5ebf4f5ad246"
+    }
+}

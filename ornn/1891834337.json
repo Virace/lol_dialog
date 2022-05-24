@@ -1,0 +1,44 @@
+{
+    "character": "ornn",
+    "id": "1891834337",
+    "result": "我只是路过。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012738852,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.453]  我只是路过。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我只是路过。",
+                    "SliceSentence": "我 只是 路过",
+                    "StartMs": 0,
+                    "EndMs": 1453,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "只是",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "路过",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.453813
+        },
+        "RequestId": "8ff4155c-6dfe-4f7e-9f19-931c19736c4a"
+    }
+}

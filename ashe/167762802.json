@@ -1,0 +1,44 @@
+{
+    "character": "ashe",
+    "id": "167762802",
+    "result": "为我们领路。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012545036,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.695]  为我们领路。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "为我们领路。",
+                    "SliceSentence": "为 我们 领路",
+                    "StartMs": 0,
+                    "EndMs": 1695,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "为",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "领路",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.695063
+        },
+        "RequestId": "76698752-0c22-4f11-8645-3c0a1530d08a"
+    }
+}

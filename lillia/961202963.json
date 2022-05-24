@@ -1,0 +1,75 @@
+{
+    "character": "lillia",
+    "id": "961202963",
+    "result": "莉莉娅要骂人啦。这样行吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012716325,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.820]  莉莉娅要骂人啦。\n[0:3.480,0:6.740]  这样行吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "莉莉娅要骂人啦。",
+                    "SliceSentence": "莉莉 娅 要 骂人 啦",
+                    "StartMs": 0,
+                    "EndMs": 2820,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "莉莉",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "娅",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "骂人",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "这样行吗？",
+                    "SliceSentence": "这样 行吗",
+                    "StartMs": 3480,
+                    "EndMs": 6740,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "这样",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "行吗",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 2760
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.569688
+        },
+        "RequestId": "b27507e6-4fdb-4eea-b381-02e3213e8846"
+    }
+}

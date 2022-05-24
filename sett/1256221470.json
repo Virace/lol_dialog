@@ -1,0 +1,59 @@
+{
+    "character": "sett",
+    "id": "1256221470",
+    "result": "来人，接好我的外套。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012772279,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.227]  来人，接好我的外套。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "来人，接好我的外套。",
+                    "SliceSentence": "来人 接 好 我 的 外套",
+                    "StartMs": 0,
+                    "EndMs": 3227,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "来人",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "接",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "外套",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.227563
+        },
+        "RequestId": "40fce4ff-219c-4a1b-a291-5f05734386af"
+    }
+}

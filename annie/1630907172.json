@@ -1,0 +1,54 @@
+{
+    "character": "annie",
+    "id": "1630907172",
+    "result": "他们可以做这个吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542552,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.172]  他们可以做这个吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们可以做这个吗？",
+                    "SliceSentence": "他们 可以 做 这个 吗",
+                    "StartMs": 0,
+                    "EndMs": 2172,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "做",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.172188
+        },
+        "RequestId": "16f17163-19ee-42a0-a8d0-2e0a45f7f181"
+    }
+}

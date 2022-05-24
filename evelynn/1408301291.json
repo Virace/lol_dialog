@@ -1,0 +1,59 @@
+{
+    "character": "evelynn",
+    "id": "1408301291",
+    "result": "曾经我痛不欲生，现在我却欲罢不能。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012561901,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:6.849]  曾经我痛不欲生，现在我却欲罢不能。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "曾经我痛不欲生，现在我却欲罢不能。",
+                    "SliceSentence": "曾经 我 痛不欲生 现在 我却 欲罢不能",
+                    "StartMs": 0,
+                    "EndMs": 6849,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "曾经",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "痛不欲生",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 3480
+                        },
+                        {
+                            "Word": "我却",
+                            "OffsetStartMs": 3750,
+                            "OffsetEndMs": 4260
+                        },
+                        {
+                            "Word": "欲罢不能",
+                            "OffsetStartMs": 4260,
+                            "OffsetEndMs": 6180
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.849875
+        },
+        "RequestId": "d62bb3a0-bd99-4933-9f99-1dceba8f1294"
+    }
+}

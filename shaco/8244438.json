@@ -1,0 +1,54 @@
+{
+    "character": "shaco",
+    "id": "8244438",
+    "result": "这很好玩儿的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012774098,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.757]  这很好玩儿的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这很好玩儿的。",
+                    "SliceSentence": "这 很 好玩 儿 的",
+                    "StartMs": 0,
+                    "EndMs": 1757,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "很",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "好玩",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "儿",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.7575
+        },
+        "RequestId": "97e87975-a17e-47eb-9a89-73154eff4d08"
+    }
+}

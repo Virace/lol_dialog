@@ -1,0 +1,44 @@
+{
+    "character": "gnar",
+    "id": "106470439",
+    "result": "我看你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012572521,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.644]  我看你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我看你。",
+                    "SliceSentence": "我 看 你",
+                    "StartMs": 0,
+                    "EndMs": 644,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "看",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 570
+                        }
+                    ],
+                    "SpeechSpeed": 9.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.644313
+        },
+        "RequestId": "a59497b6-4cbe-4fc6-b7fd-45e269cf379f"
+    }
+}

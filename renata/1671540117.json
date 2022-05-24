@@ -1,0 +1,49 @@
+{
+    "character": "renata",
+    "id": "1671540117",
+    "result": "新的合作伙伴这就来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012760007,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.320]  新的合作伙伴这就来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "新的合作伙伴这就来了。",
+                    "SliceSentence": "新的 合作伙伴 这就 来了",
+                    "StartMs": 0,
+                    "EndMs": 4320,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "新的",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "合作伙伴",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "这就",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2910
+                        },
+                        {
+                            "Word": "来了",
+                            "OffsetStartMs": 2910,
+                            "OffsetEndMs": 3660
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.501625
+        },
+        "RequestId": "aae3c3b4-4357-40d4-a63b-0d98aa6f427c"
+    }
+}

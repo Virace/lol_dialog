@@ -1,0 +1,44 @@
+{
+    "character": "kayn",
+    "id": "304811360",
+    "result": "死是命中注定。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012701223,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.140]  死是命中注定。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "死是命中注定。",
+                    "SliceSentence": "死 是 命中注定",
+                    "StartMs": 0,
+                    "EndMs": 3140,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "死",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "命中注定",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2760
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.140625
+        },
+        "RequestId": "61cdf017-4000-4eaa-a8b8-4d9a41adcac8"
+    }
+}

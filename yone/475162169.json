@@ -1,0 +1,49 @@
+{
+    "character": "yone",
+    "id": "475162169",
+    "result": "还不足以让我停下。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012843197,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.622]  还不足以让我停下。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "还不足以让我停下。",
+                    "SliceSentence": "还不 足以 让我 停下",
+                    "StartMs": 0,
+                    "EndMs": 3622,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "还不",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "足以",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "让我",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "停下",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.622313
+        },
+        "RequestId": "65745453-d1e2-4713-92ea-b11fb872f7f0"
+    }
+}

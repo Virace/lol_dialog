@@ -1,0 +1,39 @@
+{
+    "character": "zoe",
+    "id": "258546816",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012855494,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.246]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 3246,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.246938
+        },
+        "RequestId": "bafa47a9-ed3c-4d81-8cde-be3100ad4a94"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "character": "vex",
+    "id": "993002433",
+    "result": "行行行，我醒了，别叫啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012811710,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.406]  行行行，我醒了，别叫啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "行行行，我醒了，别叫啦。",
+                    "SliceSentence": "行 行行 我 醒了 别 叫 啦",
+                    "StartMs": 0,
+                    "EndMs": 5406,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "行",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "行行",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "醒了",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2490
+                        },
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 3480,
+                            "OffsetEndMs": 3780
+                        },
+                        {
+                            "Word": "叫",
+                            "OffsetStartMs": 3780,
+                            "OffsetEndMs": 4110
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 4110,
+                            "OffsetEndMs": 4380
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.40675
+        },
+        "RequestId": "0ec640be-2c36-4800-b018-f50e1bfc733a"
+    }
+}

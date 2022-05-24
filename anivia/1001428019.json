@@ -1,0 +1,39 @@
+{
+    "character": "anivia",
+    "id": "1001428019",
+    "result": "明白了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542187,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.205]  明白了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "明白了。",
+                    "SliceSentence": "明白 了",
+                    "StartMs": 0,
+                    "EndMs": 2205,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "明白",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 690
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.205938
+        },
+        "RequestId": "07399441-0bd5-44e6-b2eb-4b33d455faed"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "evelynn",
+    "id": "1271123326",
+    "result": "希望这下足够疼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012561712,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.600]  希望这下足够疼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "希望这下足够疼。",
+                    "SliceSentence": "希望 这下 足够 疼",
+                    "StartMs": 0,
+                    "EndMs": 4600,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "希望",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "这下",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "足够",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "疼",
+                            "OffsetStartMs": 2340,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.873125
+        },
+        "RequestId": "accc1650-2638-4291-b18e-f66293e07a1f"
+    }
+}

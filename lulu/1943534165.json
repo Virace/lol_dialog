@@ -1,0 +1,54 @@
+{
+    "character": "lulu",
+    "id": "1943534165",
+    "result": "嗯，尝起来很上流。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718930,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.111]  嗯，尝起来很上流。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯，尝起来很上流。",
+                    "SliceSentence": "嗯 尝 起来 很 上流",
+                    "StartMs": 0,
+                    "EndMs": 3111,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "尝",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "起来",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "很",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "上流",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.111375
+        },
+        "RequestId": "6c54edb1-6cdf-4b6d-8e7b-3e28ada284ae"
+    }
+}

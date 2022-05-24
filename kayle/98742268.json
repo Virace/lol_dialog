@@ -1,0 +1,44 @@
+{
+    "character": "kayle",
+    "id": "98742268",
+    "result": "我黯淡了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012698901,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.839]  我黯淡了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我黯淡了。",
+                    "SliceSentence": "我 黯淡 了",
+                    "StartMs": 0,
+                    "EndMs": 1839,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "黯淡",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.839938
+        },
+        "RequestId": "b07c657a-8d40-42ad-992b-dad5b79e6519"
+    }
+}

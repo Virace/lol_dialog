@@ -1,0 +1,49 @@
+{
+    "character": "zac",
+    "id": "999405014",
+    "result": "又是忙碌的一天。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012849468,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.699]  又是忙碌的一天。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "又是忙碌的一天。",
+                    "SliceSentence": "又是 忙碌 的 一天",
+                    "StartMs": 0,
+                    "EndMs": 1699,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "又是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "忙碌",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "一天",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.699438
+        },
+        "RequestId": "c5ce716a-ab0b-4375-a3c3-e5567a423b71"
+    }
+}

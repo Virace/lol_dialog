@@ -1,0 +1,44 @@
+{
+    "character": "vex",
+    "id": "625451735",
+    "result": "你是在笑骂。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012811459,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.634]  你是在笑骂。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你是在笑骂。",
+                    "SliceSentence": "你 是在 笑骂",
+                    "StartMs": 0,
+                    "EndMs": 2634,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "是在",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "笑骂",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.634438
+        },
+        "RequestId": "d324fb3a-54de-4773-bc1d-4a3edf39639e"
+    }
+}

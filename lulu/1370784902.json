@@ -1,0 +1,49 @@
+{
+    "character": "lulu",
+    "id": "1370784902",
+    "result": "那个松鼠很眼熟。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718722,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.504]  那个松鼠很眼熟。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "那个松鼠很眼熟。",
+                    "SliceSentence": "那个 松鼠 很 眼熟",
+                    "StartMs": 0,
+                    "EndMs": 3504,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "那个",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "松鼠",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "很",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "眼熟",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.504375
+        },
+        "RequestId": "91a4bf9d-47af-4ca4-989c-c7faef89f31c"
+    }
+}

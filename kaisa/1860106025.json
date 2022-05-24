@@ -1,0 +1,91 @@
+{
+    "character": "kaisa",
+    "id": "1860106025",
+    "result": "啊？父亲的回忆。来得真叫人猝不及防。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689449,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.260]  啊？\n[0:1.260,0:3.000]  父亲的回忆。\n[0:3.000,0:5.056]  来得真叫人猝不及防。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊？",
+                    "SliceSentence": "啊",
+                    "StartMs": 0,
+                    "EndMs": 1260,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "父亲的回忆。",
+                    "SliceSentence": "父亲 的 回忆",
+                    "StartMs": 1260,
+                    "EndMs": 3000,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "父亲",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "回忆",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "来得真叫人猝不及防。",
+                    "SliceSentence": "来得 真叫 人 猝不及防",
+                    "StartMs": 3000,
+                    "EndMs": 5056,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "来得",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "真叫",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "人",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "猝不及防",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.056063
+        },
+        "RequestId": "f67319d3-4658-4f34-93ed-5332db2838cf"
+    }
+}

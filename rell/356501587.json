@@ -1,0 +1,49 @@
+{
+    "character": "rell",
+    "id": "356501587",
+    "result": "你很可靠，我喜欢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012758184,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.185]  你很可靠，我喜欢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你很可靠，我喜欢。",
+                    "SliceSentence": "你很 可靠 我 喜欢",
+                    "StartMs": 0,
+                    "EndMs": 2185,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你很",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "可靠",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.185438
+        },
+        "RequestId": "81577d26-5f4d-48d4-8dfc-c1579e2ddb12"
+    }
+}

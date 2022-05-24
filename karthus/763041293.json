@@ -1,0 +1,54 @@
+{
+    "character": "karthus",
+    "id": "763041293",
+    "result": "我渴望着灵肉分离。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012696392,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.381]  我渴望着灵肉分离。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我渴望着灵肉分离。",
+                    "SliceSentence": "我 渴望 着 灵肉 分离",
+                    "StartMs": 0,
+                    "EndMs": 4381,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "渴望",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "着",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "灵肉",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "分离",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 3990
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.381313
+        },
+        "RequestId": "d908af2b-56be-4fc6-9d11-b57fb4a7f39e"
+    }
+}

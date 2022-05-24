@@ -1,0 +1,39 @@
+{
+    "character": "brand",
+    "id": "86968150",
+    "result": "说罢，哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012549969,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.252]  说罢，哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "说罢，哈哈。",
+                    "SliceSentence": "说罢 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 3252,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "说罢",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.252125
+        },
+        "RequestId": "aa186455-9050-4945-a15a-f37951c5e2ac"
+    }
+}

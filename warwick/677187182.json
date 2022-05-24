@@ -1,0 +1,44 @@
+{
+    "character": "warwick",
+    "id": "677187182",
+    "result": "让我忘记吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012832844,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.800]  让我忘记吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "让我忘记吧。",
+                    "SliceSentence": "让我 忘记 吧",
+                    "StartMs": 0,
+                    "EndMs": 2800,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "让我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "忘记",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.8
+        },
+        "RequestId": "6be9f3d3-4d8a-4009-baa9-38029b455448"
+    }
+}

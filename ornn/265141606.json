@@ -1,0 +1,54 @@
+{
+    "character": "ornn",
+    "id": "265141606",
+    "result": "别白费了那东西。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012739206,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.815]  别白费了那东西。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别白费了那东西。",
+                    "SliceSentence": "别 白费 了 那 东西",
+                    "StartMs": 0,
+                    "EndMs": 1815,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "白费",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "那",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.815
+        },
+        "RequestId": "8b676961-7cc1-477a-8772-722facbfeea9"
+    }
+}

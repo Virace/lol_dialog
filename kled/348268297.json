@@ -1,0 +1,49 @@
+{
+    "character": "kled",
+    "id": "348268297",
+    "result": "谢天谢地，很高兴见到你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012707372,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.207]  谢天谢地，很高兴见到你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "谢天谢地，很高兴见到你。",
+                    "SliceSentence": "谢天谢地 很高兴 见到 你",
+                    "StartMs": 0,
+                    "EndMs": 3207,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "谢天谢地",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "很高兴",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "见到",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2460
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 2460,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.207
+        },
+        "RequestId": "64873a39-82a1-4123-b80a-50197452e08a"
+    }
+}

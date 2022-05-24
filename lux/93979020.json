@@ -1,0 +1,44 @@
+{
+    "character": "lux",
+    "id": "93979020",
+    "result": "我们可以的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012719835,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.372]  我们可以的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们可以的。",
+                    "SliceSentence": "我们 可以 的",
+                    "StartMs": 0,
+                    "EndMs": 1372,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.372063
+        },
+        "RequestId": "e977d100-3ee8-4db8-b8ef-3c880aa24590"
+    }
+}

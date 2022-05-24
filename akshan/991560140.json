@@ -1,0 +1,44 @@
+{
+    "character": "akshan",
+    "id": "991560140",
+    "result": "这是你活该。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012541708,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.069]  这是你活该。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是你活该。",
+                    "SliceSentence": "这是 你 活该",
+                    "StartMs": 0,
+                    "EndMs": 2069,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "活该",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.069313
+        },
+        "RequestId": "6e7cc666-43b4-4b5f-8b2e-5750d530d14d"
+    }
+}

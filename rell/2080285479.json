@@ -1,0 +1,44 @@
+{
+    "character": "rell",
+    "id": "2080285479",
+    "result": "我会奋战到底。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012757896,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.849]  我会奋战到底。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会奋战到底。",
+                    "SliceSentence": "我会 奋战 到底",
+                    "StartMs": 0,
+                    "EndMs": 1849,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "奋战",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "到底",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.849438
+        },
+        "RequestId": "0b6b33fc-ce91-4689-a006-16ac27259e8d"
+    }
+}

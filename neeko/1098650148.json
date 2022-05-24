@@ -1,0 +1,49 @@
+{
+    "character": "neeko",
+    "id": "1098650148",
+    "result": "你麻烦大惹。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012729473,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.551]  你麻烦大惹。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你麻烦大惹。",
+                    "SliceSentence": "你 麻烦 大 惹",
+                    "StartMs": 0,
+                    "EndMs": 1551,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "麻烦",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "大",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "惹",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.551
+        },
+        "RequestId": "f347fae9-8da6-42d4-bd8e-3d25eb7cbcb4"
+    }
+}

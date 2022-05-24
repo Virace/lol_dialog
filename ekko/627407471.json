@@ -1,0 +1,44 @@
+{
+    "character": "ekko",
+    "id": "627407471",
+    "result": "来抓我呀。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560159,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.929]  来抓我呀。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "来抓我呀。",
+                    "SliceSentence": "来抓 我 呀",
+                    "StartMs": 0,
+                    "EndMs": 929,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "来抓",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "呀",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 870
+                        }
+                    ],
+                    "SpeechSpeed": 7.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.929375
+        },
+        "RequestId": "237f0fc0-d648-45b4-b5c5-c2da1a2b22eb"
+    }
+}

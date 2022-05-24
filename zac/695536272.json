@@ -1,0 +1,54 @@
+{
+    "character": "zac",
+    "id": "695536272",
+    "result": "嘿，对不起，伤到你咯。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012849402,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.439]  嘿，对不起，伤到你咯。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘿，对不起，伤到你咯。",
+                    "SliceSentence": "嘿 对不起 伤到 你 咯",
+                    "StartMs": 0,
+                    "EndMs": 2439,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "嘿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "对不起",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "伤到",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "咯",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.4395
+        },
+        "RequestId": "0234da5f-b127-489c-8446-97191589b638"
+    }
+}

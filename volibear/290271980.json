@@ -1,0 +1,49 @@
+{
+    "character": "volibear",
+    "id": "290271980",
+    "result": "我狂奔，我践踏。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012816678,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.385]  我狂奔，我践踏。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我狂奔，我践踏。",
+                    "SliceSentence": "我 狂奔 我 践踏",
+                    "StartMs": 0,
+                    "EndMs": 4385,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "狂奔",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "践踏",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 3270
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.38575
+        },
+        "RequestId": "68b1ea33-4683-4b79-9760-3d9a0bb0cfee"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "sylas",
+    "id": "1570515272",
+    "result": "魔法是关不住的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786624,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.975]  魔法是关不住的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "魔法是关不住的。",
+                    "SliceSentence": "魔法 是 关 不住 的",
+                    "StartMs": 0,
+                    "EndMs": 1975,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "魔法",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "关",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "不住",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.975563
+        },
+        "RequestId": "687e09fb-6f65-4366-b3f5-f85f39f371dd"
+    }
+}

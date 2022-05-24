@@ -1,0 +1,54 @@
+{
+    "character": "zac",
+    "id": "1587869038",
+    "result": "该介绍我自己了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012848520,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.354]  该介绍我自己了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "该介绍我自己了。",
+                    "SliceSentence": "该 介绍 我 自己 了",
+                    "StartMs": 0,
+                    "EndMs": 2354,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "该",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "介绍",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "自己",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.354313
+        },
+        "RequestId": "1305969e-bf1f-4ccc-9d84-c51f4f86736e"
+    }
+}

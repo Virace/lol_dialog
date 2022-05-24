@@ -1,0 +1,44 @@
+{
+    "character": "zoe",
+    "id": "1693866841",
+    "result": "这法术不错。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012854897,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.926]  这法术不错。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这法术不错。",
+                    "SliceSentence": "这 法术 不错",
+                    "StartMs": 0,
+                    "EndMs": 1926,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 60
+                        },
+                        {
+                            "Word": "法术",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "不错",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.926938
+        },
+        "RequestId": "6d949397-b45a-43fb-bd31-c65e6dff0612"
+    }
+}

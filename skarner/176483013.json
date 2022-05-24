@@ -1,0 +1,44 @@
+{
+    "character": "skarner",
+    "id": "176483013",
+    "result": "砍到了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012779793,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.996]  砍到了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "砍到了。",
+                    "SliceSentence": "砍 到 了",
+                    "StartMs": 0,
+                    "EndMs": 1996,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "砍",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.99675
+        },
+        "RequestId": "f88567ae-6d22-490f-9504-200238a43183"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "sylas",
+    "id": "1380333952",
+    "result": "王权就是个骗局。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786413,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.760]  王权就是个骗局。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "王权就是个骗局。",
+                    "SliceSentence": "王权 就是 个 骗局",
+                    "StartMs": 0,
+                    "EndMs": 1760,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "王权",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "个",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "骗局",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.760688
+        },
+        "RequestId": "df704448-2e41-4e7a-b6ec-69ddeb484c5b"
+    }
+}

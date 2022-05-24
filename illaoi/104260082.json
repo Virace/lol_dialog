@@ -1,0 +1,49 @@
+{
+    "character": "illaoi",
+    "id": "104260082",
+    "result": "你们静若死人。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012576963,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.965]  你们静若死人。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你们静若死人。",
+                    "SliceSentence": "你们 静 若 死人",
+                    "StartMs": 0,
+                    "EndMs": 1965,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "静",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "若",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "死人",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.965188
+        },
+        "RequestId": "3dd49544-84ac-40d0-a7f9-cf10699a9bf7"
+    }
+}

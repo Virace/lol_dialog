@@ -1,0 +1,49 @@
+{
+    "character": "heimerdinger",
+    "id": "1948658267",
+    "result": "为了伟大的科学。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012576459,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.058]  为了伟大的科学。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "为了伟大的科学。",
+                    "SliceSentence": "为了 伟大 的 科学",
+                    "StartMs": 0,
+                    "EndMs": 2058,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "为了",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "伟大",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "科学",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.058
+        },
+        "RequestId": "8250ea0c-ba83-416e-94be-1d8292ff6c8f"
+    }
+}

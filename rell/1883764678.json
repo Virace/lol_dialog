@@ -1,0 +1,49 @@
+{
+    "character": "rell",
+    "id": "1883764678",
+    "result": "你算什么东西？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012757588,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.556]  你算什么东西？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你算什么东西？",
+                    "SliceSentence": "你 算 什么 东西",
+                    "StartMs": 0,
+                    "EndMs": 1556,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "算",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.556063
+        },
+        "RequestId": "aac1afdf-81d8-48d4-9703-2c5d34ee399b"
+    }
+}

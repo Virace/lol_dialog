@@ -1,0 +1,49 @@
+{
+    "character": "vi",
+    "id": "1287847362",
+    "result": "打得漂亮，蛋糕女。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012812042,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.120,0:2.141]  打得漂亮，蛋糕女。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "打得漂亮，蛋糕女。",
+                    "SliceSentence": "打得 漂亮 蛋糕 女",
+                    "StartMs": 120,
+                    "EndMs": 2141,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "打得",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "漂亮",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "蛋糕",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "女",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.141625
+        },
+        "RequestId": "bbedbe06-b3c4-4d82-a1cf-4bcb169a8cfc"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "camille",
+    "id": "1061276732",
+    "result": "不要走，跑起来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552236,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.406]  不要走，跑起来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要走，跑起来。",
+                    "SliceSentence": "不要 走 跑 起来",
+                    "StartMs": 0,
+                    "EndMs": 2406,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "走",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "跑",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "起来",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.406813
+        },
+        "RequestId": "376d66c6-0fff-4457-96d8-a7ebdee1b813"
+    }
+}

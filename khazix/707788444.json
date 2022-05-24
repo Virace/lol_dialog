@@ -1,0 +1,59 @@
+{
+    "character": "khazix",
+    "id": "707788444",
+    "result": "我感觉到了有价值的猎物。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012704073,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.580]  我感觉到了有价值的猎物。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我感觉到了有价值的猎物。",
+                    "SliceSentence": "我 感觉到 了 有价值 的 猎物",
+                    "StartMs": 0,
+                    "EndMs": 4580,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "感觉到",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "有价值",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 2460
+                        },
+                        {
+                            "Word": "猎物",
+                            "OffsetStartMs": 2460,
+                            "OffsetEndMs": 3690
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.893375
+        },
+        "RequestId": "66e599ba-92c6-4b0f-b6de-4c1b70ff0d21"
+    }
+}

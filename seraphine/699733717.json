@@ -1,0 +1,59 @@
+{
+    "character": "seraphine",
+    "id": "699733717",
+    "result": "我的歌交给你啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012771726,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.500]  我的歌交给你啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的歌交给你啦。",
+                    "SliceSentence": "我 的 歌 交给 你 啦",
+                    "StartMs": 0,
+                    "EndMs": 2500,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "歌",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "交给",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.166313
+        },
+        "RequestId": "311ee1c7-a66b-4d77-acef-c157b7b6c140"
+    }
+}

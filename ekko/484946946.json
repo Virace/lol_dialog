@@ -1,0 +1,44 @@
+{
+    "character": "ekko",
+    "id": "484946946",
+    "result": "欢迎来到祖安。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560087,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.400]  欢迎来到祖安。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "欢迎来到祖安。",
+                    "SliceSentence": "欢迎 来到 祖安",
+                    "StartMs": 0,
+                    "EndMs": 1400,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "欢迎",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "来到",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "祖安",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.4
+        },
+        "RequestId": "0f066c16-f905-4793-9591-507857627911"
+    }
+}

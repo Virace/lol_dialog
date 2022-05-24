@@ -1,0 +1,39 @@
+{
+    "character": "vi",
+    "id": "1723398310",
+    "result": "尝尝这个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012812377,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.308]  尝尝这个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "尝尝这个。",
+                    "SliceSentence": "尝尝 这个",
+                    "StartMs": 0,
+                    "EndMs": 1308,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "尝尝",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.30825
+        },
+        "RequestId": "c01994fa-39cb-4165-bee5-89bec53d11cb"
+    }
+}

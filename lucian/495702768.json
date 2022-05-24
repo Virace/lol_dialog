@@ -1,0 +1,59 @@
+{
+    "character": "lucian",
+    "id": "495702768",
+    "result": "我能救她，我能救她。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718260,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.715]  我能救她，我能救她。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我能救她，我能救她。",
+                    "SliceSentence": "我能 救 她 我能 救 她",
+                    "StartMs": 0,
+                    "EndMs": 3715,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我能",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "救",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "她",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "我能",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "救",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2490
+                        },
+                        {
+                            "Word": "她",
+                            "OffsetStartMs": 2490,
+                            "OffsetEndMs": 2910
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.715188
+        },
+        "RequestId": "dd949541-fd10-4d74-956e-436361548804"
+    }
+}

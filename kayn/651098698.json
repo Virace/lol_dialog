@@ -1,0 +1,39 @@
+{
+    "character": "kayn",
+    "id": "651098698",
+    "result": "接好了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012702467,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.107]  接好了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "接好了。",
+                    "SliceSentence": "接 好了",
+                    "StartMs": 0,
+                    "EndMs": 1107,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "接",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "好了",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.107625
+        },
+        "RequestId": "3bb8ad56-6d7d-48ce-9922-78e528404bd3"
+    }
+}

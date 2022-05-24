@@ -1,0 +1,44 @@
+{
+    "character": "nocturne",
+    "id": "69879756",
+    "result": "光明消失啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012732111,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.947]  光明消失啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "光明消失啊。",
+                    "SliceSentence": "光明 消失 啊",
+                    "StartMs": 0,
+                    "EndMs": 3947,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "光明",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "消失",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 3720
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.947438
+        },
+        "RequestId": "ce8ea865-4346-4792-957d-0eb05a26eded"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "character": "senna",
+    "id": "1032960977",
+    "result": "我又死了，真是越来越熟练了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012768151,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.483]  我又死了，真是越来越熟练了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我又死了，真是越来越熟练了。",
+                    "SliceSentence": "我又 死 了 真是 越来越 熟练 了",
+                    "StartMs": 0,
+                    "EndMs": 3483,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我又",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "死",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "真是",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "越来越",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "熟练",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2550
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2550,
+                            "OffsetEndMs": 2850
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.483
+        },
+        "RequestId": "762e5076-a901-4d9c-9e25-37219b3f2ed3"
+    }
+}

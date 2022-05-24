@@ -1,0 +1,54 @@
+{
+    "character": "sion",
+    "id": "729004387",
+    "result": "又一个四分五裂的视频。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012777688,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.177]  又一个四分五裂的视频。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "又一个四分五裂的视频。",
+                    "SliceSentence": "又一 个 四分五裂 的 视频",
+                    "StartMs": 0,
+                    "EndMs": 4177,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "又一",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "个",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "四分五裂",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2670
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2670,
+                            "OffsetEndMs": 2790
+                        },
+                        {
+                            "Word": "视频",
+                            "OffsetStartMs": 2790,
+                            "OffsetEndMs": 3960
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.177125
+        },
+        "RequestId": "26c683c9-7296-4a8d-a4ba-c159cce8233e"
+    }
+}

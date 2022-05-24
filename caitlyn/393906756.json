@@ -1,0 +1,44 @@
+{
+    "character": "caitlyn",
+    "id": "393906756",
+    "result": "犯人罪名成立。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551718,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.645]  犯人罪名成立。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "犯人罪名成立。",
+                    "SliceSentence": "犯人 罪名 成立",
+                    "StartMs": 0,
+                    "EndMs": 2645,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "犯人",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "罪名",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "成立",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.645313
+        },
+        "RequestId": "33548615-8f35-413d-9c6d-8da858e39b35"
+    }
+}

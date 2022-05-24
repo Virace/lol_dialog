@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "1716532819",
+    "result": "一顿晚餐吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012835299,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.479]  一顿晚餐吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一顿晚餐吗？",
+                    "SliceSentence": "一顿 晚餐 吗",
+                    "StartMs": 0,
+                    "EndMs": 1479,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "一顿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "晚餐",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.479188
+        },
+        "RequestId": "82576cb7-8d2b-437f-8468-aba9eeab08b7"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "swain",
+    "id": "742170779",
+    "result": "少数人为多数人。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012785739,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.021]  少数人为多数人。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "少数人为多数人。",
+                    "SliceSentence": "少数 人为 多数 人",
+                    "StartMs": 0,
+                    "EndMs": 3021,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "少数",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "人为",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "多数",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "人",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 2790
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.021
+        },
+        "RequestId": "196621a0-b749-4d3c-9f8d-e3636716b96c"
+    }
+}

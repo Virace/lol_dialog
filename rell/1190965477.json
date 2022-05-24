@@ -1,0 +1,49 @@
+{
+    "character": "rell",
+    "id": "1190965477",
+    "result": "谁也别想动我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012756885,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.630]  谁也别想动我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "谁也别想动我。",
+                    "SliceSentence": "谁也 别想 动 我",
+                    "StartMs": 0,
+                    "EndMs": 1630,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "谁也",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "别想",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "动",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.63075
+        },
+        "RequestId": "3db1f44f-f3a0-46b6-aa07-87903e0d043d"
+    }
+}

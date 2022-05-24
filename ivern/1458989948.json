@@ -1,0 +1,49 @@
+{
+    "character": "ivern",
+    "id": "1458989948",
+    "result": "小菊只是喜欢拥抱。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012584147,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.181]  小菊只是喜欢拥抱。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "小菊只是喜欢拥抱。",
+                    "SliceSentence": "小菊 只是 喜欢 拥抱",
+                    "StartMs": 0,
+                    "EndMs": 3181,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "小菊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "只是",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "拥抱",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2880
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.181375
+        },
+        "RequestId": "db6df944-1109-4c70-9daa-ae179ab38c92"
+    }
+}

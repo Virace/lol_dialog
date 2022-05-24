@@ -1,0 +1,49 @@
+{
+    "character": "sion",
+    "id": "66406946",
+    "result": "我讨厌这么等着。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012777553,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.527]  我讨厌这么等着。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我讨厌这么等着。",
+                    "SliceSentence": "我 讨厌 这么 等着",
+                    "StartMs": 0,
+                    "EndMs": 3527,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "讨厌",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "这么",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "等着",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 3360
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.527063
+        },
+        "RequestId": "33835884-5fd6-4c36-b971-8bbd2a71e755"
+    }
+}

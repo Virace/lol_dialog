@@ -1,0 +1,39 @@
+{
+    "character": "lucian",
+    "id": "151305600",
+    "result": "真的骂？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012717411,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.602]  真的骂？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "真的骂？",
+                    "SliceSentence": "真的 骂",
+                    "StartMs": 0,
+                    "EndMs": 1602,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "真的",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "骂",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.602188
+        },
+        "RequestId": "383d6541-8dc2-47a4-aa1e-f62ca23c9f70"
+    }
+}

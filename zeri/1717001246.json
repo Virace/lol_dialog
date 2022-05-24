@@ -1,0 +1,49 @@
+{
+    "character": "zeri",
+    "id": "1717001246",
+    "result": "我不会丢下任何人。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012851557,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.453]  我不会丢下任何人。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不会丢下任何人。",
+                    "SliceSentence": "我 不会 丢下 任何人",
+                    "StartMs": 0,
+                    "EndMs": 2453,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "丢下",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "任何人",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.453313
+        },
+        "RequestId": "a24f1fd4-4ed4-4884-8cd7-79991aceebdb"
+    }
+}

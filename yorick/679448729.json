@@ -1,0 +1,59 @@
+{
+    "character": "yorick",
+    "id": "679448729",
+    "result": "我无法把它们都埋葬。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012845593,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.125]  我无法把它们都埋葬。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我无法把它们都埋葬。",
+                    "SliceSentence": "我 无法 把 它们 都 埋葬",
+                    "StartMs": 0,
+                    "EndMs": 3125,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "无法",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "它们",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "都",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "埋葬",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2700
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.125375
+        },
+        "RequestId": "62ca9b9a-5810-4f02-a472-ac13aa74d482"
+    }
+}

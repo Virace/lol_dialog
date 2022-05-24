@@ -1,0 +1,39 @@
+{
+    "character": "karthus",
+    "id": "895740837",
+    "result": "安息吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012696507,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.775]  安息吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "安息吧。",
+                    "SliceSentence": "安息 吧",
+                    "StartMs": 0,
+                    "EndMs": 3775,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "安息",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2850
+                        }
+                    ],
+                    "SpeechSpeed": 1.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.775063
+        },
+        "RequestId": "b89c4d26-9b7f-49d8-9bd5-1f8b73aee1c7"
+    }
+}

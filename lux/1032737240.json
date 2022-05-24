@@ -1,0 +1,49 @@
+{
+    "character": "lux",
+    "id": "1032737240",
+    "result": "与我一同闪耀。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012719049,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.842]  与我一同闪耀。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "与我一同闪耀。",
+                    "SliceSentence": "与 我 一同 闪耀",
+                    "StartMs": 0,
+                    "EndMs": 1842,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "与",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "一同",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "闪耀",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.84225
+        },
+        "RequestId": "8ba7f0d2-267a-4899-bcbd-05df6fd4eb9d"
+    }
+}

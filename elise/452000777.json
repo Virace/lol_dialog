@@ -1,0 +1,49 @@
+{
+    "character": "elise",
+    "id": "452000777",
+    "result": "天魔，我的心啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560889,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.881]  天魔，我的心啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "天魔，我的心啊。",
+                    "SliceSentence": "天魔 我 的心 啊",
+                    "StartMs": 0,
+                    "EndMs": 3881,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "天魔",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "的心",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 3270
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.881063
+        },
+        "RequestId": "1b648da5-53b8-4d2f-81ef-324d32dddad8"
+    }
+}

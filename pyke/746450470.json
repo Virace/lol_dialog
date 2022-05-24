@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "746450470",
+    "result": "大海与我如影随形。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746768,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.479]  大海与我如影随形。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "大海与我如影随形。",
+                    "SliceSentence": "大海 与 我 如影随形",
+                    "StartMs": 0,
+                    "EndMs": 3479,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "大海",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "与",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "如影随形",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.479625
+        },
+        "RequestId": "78aae55b-1be6-466b-b9bd-0f822e8bc2f2"
+    }
+}

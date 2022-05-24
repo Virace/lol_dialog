@@ -1,0 +1,54 @@
+{
+    "character": "yuumi",
+    "id": "1697401729",
+    "result": "现在你可以加速啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012846936,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.600]  现在你可以加速啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "现在你可以加速啦。",
+                    "SliceSentence": "现在 你 可以 加速 啦",
+                    "StartMs": 0,
+                    "EndMs": 1600,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "加速",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 8.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.600188
+        },
+        "RequestId": "2eb4823f-ff41-4223-a6f7-b9669c34bd57"
+    }
+}

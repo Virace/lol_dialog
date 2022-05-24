@@ -1,0 +1,49 @@
+{
+    "character": "yone",
+    "id": "830939016",
+    "result": "失败了差点儿就。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012843489,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:6.130]  失败了差点儿就。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "失败了差点儿就。",
+                    "SliceSentence": "失败 了 差点儿 就",
+                    "StartMs": 0,
+                    "EndMs": 6130,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "失败",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "差点儿",
+                            "OffsetStartMs": 3420,
+                            "OffsetEndMs": 4410
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 4410,
+                            "OffsetEndMs": 5370
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.130063
+        },
+        "RequestId": "90bfd0ae-c698-4477-b7e5-32cbd1b30ad5"
+    }
+}

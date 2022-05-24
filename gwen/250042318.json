@@ -1,0 +1,39 @@
+{
+    "character": "gwen",
+    "id": "250042318",
+    "result": "动极了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012574861,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.463]  动极了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "动极了。",
+                    "SliceSentence": "动 极了",
+                    "StartMs": 0,
+                    "EndMs": 2463,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "动",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "极了",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 630
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.46375
+        },
+        "RequestId": "f0535acf-a394-4286-9031-1966b2879f12"
+    }
+}

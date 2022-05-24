@@ -1,0 +1,54 @@
+{
+    "character": "taliyah",
+    "id": "83114165",
+    "result": "你刚才看到了吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012794959,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.680]  你刚才看到了吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你刚才看到了吗？",
+                    "SliceSentence": "你 刚才 看到 了 吗",
+                    "StartMs": 0,
+                    "EndMs": 1680,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "刚才",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "看到",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 7.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.680375
+        },
+        "RequestId": "1582c2b3-5cba-4e67-a6e3-e087b2ec77bb"
+    }
+}

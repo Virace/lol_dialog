@@ -1,0 +1,54 @@
+{
+    "character": "camille",
+    "id": "3215603",
+    "result": "这就是解决问题的现场。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552926,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.253]  这就是解决问题的现场。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这就是解决问题的现场。",
+                    "SliceSentence": "这就 是 解决问题 的 现场",
+                    "StartMs": 0,
+                    "EndMs": 2253,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这就",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "解决问题",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "现场",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.253125
+        },
+        "RequestId": "003bc3be-a5a3-4169-aef5-3eaf335d76bf"
+    }
+}

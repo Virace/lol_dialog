@@ -1,0 +1,39 @@
+{
+    "character": "evelynn",
+    "id": "220796702",
+    "result": "让我进来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012563188,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.440]  让我进来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "让我进来。",
+                    "SliceSentence": "让我 进来",
+                    "StartMs": 0,
+                    "EndMs": 2440,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "让我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "进来",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.600625
+        },
+        "RequestId": "cfa18513-e330-4d58-9faa-5b03259f6006"
+    }
+}

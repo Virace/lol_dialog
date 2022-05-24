@@ -1,0 +1,39 @@
+{
+    "character": "draven",
+    "id": "1416672315",
+    "result": "我急。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556502,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.340]  我急。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我急。",
+                    "SliceSentence": "我 急",
+                    "StartMs": 0,
+                    "EndMs": 1340,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "急",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 660
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.7305
+        },
+        "RequestId": "5916fca6-bfbe-4ef3-87b2-785462e408a8"
+    }
+}

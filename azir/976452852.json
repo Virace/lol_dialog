@@ -1,0 +1,44 @@
+{
+    "character": "azir",
+    "id": "976452852",
+    "result": "他们越界了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012549463,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.390]  他们越界了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们越界了。",
+                    "SliceSentence": "他们 越界 了",
+                    "StartMs": 0,
+                    "EndMs": 2390,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "越界",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.39025
+        },
+        "RequestId": "2754ea9b-2d98-4302-bfff-a0cb32d35a70"
+    }
+}

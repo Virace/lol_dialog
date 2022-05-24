@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "1886606898",
+    "result": "我有点忙。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012835701,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.350]  我有点忙。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我有点忙。",
+                    "SliceSentence": "我 有点 忙",
+                    "StartMs": 0,
+                    "EndMs": 1350,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "有点",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "忙",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.3505
+        },
+        "RequestId": "750bc25e-cb0f-48a9-87e0-649e23fbe659"
+    }
+}

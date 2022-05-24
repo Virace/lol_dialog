@@ -1,0 +1,44 @@
+{
+    "character": "quinn",
+    "id": "1448336995",
+    "result": "继续保持目标。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012748813,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.811]  继续保持目标。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "继续保持目标。",
+                    "SliceSentence": "继续 保持 目标",
+                    "StartMs": 0,
+                    "EndMs": 1811,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "继续",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "保持",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "目标",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.811188
+        },
+        "RequestId": "ecbd3ead-5513-48e7-b0f5-3cd53d243875"
+    }
+}

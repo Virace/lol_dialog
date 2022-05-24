@@ -1,0 +1,49 @@
+{
+    "character": "akali",
+    "id": "822388933",
+    "result": "没错，就是针对你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012540236,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.313]  没错，就是针对你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没错，就是针对你。",
+                    "SliceSentence": "没错 就是 针对 你",
+                    "StartMs": 0,
+                    "EndMs": 2313,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "没错",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "针对",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.313563
+        },
+        "RequestId": "837c673c-fa91-4f60-8e79-a948cba583d0"
+    }
+}

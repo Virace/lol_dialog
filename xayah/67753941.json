@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "67753941",
+    "result": "很高兴没见到你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012837562,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.459]  很高兴没见到你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "很高兴没见到你。",
+                    "SliceSentence": "很高兴 没见 到 你",
+                    "StartMs": 0,
+                    "EndMs": 1459,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "很高兴",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "没见",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 7.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.4595
+        },
+        "RequestId": "9b19974a-33df-4abc-b0c9-c6b4b5002047"
+    }
+}

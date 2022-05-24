@@ -1,0 +1,59 @@
+{
+    "character": "caitlyn",
+    "id": "1327597584",
+    "result": "不能保护公众的法律一文不值。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550940,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.904]  不能保护公众的法律一文不值。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不能保护公众的法律一文不值。",
+                    "SliceSentence": "不能 保护 公众 的 法律 一文不值",
+                    "StartMs": 0,
+                    "EndMs": 3904,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "不能",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "保护",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "公众",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "法律",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "一文不值",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 3000
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.904
+        },
+        "RequestId": "f4e23149-ccf7-4676-abf7-ad0ea34eeb88"
+    }
+}

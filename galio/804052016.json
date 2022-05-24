@@ -1,0 +1,44 @@
+{
+    "character": "galio",
+    "id": "804052016",
+    "result": "嗯，没有说明书。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012569877,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.411]  嗯，没有说明书。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯，没有说明书。",
+                    "SliceSentence": "嗯 没有 说明书",
+                    "StartMs": 0,
+                    "EndMs": 2411,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "说明书",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.41175
+        },
+        "RequestId": "842ac516-eceb-4bad-b8dc-aed5695d990a"
+    }
+}

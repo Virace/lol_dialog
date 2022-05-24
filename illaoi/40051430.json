@@ -1,0 +1,39 @@
+{
+    "character": "illaoi",
+    "id": "40051430",
+    "result": "看好了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012577817,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.087]  看好了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "看好了。",
+                    "SliceSentence": "看好 了",
+                    "StartMs": 0,
+                    "EndMs": 1087,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "看好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.087813
+        },
+        "RequestId": "8a7ae551-64e2-46d8-838c-93775a828c32"
+    }
+}

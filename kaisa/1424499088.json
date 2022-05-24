@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "1424499088",
+    "result": "多谢你啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012688609,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.135]  多谢你啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "多谢你啦。",
+                    "SliceSentence": "多谢 你 啦",
+                    "StartMs": 0,
+                    "EndMs": 1135,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "多谢",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 840
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.135813
+        },
+        "RequestId": "02837beb-d432-4a41-b03e-e0199e7abcbe"
+    }
+}

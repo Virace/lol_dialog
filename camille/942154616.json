@@ -1,0 +1,44 @@
+{
+    "character": "camille",
+    "id": "942154616",
+    "result": "那没有用的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554445,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.198]  那没有用的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "那没有用的。",
+                    "SliceSentence": "那 没有 用的",
+                    "StartMs": 0,
+                    "EndMs": 1198,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "那",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "用的",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.198813
+        },
+        "RequestId": "5c8688e7-aced-4235-bf91-f8105d645b07"
+    }
+}

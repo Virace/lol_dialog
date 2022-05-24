@@ -1,0 +1,54 @@
+{
+    "character": "drmundo",
+    "id": "2132027758",
+    "result": "你这得截肢了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012558246,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.314]  你这得截肢了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你这得截肢了。",
+                    "SliceSentence": "你 这 得 截肢 了",
+                    "StartMs": 0,
+                    "EndMs": 2314,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "得",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "截肢",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.314063
+        },
+        "RequestId": "25730ce7-fbf5-4dcd-9a19-8d889cbe9222"
+    }
+}

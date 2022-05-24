@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "800812065",
+    "result": "和解就是痛苦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012837942,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.013]  和解就是痛苦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "和解就是痛苦。",
+                    "SliceSentence": "和解 就是 痛苦",
+                    "StartMs": 0,
+                    "EndMs": 2013,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "和解",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "痛苦",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.013563
+        },
+        "RequestId": "a2a3bd3a-b77f-46ca-9d92-18e53d7da47b"
+    }
+}

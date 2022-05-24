@@ -1,0 +1,90 @@
+{
+    "character": "rell",
+    "id": "2094876779",
+    "result": "散了分呢，你很可爱。嗯，就这样走了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012757985,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.760]  散了分呢，你很可爱。\n[0:2.760,0:5.406]  嗯，就这样走了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "散了分呢，你很可爱。",
+                    "SliceSentence": "散 了 分 呢 你 很可爱",
+                    "StartMs": 0,
+                    "EndMs": 2760,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "散",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "分",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "很可爱",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "嗯，就这样走了。",
+                    "SliceSentence": "嗯 就 这样 走了",
+                    "StartMs": 2760,
+                    "EndMs": 5406,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "这样",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "走了",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.40675
+        },
+        "RequestId": "671ca26f-5f3a-4cf8-a264-0b6316439880"
+    }
+}

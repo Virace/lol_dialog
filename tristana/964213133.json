@@ -1,0 +1,44 @@
+{
+    "character": "tristana",
+    "id": "964213133",
+    "result": "下面当心喽。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012800784,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.311]  下面当心喽。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "下面当心喽。",
+                    "SliceSentence": "下面 当心 喽",
+                    "StartMs": 0,
+                    "EndMs": 1311,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "下面",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "当心",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "喽",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.3115
+        },
+        "RequestId": "5fd78c05-a14b-473f-af9b-e56e6e91d0ac"
+    }
+}

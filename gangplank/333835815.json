@@ -1,0 +1,54 @@
+{
+    "character": "gangplank",
+    "id": "333835815",
+    "result": "把它们扔给鲨鱼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012570923,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.916]  把它们扔给鲨鱼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "把它们扔给鲨鱼。",
+                    "SliceSentence": "把 它们 扔 给 鲨鱼",
+                    "StartMs": 0,
+                    "EndMs": 1916,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "它们",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "扔",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "给",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "鲨鱼",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.916313
+        },
+        "RequestId": "8574caf8-8f5d-4914-b894-6a13e3c364e2"
+    }
+}

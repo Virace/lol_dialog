@@ -1,0 +1,44 @@
+{
+    "character": "qiyana",
+    "id": "648280232",
+    "result": "你是疯了吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012748348,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.857]  你是疯了吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你是疯了吗？",
+                    "SliceSentence": "你是 疯了 吗",
+                    "StartMs": 0,
+                    "EndMs": 1857,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你是",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "疯了",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.857625
+        },
+        "RequestId": "79d8cd80-a992-4521-9fbd-18adee64fd53"
+    }
+}

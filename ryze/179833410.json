@@ -1,0 +1,49 @@
+{
+    "character": "ryze",
+    "id": "179833410",
+    "result": "这会让你痛不欲生。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012764010,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.667]  这会让你痛不欲生。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这会让你痛不欲生。",
+                    "SliceSentence": "这 会 让你 痛不欲生",
+                    "StartMs": 0,
+                    "EndMs": 1667,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "让你",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "痛不欲生",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 7.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.6675
+        },
+        "RequestId": "35e6aaac-5ceb-4f85-990f-79da7241f2cb"
+    }
+}

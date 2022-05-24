@@ -1,0 +1,39 @@
+{
+    "character": "viego",
+    "id": "146261553",
+    "result": "听我旨意。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012813183,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.218]  听我旨意。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "听我旨意。",
+                    "SliceSentence": "听我 旨意",
+                    "StartMs": 0,
+                    "EndMs": 3218,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "听我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "旨意",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.21875
+        },
+        "RequestId": "635548b1-313a-4782-86fe-f721905340bd"
+    }
+}

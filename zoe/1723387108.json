@@ -1,0 +1,50 @@
+{
+    "character": "zoe",
+    "id": "1723387108",
+    "result": "啊？啊？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012855016,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.060]  啊？\n[0:5.080,0:7.175]  啊？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊？",
+                    "SliceSentence": "啊",
+                    "StartMs": 0,
+                    "EndMs": 1060,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "啊？",
+                    "SliceSentence": "啊",
+                    "StartMs": 5080,
+                    "EndMs": 7175,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 1.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.175938
+        },
+        "RequestId": "69c6f6f3-ee92-4b78-9421-dd355032a411"
+    }
+}

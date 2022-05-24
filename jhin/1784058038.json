@@ -1,0 +1,49 @@
+{
+    "character": "jhin",
+    "id": "1784058038",
+    "result": "念一发而动全身。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012685509,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.964]  念一发而动全身。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "念一发而动全身。",
+                    "SliceSentence": "念 一发 而动 全身",
+                    "StartMs": 0,
+                    "EndMs": 2964,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "念",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "一发",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "而动",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "全身",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2790
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.96425
+        },
+        "RequestId": "0ec7bde1-8da9-4098-98b7-04dda9c25a6b"
+    }
+}

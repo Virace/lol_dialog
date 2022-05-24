@@ -1,0 +1,39 @@
+{
+    "character": "kayn",
+    "id": "784758593",
+    "result": "赢的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012702787,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.010]  赢的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "赢的。",
+                    "SliceSentence": "赢 的",
+                    "StartMs": 0,
+                    "EndMs": 1010,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "赢",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 720
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.010188
+        },
+        "RequestId": "43935b18-1ecb-43d5-bfb3-d499cc4106df"
+    }
+}

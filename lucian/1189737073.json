@@ -1,0 +1,44 @@
+{
+    "character": "lucian",
+    "id": "1189737073",
+    "result": "好的，我不拖后腿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012717185,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.577]  好的，我不拖后腿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好的，我不拖后腿。",
+                    "SliceSentence": "好的 我不 拖后腿",
+                    "StartMs": 0,
+                    "EndMs": 2577,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "好的",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "拖后腿",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.577438
+        },
+        "RequestId": "696f573b-c274-4d49-b0bd-b8ca0781c780"
+    }
+}

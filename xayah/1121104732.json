@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "1121104732",
+    "result": "你要不要动手？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012833903,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.480]  你要不要动手？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你要不要动手？",
+                    "SliceSentence": "你要 不要 动手",
+                    "StartMs": 0,
+                    "EndMs": 1480,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "动手",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.480375
+        },
+        "RequestId": "ea585827-9ad7-4cbc-be3c-3fdcd02c0549"
+    }
+}

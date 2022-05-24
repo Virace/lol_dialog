@@ -1,0 +1,49 @@
+{
+    "character": "vex",
+    "id": "1731872070",
+    "result": "我可不会那样。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012810720,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.445]  我可不会那样。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我可不会那样。",
+                    "SliceSentence": "我 可 不会 那样",
+                    "StartMs": 0,
+                    "EndMs": 2445,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "可",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "那样",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.445188
+        },
+        "RequestId": "c771df2b-2676-46b2-aeae-642c787cfe72"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "taliyah",
+    "id": "1007422124",
+    "result": "我是你脚下的顽石。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012791523,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.134]  我是你脚下的顽石。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我是你脚下的顽石。",
+                    "SliceSentence": "我 是 你 脚下 的 顽石",
+                    "StartMs": 0,
+                    "EndMs": 2134,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "脚下",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "顽石",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.134
+        },
+        "RequestId": "5f4db66c-2403-48c4-afa4-05197eb7decb"
+    }
+}

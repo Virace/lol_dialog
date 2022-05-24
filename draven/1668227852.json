@@ -1,0 +1,44 @@
+{
+    "character": "draven",
+    "id": "1668227852",
+    "result": "我会拿到的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556606,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.300]  我会拿到的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会拿到的。",
+                    "SliceSentence": "我会 拿到 的",
+                    "StartMs": 0,
+                    "EndMs": 2300,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "拿到",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.692
+        },
+        "RequestId": "d36b334d-421b-4dd0-910c-5b9a1dd58b53"
+    }
+}

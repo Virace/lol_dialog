@@ -1,0 +1,44 @@
+{
+    "character": "draven",
+    "id": "131024798",
+    "result": "咱们上吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556506,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.320]  咱们上吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "咱们上吧。",
+                    "SliceSentence": "咱们 上 吧",
+                    "StartMs": 0,
+                    "EndMs": 2320,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "咱们",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "上",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.156563
+        },
+        "RequestId": "453ca43d-fbe6-45c6-81c2-63403d388770"
+    }
+}

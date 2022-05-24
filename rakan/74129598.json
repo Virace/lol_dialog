@@ -1,0 +1,39 @@
+{
+    "character": "rakan",
+    "id": "74129598",
+    "result": "这就来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012754283,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.972]  这就来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这就来。",
+                    "SliceSentence": "这就 来",
+                    "StartMs": 0,
+                    "EndMs": 972,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "这就",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.97225
+        },
+        "RequestId": "6ea2f4ae-e223-4a51-bf8a-c81147e19d52"
+    }
+}

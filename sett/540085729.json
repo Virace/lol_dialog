@@ -1,0 +1,49 @@
+{
+    "character": "sett",
+    "id": "540085729",
+    "result": "你倒是有胆子。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012773421,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.670]  你倒是有胆子。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你倒是有胆子。",
+                    "SliceSentence": "你 倒是 有 胆子",
+                    "StartMs": 0,
+                    "EndMs": 2670,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "倒是",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "胆子",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.670313
+        },
+        "RequestId": "ec183235-8872-4950-bfec-dda243b61eb4"
+    }
+}

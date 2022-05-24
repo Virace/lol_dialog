@@ -1,0 +1,39 @@
+{
+    "character": "pyke",
+    "id": "1160465534",
+    "result": "战鼓切丁。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744683,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.906]  战鼓切丁。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "战鼓切丁。",
+                    "SliceSentence": "战鼓 切丁",
+                    "StartMs": 0,
+                    "EndMs": 1906,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "战鼓",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "切丁",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.906625
+        },
+        "RequestId": "33372c2d-949f-4f2d-9696-51e1060cf87e"
+    }
+}

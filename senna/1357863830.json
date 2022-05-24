@@ -1,0 +1,49 @@
+{
+    "character": "senna",
+    "id": "1357863830",
+    "result": "自由的去吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012768391,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.834]  自由的去吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "自由的去吧。",
+                    "SliceSentence": "自由 的 去 吧",
+                    "StartMs": 0,
+                    "EndMs": 1834,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "自由",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.834375
+        },
+        "RequestId": "fdf0d6e1-d9a5-48fd-9dbe-21b7361ee4e5"
+    }
+}

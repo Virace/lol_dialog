@@ -1,0 +1,49 @@
+{
+    "character": "ekko",
+    "id": "1948906145",
+    "result": "我不欠他们什么。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012559772,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.173]  我不欠他们什么。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不欠他们什么。",
+                    "SliceSentence": "我不 欠 他们 什么",
+                    "StartMs": 0,
+                    "EndMs": 1173,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "欠",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 9.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.173375
+        },
+        "RequestId": "d72c1a5c-0375-4be9-999d-13dee90df8bd"
+    }
+}

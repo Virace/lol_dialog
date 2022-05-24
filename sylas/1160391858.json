@@ -1,0 +1,49 @@
+{
+    "character": "sylas",
+    "id": "1160391858",
+    "result": "你的就是我的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786242,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.426]  你的就是我的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你的就是我的。",
+                    "SliceSentence": "你的 就是 我 的",
+                    "StartMs": 0,
+                    "EndMs": 1426,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.426313
+        },
+        "RequestId": "217c7988-94e8-4db2-b473-4762e3b2bcc6"
+    }
+}

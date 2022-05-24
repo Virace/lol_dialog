@@ -1,0 +1,49 @@
+{
+    "character": "zeri",
+    "id": "724857968",
+    "result": "我还没玩呢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012852762,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.477]  我还没玩呢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我还没玩呢。",
+                    "SliceSentence": "我 还没 玩 呢",
+                    "StartMs": 0,
+                    "EndMs": 3477,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "还没",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "玩",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2910
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.477313
+        },
+        "RequestId": "e256e858-7be6-4b00-b663-cc76747a9847"
+    }
+}

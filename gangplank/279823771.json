@@ -1,0 +1,44 @@
+{
+    "character": "gangplank",
+    "id": "279823771",
+    "result": "连起来喽。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012570688,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.456]  连起来喽。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "连起来喽。",
+                    "SliceSentence": "连 起来 喽",
+                    "StartMs": 0,
+                    "EndMs": 1456,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "连",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "起来",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "喽",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.456688
+        },
+        "RequestId": "fae7467b-1c93-4894-9de5-ca95ea4fb75b"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "aatrox",
+    "id": "336191002",
+    "result": "You hoo普朗克优厚。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012537297,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.678]  You hoo普朗克优厚。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "You hoo普朗克优厚。",
+                    "SliceSentence": "You hoo 普朗克 优厚",
+                    "StartMs": 0,
+                    "EndMs": 4678,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "You",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "hoo",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "普朗克",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "优厚",
+                            "OffsetStartMs": 2970,
+                            "OffsetEndMs": 4260
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.678938
+        },
+        "RequestId": "2c43f6b6-bbe4-47e9-87bd-780f3f9c2e69"
+    }
+}

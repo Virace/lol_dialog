@@ -1,0 +1,59 @@
+{
+    "character": "jhin",
+    "id": "1682900632",
+    "result": "他们叫我疯子，艺术家都是疯子。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012685446,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.753]  他们叫我疯子，艺术家都是疯子。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们叫我疯子，艺术家都是疯子。",
+                    "SliceSentence": "他们 叫我 疯子 艺术家 都是 疯子",
+                    "StartMs": 0,
+                    "EndMs": 5753,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "叫我",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "疯子",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "艺术家",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 3480
+                        },
+                        {
+                            "Word": "都是",
+                            "OffsetStartMs": 3840,
+                            "OffsetEndMs": 4290
+                        },
+                        {
+                            "Word": "疯子",
+                            "OffsetStartMs": 4290,
+                            "OffsetEndMs": 4890
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.75375
+        },
+        "RequestId": "5e3de1ed-cc77-4a41-be7a-58e9eca47782"
+    }
+}

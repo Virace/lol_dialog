@@ -1,0 +1,59 @@
+{
+    "character": "poppy",
+    "id": "593714903",
+    "result": "你挡住我的路啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012743416,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.047]  你挡住我的路啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你挡住我的路啦。",
+                    "SliceSentence": "你 挡住 我 的 路 啦",
+                    "StartMs": 0,
+                    "EndMs": 2047,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "挡住",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "路",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.047625
+        },
+        "RequestId": "3a4d055d-46f1-4a41-8a69-d291c9269171"
+    }
+}

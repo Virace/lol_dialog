@@ -1,0 +1,59 @@
+{
+    "character": "caitlyn",
+    "id": "213172815",
+    "result": "该办下一个案子了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551512,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.154]  该办下一个案子了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "该办下一个案子了。",
+                    "SliceSentence": "该 办 下 一个 案子 了",
+                    "StartMs": 0,
+                    "EndMs": 2154,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "该",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "办",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "下",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "案子",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.154688
+        },
+        "RequestId": "3c76c40c-1ef2-4bfb-95d5-566a3b449e4d"
+    }
+}

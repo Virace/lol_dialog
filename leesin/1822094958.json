@@ -1,0 +1,44 @@
+{
+    "character": "leesin",
+    "id": "1822094958",
+    "result": "你露馅了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012713017,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.640]  你露馅了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你露馅了。",
+                    "SliceSentence": "你 露馅 了",
+                    "StartMs": 0,
+                    "EndMs": 2640,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "露馅",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.343688
+        },
+        "RequestId": "28bab54b-6212-4a0c-95e5-045fd55747e3"
+    }
+}

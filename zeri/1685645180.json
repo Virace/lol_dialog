@@ -1,0 +1,49 @@
+{
+    "character": "zeri",
+    "id": "1685645180",
+    "result": "我欠你一回。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012851513,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.069]  我欠你一回。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我欠你一回。",
+                    "SliceSentence": "我 欠 你 一回",
+                    "StartMs": 0,
+                    "EndMs": 2069,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "欠",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "一回",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.069313
+        },
+        "RequestId": "e3ce633d-aeb5-4728-aa88-c7567cfb1121"
+    }
+}

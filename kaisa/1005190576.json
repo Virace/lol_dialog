@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "1005190576",
+    "result": "猎物已经标记。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012687708,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.402]  猎物已经标记。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "猎物已经标记。",
+                    "SliceSentence": "猎物 已经 标记",
+                    "StartMs": 0,
+                    "EndMs": 1402,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "猎物",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "标记",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.4025
+        },
+        "RequestId": "30548b9f-4b6c-462b-bd5d-7101e573e689"
+    }
+}

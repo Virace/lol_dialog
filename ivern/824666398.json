@@ -1,0 +1,59 @@
+{
+    "character": "ivern",
+    "id": "824666398",
+    "result": "你知道我的阿红。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012682925,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.645]  你知道我的阿红。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你知道我的阿红。",
+                    "SliceSentence": "你 知道 我 的 阿 红",
+                    "StartMs": 0,
+                    "EndMs": 2645,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "阿",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "红",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.645625
+        },
+        "RequestId": "ebd04bfd-87a6-40a0-8787-d91ff05b9480"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "tahmkench",
+    "id": "1009688755",
+    "result": "我渴求着一双好鞋子。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012788908,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.710]  我渴求着一双好鞋子。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我渴求着一双好鞋子。",
+                    "SliceSentence": "我 渴求 着 一双 好 鞋子",
+                    "StartMs": 0,
+                    "EndMs": 4710,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "渴求",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "着",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "一双",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 2910
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 2910,
+                            "OffsetEndMs": 3300
+                        },
+                        {
+                            "Word": "鞋子",
+                            "OffsetStartMs": 3300,
+                            "OffsetEndMs": 4530
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.710438
+        },
+        "RequestId": "86a91714-30a6-47d3-8743-a44f9e88f5a1"
+    }
+}

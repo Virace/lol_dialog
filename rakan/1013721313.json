@@ -1,0 +1,59 @@
+{
+    "character": "rakan",
+    "id": "1013721313",
+    "result": "我要把这里整个翻过来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749201,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.151]  我要把这里整个翻过来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要把这里整个翻过来。",
+                    "SliceSentence": "我要 把 这里 整个 翻过 来",
+                    "StartMs": 0,
+                    "EndMs": 2151,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "这里",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "整个",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "翻过",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.151875
+        },
+        "RequestId": "6f8249da-4316-4db4-b005-dba9a2ca7cc5"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "anivia",
+    "id": "378344825",
+    "result": "我们链接到一起啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542406,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.623]  我们链接到一起啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们链接到一起啦。",
+                    "SliceSentence": "我们 链接 到 一起 啦",
+                    "StartMs": 0,
+                    "EndMs": 2623,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "链接",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "一起",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.623875
+        },
+        "RequestId": "7b5398d9-f361-471a-8359-3b4f6290efa7"
+    }
+}

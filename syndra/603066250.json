@@ -1,0 +1,59 @@
+{
+    "character": "syndra",
+    "id": "603066250",
+    "result": "更多，我还可以承受更多。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012788712,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.040,0:5.872]  更多，我还可以承受更多。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "更多，我还可以承受更多。",
+                    "SliceSentence": "更多 我 还可 以 承受 更多",
+                    "StartMs": 40,
+                    "EndMs": 5872,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "更多",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "还可",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "以",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 2520
+                        },
+                        {
+                            "Word": "承受",
+                            "OffsetStartMs": 2520,
+                            "OffsetEndMs": 3090
+                        },
+                        {
+                            "Word": "更多",
+                            "OffsetStartMs": 3210,
+                            "OffsetEndMs": 4830
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.872
+        },
+        "RequestId": "46e4f050-e5b0-4bec-a27a-752395f160f3"
+    }
+}

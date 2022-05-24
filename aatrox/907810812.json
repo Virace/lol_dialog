@@ -1,0 +1,54 @@
+{
+    "character": "aatrox",
+    "id": "907810812",
+    "result": "你死的好蠢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012538132,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.856]  你死的好蠢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你死的好蠢。",
+                    "SliceSentence": "你 死 的 好 蠢",
+                    "StartMs": 0,
+                    "EndMs": 3856,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "死",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "蠢",
+                            "OffsetStartMs": 2340,
+                            "OffsetEndMs": 3510
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.8565
+        },
+        "RequestId": "d9ac1b8c-8d04-4dba-b6ce-6810aed19d85"
+    }
+}

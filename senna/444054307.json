@@ -1,0 +1,49 @@
+{
+    "character": "senna",
+    "id": "444054307",
+    "result": "不要站在枪口前面。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012769640,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.438]  不要站在枪口前面。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要站在枪口前面。",
+                    "SliceSentence": "不要 站在 枪口 前面",
+                    "StartMs": 0,
+                    "EndMs": 2438,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "站在",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "枪口",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "前面",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.438125
+        },
+        "RequestId": "c9f15e01-0bfa-4e8c-9f00-7e6388066aa6"
+    }
+}

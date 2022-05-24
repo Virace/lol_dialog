@@ -1,0 +1,49 @@
+{
+    "character": "diana",
+    "id": "1404835546",
+    "result": "月亮同样会升起。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556077,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.318]  月亮同样会升起。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "月亮同样会升起。",
+                    "SliceSentence": "月亮 同样 会 升起",
+                    "StartMs": 0,
+                    "EndMs": 3318,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "月亮",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "同样",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "升起",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 3240
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.318063
+        },
+        "RequestId": "32a67777-0359-4b22-bfd1-b8394e7e3d2c"
+    }
+}

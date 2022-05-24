@@ -1,0 +1,44 @@
+{
+    "character": "taliyah",
+    "id": "314731447",
+    "result": "我不惧幽灵。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012792629,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.364]  我不惧幽灵。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不惧幽灵。",
+                    "SliceSentence": "我不 惧 幽灵",
+                    "StartMs": 0,
+                    "EndMs": 1364,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "惧",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "幽灵",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.364625
+        },
+        "RequestId": "f591d2b6-1c2e-4ca2-9315-b176a957505e"
+    }
+}

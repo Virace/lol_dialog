@@ -1,0 +1,49 @@
+{
+    "character": "morgana",
+    "id": "770202753",
+    "result": "我庇护了你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012727378,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.896]  我庇护了你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我庇护了你。",
+                    "SliceSentence": "我 庇护 了 你",
+                    "StartMs": 0,
+                    "EndMs": 1896,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "庇护",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.896625
+        },
+        "RequestId": "38993c74-a12a-400b-bc8e-c6870b643610"
+    }
+}

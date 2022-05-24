@@ -1,0 +1,49 @@
+{
+    "character": "renata",
+    "id": "80151797",
+    "result": "你开始贬值，辣。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012761051,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.400]  你开始贬值，辣。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你开始贬值，辣。",
+                    "SliceSentence": "你 开始 贬值 辣",
+                    "StartMs": 0,
+                    "EndMs": 2400,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "开始",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "贬值",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "辣",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.632375
+        },
+        "RequestId": "77474164-2dcd-4715-ac69-4a6f7af1f02b"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "sylas",
+    "id": "1697296782",
+    "result": "哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786796,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.730]  哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈。",
+                    "SliceSentence": "哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 730,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 660
+                        }
+                    ],
+                    "SpeechSpeed": 6.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.73
+        },
+        "RequestId": "505778ea-9434-487b-a7eb-09f0644164a5"
+    }
+}

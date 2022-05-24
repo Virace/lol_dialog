@@ -1,0 +1,49 @@
+{
+    "character": "kindred",
+    "id": "24371018",
+    "result": "这次会很疼的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012704495,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.718]  这次会很疼的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这次会很疼的。",
+                    "SliceSentence": "这次 会 很疼 的",
+                    "StartMs": 0,
+                    "EndMs": 1718,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这次",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "很疼",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.718125
+        },
+        "RequestId": "268698d2-0862-4e9f-b3cb-78759b1bc3d4"
+    }
+}

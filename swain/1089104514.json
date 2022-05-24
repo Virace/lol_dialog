@@ -1,0 +1,49 @@
+{
+    "character": "swain",
+    "id": "1089104514",
+    "result": "呈上你的性命。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012783438,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.466]  呈上你的性命。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "呈上你的性命。",
+                    "SliceSentence": "呈 上 你的 性命",
+                    "StartMs": 0,
+                    "EndMs": 2466,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "呈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "上",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "性命",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.466875
+        },
+        "RequestId": "daedae75-5aa4-475b-b7b5-00572a3c42a0"
+    }
+}

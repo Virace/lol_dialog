@@ -1,0 +1,44 @@
+{
+    "character": "gwen",
+    "id": "1575811625",
+    "result": "我会不计代价。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012574268,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.642]  我会不计代价。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会不计代价。",
+                    "SliceSentence": "我会 不计 代价",
+                    "StartMs": 0,
+                    "EndMs": 2642,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "不计",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "代价",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.642938
+        },
+        "RequestId": "e6fd109a-9499-4281-a1c5-82daf8c4e507"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "sett",
+    "id": "1254780935",
+    "result": "看来是开始了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012772268,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.461]  看来是开始了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "看来是开始了。",
+                    "SliceSentence": "看来 是 开始 了",
+                    "StartMs": 0,
+                    "EndMs": 2461,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "看来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "开始",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.461313
+        },
+        "RequestId": "d29953fa-23e7-4c30-b13c-4405c33c4628"
+    }
+}

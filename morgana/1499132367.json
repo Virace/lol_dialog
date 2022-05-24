@@ -1,0 +1,44 @@
+{
+    "character": "morgana",
+    "id": "1499132367",
+    "result": "我不需要剑。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012726253,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.275]  我不需要剑。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不需要剑。",
+                    "SliceSentence": "我不 需要 剑",
+                    "StartMs": 0,
+                    "EndMs": 2275,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "剑",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.275
+        },
+        "RequestId": "b4787405-92ab-493a-98c1-7000d67819da"
+    }
+}

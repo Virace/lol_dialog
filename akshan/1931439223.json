@@ -1,0 +1,59 @@
+{
+    "character": "akshan",
+    "id": "1931439223",
+    "result": "你麻烦大了，朋友朋友。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012541016,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.304]  你麻烦大了，朋友朋友。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你麻烦大了，朋友朋友。",
+                    "SliceSentence": "你 麻烦 大 了 朋友 朋友",
+                    "StartMs": 0,
+                    "EndMs": 2304,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "麻烦",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "大",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "朋友",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "朋友",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.304
+        },
+        "RequestId": "16bb3e3b-3e04-4b03-bca7-b5d90e2fb488"
+    }
+}

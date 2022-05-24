@@ -1,0 +1,49 @@
+{
+    "character": "vex",
+    "id": "1386744046",
+    "result": "和我感同身受吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012810412,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.810]  和我感同身受吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "和我感同身受吧。",
+                    "SliceSentence": "和 我 感同身受 吧",
+                    "StartMs": 0,
+                    "EndMs": 2810,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "和",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "感同身受",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.810563
+        },
+        "RequestId": "19e75f6c-4927-48a8-a8de-115b372d14d4"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "morgana",
+    "id": "1085741288",
+    "result": "黑暗是赐福。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012725745,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.325]  黑暗是赐福。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "黑暗是赐福。",
+                    "SliceSentence": "黑暗 是 赐福",
+                    "StartMs": 0,
+                    "EndMs": 2325,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "黑暗",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "赐福",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.325188
+        },
+        "RequestId": "7dcd21ff-dcc4-4d6e-855b-354fe5abd637"
+    }
+}

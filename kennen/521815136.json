@@ -1,0 +1,39 @@
+{
+    "character": "kennen",
+    "id": "521815136",
+    "result": "嗯，啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012703493,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.332]  嗯，啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯，啊。",
+                    "SliceSentence": "嗯 啊",
+                    "StartMs": 0,
+                    "EndMs": 1332,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.332688
+        },
+        "RequestId": "73c962f5-c7ae-482f-8628-71b5ed5b7ecc"
+    }
+}

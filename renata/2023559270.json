@@ -1,0 +1,44 @@
+{
+    "character": "renata",
+    "id": "2023559270",
+    "result": "哼哼，有进步。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012760345,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.640]  哼哼，有进步。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼，有进步。",
+                    "SliceSentence": "哼哼 有 进步",
+                    "StartMs": 0,
+                    "EndMs": 3640,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "进步",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2790
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.799188
+        },
+        "RequestId": "15634fa7-a45b-46fd-8454-0a900f9f3f9c"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "skarner",
+    "id": "440651451",
+    "result": "哼哼，哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012780417,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.228]  哼哼，哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼，哈哈。",
+                    "SliceSentence": "哼哼 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 1228,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.228063
+        },
+        "RequestId": "9aac9c22-6dc3-4a16-8062-820362e574e7"
+    }
+}

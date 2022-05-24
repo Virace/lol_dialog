@@ -1,0 +1,49 @@
+{
+    "character": "kled",
+    "id": "1044832069",
+    "result": "我们出发抓人去。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012706129,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.852]  我们出发抓人去。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们出发抓人去。",
+                    "SliceSentence": "我们 出发 抓人 去",
+                    "StartMs": 0,
+                    "EndMs": 1852,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "出发",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "抓人",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.852438
+        },
+        "RequestId": "bad45aee-b960-4919-a6c8-05f487d0ead6"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "braum",
+    "id": "1516685646",
+    "result": "这双鞋太紧了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550138,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.927]  这双鞋太紧了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这双鞋太紧了。",
+                    "SliceSentence": "这 双 鞋 太紧 了",
+                    "StartMs": 0,
+                    "EndMs": 2927,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "双",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "鞋",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "太紧",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.927125
+        },
+        "RequestId": "798f1e38-94c6-4779-94cb-b74e567b4044"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "mordekaiser",
+    "id": "1485880244",
+    "result": "哼哼，哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012724503,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.095]  哼哼，哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼，哈哈哈哈。",
+                    "SliceSentence": "哼哼 哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 4095,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 3210
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.09525
+        },
+        "RequestId": "dab07bd0-e59f-405d-8ecf-85121f4e659d"
+    }
+}

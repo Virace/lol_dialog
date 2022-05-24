@@ -1,0 +1,59 @@
+{
+    "character": "yorick",
+    "id": "401510202",
+    "result": "和我呆在一起，灵体。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012844802,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.433]  和我呆在一起，灵体。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "和我呆在一起，灵体。",
+                    "SliceSentence": "和 我 呆在 一起 灵 体",
+                    "StartMs": 0,
+                    "EndMs": 3433,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "和",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "呆在",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "一起",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "灵",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2580
+                        },
+                        {
+                            "Word": "体",
+                            "OffsetStartMs": 2580,
+                            "OffsetEndMs": 3150
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.43325
+        },
+        "RequestId": "914007ae-cf44-48a6-926a-1e5a7c3c88df"
+    }
+}

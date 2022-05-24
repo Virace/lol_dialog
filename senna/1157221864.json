@@ -1,0 +1,54 @@
+{
+    "character": "senna",
+    "id": "1157221864",
+    "result": "为了生者，也为死者。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012768242,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.343]  为了生者，也为死者。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "为了生者，也为死者。",
+                    "SliceSentence": "为了 生者 也 为 死者",
+                    "StartMs": 0,
+                    "EndMs": 3343,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "为了",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "生者",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "也",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "为",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "死者",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2790
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.343688
+        },
+        "RequestId": "f2a07f33-ae70-4f63-bb21-2b4d50d4a120"
+    }
+}

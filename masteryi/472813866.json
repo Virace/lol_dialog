@@ -1,0 +1,49 @@
+{
+    "character": "masteryi",
+    "id": "472813866",
+    "result": "你错过了吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012723195,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.040,0:1.721]  你错过了吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你错过了吗？",
+                    "SliceSentence": "你 错 过了 吗",
+                    "StartMs": 40,
+                    "EndMs": 1721,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "错",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "过了",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.721125
+        },
+        "RequestId": "178b17f7-e866-43f8-9151-298fc38d565c"
+    }
+}

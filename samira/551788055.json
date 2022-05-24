@@ -1,0 +1,49 @@
+{
+    "character": "samira",
+    "id": "551788055",
+    "result": "哈哈，终于开打了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012767031,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.831]  哈哈，终于开打了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈，终于开打了。",
+                    "SliceSentence": "哈哈 终于 开打 了",
+                    "StartMs": 0,
+                    "EndMs": 3831,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "终于",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "开打",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2610
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2610,
+                            "OffsetEndMs": 3180
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.831313
+        },
+        "RequestId": "dffc5b4f-9b27-4d89-9854-d7fdca3f19d5"
+    }
+}

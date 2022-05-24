@@ -1,0 +1,49 @@
+{
+    "character": "neeko",
+    "id": "1754978468",
+    "result": "修修修修修修修。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012729909,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.278]  修修修修修修修。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "修修修修修修修。",
+                    "SliceSentence": "修 修修 修修 修修",
+                    "StartMs": 0,
+                    "EndMs": 2278,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "修",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "修修",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "修修",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "修修",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.278625
+        },
+        "RequestId": "c5ccaa39-a5e9-4e1a-9428-a177824cdae6"
+    }
+}

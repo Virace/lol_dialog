@@ -1,0 +1,70 @@
+{
+    "character": "kaisa",
+    "id": "493192535",
+    "result": "这种气味。错不了的是虚空。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012690817,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.980]  这种气味。\n[0:1.980,0:4.508]  错不了的是虚空。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这种气味。",
+                    "SliceSentence": "这种 气味",
+                    "StartMs": 0,
+                    "EndMs": 1980,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "这种",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "气味",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "错不了的是虚空。",
+                    "SliceSentence": "错 不了 的是 虚空",
+                    "StartMs": 1980,
+                    "EndMs": 4508,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "错",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "不了",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "的是",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "虚空",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.508438
+        },
+        "RequestId": "5fc3b9be-3e46-438f-90a7-73dce5318a08"
+    }
+}

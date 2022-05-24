@@ -1,0 +1,59 @@
+{
+    "character": "karthus",
+    "id": "526703252",
+    "result": "你生命的节奏减慢了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012696128,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.832]  你生命的节奏减慢了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你生命的节奏减慢了。",
+                    "SliceSentence": "你 生命 的 节奏 减慢 了",
+                    "StartMs": 0,
+                    "EndMs": 4832,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "生命",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "节奏",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "减慢",
+                            "OffsetStartMs": 2610,
+                            "OffsetEndMs": 3240
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 3270,
+                            "OffsetEndMs": 4050
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.832
+        },
+        "RequestId": "5bc97a03-de83-417a-a21d-be22cb3cc671"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "evelynn",
+    "id": "1293302143",
+    "result": "对对对。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012561720,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.060]  对对对。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "对对对。",
+                    "SliceSentence": "对 对对",
+                    "StartMs": 0,
+                    "EndMs": 4060,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "对",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "对对",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 1.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.5945
+        },
+        "RequestId": "0e1440e8-e7b6-4c62-8f4e-9e7b41f21ef4"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "akali",
+    "id": "840708928",
+    "result": "这是必要之举。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012540239,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.918]  这是必要之举。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是必要之举。",
+                    "SliceSentence": "这是 必要 之举",
+                    "StartMs": 0,
+                    "EndMs": 1918,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "必要",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "之举",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.918813
+        },
+        "RequestId": "e03281d7-6aa4-4c7b-8a9c-c1dee71ef018"
+    }
+}

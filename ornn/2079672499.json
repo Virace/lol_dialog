@@ -1,0 +1,54 @@
+{
+    "character": "ornn",
+    "id": "2079672499",
+    "result": "好了，帮你们搞定了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012739128,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.104]  好了，帮你们搞定了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好了，帮你们搞定了。",
+                    "SliceSentence": "好了 帮 你们 搞定 了",
+                    "StartMs": 0,
+                    "EndMs": 2104,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "好了",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "帮",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "你们",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "搞定",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.104688
+        },
+        "RequestId": "fb53d8cc-6bf4-4c28-9bcd-6e66a6b8abe4"
+    }
+}

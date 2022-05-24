@@ -1,0 +1,54 @@
+{
+    "character": "kayn",
+    "id": "450072201",
+    "result": "你要人死，可别来找我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012701939,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.231]  你要人死，可别来找我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你要人死，可别来找我。",
+                    "SliceSentence": "你要 人死 可 别来 找我",
+                    "StartMs": 0,
+                    "EndMs": 3231,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "人死",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "可",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "别来",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "找我",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 3000
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.231938
+        },
+        "RequestId": "1fd89734-dd03-4899-912b-c1b947d14608"
+    }
+}

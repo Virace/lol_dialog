@@ -1,0 +1,59 @@
+{
+    "character": "rakan",
+    "id": "449945216",
+    "result": "我见你一次，抽你一次。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012753481,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.665]  我见你一次，抽你一次。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我见你一次，抽你一次。",
+                    "SliceSentence": "我见 你 一次 抽 你 一次",
+                    "StartMs": 0,
+                    "EndMs": 2665,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我见",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "一次",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "抽",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "一次",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2580
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.665875
+        },
+        "RequestId": "259cfcff-3246-471b-9594-b953e526734f"
+    }
+}

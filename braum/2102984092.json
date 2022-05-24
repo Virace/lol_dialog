@@ -1,0 +1,54 @@
+{
+    "character": "braum",
+    "id": "2102984092",
+    "result": "哼，今天的风很大。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550329,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.133]  哼，今天的风很大。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼，今天的风很大。",
+                    "SliceSentence": "哼 今天 的 风 很大",
+                    "StartMs": 0,
+                    "EndMs": 2133,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "今天",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "风",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "很大",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.133875
+        },
+        "RequestId": "74b7de70-561b-42d9-a290-6017ae92cf48"
+    }
+}

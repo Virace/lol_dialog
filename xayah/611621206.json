@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "611621206",
+    "result": "别留下我一个人。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012837248,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.519]  别留下我一个人。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别留下我一个人。",
+                    "SliceSentence": "别 留下 我 一个人",
+                    "StartMs": 0,
+                    "EndMs": 1519,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "留下",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "一个人",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 7.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.519813
+        },
+        "RequestId": "ce6cbfb9-8d80-4438-8823-faf05c2e97ec"
+    }
+}

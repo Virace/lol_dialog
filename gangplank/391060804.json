@@ -1,0 +1,49 @@
+{
+    "character": "gangplank",
+    "id": "391060804",
+    "result": "把它们连起来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012570937,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.873]  把它们连起来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "把它们连起来。",
+                    "SliceSentence": "把 它们 连 起来",
+                    "StartMs": 0,
+                    "EndMs": 1873,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "它们",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "连",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "起来",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.873375
+        },
+        "RequestId": "31a98f85-0298-408e-95a4-96723910b4ae"
+    }
+}

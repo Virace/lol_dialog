@@ -1,0 +1,44 @@
+{
+    "character": "jhin",
+    "id": "1046644068",
+    "result": "演出从未停止。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012684395,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.830]  演出从未停止。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "演出从未停止。",
+                    "SliceSentence": "演出 从未 停止",
+                    "StartMs": 0,
+                    "EndMs": 3830,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "演出",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "从未",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "停止",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.830125
+        },
+        "RequestId": "5a3d4954-b3d9-4e6c-b1bf-1b16f298deff"
+    }
+}

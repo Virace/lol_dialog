@@ -1,0 +1,59 @@
+{
+    "character": "taliyah",
+    "id": "1001416535",
+    "result": "我需要一些新鲜的材料。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012791510,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.807]  我需要一些新鲜的材料。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我需要一些新鲜的材料。",
+                    "SliceSentence": "我 需要 一些 新鲜 的 材料",
+                    "StartMs": 0,
+                    "EndMs": 1807,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "一些",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "新鲜",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "材料",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 8.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.807875
+        },
+        "RequestId": "4f695dee-1c6f-4d28-9893-5016d9e3f497"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "caitlyn",
+    "id": "1088538442",
+    "result": "嗯嗯，哎。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550789,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.176]  嗯嗯，哎。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯嗯，哎。",
+                    "SliceSentence": "嗯 嗯 哎",
+                    "StartMs": 0,
+                    "EndMs": 2176,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "哎",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.176
+        },
+        "RequestId": "a8f0bc00-ba1e-43bf-872e-935b7e901918"
+    }
+}

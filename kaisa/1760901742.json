@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "1760901742",
+    "result": "安分点儿，小妞。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689219,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.798]  安分点儿，小妞。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "安分点儿，小妞。",
+                    "SliceSentence": "安分 点儿 小妞",
+                    "StartMs": 0,
+                    "EndMs": 1798,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "安分",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "点儿",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "小妞",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.798563
+        },
+        "RequestId": "12b3b9ce-0cb0-4d1c-9871-1ee1ac77c0d8"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "zed",
+    "id": "1164666536",
+    "result": "不要否定我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012849673,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.094]  不要否定我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要否定我。",
+                    "SliceSentence": "不要 否定 我",
+                    "StartMs": 0,
+                    "EndMs": 2094,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "否定",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.094813
+        },
+        "RequestId": "3161c9cd-fa15-4daa-a54f-73bbf591b7a1"
+    }
+}

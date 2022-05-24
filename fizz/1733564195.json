@@ -1,0 +1,49 @@
+{
+    "character": "fizz",
+    "id": "1733564195",
+    "result": "怎么的了，嗯。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012567894,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:8.614]  怎么的了，嗯。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "怎么的了，嗯。",
+                    "SliceSentence": "怎么 的 了 嗯",
+                    "StartMs": 0,
+                    "EndMs": 8614,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "怎么",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 1.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 8.614625
+        },
+        "RequestId": "37bccd10-c7cd-42ca-913e-bdf4aaf0ce7b"
+    }
+}

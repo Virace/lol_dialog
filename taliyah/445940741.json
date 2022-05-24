@@ -1,0 +1,49 @@
+{
+    "character": "taliyah",
+    "id": "445940741",
+    "result": "你离家太远啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012793363,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.590]  你离家太远啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你离家太远啦。",
+                    "SliceSentence": "你 离家 太远 啦",
+                    "StartMs": 0,
+                    "EndMs": 1590,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "离家",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "太远",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.59
+        },
+        "RequestId": "291fee0b-d71a-4860-b233-bc781be79384"
+    }
+}

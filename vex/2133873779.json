@@ -1,0 +1,44 @@
+{
+    "character": "vex",
+    "id": "2133873779",
+    "result": "啊，咋啦？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012811127,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.040,0:3.811]  啊，咋啦？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，咋啦？",
+                    "SliceSentence": "啊 咋 啦",
+                    "StartMs": 40,
+                    "EndMs": 3811,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "咋",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 2670
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.811188
+        },
+        "RequestId": "28634437-868b-47df-9f81-ab3b06367c22"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "samira",
+    "id": "865499118",
+    "result": "我在这儿呢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012767337,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.764]  我在这儿呢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我在这儿呢。",
+                    "SliceSentence": "我 在 这儿 呢",
+                    "StartMs": 0,
+                    "EndMs": 1764,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "这儿",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.76475
+        },
+        "RequestId": "c6bed7a8-6257-4711-914e-72064084e416"
+    }
+}

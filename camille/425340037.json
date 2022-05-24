@@ -1,0 +1,64 @@
+{
+    "character": "camille",
+    "id": "425340037",
+    "result": "我猜我必须给你上一课。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553251,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.721]  我猜我必须给你上一课。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我猜我必须给你上一课。",
+                    "SliceSentence": "我 猜 我 必须 给你 上一 课",
+                    "StartMs": 0,
+                    "EndMs": 2721,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "猜",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "必须",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "给你",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "上一",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "课",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 2610
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.721125
+        },
+        "RequestId": "c5c619f9-5fff-4864-b0cc-bb80adafa349"
+    }
+}

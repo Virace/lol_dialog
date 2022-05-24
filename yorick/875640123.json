@@ -1,0 +1,59 @@
+{
+    "character": "yorick",
+    "id": "875640123",
+    "result": "即使是僧侣，也需要歇息。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012846052,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.858]  即使是僧侣，也需要歇息。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "即使是僧侣，也需要歇息。",
+                    "SliceSentence": "即使 是 僧侣 也 需要 歇息",
+                    "StartMs": 0,
+                    "EndMs": 2858,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "即使",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "僧侣",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "也",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "歇息",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2670
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.858125
+        },
+        "RequestId": "d8a5ce04-45fa-4d27-a8dd-a321ef8d0354"
+    }
+}

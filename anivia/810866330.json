@@ -1,0 +1,44 @@
+{
+    "character": "anivia",
+    "id": "810866330",
+    "result": "我会忍受的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542471,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.414]  我会忍受的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会忍受的。",
+                    "SliceSentence": "我会 忍受 的",
+                    "StartMs": 0,
+                    "EndMs": 2414,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "忍受",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.414875
+        },
+        "RequestId": "9e379a0c-17df-40c1-aad5-bc97fa735172"
+    }
+}

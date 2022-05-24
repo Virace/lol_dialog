@@ -1,0 +1,44 @@
+{
+    "character": "khazix",
+    "id": "1021509705",
+    "result": "消化，然后进化。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012703633,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.420]  消化，然后进化。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "消化，然后进化。",
+                    "SliceSentence": "消化 然后 进化",
+                    "StartMs": 0,
+                    "EndMs": 4420,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "消化",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "然后",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "进化",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 3510
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.909313
+        },
+        "RequestId": "99cb3bdb-ca3d-4664-94ec-4cd1ceaebb63"
+    }
+}

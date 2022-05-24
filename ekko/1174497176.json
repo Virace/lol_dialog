@@ -1,0 +1,54 @@
+{
+    "character": "ekko",
+    "id": "1174497176",
+    "result": "别全都变成机器咯。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012559225,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.510]  别全都变成机器咯。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别全都变成机器咯。",
+                    "SliceSentence": "别 全都 变成 机器 咯",
+                    "StartMs": 0,
+                    "EndMs": 1510,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "全都",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "变成",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "机器",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "咯",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 8.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.510688
+        },
+        "RequestId": "78c08d2a-ff97-4d1f-8339-e94e3b385a60"
+    }
+}

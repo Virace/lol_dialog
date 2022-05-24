@@ -1,0 +1,65 @@
+{
+    "character": "kayn",
+    "id": "259841719",
+    "result": "那就是你的宿命。安息吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012701015,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.820]  那就是你的宿命。\n[0:2.820,0:4.151]  安息吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "那就是你的宿命。",
+                    "SliceSentence": "那就是 你的 宿命",
+                    "StartMs": 0,
+                    "EndMs": 2820,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "那就是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "宿命",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "安息吧。",
+                    "SliceSentence": "安息 吧",
+                    "StartMs": 2820,
+                    "EndMs": 4151,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "安息",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.151625
+        },
+        "RequestId": "4ddd981c-e93a-4877-a445-c6de9446a52a"
+    }
+}

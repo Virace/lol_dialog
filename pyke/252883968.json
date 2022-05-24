@@ -1,0 +1,44 @@
+{
+    "character": "pyke",
+    "id": "252883968",
+    "result": "海兽的零食。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745899,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.644]  海兽的零食。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "海兽的零食。",
+                    "SliceSentence": "海兽 的 零食",
+                    "StartMs": 0,
+                    "EndMs": 2644,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "海兽",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "零食",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.644875
+        },
+        "RequestId": "492b5de1-58dd-4735-841e-40c66afb93f2"
+    }
+}

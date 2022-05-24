@@ -1,0 +1,39 @@
+{
+    "character": "akshan",
+    "id": "1001577910",
+    "result": "要来喽。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012540461,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.600]  要来喽。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "要来喽。",
+                    "SliceSentence": "要来 喽",
+                    "StartMs": 0,
+                    "EndMs": 1600,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "要来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "喽",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.6
+        },
+        "RequestId": "efd30dee-623b-4b2f-aab8-eab4c20cfc2d"
+    }
+}

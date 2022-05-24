@@ -1,0 +1,49 @@
+{
+    "character": "kaisa",
+    "id": "1534170935",
+    "result": "这样就能追踪了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012688854,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.546]  这样就能追踪了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这样就能追踪了。",
+                    "SliceSentence": "这样 就能 追踪 了",
+                    "StartMs": 0,
+                    "EndMs": 1546,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这样",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "就能",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "追踪",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 7.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.54625
+        },
+        "RequestId": "6544996e-e790-48d8-b89b-7b3a784b2dae"
+    }
+}

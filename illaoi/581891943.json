@@ -1,0 +1,39 @@
+{
+    "character": "illaoi",
+    "id": "581891943",
+    "result": "那个手。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012578624,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.041]  那个手。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "那个手。",
+                    "SliceSentence": "那个 手",
+                    "StartMs": 0,
+                    "EndMs": 1041,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "那个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "手",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.041875
+        },
+        "RequestId": "67034a11-f4f5-4418-a475-b1286693abcf"
+    }
+}

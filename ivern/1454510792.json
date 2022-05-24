@@ -1,0 +1,49 @@
+{
+    "character": "ivern",
+    "id": "1454510792",
+    "result": "滴滴哈哈，吼哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012584138,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.677]  滴滴哈哈，吼哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "滴滴哈哈，吼哈哈。",
+                    "SliceSentence": "滴滴 哈哈 吼 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 5677,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "滴滴",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 2370,
+                            "OffsetEndMs": 3450
+                        },
+                        {
+                            "Word": "吼",
+                            "OffsetStartMs": 3450,
+                            "OffsetEndMs": 4800
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 4800,
+                            "OffsetEndMs": 5550
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.677063
+        },
+        "RequestId": "6450c419-b0f8-444b-9291-61702bdfe068"
+    }
+}

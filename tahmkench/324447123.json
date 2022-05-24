@@ -1,0 +1,39 @@
+{
+    "character": "tahmkench",
+    "id": "324447123",
+    "result": "快进来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012789590,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.982]  快进来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "快进来。",
+                    "SliceSentence": "快 进来",
+                    "StartMs": 0,
+                    "EndMs": 982,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "快",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "进来",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 840
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.982063
+        },
+        "RequestId": "d96b6c39-e42d-40b5-8a34-e99124162273"
+    }
+}

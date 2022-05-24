@@ -1,0 +1,64 @@
+{
+    "character": "kindred",
+    "id": "16218222",
+    "result": "我看到了水，那个叫眼泪。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012704436,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.772]  我看到了水，那个叫眼泪。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我看到了水，那个叫眼泪。",
+                    "SliceSentence": "我 看到 了 水 那个 叫 眼泪",
+                    "StartMs": 0,
+                    "EndMs": 2772,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "看到",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "水",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "那个",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "叫",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "眼泪",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2670
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.772063
+        },
+        "RequestId": "e8fcadcb-dc36-40bc-a530-db4a490ee445"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "draven",
+    "id": "1778461890",
+    "result": "好好看，好好学。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556610,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.880]  好好看，好好学。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好好看，好好学。",
+                    "SliceSentence": "好好 看好 好学",
+                    "StartMs": 0,
+                    "EndMs": 3880,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "好好",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "看好",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "好学",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.094438
+        },
+        "RequestId": "8b926f32-8dcb-4995-93ec-5e7fdf88bc17"
+    }
+}

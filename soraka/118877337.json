@@ -1,0 +1,59 @@
+{
+    "character": "soraka",
+    "id": "118877337",
+    "result": "我听到他们的呼唤啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012783034,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.111]  我听到他们的呼唤啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我听到他们的呼唤啦。",
+                    "SliceSentence": "我 听到 他们 的 呼唤 啦",
+                    "StartMs": 0,
+                    "EndMs": 3111,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "听到",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "呼唤",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.111875
+        },
+        "RequestId": "d848f734-e1a5-4e3a-93b1-49b687ae639b"
+    }
+}

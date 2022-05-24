@@ -1,0 +1,49 @@
+{
+    "character": "kindred",
+    "id": "416909591",
+    "result": "不在此地，不在此刻。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012704819,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.348]  不在此地，不在此刻。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不在此地，不在此刻。",
+                    "SliceSentence": "不在 此地 不在 此刻",
+                    "StartMs": 0,
+                    "EndMs": 2348,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "不在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "此地",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "不在",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "此刻",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.348063
+        },
+        "RequestId": "5ae511ca-121a-4884-887e-8bbb0e5711c8"
+    }
+}

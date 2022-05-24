@@ -1,0 +1,39 @@
+{
+    "character": "poppy",
+    "id": "931255572",
+    "result": "对不起啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744243,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.480]  对不起啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "对不起啦。",
+                    "SliceSentence": "对不起 啦",
+                    "StartMs": 0,
+                    "EndMs": 1480,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "对不起",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.480938
+        },
+        "RequestId": "07a65260-a448-4484-b30e-7d8085fcdb1e"
+    }
+}

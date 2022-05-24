@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "597602051",
+    "result": "我们要走了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012837251,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.876]  我们要走了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们要走了。",
+                    "SliceSentence": "我们 要 走了",
+                    "StartMs": 0,
+                    "EndMs": 876,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "走了",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 9.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.87625
+        },
+        "RequestId": "1ca5759a-0736-4e55-9468-4f76dc4eae8b"
+    }
+}

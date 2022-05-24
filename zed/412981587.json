@@ -1,0 +1,80 @@
+{
+    "character": "zed",
+    "id": "412981587",
+    "result": "我的影子。就足够击败你了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012850167,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.280]  我的影子。\n[0:2.420,0:4.783]  就足够击败你了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的影子。",
+                    "SliceSentence": "我 的 影子",
+                    "StartMs": 0,
+                    "EndMs": 2280,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "影子",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "就足够击败你了。",
+                    "SliceSentence": "就 足够 击败 你 了",
+                    "StartMs": 2420,
+                    "EndMs": 4783,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "足够",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "击败",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.783375
+        },
+        "RequestId": "f92e2c14-2ab0-4c32-90d9-27a18d622bbd"
+    }
+}

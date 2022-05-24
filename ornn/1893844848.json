@@ -1,0 +1,54 @@
+{
+    "character": "ornn",
+    "id": "1893844848",
+    "result": "嗯，这就行了吗，好吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012738872,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.889]  嗯，这就行了吗，好吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯，这就行了吗，好吧。",
+                    "SliceSentence": "嗯 这就 行了 吗 好吧",
+                    "StartMs": 0,
+                    "EndMs": 2889,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "这就",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "行了",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "好吧",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2670
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.889
+        },
+        "RequestId": "ce682de0-8ec0-443a-8094-052d7caeba38"
+    }
+}

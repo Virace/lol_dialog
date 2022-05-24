@@ -1,0 +1,44 @@
+{
+    "character": "camille",
+    "id": "890054349",
+    "result": "优雅永不过时。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554375,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.596]  优雅永不过时。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "优雅永不过时。",
+                    "SliceSentence": "优雅 永不 过时",
+                    "StartMs": 0,
+                    "EndMs": 2596,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "优雅",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "永不",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "过时",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.596938
+        },
+        "RequestId": "b7eb85ee-3a5b-46cd-aee2-5705fa026584"
+    }
+}

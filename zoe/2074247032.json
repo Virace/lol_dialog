@@ -1,0 +1,39 @@
+{
+    "character": "zoe",
+    "id": "2074247032",
+    "result": "冲啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012855365,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.383]  冲啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "冲啊。",
+                    "SliceSentence": "冲 啊",
+                    "StartMs": 0,
+                    "EndMs": 2383,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "冲",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.383813
+        },
+        "RequestId": "0f2484ad-de25-407f-aa4d-b9d9b33b8813"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "xayah",
+    "id": "716749648",
+    "result": "我当你不记得好了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012837663,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.543]  我当你不记得好了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我当你不记得好了。",
+                    "SliceSentence": "我 当 你 不 记得 好了",
+                    "StartMs": 0,
+                    "EndMs": 1543,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "当",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "记得",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "好了",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 9.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.543188
+        },
+        "RequestId": "32f36cba-7df5-4b3d-978b-8f6f0657fdd2"
+    }
+}

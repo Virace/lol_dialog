@@ -1,0 +1,44 @@
+{
+    "character": "yorick",
+    "id": "151667550",
+    "result": "加入我兄弟。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012843876,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.041]  加入我兄弟。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "加入我兄弟。",
+                    "SliceSentence": "加入 我 兄弟",
+                    "StartMs": 0,
+                    "EndMs": 2041,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "加入",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "兄弟",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.041625
+        },
+        "RequestId": "da161f39-e1c9-4d1e-9fc7-be65633b2685"
+    }
+}

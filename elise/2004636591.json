@@ -1,0 +1,59 @@
+{
+    "character": "elise",
+    "id": "2004636591",
+    "result": "没想到吧，我咬你啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560680,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.684]  没想到吧，我咬你啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没想到吧，我咬你啦。",
+                    "SliceSentence": "没想到 吧 我 咬 你 啦",
+                    "StartMs": 0,
+                    "EndMs": 3684,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "没想到",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "咬",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 2580
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 2580,
+                            "OffsetEndMs": 2910
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.6845
+        },
+        "RequestId": "5b01dfd6-f8e9-445b-bc35-757260c3314d"
+    }
+}

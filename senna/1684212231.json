@@ -1,0 +1,54 @@
+{
+    "character": "senna",
+    "id": "1684212231",
+    "result": "我能感受到每一发子弹。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012768914,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.948]  我能感受到每一发子弹。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我能感受到每一发子弹。",
+                    "SliceSentence": "我能 感受到 每一 发 子弹",
+                    "StartMs": 0,
+                    "EndMs": 2948,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我能",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "感受到",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "每一",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "发",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "子弹",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.948938
+        },
+        "RequestId": "dc7b329c-78f0-4613-aafc-5b2012eb7013"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "kayn",
+    "id": "862288554",
+    "result": "我出去了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012703105,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.316]  我出去了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我出去了。",
+                    "SliceSentence": "我 出去 了",
+                    "StartMs": 0,
+                    "EndMs": 1316,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "出去",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.316188
+        },
+        "RequestId": "8618a26b-33a3-4e13-a80b-6c933c1c7d41"
+    }
+}

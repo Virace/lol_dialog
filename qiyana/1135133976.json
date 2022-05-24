@@ -1,0 +1,49 @@
+{
+    "character": "qiyana",
+    "id": "1135133976",
+    "result": "你忘了向我行礼？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012747185,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.345]  你忘了向我行礼？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你忘了向我行礼？",
+                    "SliceSentence": "你 忘了 向我 行礼",
+                    "StartMs": 0,
+                    "EndMs": 2345,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "忘了",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "向我",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "行礼",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.34525
+        },
+        "RequestId": "c1564855-f23c-41f3-b6f3-bad3b4ab9a8e"
+    }
+}

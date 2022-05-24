@@ -1,0 +1,54 @@
+{
+    "character": "taliyah",
+    "id": "34494784",
+    "result": "我已找到了自己的采石场。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012792785,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.829]  我已找到了自己的采石场。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我已找到了自己的采石场。",
+                    "SliceSentence": "我已 找到了 自己 的 采石场",
+                    "StartMs": 0,
+                    "EndMs": 1829,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我已",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "找到了",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "自己",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "采石场",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 8.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.829563
+        },
+        "RequestId": "6790e0d8-7e1a-47e4-a2d2-046aaf62869c"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "drmundo",
+    "id": "30292",
+    "result": "抱歉，我已经尽力了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012558288,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.748]  抱歉，我已经尽力了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "抱歉，我已经尽力了。",
+                    "SliceSentence": "抱歉 我 已经 尽力 了",
+                    "StartMs": 0,
+                    "EndMs": 3748,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "抱歉",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "尽力",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2820
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2820,
+                            "OffsetEndMs": 3180
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.748
+        },
+        "RequestId": "bc54e480-d916-4e86-8c63-096033b1dd0e"
+    }
+}

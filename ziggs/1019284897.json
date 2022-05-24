@@ -1,0 +1,44 @@
+{
+    "character": "ziggs",
+    "id": "1019284897",
+    "result": "哈哈哈啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012853199,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.929]  哈哈哈啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈啊。",
+                    "SliceSentence": "哈 哈哈 啊",
+                    "StartMs": 0,
+                    "EndMs": 3929,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 3300
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.92925
+        },
+        "RequestId": "200cf2a2-63df-4eb4-8898-8f8b08cf89b6"
+    }
+}

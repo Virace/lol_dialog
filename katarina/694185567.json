@@ -1,0 +1,39 @@
+{
+    "character": "katarina",
+    "id": "694185567",
+    "result": "不要退后。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012697077,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.386]  不要退后。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要退后。",
+                    "SliceSentence": "不要 退后",
+                    "StartMs": 0,
+                    "EndMs": 1386,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "退后",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.386563
+        },
+        "RequestId": "fc0a877b-0ee2-42ad-94ca-7a9f13ae65b4"
+    }
+}

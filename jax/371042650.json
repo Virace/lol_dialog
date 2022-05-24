@@ -1,0 +1,39 @@
+{
+    "character": "jax",
+    "id": "371042650",
+    "result": "看招。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012683897,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.805]  看招。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "看招。",
+                    "SliceSentence": "看 招",
+                    "StartMs": 0,
+                    "EndMs": 805,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "看",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "招",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 690
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.805813
+        },
+        "RequestId": "fe121339-b317-4144-8f7d-0222e38ebcc6"
+    }
+}

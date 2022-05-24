@@ -1,0 +1,44 @@
+{
+    "character": "ryze",
+    "id": "158380597",
+    "result": "造物主指引我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012763898,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.848]  造物主指引我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "造物主指引我。",
+                    "SliceSentence": "造物主 指引 我",
+                    "StartMs": 0,
+                    "EndMs": 1848,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "造物主",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "指引",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.84875
+        },
+        "RequestId": "1ec53814-56c9-42dc-8db9-3d1ed8d35a5f"
+    }
+}

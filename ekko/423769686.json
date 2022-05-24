@@ -1,0 +1,49 @@
+{
+    "character": "ekko",
+    "id": "423769686",
+    "result": "总会产生后果的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560090,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.590]  总会产生后果的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "总会产生后果的。",
+                    "SliceSentence": "总会 产生 后果 的",
+                    "StartMs": 0,
+                    "EndMs": 1590,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "总会",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "产生",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "后果",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.590688
+        },
+        "RequestId": "5abd27bb-b9a9-42cb-ab8f-f8c17e685f9f"
+    }
+}

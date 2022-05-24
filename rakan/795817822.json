@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "795817822",
+    "result": "太糟糕啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012754377,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.321]  太糟糕啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "太糟糕啦。",
+                    "SliceSentence": "太 糟糕 啦",
+                    "StartMs": 0,
+                    "EndMs": 1321,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "太",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "糟糕",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.321063
+        },
+        "RequestId": "127cbf8e-27c4-4bcd-b682-1ddfcab3f3cb"
+    }
+}

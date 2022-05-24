@@ -1,0 +1,55 @@
+{
+    "character": "ornn",
+    "id": "1550293924",
+    "result": "嗯哼。啊？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012738524,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.100]  嗯哼。\n[0:4.700,0:8.619]  啊？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯哼。",
+                    "SliceSentence": "嗯 哼",
+                    "StartMs": 0,
+                    "EndMs": 3100,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "哼",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 1.3,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "啊？",
+                    "SliceSentence": "啊",
+                    "StartMs": 4700,
+                    "EndMs": 8619,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 3060
+                        }
+                    ],
+                    "SpeechSpeed": 0.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 8.619125
+        },
+        "RequestId": "9837fa27-a2e4-4315-ab00-7f4674bf8b3e"
+    }
+}

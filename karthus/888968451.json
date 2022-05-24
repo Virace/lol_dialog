@@ -1,0 +1,44 @@
+{
+    "character": "karthus",
+    "id": "888968451",
+    "result": "逃避就是受罪。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012696489,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.080,0:5.402]  逃避就是受罪。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "逃避就是受罪。",
+                    "SliceSentence": "逃避 就是 受罪",
+                    "StartMs": 80,
+                    "EndMs": 5402,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "逃避",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 2730
+                        },
+                        {
+                            "Word": "受罪",
+                            "OffsetStartMs": 2730,
+                            "OffsetEndMs": 4410
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.402688
+        },
+        "RequestId": "b9f9b539-078a-4805-a1b9-3cd8ee3ee499"
+    }
+}

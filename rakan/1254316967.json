@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "1254316967",
+    "result": "我可不是花瓶。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749991,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.669]  我可不是花瓶。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我可不是花瓶。",
+                    "SliceSentence": "我 可不是 花瓶",
+                    "StartMs": 0,
+                    "EndMs": 1669,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "可不是",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "花瓶",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.66925
+        },
+        "RequestId": "47f904c2-d592-457d-a520-7f031b8aa9dc"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "ezreal",
+    "id": "1716721498",
+    "result": "我是专业的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012566023,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.991]  我是专业的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我是专业的。",
+                    "SliceSentence": "我 是 专业 的",
+                    "StartMs": 0,
+                    "EndMs": 991,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "专业",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 9.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.991438
+        },
+        "RequestId": "f75671ee-c49f-48e2-a114-a1ecac54e6e8"
+    }
+}

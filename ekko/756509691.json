@@ -1,0 +1,44 @@
+{
+    "character": "ekko",
+    "id": "756509691",
+    "result": "你曾经很酷。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560313,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.268]  你曾经很酷。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你曾经很酷。",
+                    "SliceSentence": "你 曾经 很酷",
+                    "StartMs": 0,
+                    "EndMs": 1268,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "曾经",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "很酷",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.268
+        },
+        "RequestId": "1f0e467a-90a0-4170-bf37-63cd98a26874"
+    }
+}

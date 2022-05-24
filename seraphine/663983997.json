@@ -1,0 +1,44 @@
+{
+    "character": "seraphine",
+    "id": "663983997",
+    "result": "唉呀，糟了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012771707,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.300]  唉呀，糟了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "唉呀，糟了。",
+                    "SliceSentence": "唉呀 糟 了",
+                    "StartMs": 0,
+                    "EndMs": 2300,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "唉呀",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "糟",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.870375
+        },
+        "RequestId": "200c2ed5-ac7b-4442-a11a-6ee2a4a2c74c"
+    }
+}

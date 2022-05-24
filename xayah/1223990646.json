@@ -1,0 +1,54 @@
+{
+    "character": "xayah",
+    "id": "1223990646",
+    "result": "我们待会再说这个好吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012834088,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.443]  我们待会再说这个好吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们待会再说这个好吗？",
+                    "SliceSentence": "我们 待会 再说 这个 好吗",
+                    "StartMs": 0,
+                    "EndMs": 1443,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "待会",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "再说",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "好吗",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 10.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.443313
+        },
+        "RequestId": "67bfb9d1-a67e-4810-b2ed-40b5fa6d62b4"
+    }
+}

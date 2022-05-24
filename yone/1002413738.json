@@ -1,0 +1,39 @@
+{
+    "character": "yone",
+    "id": "1002413738",
+    "result": "起必中。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012841299,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.275]  起必中。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "起必中。",
+                    "SliceSentence": "起 必中",
+                    "StartMs": 0,
+                    "EndMs": 2275,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "起",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "必中",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.275563
+        },
+        "RequestId": "d6b7e874-1c48-47a3-9602-aa506ad14d03"
+    }
+}

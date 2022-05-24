@@ -1,0 +1,39 @@
+{
+    "character": "graves",
+    "id": "1291003279",
+    "result": "关灯咯。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012573432,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.435]  关灯咯。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "关灯咯。",
+                    "SliceSentence": "关灯 咯",
+                    "StartMs": 0,
+                    "EndMs": 1435,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "关灯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "咯",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.435375
+        },
+        "RequestId": "414c6c75-4afd-4ab9-b22e-6e88abfa2f80"
+    }
+}

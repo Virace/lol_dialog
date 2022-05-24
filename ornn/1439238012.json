@@ -1,0 +1,39 @@
+{
+    "character": "ornn",
+    "id": "1439238012",
+    "result": "发现了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012738292,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.451]  发现了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "发现了。",
+                    "SliceSentence": "发现 了",
+                    "StartMs": 0,
+                    "EndMs": 1451,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "发现",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.451688
+        },
+        "RequestId": "7d7cb7e4-9c1f-4133-b389-30764f8cb37a"
+    }
+}

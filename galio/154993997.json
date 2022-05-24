@@ -1,0 +1,44 @@
+{
+    "character": "galio",
+    "id": "154993997",
+    "result": "有一点儿劲。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568418,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.243]  有一点儿劲。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "有一点儿劲。",
+                    "SliceSentence": "有一 点儿 劲",
+                    "StartMs": 0,
+                    "EndMs": 2243,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "有一",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "点儿",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "劲",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.243
+        },
+        "RequestId": "17a3a09f-bd6e-4230-9b59-53828f1b057b"
+    }
+}

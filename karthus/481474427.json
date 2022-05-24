@@ -1,0 +1,54 @@
+{
+    "character": "karthus",
+    "id": "481474427",
+    "result": "你只不过是一个皮囊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012696022,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.248]  你只不过是一个皮囊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你只不过是一个皮囊。",
+                    "SliceSentence": "你 只不过 是 一个 皮囊",
+                    "StartMs": 0,
+                    "EndMs": 4248,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "只不过",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2490
+                        },
+                        {
+                            "Word": "皮囊",
+                            "OffsetStartMs": 2490,
+                            "OffsetEndMs": 3780
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.248
+        },
+        "RequestId": "452dbb6c-8037-43ed-9d39-163f12340812"
+    }
+}

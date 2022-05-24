@@ -1,0 +1,54 @@
+{
+    "character": "yone",
+    "id": "1587467956",
+    "result": "你无法逃避你的恐惧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012842405,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.645]  你无法逃避你的恐惧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你无法逃避你的恐惧。",
+                    "SliceSentence": "你 无法 逃避 你的 恐惧",
+                    "StartMs": 0,
+                    "EndMs": 3645,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "无法",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "逃避",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "恐惧",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 3000
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.645563
+        },
+        "RequestId": "955d0914-dee0-46d7-b157-d84851148033"
+    }
+}

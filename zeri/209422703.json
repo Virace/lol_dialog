@@ -1,0 +1,54 @@
+{
+    "character": "zeri",
+    "id": "209422703",
+    "result": "你一点机会也没有。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012852095,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.453]  你一点机会也没有。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你一点机会也没有。",
+                    "SliceSentence": "你 一点 机会 也 没有",
+                    "StartMs": 0,
+                    "EndMs": 2453,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "一点",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "机会",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "也",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.453313
+        },
+        "RequestId": "bcf0d8fa-f947-43a4-a4fc-58e02a49fcea"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "1160113552",
+    "result": "我跟你说过我爱你吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749781,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.523]  我跟你说过我爱你吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我跟你说过我爱你吗？",
+                    "SliceSentence": "我 跟你 说过 我爱你 吗",
+                    "StartMs": 0,
+                    "EndMs": 1523,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "跟你",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "说过",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "我爱你",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 9.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.523438
+        },
+        "RequestId": "e44c8512-acb4-4174-889d-4f22a2e6b6e1"
+    }
+}

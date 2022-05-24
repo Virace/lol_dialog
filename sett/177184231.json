@@ -1,0 +1,39 @@
+{
+    "character": "sett",
+    "id": "177184231",
+    "result": "随便答。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012772758,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.880]  随便答。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "随便答。",
+                    "SliceSentence": "随便 答",
+                    "StartMs": 0,
+                    "EndMs": 1880,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "随便",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "答",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.880813
+        },
+        "RequestId": "f66ce7e4-51d9-4c87-82a9-80891b1f292e"
+    }
+}

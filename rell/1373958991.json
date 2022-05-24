@@ -1,0 +1,44 @@
+{
+    "character": "rell",
+    "id": "1373958991",
+    "result": "朋友只是累赘。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012757059,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.598]  朋友只是累赘。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "朋友只是累赘。",
+                    "SliceSentence": "朋友 只是 累赘",
+                    "StartMs": 0,
+                    "EndMs": 1598,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "朋友",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "只是",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "累赘",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.59875
+        },
+        "RequestId": "de81629a-f524-44d9-a436-4693c884cfd0"
+    }
+}

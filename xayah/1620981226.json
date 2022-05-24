@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "1620981226",
+    "result": "你今天真可爱。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012835088,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.300]  你今天真可爱。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你今天真可爱。",
+                    "SliceSentence": "你 今天 真 可爱",
+                    "StartMs": 0,
+                    "EndMs": 1300,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "今天",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "真",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "可爱",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 7.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.300688
+        },
+        "RequestId": "46ebdfa6-9ccc-49da-bb79-09ecdb2be498"
+    }
+}

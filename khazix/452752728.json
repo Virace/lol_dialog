@@ -1,0 +1,44 @@
+{
+    "character": "khazix",
+    "id": "452752728",
+    "result": "聪明的生物。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012703809,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.192]  聪明的生物。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "聪明的生物。",
+                    "SliceSentence": "聪明 的 生物",
+                    "StartMs": 0,
+                    "EndMs": 3192,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "聪明",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "生物",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 2670
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.1925
+        },
+        "RequestId": "1bf3fe8f-7a48-4b5d-950c-67600bc32b3e"
+    }
+}

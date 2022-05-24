@@ -1,0 +1,49 @@
+{
+    "character": "akali",
+    "id": "5486844",
+    "result": "我就在这儿呢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012539764,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.153]  我就在这儿呢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我就在这儿呢。",
+                    "SliceSentence": "我 就 在这儿 呢",
+                    "StartMs": 0,
+                    "EndMs": 1153,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "在这儿",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 8.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.153375
+        },
+        "RequestId": "7ca06234-e76e-4b4a-807d-b3db60e2e172"
+    }
+}

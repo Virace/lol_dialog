@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "508909904",
+    "result": "嘿，你做什么呢？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012753669,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.435]  嘿，你做什么呢？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘿，你做什么呢？",
+                    "SliceSentence": "嘿 你做 什么 呢",
+                    "StartMs": 0,
+                    "EndMs": 1435,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "嘿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "你做",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.43525
+        },
+        "RequestId": "5a26289e-22e6-4c00-bba6-867aeccd66bd"
+    }
+}

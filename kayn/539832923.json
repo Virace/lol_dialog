@@ -1,0 +1,49 @@
+{
+    "character": "kayn",
+    "id": "539832923",
+    "result": "额，感觉太好了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012702189,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.792]  额，感觉太好了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "额，感觉太好了。",
+                    "SliceSentence": "额 感觉 太好 了",
+                    "StartMs": 0,
+                    "EndMs": 3792,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "额",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "感觉",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "太好",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2910
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2910,
+                            "OffsetEndMs": 3120
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.792313
+        },
+        "RequestId": "02f84da6-ade0-4809-85f3-a7833033a9d6"
+    }
+}

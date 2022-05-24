@@ -1,0 +1,49 @@
+{
+    "character": "leblanc",
+    "id": "1566013978",
+    "result": "你很狡猾，不是吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012711631,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.501]  你很狡猾，不是吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你很狡猾，不是吗？",
+                    "SliceSentence": "你很 狡猾 不是 吗",
+                    "StartMs": 0,
+                    "EndMs": 2501,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你很",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "狡猾",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.501
+        },
+        "RequestId": "66339da0-72f1-4f42-944c-98d88d3ff7af"
+    }
+}

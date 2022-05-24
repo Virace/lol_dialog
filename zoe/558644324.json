@@ -1,0 +1,49 @@
+{
+    "character": "zoe",
+    "id": "558644324",
+    "result": "你毛茸茸的要命。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012856261,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.594]  你毛茸茸的要命。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你毛茸茸的要命。",
+                    "SliceSentence": "你 毛茸茸 的 要命",
+                    "StartMs": 0,
+                    "EndMs": 2594,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "毛茸茸",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "要命",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.594563
+        },
+        "RequestId": "f40c1fec-8a26-43e4-b9f5-3ae848c92115"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "evelynn",
+    "id": "1419160102",
+    "result": "嗯嗯，我喜欢看着。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012561912,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.640]  嗯嗯，我喜欢看着。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯嗯，我喜欢看着。",
+                    "SliceSentence": "嗯 嗯 我 喜欢 看着",
+                    "StartMs": 0,
+                    "EndMs": 4640,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "看着",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 3180
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.966
+        },
+        "RequestId": "ca2d3c4e-0c0b-45c5-882d-082656007364"
+    }
+}

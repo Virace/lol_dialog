@@ -1,0 +1,54 @@
+{
+    "character": "nunu",
+    "id": "171313708",
+    "result": "一头龙管着所有龙。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012733746,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.418]  一头龙管着所有龙。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一头龙管着所有龙。",
+                    "SliceSentence": "一头 龙 管着 所有 龙",
+                    "StartMs": 0,
+                    "EndMs": 2418,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "一头",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "龙",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "管着",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "所有",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "龙",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.4185
+        },
+        "RequestId": "5880c18a-7414-480e-98a0-fff582aa0d3b"
+    }
+}

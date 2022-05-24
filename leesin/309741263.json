@@ -1,0 +1,54 @@
+{
+    "character": "leesin",
+    "id": "309741263",
+    "result": "我从不给人第二次机会。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012713459,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.420]  我从不给人第二次机会。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我从不给人第二次机会。",
+                    "SliceSentence": "我 从不 给人 第二次 机会",
+                    "StartMs": 0,
+                    "EndMs": 3420,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "从不",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "给人",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "第二次",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "机会",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2760
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.133188
+        },
+        "RequestId": "ccaecddc-164e-4789-9564-0095f17775a4"
+    }
+}

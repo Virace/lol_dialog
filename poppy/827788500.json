@@ -1,0 +1,49 @@
+{
+    "character": "poppy",
+    "id": "827788500",
+    "result": "一切都在此了结。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012743963,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.739]  一切都在此了结。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一切都在此了结。",
+                    "SliceSentence": "一切 都在 此 了结",
+                    "StartMs": 0,
+                    "EndMs": 1739,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "一切",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "都在",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "此",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "了结",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.739438
+        },
+        "RequestId": "bd9232bd-d451-4ca0-a7f8-9bd02618bf77"
+    }
+}

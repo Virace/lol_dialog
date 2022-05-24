@@ -1,0 +1,49 @@
+{
+    "character": "nunu",
+    "id": "33268525",
+    "result": "一头真正的龙。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012735578,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.661]  一头真正的龙。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一头真正的龙。",
+                    "SliceSentence": "一头 真正 的 龙",
+                    "StartMs": 0,
+                    "EndMs": 4661,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "一头",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "真正",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "龙",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.661875
+        },
+        "RequestId": "6c84d421-e728-413b-981e-a54ac76a00ed"
+    }
+}

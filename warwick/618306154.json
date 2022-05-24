@@ -1,0 +1,39 @@
+{
+    "character": "warwick",
+    "id": "618306154",
+    "result": "嘿嘿嘿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012832696,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.087]  嘿嘿嘿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘿嘿嘿。",
+                    "SliceSentence": "嘿 嘿嘿",
+                    "StartMs": 0,
+                    "EndMs": 1087,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "嘿",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "嘿嘿",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 720
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.087438
+        },
+        "RequestId": "980b19d8-ec19-44fb-aebc-17015adf4a1c"
+    }
+}

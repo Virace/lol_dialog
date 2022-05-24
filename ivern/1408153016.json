@@ -1,0 +1,54 @@
+{
+    "character": "ivern",
+    "id": "1408153016",
+    "result": "这是我的朋友小菊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012583835,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.879]  这是我的朋友小菊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是我的朋友小菊。",
+                    "SliceSentence": "这 是我 的 朋友 小菊",
+                    "StartMs": 0,
+                    "EndMs": 2879,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "朋友",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "小菊",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2790
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.879
+        },
+        "RequestId": "3b33c818-3986-4cfb-95a0-73d94bef88c6"
+    }
+}

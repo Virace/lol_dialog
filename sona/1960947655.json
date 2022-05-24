@@ -1,0 +1,54 @@
+{
+    "character": "sona",
+    "id": "1960947655",
+    "result": "糟糕，刚才太忘我了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012781985,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.320]  糟糕，刚才太忘我了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "糟糕，刚才太忘我了。",
+                    "SliceSentence": "糟糕 刚才 太 忘我 了",
+                    "StartMs": 0,
+                    "EndMs": 5320,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "糟糕",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "刚才",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "太",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "忘我",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2370
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2370,
+                            "OffsetEndMs": 2670
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.469875
+        },
+        "RequestId": "7acf23c9-2335-4187-b831-09bd6f00b682"
+    }
+}

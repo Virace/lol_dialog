@@ -1,0 +1,44 @@
+{
+    "character": "zeri",
+    "id": "1428152720",
+    "result": "别眨眼啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012851107,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.792]  别眨眼啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别眨眼啊。",
+                    "SliceSentence": "别 眨眼 啊",
+                    "StartMs": 0,
+                    "EndMs": 1792,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "眨眼",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.792
+        },
+        "RequestId": "303537c4-3a49-4bf1-823f-dd2acffd7ba1"
+    }
+}

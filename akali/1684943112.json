@@ -1,0 +1,49 @@
+{
+    "character": "akali",
+    "id": "1684943112",
+    "result": "你们千里迢迢来送死。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012539123,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.359]  你们千里迢迢来送死。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你们千里迢迢来送死。",
+                    "SliceSentence": "你们 千里迢迢 来 送死",
+                    "StartMs": 0,
+                    "EndMs": 2359,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你们",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "千里迢迢",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "送死",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.359625
+        },
+        "RequestId": "512c6377-3938-45ca-89fe-f35612ed826c"
+    }
+}

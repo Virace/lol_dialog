@@ -1,0 +1,49 @@
+{
+    "character": "yorick",
+    "id": "669210434",
+    "result": "你衰败，然后不省人事。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012845579,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.760]  你衰败，然后不省人事。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你衰败，然后不省人事。",
+                    "SliceSentence": "你 衰败 然后 不省人事",
+                    "StartMs": 0,
+                    "EndMs": 3760,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "衰败",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "然后",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "不省人事",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 3570
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.760063
+        },
+        "RequestId": "7c066b5c-f2e0-4e3b-b302-5abb11c0d097"
+    }
+}

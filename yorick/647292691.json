@@ -1,0 +1,44 @@
+{
+    "character": "yorick",
+    "id": "647292691",
+    "result": "我仍在呼吸。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012845504,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.059]  我仍在呼吸。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我仍在呼吸。",
+                    "SliceSentence": "我 仍在 呼吸",
+                    "StartMs": 0,
+                    "EndMs": 2059,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "仍在",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "呼吸",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.059875
+        },
+        "RequestId": "f7a0e931-36a6-4429-8c9b-6fcd764fa1df"
+    }
+}

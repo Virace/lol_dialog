@@ -1,0 +1,54 @@
+{
+    "character": "morgana",
+    "id": "394492332",
+    "result": "这个世界就是我的一切。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012727120,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.020]  这个世界就是我的一切。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这个世界就是我的一切。",
+                    "SliceSentence": "这个世界 就是 我 的 一切",
+                    "StartMs": 0,
+                    "EndMs": 3020,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这个世界",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "一切",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2910
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.020438
+        },
+        "RequestId": "a9e1fe19-5d7a-456a-b5cc-ceb46bf1853a"
+    }
+}

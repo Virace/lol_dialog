@@ -1,0 +1,49 @@
+{
+    "character": "kindred",
+    "id": "488632879",
+    "result": "那个太好玩了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012705069,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.451]  那个太好玩了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "那个太好玩了。",
+                    "SliceSentence": "那个 太好 玩 了",
+                    "StartMs": 0,
+                    "EndMs": 2451,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "那个",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "太好",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "玩",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.451875
+        },
+        "RequestId": "92ba2e28-8e5e-4daf-85de-35113aa6b753"
+    }
+}

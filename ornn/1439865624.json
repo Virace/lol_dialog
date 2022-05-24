@@ -1,0 +1,44 @@
+{
+    "character": "ornn",
+    "id": "1439865624",
+    "result": "包你满意。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012738285,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.276]  包你满意。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "包你满意。",
+                    "SliceSentence": "包 你 满意",
+                    "StartMs": 0,
+                    "EndMs": 1276,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "包",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "满意",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.276313
+        },
+        "RequestId": "0eeef1c0-8c6b-4f12-8471-80a00bf55b0d"
+    }
+}

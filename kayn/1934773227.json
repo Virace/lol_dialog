@@ -1,0 +1,49 @@
+{
+    "character": "kayn",
+    "id": "1934773227",
+    "result": "眨眼的功夫罢了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012700518,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.270]  眨眼的功夫罢了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "眨眼的功夫罢了。",
+                    "SliceSentence": "眨眼 的 功夫 罢了",
+                    "StartMs": 0,
+                    "EndMs": 2270,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "眨眼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "功夫",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "罢了",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.270813
+        },
+        "RequestId": "1f65ae21-8c34-43d1-b0c2-3d2e13aec15e"
+    }
+}

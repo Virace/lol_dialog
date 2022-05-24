@@ -1,0 +1,54 @@
+{
+    "character": "rell",
+    "id": "1709710476",
+    "result": "我就是来教训你的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012757397,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.822]  我就是来教训你的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我就是来教训你的。",
+                    "SliceSentence": "我 就是 来 教训 你的",
+                    "StartMs": 0,
+                    "EndMs": 1822,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "教训",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 7.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.82275
+        },
+        "RequestId": "2f0df048-ee59-4b57-8efe-031c6c9ed857"
+    }
+}

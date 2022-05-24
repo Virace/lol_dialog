@@ -1,0 +1,44 @@
+{
+    "character": "kindred",
+    "id": "901845931",
+    "result": "你在这里呀？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012705846,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.954]  你在这里呀？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你在这里呀？",
+                    "SliceSentence": "你在 这里 呀",
+                    "StartMs": 0,
+                    "EndMs": 1954,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "这里",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "呀",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.954375
+        },
+        "RequestId": "534252e7-519e-4e08-be61-a11bd0e25897"
+    }
+}

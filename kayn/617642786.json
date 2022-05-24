@@ -1,0 +1,44 @@
+{
+    "character": "kayn",
+    "id": "617642786",
+    "result": "让我给你看看。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012702392,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.266]  让我给你看看。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "让我给你看看。",
+                    "SliceSentence": "让我 给你 看看",
+                    "StartMs": 0,
+                    "EndMs": 2266,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "让我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "给你",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "看看",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.266563
+        },
+        "RequestId": "98af6567-6fff-485c-9776-a66be5fa7fe5"
+    }
+}

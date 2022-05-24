@@ -1,0 +1,59 @@
+{
+    "character": "pantheon",
+    "id": "444935285",
+    "result": "站起来，再和我打一场。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012742035,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.366]  站起来，再和我打一场。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "站起来，再和我打一场。",
+                    "SliceSentence": "站起来 再 和 我 打 一场",
+                    "StartMs": 0,
+                    "EndMs": 3366,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "站起来",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "再",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "和",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "打",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "一场",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2670
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.366875
+        },
+        "RequestId": "a714e595-6a91-460b-8925-ab8be2422425"
+    }
+}

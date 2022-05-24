@@ -1,0 +1,80 @@
+{
+    "character": "rell",
+    "id": "680811947",
+    "result": "我会了结这场争斗。只有我能做到。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012758801,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.220]  我会了结这场争斗。\n[0:2.220,0:3.867]  只有我能做到。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会了结这场争斗。",
+                    "SliceSentence": "我会 了结 这场 争斗",
+                    "StartMs": 0,
+                    "EndMs": 2220,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "了结",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "这场",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "争斗",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "只有我能做到。",
+                    "SliceSentence": "只 有我 能 做到",
+                    "StartMs": 2220,
+                    "EndMs": 3867,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "只",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "有我",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "能",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "做到",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.867813
+        },
+        "RequestId": "bed26ecb-34d4-4732-b298-50effa933dfa"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "alistar",
+    "id": "1807153044",
+    "result": "将他们冲散。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012541764,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.062]  将他们冲散。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "将他们冲散。",
+                    "SliceSentence": "将 他们 冲 散",
+                    "StartMs": 0,
+                    "EndMs": 2062,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "将",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "冲",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "散",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.062313
+        },
+        "RequestId": "b42c11c7-4e66-415a-a21d-bef59b9c69f8"
+    }
+}

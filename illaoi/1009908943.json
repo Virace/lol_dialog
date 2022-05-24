@@ -1,0 +1,60 @@
+{
+    "character": "illaoi",
+    "id": "1009908943",
+    "result": "恐惧很好。你要善用。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012576884,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.320]  恐惧很好。\n[0:2.320,0:3.739]  你要善用。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "恐惧很好。",
+                    "SliceSentence": "恐惧 很好",
+                    "StartMs": 0,
+                    "EndMs": 2320,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "恐惧",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "很好",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "你要善用。",
+                    "SliceSentence": "你要 善用",
+                    "StartMs": 2320,
+                    "EndMs": 3739,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "你要",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "善用",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.739688
+        },
+        "RequestId": "22712ffe-f215-40a8-a212-454510979407"
+    }
+}

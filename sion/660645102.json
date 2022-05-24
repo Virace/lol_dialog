@@ -1,0 +1,54 @@
+{
+    "character": "sion",
+    "id": "660645102",
+    "result": "我不会疲劳，不会流血。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012777559,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:6.728]  我不会疲劳，不会流血。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不会疲劳，不会流血。",
+                    "SliceSentence": "我 不会 疲劳 不会 流血",
+                    "StartMs": 0,
+                    "EndMs": 6728,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "疲劳",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2700
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 3900,
+                            "OffsetEndMs": 4650
+                        },
+                        {
+                            "Word": "流血",
+                            "OffsetStartMs": 4650,
+                            "OffsetEndMs": 6540
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.728313
+        },
+        "RequestId": "bcff5e81-8ce3-4fb6-a120-4690c1e501cc"
+    }
+}

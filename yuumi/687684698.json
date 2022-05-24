@@ -1,0 +1,59 @@
+{
+    "character": "yuumi",
+    "id": "687684698",
+    "result": "我们成功了，我们打赢了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012847795,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.859]  我们成功了，我们打赢了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们成功了，我们打赢了。",
+                    "SliceSentence": "我们 成功 了 我们 打赢 了",
+                    "StartMs": 0,
+                    "EndMs": 1859,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "成功",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "打赢",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 8.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.859188
+        },
+        "RequestId": "9c4b051c-be7a-448b-9bb1-0686f924f217"
+    }
+}

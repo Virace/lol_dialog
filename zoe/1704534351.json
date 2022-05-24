@@ -1,0 +1,44 @@
+{
+    "character": "zoe",
+    "id": "1704534351",
+    "result": "我头晕啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012854931,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.149]  我头晕啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我头晕啦。",
+                    "SliceSentence": "我 头晕 啦",
+                    "StartMs": 0,
+                    "EndMs": 2149,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "头晕",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.149938
+        },
+        "RequestId": "c5f42910-f6b6-4dd4-88a7-7f6c744732e4"
+    }
+}

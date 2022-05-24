@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "1737223534",
+    "result": "我喜欢看你杀人。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012751524,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.527]  我喜欢看你杀人。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我喜欢看你杀人。",
+                    "SliceSentence": "我 喜欢 看 你 杀人",
+                    "StartMs": 0,
+                    "EndMs": 1527,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "看",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "杀人",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 7.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.527813
+        },
+        "RequestId": "186e0b54-fef0-45e3-951c-1a5ca6237662"
+    }
+}

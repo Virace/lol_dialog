@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "1907489743",
+    "result": "别现在问。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012835714,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.257]  别现在问。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别现在问。",
+                    "SliceSentence": "别 现在 问",
+                    "StartMs": 0,
+                    "EndMs": 1257,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "问",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.25725
+        },
+        "RequestId": "4f498f61-d6a7-4d58-9903-3b3f83106546"
+    }
+}

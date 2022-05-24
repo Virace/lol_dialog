@@ -1,0 +1,70 @@
+{
+    "character": "rell",
+    "id": "950394663",
+    "result": "想起过去。我只觉得恶心。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012759173,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.840]  想起过去。\n[0:1.840,0:3.401]  我只觉得恶心。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "想起过去。",
+                    "SliceSentence": "想起 过去",
+                    "StartMs": 0,
+                    "EndMs": 1840,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "想起",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "过去",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "我只觉得恶心。",
+                    "SliceSentence": "我 只 觉得 恶心",
+                    "StartMs": 1840,
+                    "EndMs": 3401,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "只",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "觉得",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "恶心",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.401438
+        },
+        "RequestId": "e46a2e4b-7567-421d-820b-6997059ae8bd"
+    }
+}

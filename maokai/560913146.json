@@ -1,0 +1,64 @@
+{
+    "character": "maokai",
+    "id": "560913146",
+    "result": "只见树木，不见森林中的动物。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012722342,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.700]  只见树木，不见森林中的动物。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "只见树木，不见森林中的动物。",
+                    "SliceSentence": "只见 树木 不见 森林 中 的 动物",
+                    "StartMs": 0,
+                    "EndMs": 5700,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "只见",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "树木",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "不见",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "森林",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 3690
+                        },
+                        {
+                            "Word": "中",
+                            "OffsetStartMs": 3690,
+                            "OffsetEndMs": 3900
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 3900,
+                            "OffsetEndMs": 3990
+                        },
+                        {
+                            "Word": "动物",
+                            "OffsetStartMs": 3990,
+                            "OffsetEndMs": 5430
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.871313
+        },
+        "RequestId": "0d6b5c77-189f-4b8a-9f0a-dfbc38774110"
+    }
+}

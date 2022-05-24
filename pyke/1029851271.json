@@ -1,0 +1,44 @@
+{
+    "character": "pyke",
+    "id": "1029851271",
+    "result": "开膛破肚。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744501,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.284]  开膛破肚。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "开膛破肚。",
+                    "SliceSentence": "开膛 破 肚",
+                    "StartMs": 0,
+                    "EndMs": 2284,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "开膛",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "破",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "肚",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.2845
+        },
+        "RequestId": "1e8df571-b3ae-4b3a-b29f-058bbe8916aa"
+    }
+}

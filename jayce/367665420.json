@@ -1,0 +1,54 @@
+{
+    "character": "jayce",
+    "id": "367665420",
+    "result": "已完全充能等。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012684213,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.834]  已完全充能等。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "已完全充能等。",
+                    "SliceSentence": "已 完全 充 能 等",
+                    "StartMs": 0,
+                    "EndMs": 1834,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "已",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "完全",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "充",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "能",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "等",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.834375
+        },
+        "RequestId": "3277a902-ab9c-49b0-a839-299784311c74"
+    }
+}

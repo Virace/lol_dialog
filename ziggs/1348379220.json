@@ -1,0 +1,44 @@
+{
+    "character": "ziggs",
+    "id": "1348379220",
+    "result": "就要爆炸咯。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012853271,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.084]  就要爆炸咯。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "就要爆炸咯。",
+                    "SliceSentence": "就要 爆炸 咯",
+                    "StartMs": 0,
+                    "EndMs": 2084,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "就要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "爆炸",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "咯",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.084688
+        },
+        "RequestId": "bdaa6aba-e78d-4cb5-8a11-10d983099435"
+    }
+}

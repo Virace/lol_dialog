@@ -1,0 +1,39 @@
+{
+    "character": "galio",
+    "id": "134931652",
+    "result": "七八烂。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568344,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.043]  七八烂。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "七八烂。",
+                    "SliceSentence": "七八 烂",
+                    "StartMs": 0,
+                    "EndMs": 1043,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "七八",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "烂",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.043938
+        },
+        "RequestId": "ea1f77a9-e35e-4780-bff1-8089ea4a0078"
+    }
+}

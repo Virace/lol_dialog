@@ -1,0 +1,49 @@
+{
+    "character": "kayn",
+    "id": "1670261451",
+    "result": "没人会记得你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012700293,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.014]  没人会记得你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没人会记得你。",
+                    "SliceSentence": "没人 会 记得 你",
+                    "StartMs": 0,
+                    "EndMs": 2014,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "没人",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "记得",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.01475
+        },
+        "RequestId": "274e3821-1a10-427f-898a-1a3f9aef5873"
+    }
+}

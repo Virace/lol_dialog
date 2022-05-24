@@ -1,0 +1,44 @@
+{
+    "character": "caitlyn",
+    "id": "1512178712",
+    "result": "多谢谢谢谢谢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551093,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.429]  多谢谢谢谢谢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "多谢谢谢谢谢。",
+                    "SliceSentence": "多谢 谢谢 谢谢",
+                    "StartMs": 0,
+                    "EndMs": 1429,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "多谢",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "谢谢",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "谢谢",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.429313
+        },
+        "RequestId": "75b3accd-ab47-4402-bad1-f7cb0916beaa"
+    }
+}

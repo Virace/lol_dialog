@@ -1,0 +1,55 @@
+{
+    "character": "sylas",
+    "id": "54199382",
+    "result": "装置。为筹。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012787883,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.820]  装置。\n[0:1.820,0:3.089]  为筹。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "装置。",
+                    "SliceSentence": "装置",
+                    "StartMs": 0,
+                    "EndMs": 1820,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "装置",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "为筹。",
+                    "SliceSentence": "为 筹",
+                    "StartMs": 1820,
+                    "EndMs": 3089,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "为",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "筹",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.08975
+        },
+        "RequestId": "d5805171-65d5-4441-b678-d23fc04fe21a"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "50974923",
+    "result": "包括你，亲爱的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012837037,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.126]  包括你，亲爱的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "包括你，亲爱的。",
+                    "SliceSentence": "包括 你 亲爱的",
+                    "StartMs": 0,
+                    "EndMs": 1126,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "包括",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "亲爱的",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 8.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.126875
+        },
+        "RequestId": "cf715c6f-233f-4d59-b701-180733b61c73"
+    }
+}

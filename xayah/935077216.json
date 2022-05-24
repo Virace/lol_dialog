@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "935077216",
+    "result": "明天再问我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012838246,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.343]  明天再问我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "明天再问我。",
+                    "SliceSentence": "明天 再 问我",
+                    "StartMs": 0,
+                    "EndMs": 1343,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "明天",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "再",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "问我",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.343563
+        },
+        "RequestId": "11511295-d84a-447a-8b80-7b4b6afadb04"
+    }
+}

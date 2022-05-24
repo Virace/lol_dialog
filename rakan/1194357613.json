@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "1194357613",
+    "result": "你是不是有话要说？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749788,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.514]  你是不是有话要说？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你是不是有话要说？",
+                    "SliceSentence": "你 是不是 有话 要 说",
+                    "StartMs": 0,
+                    "EndMs": 1514,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "是不是",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "有话",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 8.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.514375
+        },
+        "RequestId": "8dc6d528-b106-4470-a186-b467639b1cb9"
+    }
+}

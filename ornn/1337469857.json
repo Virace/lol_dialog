@@ -1,0 +1,49 @@
+{
+    "character": "ornn",
+    "id": "1337469857",
+    "result": "来，打一架吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012738248,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.669]  来，打一架吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "来，打一架吧。",
+                    "SliceSentence": "来 打 一架 吧",
+                    "StartMs": 0,
+                    "EndMs": 1669,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "打",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "一架",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.669438
+        },
+        "RequestId": "959d4f99-4762-4907-993b-b10d64787ddb"
+    }
+}

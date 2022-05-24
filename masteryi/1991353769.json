@@ -1,0 +1,54 @@
+{
+    "character": "masteryi",
+    "id": "1991353769",
+    "result": "嘘，我在冥想呢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012723113,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.637]  嘘，我在冥想呢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘘，我在冥想呢。",
+                    "SliceSentence": "嘘 我 在 冥想 呢",
+                    "StartMs": 0,
+                    "EndMs": 2637,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "嘘",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "冥想",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.637813
+        },
+        "RequestId": "dd851be0-d998-4377-b4f7-b1eb0563eb82"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "gwen",
+    "id": "347895281",
+    "result": "一刻也不要浪费。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012574913,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.808]  一刻也不要浪费。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一刻也不要浪费。",
+                    "SliceSentence": "一刻 也 不要 浪费",
+                    "StartMs": 0,
+                    "EndMs": 2808,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "一刻",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "也",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "浪费",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.808313
+        },
+        "RequestId": "aec7e066-7abd-4f9f-87fe-a10385686bbd"
+    }
+}

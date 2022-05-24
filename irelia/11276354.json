@@ -1,0 +1,49 @@
+{
+    "character": "irelia",
+    "id": "11276354",
+    "result": "陪我起舞的来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012580333,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.451]  陪我起舞的来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "陪我起舞的来了。",
+                    "SliceSentence": "陪我 起舞 的 来了",
+                    "StartMs": 0,
+                    "EndMs": 1451,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "陪我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "起舞",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "来了",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 7.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.451125
+        },
+        "RequestId": "cc79e05c-e7e4-4c9b-927d-983ae832bc92"
+    }
+}

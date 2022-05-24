@@ -1,0 +1,39 @@
+{
+    "character": "caitlyn",
+    "id": "1993917881",
+    "result": "正在瞄准。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551413,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.962]  正在瞄准。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "正在瞄准。",
+                    "SliceSentence": "正在 瞄准",
+                    "StartMs": 0,
+                    "EndMs": 1962,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "瞄准",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.962688
+        },
+        "RequestId": "803ec852-e297-4210-9483-0dd4039f83df"
+    }
+}

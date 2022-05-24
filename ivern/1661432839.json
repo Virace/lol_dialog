@@ -1,0 +1,44 @@
+{
+    "character": "ivern",
+    "id": "1661432839",
+    "result": "没必要这么带刺。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012584606,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.685]  没必要这么带刺。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没必要这么带刺。",
+                    "SliceSentence": "没必要 这么 带刺",
+                    "StartMs": 0,
+                    "EndMs": 2685,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "没必要",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "这么",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "带刺",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.6855
+        },
+        "RequestId": "12825855-7cc6-4779-8881-04b3471deecf"
+    }
+}

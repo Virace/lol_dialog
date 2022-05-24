@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "123612616",
+    "result": "我正在赶过去。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012834096,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.110]  我正在赶过去。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我正在赶过去。",
+                    "SliceSentence": "我 正在 赶 过去",
+                    "StartMs": 0,
+                    "EndMs": 1110,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "赶",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "过去",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 9.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.110625
+        },
+        "RequestId": "c8c83f67-8ab7-485b-91b0-af03bdbe2707"
+    }
+}

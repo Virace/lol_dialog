@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "2124341381",
+    "result": "对呀，我棒极了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012752763,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.741]  对呀，我棒极了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "对呀，我棒极了。",
+                    "SliceSentence": "对 呀 我 棒 极了",
+                    "StartMs": 0,
+                    "EndMs": 1741,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "对",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "呀",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "棒",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "极了",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.741875
+        },
+        "RequestId": "966ed4e2-3631-4297-be9a-1a8456c83935"
+    }
+}

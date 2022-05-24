@@ -1,0 +1,65 @@
+{
+    "character": "rell",
+    "id": "394012008",
+    "result": "要我原谅。永远别想。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012758386,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.680]  要我原谅。\n[0:1.740,0:3.385]  永远别想。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "要我原谅。",
+                    "SliceSentence": "要 我 原谅",
+                    "StartMs": 0,
+                    "EndMs": 1680,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "原谅",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "永远别想。",
+                    "SliceSentence": "永远 别想",
+                    "StartMs": 1740,
+                    "EndMs": 3385,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "永远",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "别想",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.385438
+        },
+        "RequestId": "84c4bb46-fe45-4f26-8c81-059aa086d9d8"
+    }
+}

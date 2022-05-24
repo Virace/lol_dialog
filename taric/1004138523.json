@@ -1,0 +1,39 @@
+{
+    "character": "taric",
+    "id": "1004138523",
+    "result": "你好，朋友。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012795969,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.467]  你好，朋友。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你好，朋友。",
+                    "SliceSentence": "你 好朋友",
+                    "StartMs": 0,
+                    "EndMs": 2467,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "好朋友",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.467125
+        },
+        "RequestId": "729d0e5a-64c5-4d56-b333-cdee9cc399bc"
+    }
+}

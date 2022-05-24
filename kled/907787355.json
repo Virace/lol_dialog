@@ -1,0 +1,59 @@
+{
+    "character": "kled",
+    "id": "907787355",
+    "result": "我就知道你会回来的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012710003,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.954]  我就知道你会回来的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我就知道你会回来的。",
+                    "SliceSentence": "我 就 知道 你会 回来 的",
+                    "StartMs": 0,
+                    "EndMs": 1954,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "你会",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "回来",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 7.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.954938
+        },
+        "RequestId": "3fc1a67b-ac4c-404b-880d-91ccb4a78e31"
+    }
+}

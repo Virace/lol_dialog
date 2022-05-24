@@ -1,0 +1,54 @@
+{
+    "character": "evelynn",
+    "id": "455188967",
+    "result": "这完美的曲线，货真价实。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012563914,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.220]  这完美的曲线，货真价实。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这完美的曲线，货真价实。",
+                    "SliceSentence": "这 完美 的 曲线 货真价实",
+                    "StartMs": 0,
+                    "EndMs": 5220,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "完美",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "曲线",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "货真价实",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 3270
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.3375
+        },
+        "RequestId": "8015c703-3ea1-44cd-b941-f26a9cc9834b"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "renata",
+    "id": "425426728",
+    "result": "额，我喜欢，哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012760668,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.840]  额，我喜欢，哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "额，我喜欢，哈哈。",
+                    "SliceSentence": "额 我 喜欢 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 5840,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "额",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 2340,
+                            "OffsetEndMs": 5610
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.005063
+        },
+        "RequestId": "358cab07-d5b3-45c5-9b10-a6f5a40c6446"
+    }
+}

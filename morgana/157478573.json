@@ -1,0 +1,54 @@
+{
+    "character": "morgana",
+    "id": "157478573",
+    "result": "我比你更受折磨。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012726285,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.728]  我比你更受折磨。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我比你更受折磨。",
+                    "SliceSentence": "我 比 你 更 受折磨",
+                    "StartMs": 0,
+                    "EndMs": 2728,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "比",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "更",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "受折磨",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.728563
+        },
+        "RequestId": "8a93b9ba-c960-4539-8d96-c7ecfe10bb4d"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "vex",
+    "id": "1392010657",
+    "result": "你叫什么来着？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012810467,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.344]  你叫什么来着？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你叫什么来着？",
+                    "SliceSentence": "你叫 什么 来着",
+                    "StartMs": 0,
+                    "EndMs": 2344,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你叫",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "来着",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.344563
+        },
+        "RequestId": "5967d4be-b18b-43cb-b1cc-490b52b7f581"
+    }
+}

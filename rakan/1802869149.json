@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "1802869149",
+    "result": "你确定要这样？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012751603,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.237]  你确定要这样？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你确定要这样？",
+                    "SliceSentence": "你 确定 要 这样",
+                    "StartMs": 0,
+                    "EndMs": 1237,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "确定",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "这样",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 8.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.237813
+        },
+        "RequestId": "ebc3557b-fb1d-42dd-91f2-4b9cee9ff90f"
+    }
+}

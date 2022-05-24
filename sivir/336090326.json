@@ -1,0 +1,39 @@
+{
+    "character": "sivir",
+    "id": "336090326",
+    "result": "注意了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012779099,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.827]  注意了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "注意了。",
+                    "SliceSentence": "注意 了",
+                    "StartMs": 0,
+                    "EndMs": 827,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "注意",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 750
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.827688
+        },
+        "RequestId": "23c35543-722f-4127-93a3-ff00f075c992"
+    }
+}

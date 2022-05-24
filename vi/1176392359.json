@@ -1,0 +1,39 @@
+{
+    "character": "vi",
+    "id": "1176392359",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012812006,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.420,0:1.737]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 420,
+                    "EndMs": 1737,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.737625
+        },
+        "RequestId": "1df3aa8d-f113-4c41-bb9e-63ae1050c099"
+    }
+}

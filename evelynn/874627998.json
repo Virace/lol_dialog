@@ -1,0 +1,54 @@
+{
+    "character": "evelynn",
+    "id": "874627998",
+    "result": "我只要一夜就够了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012565084,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.156]  我只要一夜就够了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我只要一夜就够了。",
+                    "SliceSentence": "我 只要 一夜 就 够了",
+                    "StartMs": 0,
+                    "EndMs": 4156,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "只要",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "一夜",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "够了",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 2940
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.156375
+        },
+        "RequestId": "24216163-d99b-4793-82fd-eff3e0810006"
+    }
+}

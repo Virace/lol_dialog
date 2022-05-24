@@ -1,0 +1,64 @@
+{
+    "character": "kindred",
+    "id": "556846161",
+    "result": "我们知道你的名字，还有你的气味。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012705100,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.445]  我们知道你的名字，还有你的气味。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们知道你的名字，还有你的气味。",
+                    "SliceSentence": "我们 知道 你的 名字 还有 你的 气味",
+                    "StartMs": 0,
+                    "EndMs": 3445,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "名字",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "还有",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 2550
+                        },
+                        {
+                            "Word": "气味",
+                            "OffsetStartMs": 2550,
+                            "OffsetEndMs": 3360
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.445
+        },
+        "RequestId": "a8488e70-5a42-4da0-aa72-673c77041e82"
+    }
+}

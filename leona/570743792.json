@@ -1,0 +1,49 @@
+{
+    "character": "leona",
+    "id": "570743792",
+    "result": "来我这里集合。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012714380,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.380]  来我这里集合。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "来我这里集合。",
+                    "SliceSentence": "来 我 这里 集合",
+                    "StartMs": 0,
+                    "EndMs": 2380,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "这里",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "集合",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.508125
+        },
+        "RequestId": "00d09001-32e7-4f16-92a3-e4b3cdf9418c"
+    }
+}

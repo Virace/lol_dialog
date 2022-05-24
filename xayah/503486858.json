@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "503486858",
+    "result": "啊哦，见鬼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012837017,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.645]  啊哦，见鬼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊哦，见鬼。",
+                    "SliceSentence": "啊 哦 见鬼",
+                    "StartMs": 0,
+                    "EndMs": 2645,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "哦",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "见鬼",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2580
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.645688
+        },
+        "RequestId": "d7afd106-0f3f-40b3-b190-15383b473d82"
+    }
+}

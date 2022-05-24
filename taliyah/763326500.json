@@ -1,0 +1,54 @@
+{
+    "character": "taliyah",
+    "id": "763326500",
+    "result": "终于可以松一口气了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012794502,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.862]  终于可以松一口气了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "终于可以松一口气了。",
+                    "SliceSentence": "终于 可以 松 一口气 了",
+                    "StartMs": 0,
+                    "EndMs": 1862,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "终于",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "松",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "一口气",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 7.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.862563
+        },
+        "RequestId": "55917bcd-96e6-48d5-a7c7-f100aab8303e"
+    }
+}

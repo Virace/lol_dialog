@@ -1,0 +1,34 @@
+{
+    "character": "lillia",
+    "id": "865046719",
+    "result": "Hello。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012716225,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.860]  Hello。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "Hello。",
+                    "SliceSentence": "Hello",
+                    "StartMs": 0,
+                    "EndMs": 1860,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "Hello",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.832875
+        },
+        "RequestId": "71ed574b-eb58-4322-8b9e-6fb7c67561da"
+    }
+}

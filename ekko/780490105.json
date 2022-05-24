@@ -1,0 +1,49 @@
+{
+    "character": "ekko",
+    "id": "780490105",
+    "result": "让我再重复一次。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560322,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.270]  让我再重复一次。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "让我再重复一次。",
+                    "SliceSentence": "让我 再 重复 一次",
+                    "StartMs": 0,
+                    "EndMs": 1270,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "让我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "再",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "重复",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "一次",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 8.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.270375
+        },
+        "RequestId": "7e963e92-d127-406b-96b1-f9a4cc207a26"
+    }
+}

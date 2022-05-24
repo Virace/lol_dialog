@@ -1,0 +1,54 @@
+{
+    "character": "qiyana",
+    "id": "1297122564",
+    "result": "你的武器可爱死了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012747353,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.693]  你的武器可爱死了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你的武器可爱死了。",
+                    "SliceSentence": "你的 武器 可爱 死 了",
+                    "StartMs": 0,
+                    "EndMs": 2693,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "武器",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "可爱",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "死",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.6935
+        },
+        "RequestId": "d9267bcd-2de9-46bf-a437-f093af119e6b"
+    }
+}

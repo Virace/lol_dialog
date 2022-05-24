@@ -1,0 +1,54 @@
+{
+    "character": "sylas",
+    "id": "1969914278",
+    "result": "我就凑合用吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012787238,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.492]  我就凑合用吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我就凑合用吧。",
+                    "SliceSentence": "我 就 凑合 用 吧",
+                    "StartMs": 0,
+                    "EndMs": 1492,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "凑合",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "用",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.492938
+        },
+        "RequestId": "bba5b141-2b0e-4baf-a9d0-b42f398fa830"
+    }
+}

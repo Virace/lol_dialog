@@ -1,0 +1,39 @@
+{
+    "character": "senna",
+    "id": "1531505573",
+    "result": "放手吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012768630,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.695]  放手吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "放手吧。",
+                    "SliceSentence": "放手 吧",
+                    "StartMs": 0,
+                    "EndMs": 1695,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "放手",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.695063
+        },
+        "RequestId": "743df58a-eed2-4710-a080-19cdbe7703a6"
+    }
+}

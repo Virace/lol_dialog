@@ -1,0 +1,59 @@
+{
+    "character": "camille",
+    "id": "124336675",
+    "result": "你可以逃，但那无济于事。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552345,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.692]  你可以逃，但那无济于事。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你可以逃，但那无济于事。",
+                    "SliceSentence": "你 可以 逃 但 那 无济于事",
+                    "StartMs": 0,
+                    "EndMs": 2692,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "逃",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "但",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "那",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "无济于事",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.69275
+        },
+        "RequestId": "b736fe23-6e6b-43dd-89ca-4271c55d9c76"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "sett",
+    "id": "263947881",
+    "result": "大家燥起来吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012773110,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.438]  大家燥起来吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "大家燥起来吧。",
+                    "SliceSentence": "大家 燥 起来 吧",
+                    "StartMs": 0,
+                    "EndMs": 2438,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "大家",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "燥",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "起来",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.438125
+        },
+        "RequestId": "c8efbdf5-d9d7-4c6e-9727-5b7c1943cee2"
+    }
+}

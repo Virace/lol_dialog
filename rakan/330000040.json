@@ -1,0 +1,39 @@
+{
+    "character": "rakan",
+    "id": "330000040",
+    "result": "危险区域。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012753087,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.562]  危险区域。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "危险区域。",
+                    "SliceSentence": "危险 区域",
+                    "StartMs": 0,
+                    "EndMs": 1562,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "危险",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "区域",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.562438
+        },
+        "RequestId": "75622ff9-75bb-43eb-8432-97b49c92e36d"
+    }
+}

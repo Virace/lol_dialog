@@ -1,0 +1,49 @@
+{
+    "character": "lucian",
+    "id": "473504405",
+    "result": "瞄上你了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718225,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.113]  瞄上你了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "瞄上你了。",
+                    "SliceSentence": "瞄 上 你 了",
+                    "StartMs": 0,
+                    "EndMs": 2113,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "瞄",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "上",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.113
+        },
+        "RequestId": "88b7b633-b8cf-470f-b887-676d68b511ec"
+    }
+}

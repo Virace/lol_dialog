@@ -1,0 +1,39 @@
+{
+    "character": "zeri",
+    "id": "1640996529",
+    "result": "接好啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012851473,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.621]  接好啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "接好啦。",
+                    "SliceSentence": "接 好啦",
+                    "StartMs": 0,
+                    "EndMs": 1621,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "接",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "好啦",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 600
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.621313
+        },
+        "RequestId": "05fcf6bb-c4a9-45de-8afc-cfe33b0dcc1e"
+    }
+}

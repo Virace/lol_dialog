@@ -1,0 +1,54 @@
+{
+    "character": "nami",
+    "id": "229721858",
+    "result": "总有后浪推前浪。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012727888,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.423]  总有后浪推前浪。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "总有后浪推前浪。",
+                    "SliceSentence": "总有 后浪 推 前 浪",
+                    "StartMs": 0,
+                    "EndMs": 2423,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "总有",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "后浪",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "推",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "前",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "浪",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.42375
+        },
+        "RequestId": "cb018017-f4fd-4a74-a6f3-3e4db076b952"
+    }
+}

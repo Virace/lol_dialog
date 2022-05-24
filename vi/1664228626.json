@@ -1,0 +1,44 @@
+{
+    "character": "vi",
+    "id": "1664228626",
+    "result": "一次小小的暴行。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012812359,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.985]  一次小小的暴行。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一次小小的暴行。",
+                    "SliceSentence": "一次 小小的 暴行",
+                    "StartMs": 0,
+                    "EndMs": 1985,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "一次",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "小小的",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "暴行",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.985438
+        },
+        "RequestId": "5b2dae4d-93e7-4d61-8b3a-bfe4fa49d092"
+    }
+}

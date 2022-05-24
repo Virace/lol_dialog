@@ -1,0 +1,65 @@
+{
+    "character": "yasuo",
+    "id": "998166947",
+    "result": "不是你死。就是我亡。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012841301,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.820]  不是你死。\n[0:3.480,0:5.887]  就是我亡。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不是你死。",
+                    "SliceSentence": "不是 你死",
+                    "StartMs": 0,
+                    "EndMs": 2820,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "你死",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "就是我亡。",
+                    "SliceSentence": "就是 我 亡",
+                    "StartMs": 3480,
+                    "EndMs": 5887,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "亡",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.88775
+        },
+        "RequestId": "e57bcbdd-ce06-4ffe-9f69-be7260a5707e"
+    }
+}

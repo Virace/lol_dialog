@@ -1,0 +1,54 @@
+{
+    "character": "yorick",
+    "id": "915412979",
+    "result": "我会为你哀悼的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012846183,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.690]  我会为你哀悼的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会为你哀悼的。",
+                    "SliceSentence": "我会 为 你 哀悼 的",
+                    "StartMs": 0,
+                    "EndMs": 2690,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "为",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "哀悼",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.690375
+        },
+        "RequestId": "dd840c86-8bae-4be3-800d-e6be9eda992a"
+    }
+}

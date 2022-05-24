@@ -1,0 +1,49 @@
+{
+    "character": "camille",
+    "id": "820450309",
+    "result": "你来得太迟了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554254,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.470]  你来得太迟了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你来得太迟了。",
+                    "SliceSentence": "你来 得 太迟 了",
+                    "StartMs": 0,
+                    "EndMs": 1470,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "得",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "太迟",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 6.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.470563
+        },
+        "RequestId": "fb4e7886-8784-4518-a57f-70541417275e"
+    }
+}

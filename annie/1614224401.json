@@ -1,0 +1,49 @@
+{
+    "character": "annie",
+    "id": "1614224401",
+    "result": "游戏时间到喽。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542534,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.341]  游戏时间到喽。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "游戏时间到喽。",
+                    "SliceSentence": "游戏 时间 到 喽",
+                    "StartMs": 0,
+                    "EndMs": 3341,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "游戏",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "喽",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2880
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.341
+        },
+        "RequestId": "a565dc97-a491-4ed1-a75f-fc37a88fb122"
+    }
+}

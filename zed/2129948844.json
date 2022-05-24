@@ -1,0 +1,55 @@
+{
+    "character": "zed",
+    "id": "2129948844",
+    "result": "石头、剪刀、布。耶，赢了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012850110,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.000]  石头、剪刀、布。\n[0:2.000,0:3.998]  耶，赢了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "石头、剪刀、布。",
+                    "SliceSentence": "石头剪刀布",
+                    "StartMs": 0,
+                    "EndMs": 2000,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "石头剪刀布",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "耶，赢了。",
+                    "SliceSentence": "耶 赢了",
+                    "StartMs": 2000,
+                    "EndMs": 3998,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "耶",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "赢了",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.998813
+        },
+        "RequestId": "7a0f41a2-afe8-4b52-8316-09972790ac23"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "akshan",
+    "id": "1224239134",
+    "result": "你来了，欢迎回来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012540552,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.580]  你来了，欢迎回来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你来了，欢迎回来。",
+                    "SliceSentence": "你来 了 欢迎 回来",
+                    "StartMs": 0,
+                    "EndMs": 3580,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你来",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "欢迎",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "回来",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 10.197313
+        },
+        "RequestId": "4f684c94-ba36-4334-ab8a-a0846a016531"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "gwen",
+    "id": "1715252179",
+    "result": "我早就准备好了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012574425,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.581]  我早就准备好了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我早就准备好了。",
+                    "SliceSentence": "我 早就 准备 好了",
+                    "StartMs": 0,
+                    "EndMs": 2581,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "早就",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "准备",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "好了",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.581563
+        },
+        "RequestId": "0c1ae86c-832a-48a1-b566-d3b8dedea328"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "akshan",
+    "id": "1159823415",
+    "result": "我来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012540513,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.856]  我来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我来了。",
+                    "SliceSentence": "我来 了",
+                    "StartMs": 0,
+                    "EndMs": 1856,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我来",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.856
+        },
+        "RequestId": "f974babb-417a-418b-bd6c-eda67625954f"
+    }
+}

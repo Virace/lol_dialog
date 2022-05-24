@@ -1,0 +1,44 @@
+{
+    "character": "pyke",
+    "id": "2018801443",
+    "result": "希望你会水。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745726,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.460]  希望你会水。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "希望你会水。",
+                    "SliceSentence": "希望 你会 水",
+                    "StartMs": 0,
+                    "EndMs": 2460,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "希望",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "你会",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "水",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.460563
+        },
+        "RequestId": "287f5885-4002-41e6-a79f-7a0a4c6fc778"
+    }
+}

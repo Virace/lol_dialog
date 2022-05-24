@@ -1,0 +1,49 @@
+{
+    "character": "kaisa",
+    "id": "480396045",
+    "result": "好啊，我们做到了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012690805,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.198]  好啊，我们做到了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好啊，我们做到了。",
+                    "SliceSentence": "好啊 我们 做到 了",
+                    "StartMs": 0,
+                    "EndMs": 2198,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "好啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "做到",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.198
+        },
+        "RequestId": "59de32c9-3086-47d7-b78a-f8adcbc8f24a"
+    }
+}

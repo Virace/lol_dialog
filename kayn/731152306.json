@@ -1,0 +1,64 @@
+{
+    "character": "kayn",
+    "id": "731152306",
+    "result": "亚托克斯，这就有点尴尬了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012702722,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.247]  亚托克斯，这就有点尴尬了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "亚托克斯，这就有点尴尬了。",
+                    "SliceSentence": "亚 托克 斯 这就 有点 尴尬 了",
+                    "StartMs": 0,
+                    "EndMs": 3247,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "亚",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "托克",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "斯",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "这就",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "有点",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "尴尬",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 2730
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2730,
+                            "OffsetEndMs": 3150
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.247938
+        },
+        "RequestId": "5fa57d33-7aee-4ca8-872d-8fd5c726f8a4"
+    }
+}

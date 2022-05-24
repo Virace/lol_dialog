@@ -1,0 +1,59 @@
+{
+    "character": "rell",
+    "id": "836789646",
+    "result": "我会把你砸成碎渣。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012759001,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.998]  我会把你砸成碎渣。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会把你砸成碎渣。",
+                    "SliceSentence": "我会 把 你 砸 成 碎渣",
+                    "StartMs": 0,
+                    "EndMs": 1998,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "砸",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "成",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "碎渣",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.99875
+        },
+        "RequestId": "d7034fe9-771e-4665-8941-3ac11e9f9253"
+    }
+}

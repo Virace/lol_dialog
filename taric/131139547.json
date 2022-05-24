@@ -1,0 +1,59 @@
+{
+    "character": "taric",
+    "id": "131139547",
+    "result": "让我来把你点透。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012796153,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.520]  让我来把你点透。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "让我来把你点透。",
+                    "SliceSentence": "让我 来 把 你 点 透",
+                    "StartMs": 0,
+                    "EndMs": 3520,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "让我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "点",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "透",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.52025
+        },
+        "RequestId": "90adeef0-33d3-4c39-bfa8-06c3496abb74"
+    }
+}

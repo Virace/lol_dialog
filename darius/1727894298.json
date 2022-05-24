@@ -1,0 +1,49 @@
+{
+    "character": "darius",
+    "id": "1727894298",
+    "result": "不要犯任何错误。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012555848,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.647]  不要犯任何错误。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要犯任何错误。",
+                    "SliceSentence": "不要 犯 任何 错误",
+                    "StartMs": 0,
+                    "EndMs": 2647,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "犯",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "任何",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "错误",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.647063
+        },
+        "RequestId": "c42d8309-aea8-4c32-940a-a65c3f1cafc8"
+    }
+}

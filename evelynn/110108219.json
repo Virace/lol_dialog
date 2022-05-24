@@ -1,0 +1,54 @@
+{
+    "character": "evelynn",
+    "id": "110108219",
+    "result": "嗯，游戏时间结束了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012561458,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.480]  嗯，游戏时间结束了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯，游戏时间结束了。",
+                    "SliceSentence": "嗯 游戏 时间 结束 了",
+                    "StartMs": 0,
+                    "EndMs": 4480,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "游戏",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "结束",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 3060
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 3060,
+                            "OffsetEndMs": 3420
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.620813
+        },
+        "RequestId": "70ae9837-e7d3-47a8-bb1a-03818eba7078"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "pyke",
+    "id": "467942258",
+    "result": "我记得你的样子。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746335,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.320]  我记得你的样子。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我记得你的样子。",
+                    "SliceSentence": "我记得 你的 样子",
+                    "StartMs": 0,
+                    "EndMs": 2320,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我记得",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "样子",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.320438
+        },
+        "RequestId": "09007468-e1e9-4fac-b80b-2fdb1368a0e9"
+    }
+}

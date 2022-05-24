@@ -1,0 +1,39 @@
+{
+    "character": "annie",
+    "id": "969061344",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542735,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.020]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 2020,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.0205
+        },
+        "RequestId": "479e0507-fad2-470e-8842-ca315b9abc91"
+    }
+}

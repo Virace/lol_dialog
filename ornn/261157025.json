@@ -1,0 +1,49 @@
+{
+    "character": "ornn",
+    "id": "261157025",
+    "result": "打个喷嚏就这样。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012739202,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.823]  打个喷嚏就这样。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "打个喷嚏就这样。",
+                    "SliceSentence": "打个 喷嚏 就 这样",
+                    "StartMs": 0,
+                    "EndMs": 1823,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "打个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "喷嚏",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "这样",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.823625
+        },
+        "RequestId": "8bca9ffd-089a-4b85-b9ce-7b274733997f"
+    }
+}

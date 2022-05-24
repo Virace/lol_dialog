@@ -1,0 +1,49 @@
+{
+    "character": "ekko",
+    "id": "322101505",
+    "result": "我们在创造未来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012559973,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.410]  我们在创造未来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们在创造未来。",
+                    "SliceSentence": "我们 在 创造 未来",
+                    "StartMs": 0,
+                    "EndMs": 1410,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "创造",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "未来",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 7.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.41
+        },
+        "RequestId": "82f98ee0-4d24-4951-b9f6-41b8966f4f30"
+    }
+}

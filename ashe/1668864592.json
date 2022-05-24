@@ -1,0 +1,44 @@
+{
+    "character": "ashe",
+    "id": "1668864592",
+    "result": "别浪费了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012545035,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.509]  别浪费了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别浪费了。",
+                    "SliceSentence": "别 浪费 了",
+                    "StartMs": 0,
+                    "EndMs": 1509,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "浪费",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.509313
+        },
+        "RequestId": "4b2210ae-e7b7-4b7b-ac11-4b7569f96b68"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "nidalee",
+    "id": "1067317987",
+    "result": "我们会文明的布施。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012731068,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.020,0:2.099]  我们会文明的布施。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们会文明的布施。",
+                    "SliceSentence": "我们 会 文明 的 布施",
+                    "StartMs": 20,
+                    "EndMs": 2099,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "文明",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "布施",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.099375
+        },
+        "RequestId": "c0c1029a-8b3e-4853-9da8-59accbfe16d7"
+    }
+}

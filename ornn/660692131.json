@@ -1,0 +1,44 @@
+{
+    "character": "ornn",
+    "id": "660692131",
+    "result": "这就叫做千锤百炼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012739968,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.666]  这就叫做千锤百炼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这就叫做千锤百炼。",
+                    "SliceSentence": "这就 叫做 千锤百炼",
+                    "StartMs": 0,
+                    "EndMs": 2666,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这就",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "叫做",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "千锤百炼",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.66625
+        },
+        "RequestId": "8b7e553d-3696-401c-94f0-46af847f69f7"
+    }
+}

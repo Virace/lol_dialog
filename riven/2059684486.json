@@ -1,0 +1,59 @@
+{
+    "character": "riven",
+    "id": "2059684486",
+    "result": "他们已经跨过那条线了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012762861,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.075]  他们已经跨过那条线了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们已经跨过那条线了。",
+                    "SliceSentence": "他们 已经 跨过 那条 线 了",
+                    "StartMs": 0,
+                    "EndMs": 2075,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "跨过",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "那条",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "线",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 7.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.075188
+        },
+        "RequestId": "9e031187-00ef-417f-827e-dbd70f72994f"
+    }
+}

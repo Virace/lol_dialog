@@ -1,0 +1,44 @@
+{
+    "character": "xinzhao",
+    "id": "1609487051",
+    "result": "交给我了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012839857,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.957]  交给我了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "交给我了。",
+                    "SliceSentence": "交 给我 了",
+                    "StartMs": 0,
+                    "EndMs": 957,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "交",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "给我",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 7.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.957625
+        },
+        "RequestId": "9efa2622-ba24-4251-807a-462d5a849301"
+    }
+}

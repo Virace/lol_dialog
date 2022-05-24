@@ -1,0 +1,39 @@
+{
+    "character": "chogath",
+    "id": "7071255",
+    "result": "嘿嘿嘿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012555355,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.973]  嘿嘿嘿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘿嘿嘿。",
+                    "SliceSentence": "嘿 嘿嘿",
+                    "StartMs": 0,
+                    "EndMs": 1973,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "嘿",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "嘿嘿",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.973688
+        },
+        "RequestId": "6dd26d60-0f84-4f12-b2f3-9d921f7295ea"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "sion",
+    "id": "170013559",
+    "result": "正在松弛。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012776151,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.478]  正在松弛。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "正在松弛。",
+                    "SliceSentence": "正在 松弛",
+                    "StartMs": 0,
+                    "EndMs": 2478,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "松弛",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.478313
+        },
+        "RequestId": "4be67c7b-ceff-4d6d-a0ca-f776e7b9cf45"
+    }
+}

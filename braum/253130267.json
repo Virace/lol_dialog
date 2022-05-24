@@ -1,0 +1,49 @@
+{
+    "character": "braum",
+    "id": "253130267",
+    "result": "我妈常说，不要灰心。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550358,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.648]  我妈常说，不要灰心。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我妈常说，不要灰心。",
+                    "SliceSentence": "我妈 常说 不要 灰心",
+                    "StartMs": 0,
+                    "EndMs": 3648,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我妈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "常说",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2370
+                        },
+                        {
+                            "Word": "灰心",
+                            "OffsetStartMs": 2370,
+                            "OffsetEndMs": 3510
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.648
+        },
+        "RequestId": "d3ebe1a5-fbf4-4a4f-9702-405a1577ebd7"
+    }
+}

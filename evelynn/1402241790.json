@@ -1,0 +1,54 @@
+{
+    "character": "evelynn",
+    "id": "1402241790",
+    "result": "可以，但是不可以看。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012561896,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.780]  可以，但是不可以看。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "可以，但是不可以看。",
+                    "SliceSentence": "可以 但是 不 可以 看",
+                    "StartMs": 0,
+                    "EndMs": 4780,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "但是",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2370
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 2370,
+                            "OffsetEndMs": 2850
+                        },
+                        {
+                            "Word": "看",
+                            "OffsetStartMs": 2850,
+                            "OffsetEndMs": 3180
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.198188
+        },
+        "RequestId": "9043f4ef-7c5b-4e30-9708-36750eb78a9c"
+    }
+}

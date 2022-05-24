@@ -1,0 +1,39 @@
+{
+    "character": "galio",
+    "id": "886500639",
+    "result": "感受微风。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012570027,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.735]  感受微风。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "感受微风。",
+                    "SliceSentence": "感受 微风",
+                    "StartMs": 0,
+                    "EndMs": 1735,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "感受",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "微风",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.735188
+        },
+        "RequestId": "12e11d47-a305-4dca-b684-a1aaf3820ab6"
+    }
+}

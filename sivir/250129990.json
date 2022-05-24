@@ -1,0 +1,59 @@
+{
+    "character": "sivir",
+    "id": "250129990",
+    "result": "这儿就是我剃头的地方。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012778984,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.268]  这儿就是我剃头的地方。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这儿就是我剃头的地方。",
+                    "SliceSentence": "这儿 就是 我 剃头 的 地方",
+                    "StartMs": 0,
+                    "EndMs": 2268,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "这儿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "剃头",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "地方",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 7.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.268688
+        },
+        "RequestId": "2ccf5da9-1d11-4d82-b710-6faec4a5a8da"
+    }
+}

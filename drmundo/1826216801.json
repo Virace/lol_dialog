@@ -1,0 +1,54 @@
+{
+    "character": "drmundo",
+    "id": "1826216801",
+    "result": "死亡时间现在这点中。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012557975,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.484]  死亡时间现在这点中。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "死亡时间现在这点中。",
+                    "SliceSentence": "死亡 时间 现在 这点 中",
+                    "StartMs": 0,
+                    "EndMs": 3484,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "死亡",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "这点",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2550
+                        },
+                        {
+                            "Word": "中",
+                            "OffsetStartMs": 2550,
+                            "OffsetEndMs": 3420
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.484563
+        },
+        "RequestId": "ae7a741d-78f0-4d60-a6c5-05e9575bd345"
+    }
+}

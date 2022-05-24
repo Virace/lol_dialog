@@ -1,0 +1,75 @@
+{
+    "character": "kaisa",
+    "id": "1155815450",
+    "result": "这味道。闻起来像家一样。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012688144,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.620]  这味道。\n[0:1.620,0:3.391]  闻起来像家一样。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这味道。",
+                    "SliceSentence": "这 味道",
+                    "StartMs": 0,
+                    "EndMs": 1620,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "味道",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "闻起来像家一样。",
+                    "SliceSentence": "闻 起来 像 家 一样",
+                    "StartMs": 1620,
+                    "EndMs": 3391,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "闻",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "起来",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "像",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "家",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "一样",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 6.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.391875
+        },
+        "RequestId": "2f361b01-ac9a-4fd3-a71b-fd7a0540d504"
+    }
+}

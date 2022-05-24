@@ -1,0 +1,39 @@
+{
+    "character": "taliyah",
+    "id": "308371961",
+    "result": "最好动起来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012792603,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.073]  最好动起来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "最好动起来。",
+                    "SliceSentence": "最好 动起来",
+                    "StartMs": 0,
+                    "EndMs": 1073,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "最好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "动起来",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.073375
+        },
+        "RequestId": "c7a9805d-737e-4591-b77a-1881786511bd"
+    }
+}

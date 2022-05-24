@@ -1,0 +1,54 @@
+{
+    "character": "swain",
+    "id": "314033688",
+    "result": "这是我最轻微的罪孽。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012785136,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.583]  这是我最轻微的罪孽。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是我最轻微的罪孽。",
+                    "SliceSentence": "这是 我最 轻微 的 罪孽",
+                    "StartMs": 0,
+                    "EndMs": 2583,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "我最",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "轻微",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "罪孽",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.583375
+        },
+        "RequestId": "30bc54bd-3e0e-4a93-b607-e0053e9eebec"
+    }
+}

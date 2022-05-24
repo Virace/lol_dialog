@@ -1,0 +1,59 @@
+{
+    "character": "lucian",
+    "id": "1565389170",
+    "result": "有我杀死的，就将永远死去。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012717546,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.249]  有我杀死的，就将永远死去。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "有我杀死的，就将永远死去。",
+                    "SliceSentence": "有我 杀死 的 就将 永远 死去",
+                    "StartMs": 0,
+                    "EndMs": 4249,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "有我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "杀死",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "就将",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "永远",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 2700
+                        },
+                        {
+                            "Word": "死去",
+                            "OffsetStartMs": 2700,
+                            "OffsetEndMs": 3630
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.24925
+        },
+        "RequestId": "b3a23375-d997-4566-90a5-b307eeef467e"
+    }
+}

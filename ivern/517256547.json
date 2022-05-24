@@ -1,0 +1,49 @@
+{
+    "character": "ivern",
+    "id": "517256547",
+    "result": "越是小心，越是开心。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012682442,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.764]  越是小心，越是开心。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "越是小心，越是开心。",
+                    "SliceSentence": "越是 小心 越是 开心",
+                    "StartMs": 0,
+                    "EndMs": 3764,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "越是",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "小心",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "越是",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "开心",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 3360
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.764375
+        },
+        "RequestId": "0cbc2e03-a724-4f65-ae75-d821cbd33370"
+    }
+}

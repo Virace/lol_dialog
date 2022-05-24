@@ -1,0 +1,49 @@
+{
+    "character": "lux",
+    "id": "670218645",
+    "result": "我要看尽世界。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012719565,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.807]  我要看尽世界。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要看尽世界。",
+                    "SliceSentence": "我要 看 尽 世界",
+                    "StartMs": 0,
+                    "EndMs": 1807,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "看",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "尽",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "世界",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.807438
+        },
+        "RequestId": "1a237f36-f0cf-4a9e-b649-41bca7e8b2c2"
+    }
+}

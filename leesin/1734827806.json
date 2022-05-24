@@ -1,0 +1,59 @@
+{
+    "character": "leesin",
+    "id": "1734827806",
+    "result": "今日是一场重大的考验。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012712932,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.840]  今日是一场重大的考验。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "今日是一场重大的考验。",
+                    "SliceSentence": "今日 是 一场 重大 的 考验",
+                    "StartMs": 0,
+                    "EndMs": 3840,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "今日",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "一场",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "重大",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "考验",
+                            "OffsetStartMs": 2340,
+                            "OffsetEndMs": 3210
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.527875
+        },
+        "RequestId": "257b5fa1-4999-43a8-8b03-bb6ec2a4c24e"
+    }
+}

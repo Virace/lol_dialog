@@ -1,0 +1,49 @@
+{
+    "character": "vayne",
+    "id": "1444823870",
+    "result": "笑话，这是什么意思？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012808528,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.260]  笑话，这是什么意思？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "笑话，这是什么意思？",
+                    "SliceSentence": "笑话 这是 什么 意思",
+                    "StartMs": 0,
+                    "EndMs": 3260,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "笑话",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "意思",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.580125
+        },
+        "RequestId": "c628f664-973d-4853-9c3d-7216b6139b78"
+    }
+}

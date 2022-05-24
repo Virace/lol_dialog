@@ -1,0 +1,49 @@
+{
+    "character": "senna",
+    "id": "1710198534",
+    "result": "或是在瞄准它们。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012768953,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.159]  或是在瞄准它们。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "或是在瞄准它们。",
+                    "SliceSentence": "或 是在 瞄准 它们",
+                    "StartMs": 0,
+                    "EndMs": 2159,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "或",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "是在",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "瞄准",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "它们",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.159438
+        },
+        "RequestId": "b383f7cd-fce4-4d94-af88-8452bbb56718"
+    }
+}

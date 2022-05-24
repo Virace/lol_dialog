@@ -1,0 +1,59 @@
+{
+    "character": "qiyana",
+    "id": "114102053",
+    "result": "哼哼，他们总说我很冷酷。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012747191,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.320]  哼哼，他们总说我很冷酷。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼，他们总说我很冷酷。",
+                    "SliceSentence": "哼哼 他们 总 说 我很 冷酷",
+                    "StartMs": 0,
+                    "EndMs": 3320,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "总",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "我很",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "冷酷",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2880
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.320438
+        },
+        "RequestId": "5ee9823c-82ad-4212-a322-02a33a483a29"
+    }
+}

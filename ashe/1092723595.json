@@ -1,0 +1,44 @@
+{
+    "character": "ashe",
+    "id": "1092723595",
+    "result": "死亡之鱼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012544516,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.066]  死亡之鱼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "死亡之鱼。",
+                    "SliceSentence": "死亡 之 鱼",
+                    "StartMs": 0,
+                    "EndMs": 2066,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "死亡",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "之",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "鱼",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.066563
+        },
+        "RequestId": "82a396d3-fe24-4591-9f4e-58e4bf398358"
+    }
+}

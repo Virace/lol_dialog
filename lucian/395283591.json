@@ -1,0 +1,44 @@
+{
+    "character": "lucian",
+    "id": "395283591",
+    "result": "让开点朋友。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718202,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.322]  让开点朋友。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "让开点朋友。",
+                    "SliceSentence": "让开 点 朋友",
+                    "StartMs": 0,
+                    "EndMs": 2322,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "让开",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "点",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "朋友",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.322
+        },
+        "RequestId": "b531b763-cdf0-40a4-8ac4-98b453aff932"
+    }
+}

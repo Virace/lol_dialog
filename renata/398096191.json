@@ -1,0 +1,44 @@
+{
+    "character": "renata",
+    "id": "398096191",
+    "result": "把水搅混。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012760579,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.120]  把水搅混。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "把水搅混。",
+                    "SliceSentence": "把 水 搅混",
+                    "StartMs": 0,
+                    "EndMs": 2120,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "水",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "搅混",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.330563
+        },
+        "RequestId": "015b8165-ff6d-4aab-938e-57649630bf66"
+    }
+}

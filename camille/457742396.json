@@ -1,0 +1,54 @@
+{
+    "character": "camille",
+    "id": "457742396",
+    "result": "你在挑战我的耐心。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553337,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.840]  你在挑战我的耐心。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你在挑战我的耐心。",
+                    "SliceSentence": "你在 挑战 我 的 耐心",
+                    "StartMs": 0,
+                    "EndMs": 1840,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "挑战",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "耐心",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 7.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.840625
+        },
+        "RequestId": "d8bda337-f056-4fbd-925c-96ad0fd7de29"
+    }
+}

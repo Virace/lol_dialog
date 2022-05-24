@@ -1,0 +1,49 @@
+{
+    "character": "irelia",
+    "id": "1446827471",
+    "result": "我从不放松警惕。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012580781,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.491]  我从不放松警惕。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我从不放松警惕。",
+                    "SliceSentence": "我 从不 放松 警惕",
+                    "StartMs": 0,
+                    "EndMs": 1491,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "从不",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "放松",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "警惕",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.491813
+        },
+        "RequestId": "becab44f-caaa-4a4a-ac5c-204e1b647674"
+    }
+}

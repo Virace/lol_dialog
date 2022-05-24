@@ -1,0 +1,39 @@
+{
+    "character": "xayah",
+    "id": "38217309",
+    "result": "我们可以做到。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012836550,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.334]  我们可以做到。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们可以做到。",
+                    "SliceSentence": "我们 可以做到",
+                    "StartMs": 0,
+                    "EndMs": 1334,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "可以做到",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.33475
+        },
+        "RequestId": "661d71dd-c538-451b-a397-fb39261abf17"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "viego",
+    "id": "493751992",
+    "result": "你将忠诚不二。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012814154,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.377]  你将忠诚不二。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你将忠诚不二。",
+                    "SliceSentence": "你 将 忠诚 不二",
+                    "StartMs": 0,
+                    "EndMs": 3377,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "将",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "忠诚",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "不二",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.377
+        },
+        "RequestId": "10e4d755-7f5a-4232-a5ec-d9f4d7279912"
+    }
+}

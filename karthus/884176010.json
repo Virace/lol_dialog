@@ -1,0 +1,44 @@
+{
+    "character": "karthus",
+    "id": "884176010",
+    "result": "啊，死亡之吻。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012696506,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.597]  啊，死亡之吻。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，死亡之吻。",
+                    "SliceSentence": "啊 死亡 之吻",
+                    "StartMs": 0,
+                    "EndMs": 5597,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "死亡",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 3840
+                        },
+                        {
+                            "Word": "之吻",
+                            "OffsetStartMs": 3840,
+                            "OffsetEndMs": 4890
+                        }
+                    ],
+                    "SpeechSpeed": 1.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.597313
+        },
+        "RequestId": "6b90adc7-03de-47dc-832c-ee8133975be4"
+    }
+}

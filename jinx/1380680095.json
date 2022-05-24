@@ -1,0 +1,80 @@
+{
+    "character": "jinx",
+    "id": "1380680095",
+    "result": "等等，我在想问题。好了，我讲完了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012686971,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.160]  等等，我在想问题。\n[0:2.160,0:3.413]  好了，我讲完了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "等等，我在想问题。",
+                    "SliceSentence": "等等 我 在想 问题",
+                    "StartMs": 0,
+                    "EndMs": 2160,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "等等",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "在想",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "问题",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "好了，我讲完了。",
+                    "SliceSentence": "好了 我 讲 完了",
+                    "StartMs": 2160,
+                    "EndMs": 3413,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "好了",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "讲",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "完了",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 8.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.413188
+        },
+        "RequestId": "52c4c23a-b3aa-45c5-b244-d73fd5faa0b1"
+    }
+}

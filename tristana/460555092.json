@@ -1,0 +1,49 @@
+{
+    "character": "tristana",
+    "id": "460555092",
+    "result": "我能看见他啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012799741,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.985]  我能看见他啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我能看见他啦。",
+                    "SliceSentence": "我能 看见 他 啦",
+                    "StartMs": 0,
+                    "EndMs": 985,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我能",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "看见",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "他",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 10.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.985188
+        },
+        "RequestId": "5dd69d7e-1581-4530-9204-32bde54a704c"
+    }
+}

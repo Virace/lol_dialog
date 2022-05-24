@@ -1,0 +1,44 @@
+{
+    "character": "yone",
+    "id": "1869386363",
+    "result": "双节畸形。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012842656,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.088]  双节畸形。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "双节畸形。",
+                    "SliceSentence": "双 节 畸形",
+                    "StartMs": 0,
+                    "EndMs": 3088,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "双",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "节",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "畸形",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.08825
+        },
+        "RequestId": "b3a2e2a3-1a95-4afc-885a-6a81e0a5e781"
+    }
+}

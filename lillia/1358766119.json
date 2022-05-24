@@ -1,0 +1,44 @@
+{
+    "character": "lillia",
+    "id": "1358766119",
+    "result": "呼呼呼呼呼呼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012714819,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.120]  呼呼呼呼呼呼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "呼呼呼呼呼呼。",
+                    "SliceSentence": "呼呼 呼呼 呼呼",
+                    "StartMs": 0,
+                    "EndMs": 4120,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "呼呼",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "呼呼",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "呼呼",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 3480
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.945875
+        },
+        "RequestId": "e558d2bb-d302-4995-8b78-999b540b8e37"
+    }
+}

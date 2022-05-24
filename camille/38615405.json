@@ -1,0 +1,39 @@
+{
+    "character": "camille",
+    "id": "38615405",
+    "result": "你很懦弱。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553197,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.656]  你很懦弱。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你很懦弱。",
+                    "SliceSentence": "你很 懦弱",
+                    "StartMs": 0,
+                    "EndMs": 1656,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "你很",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "懦弱",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.65625
+        },
+        "RequestId": "00e1b5e4-4ca2-4edf-b116-87de002df454"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "elise",
+    "id": "625501698",
+    "result": "很快就会结束了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560944,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.772]  很快就会结束了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "很快就会结束了。",
+                    "SliceSentence": "很快 就会 结束 了",
+                    "StartMs": 0,
+                    "EndMs": 3772,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "很快",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "就会",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "结束",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2730
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2760,
+                            "OffsetEndMs": 3060
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.772938
+        },
+        "RequestId": "a2fbcfff-f996-401a-834d-bbf132465de2"
+    }
+}

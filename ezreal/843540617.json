@@ -1,0 +1,49 @@
+{
+    "character": "ezreal",
+    "id": "843540617",
+    "result": "吼，太刺激了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012567106,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.037]  吼，太刺激了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "吼，太刺激了。",
+                    "SliceSentence": "吼 太 刺激 了",
+                    "StartMs": 0,
+                    "EndMs": 2037,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "吼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "太",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "刺激",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.037688
+        },
+        "RequestId": "258dff8b-20cb-4338-bcb9-bdaa4ac09da3"
+    }
+}

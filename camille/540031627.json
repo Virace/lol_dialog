@@ -1,0 +1,59 @@
+{
+    "character": "camille",
+    "id": "540031627",
+    "result": "对你来说，一眨眼就会结束了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553595,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.093]  对你来说，一眨眼就会结束了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "对你来说，一眨眼就会结束了。",
+                    "SliceSentence": "对你 来说 一眨眼 就会 结束 了",
+                    "StartMs": 0,
+                    "EndMs": 3093,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "对你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "来说",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "一眨眼",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "就会",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "结束",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 2640
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2640,
+                            "OffsetEndMs": 2880
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.093625
+        },
+        "RequestId": "db503caa-048c-40b3-80ff-564860acc92c"
+    }
+}

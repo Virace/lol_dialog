@@ -1,0 +1,49 @@
+{
+    "character": "camille",
+    "id": "23726651",
+    "result": "至少死的尊严。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552653,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.668]  至少死的尊严。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "至少死的尊严。",
+                    "SliceSentence": "至少 死 的 尊严",
+                    "StartMs": 0,
+                    "EndMs": 1668,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "至少",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "死",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "尊严",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.668125
+        },
+        "RequestId": "a5807499-2d12-44ff-93e8-259ba7608dd5"
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "character": "ezreal",
+    "id": "1422578954",
+    "result": "是我带着我的手套。还是我的手套，戴哲，我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012565762,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.480]  是我带着我的手套。\n[0:2.480,0:4.308]  还是我的手套，戴哲，我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "是我带着我的手套。",
+                    "SliceSentence": "是我 带着 我 的 手套",
+                    "StartMs": 0,
+                    "EndMs": 2480,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "带着",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "手套",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "还是我的手套，戴哲，我。",
+                    "SliceSentence": "还是 我 的 手套 戴 哲 我",
+                    "StartMs": 2480,
+                    "EndMs": 4308,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "还是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "手套",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "戴",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "哲",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 8.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.3085
+        },
+        "RequestId": "f5516de4-f906-403f-9fc6-560a088b2117"
+    }
+}

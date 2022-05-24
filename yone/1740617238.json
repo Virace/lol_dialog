@@ -1,0 +1,44 @@
+{
+    "character": "yone",
+    "id": "1740617238",
+    "result": "并非个人恩怨。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012842553,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.041]  并非个人恩怨。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "并非个人恩怨。",
+                    "SliceSentence": "并非 个人 恩怨",
+                    "StartMs": 0,
+                    "EndMs": 3041,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "并非",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "个人",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "恩怨",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.041813
+        },
+        "RequestId": "ce8b2d91-dd74-45c7-aa81-3c2885f8b336"
+    }
+}

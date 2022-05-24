@@ -1,0 +1,75 @@
+{
+    "character": "twistedfate",
+    "id": "1713007571",
+    "result": "Get up哼哼哼哼嗯啊。哎呀。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012802266,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.320,0:8.120]  Get up哼哼哼哼嗯啊。\n[0:8.120,0:9.162]  哎呀。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "Get up哼哼哼哼嗯啊。",
+                    "SliceSentence": "Get up 哼哼 哼哼 嗯 啊",
+                    "StartMs": 320,
+                    "EndMs": 8120,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "Get",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "up",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 3060,
+                            "OffsetEndMs": 3990
+                        },
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 4380,
+                            "OffsetEndMs": 5610
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 6330,
+                            "OffsetEndMs": 7140
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "哎呀。",
+                    "SliceSentence": "哎呀",
+                    "StartMs": 8120,
+                    "EndMs": 9162,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "哎呀",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 9.162313
+        },
+        "RequestId": "cd47f0b9-b99c-45a4-9a59-eb159ebee7c1"
+    }
+}

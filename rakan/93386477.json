@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "93386477",
+    "result": "我是个谦虚的演员。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012754940,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.860]  我是个谦虚的演员。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我是个谦虚的演员。",
+                    "SliceSentence": "我 是个 谦虚 的 演员",
+                    "StartMs": 0,
+                    "EndMs": 1860,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "是个",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "谦虚",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "演员",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.8605
+        },
+        "RequestId": "a81ae69f-9816-4fad-bd33-b82834599d2a"
+    }
+}

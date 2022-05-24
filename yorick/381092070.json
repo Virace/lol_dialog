@@ -1,0 +1,54 @@
+{
+    "character": "yorick",
+    "id": "381092070",
+    "result": "一世之间的片刻休息。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012844522,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.015]  一世之间的片刻休息。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一世之间的片刻休息。",
+                    "SliceSentence": "一世 之间 的 片刻 休息",
+                    "StartMs": 0,
+                    "EndMs": 3015,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "一世",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "之间",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "片刻",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "休息",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2880
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.015125
+        },
+        "RequestId": "8fadfc06-1876-476c-9634-f90b5ac9324c"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "quinn",
+    "id": "1691753191",
+    "result": "华洛，来我这儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012748889,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.904]  华洛，来我这儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "华洛，来我这儿。",
+                    "SliceSentence": "华 洛 来 我 这儿",
+                    "StartMs": 0,
+                    "EndMs": 1904,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "华",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "洛",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "这儿",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.904063
+        },
+        "RequestId": "16931551-5e9c-4be1-94ba-1f8efe9ec06c"
+    }
+}

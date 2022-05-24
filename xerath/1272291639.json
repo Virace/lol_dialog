@@ -1,0 +1,44 @@
+{
+    "character": "xerath",
+    "id": "1272291639",
+    "result": "幼稚的蠢货。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012838775,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.933]  幼稚的蠢货。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "幼稚的蠢货。",
+                    "SliceSentence": "幼稚 的 蠢货",
+                    "StartMs": 0,
+                    "EndMs": 3933,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "幼稚",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "蠢货",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 3030
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.93325
+        },
+        "RequestId": "d0a00936-17c2-466d-b7a8-3865b2344ccb"
+    }
+}

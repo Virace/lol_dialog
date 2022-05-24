@@ -1,0 +1,44 @@
+{
+    "character": "evelynn",
+    "id": "1964900056",
+    "result": "想换个地方。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012562849,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.400]  想换个地方。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "想换个地方。",
+                    "SliceSentence": "想 换个 地方",
+                    "StartMs": 0,
+                    "EndMs": 3400,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "想",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "换个",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "地方",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 3270
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.572813
+        },
+        "RequestId": "51a33187-afcc-41c9-80ea-0e54b4517c3e"
+    }
+}

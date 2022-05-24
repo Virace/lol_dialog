@@ -1,0 +1,54 @@
+{
+    "character": "ornn",
+    "id": "433884627",
+    "result": "你喜欢吗，我喜欢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012739523,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.406]  你喜欢吗，我喜欢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你喜欢吗，我喜欢。",
+                    "SliceSentence": "你 喜欢 吗 我 喜欢",
+                    "StartMs": 0,
+                    "EndMs": 2406,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.406375
+        },
+        "RequestId": "71f2c615-0fd0-4f33-b0bd-7bbb42e6515d"
+    }
+}

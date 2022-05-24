@@ -1,0 +1,54 @@
+{
+    "character": "tryndamere",
+    "id": "325010315",
+    "result": "这将会是场屠杀。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012801653,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.476]  这将会是场屠杀。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这将会是场屠杀。",
+                    "SliceSentence": "这 将会 是 场 屠杀",
+                    "StartMs": 0,
+                    "EndMs": 2476,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "将会",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "场",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "屠杀",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.4765
+        },
+        "RequestId": "feddea36-bcd7-42a4-86c0-6410292aaf74"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "swain",
+    "id": "60785259",
+    "result": "人命总算没有白费。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012785434,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.745]  人命总算没有白费。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "人命总算没有白费。",
+                    "SliceSentence": "人命 总算 没有 白费",
+                    "StartMs": 0,
+                    "EndMs": 2745,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "人命",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "总算",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "白费",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.745625
+        },
+        "RequestId": "bbd855b4-0b1a-4bbf-8e39-c274120e5a82"
+    }
+}

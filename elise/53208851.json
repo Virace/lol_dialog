@@ -1,0 +1,54 @@
+{
+    "character": "elise",
+    "id": "53208851",
+    "result": "我知道真正的路。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560931,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.124]  我知道真正的路。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我知道真正的路。",
+                    "SliceSentence": "我 知道 真正 的 路",
+                    "StartMs": 0,
+                    "EndMs": 3124,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "真正",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "路",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.1245
+        },
+        "RequestId": "11e31313-a5c6-4b61-93eb-20ed204b2317"
+    }
+}

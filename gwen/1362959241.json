@@ -1,0 +1,59 @@
+{
+    "character": "gwen",
+    "id": "1362959241",
+    "result": "又一个我越来越厉害啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012574030,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.451]  又一个我越来越厉害啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "又一个我越来越厉害啦。",
+                    "SliceSentence": "又一 个 我 越来越 厉害 啦",
+                    "StartMs": 0,
+                    "EndMs": 3451,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "又一",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "个",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "越来越",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "厉害",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.451563
+        },
+        "RequestId": "ca8553e9-1604-4aae-93a7-5321d536a8fd"
+    }
+}

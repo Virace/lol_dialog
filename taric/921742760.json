@@ -1,0 +1,44 @@
+{
+    "character": "taric",
+    "id": "921742760",
+    "result": "总是很有用。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012797788,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.549]  总是很有用。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "总是很有用。",
+                    "SliceSentence": "总是 很有 用",
+                    "StartMs": 0,
+                    "EndMs": 2549,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "总是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "很有",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "用",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.549938
+        },
+        "RequestId": "31374641-9017-42c6-ae25-bb4534431fdd"
+    }
+}

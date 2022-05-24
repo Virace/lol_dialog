@@ -1,0 +1,49 @@
+{
+    "character": "swain",
+    "id": "1566870222",
+    "result": "他们觉得自己赢了，可悲。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012784158,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.443]  他们觉得自己赢了，可悲。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们觉得自己赢了，可悲。",
+                    "SliceSentence": "他们 觉得自己 赢了 可悲",
+                    "StartMs": 0,
+                    "EndMs": 3443,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "觉得自己",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "赢了",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "可悲",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 3330
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.443875
+        },
+        "RequestId": "9af8ce51-9e77-48da-8c9e-bc9d072cde97"
+    }
+}

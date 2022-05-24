@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "1777977353",
+    "result": "你也出了力。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745446,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.196]  你也出了力。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你也出了力。",
+                    "SliceSentence": "你也 出 了 力",
+                    "StartMs": 0,
+                    "EndMs": 2196,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你也",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "出",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "力",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.196938
+        },
+        "RequestId": "94c8a4d9-258c-4a86-9a14-aa64b0bc1802"
+    }
+}

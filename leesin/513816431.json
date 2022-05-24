@@ -1,0 +1,54 @@
+{
+    "character": "leesin",
+    "id": "513816431",
+    "result": "我看不到半点好笑之处。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012713576,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.660]  我看不到半点好笑之处。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我看不到半点好笑之处。",
+                    "SliceSentence": "我 看不到 半点 好笑 之处",
+                    "StartMs": 0,
+                    "EndMs": 3660,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "看不到",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "半点",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "好笑",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "之处",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 3270
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.318938
+        },
+        "RequestId": "0469ff86-3a1b-46c5-b27d-f1f95f1428ca"
+    }
+}

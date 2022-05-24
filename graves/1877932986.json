@@ -1,0 +1,49 @@
+{
+    "character": "graves",
+    "id": "1877932986",
+    "result": "他们选错了对手。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012573553,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.192]  他们选错了对手。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们选错了对手。",
+                    "SliceSentence": "他们 选错 了 对手",
+                    "StartMs": 0,
+                    "EndMs": 2192,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "选错",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "对手",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.192875
+        },
+        "RequestId": "c14da78d-97f5-4c11-8fce-45378bac5a96"
+    }
+}

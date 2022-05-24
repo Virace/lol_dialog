@@ -1,0 +1,49 @@
+{
+    "character": "jayce",
+    "id": "1128209661",
+    "result": "哈哈哈哈哈，哼哼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012684016,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.922]  哈哈哈哈哈，哼哼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈哈，哼哼。",
+                    "SliceSentence": "哈哈 哈 哈哈 哼哼",
+                    "StartMs": 0,
+                    "EndMs": 4922,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "哈",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 2760
+                        },
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 3810,
+                            "OffsetEndMs": 4740
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.922625
+        },
+        "RequestId": "b3436316-cfa1-4803-9026-165983d1fab5"
+    }
+}

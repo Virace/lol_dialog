@@ -1,0 +1,39 @@
+{
+    "character": "twitch",
+    "id": "947745876",
+    "result": "我的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012804287,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.509]  我的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的。",
+                    "SliceSentence": "我 的",
+                    "StartMs": 0,
+                    "EndMs": 1509,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 750
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.509313
+        },
+        "RequestId": "86964341-fb34-4727-8a4b-2de72fc7814a"
+    }
+}

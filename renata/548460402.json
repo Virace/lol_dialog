@@ -1,0 +1,44 @@
+{
+    "character": "renata",
+    "id": "548460402",
+    "result": "你不配过好日子。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012760818,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.847]  你不配过好日子。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你不配过好日子。",
+                    "SliceSentence": "你不配 过好 日子",
+                    "StartMs": 0,
+                    "EndMs": 2847,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你不配",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "过好",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "日子",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.847188
+        },
+        "RequestId": "9b250b0e-f842-4a04-9229-5212662b38b5"
+    }
+}

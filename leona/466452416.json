@@ -1,0 +1,49 @@
+{
+    "character": "leona",
+    "id": "466452416",
+    "result": "哼哼哼，哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012714338,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.420]  哼哼哼，哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼哼，哈哈哈哈。",
+                    "SliceSentence": "哼 哼哼 哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 4420,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "哼",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2850
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 2850,
+                            "OffsetEndMs": 3630
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.685313
+        },
+        "RequestId": "bc79edc6-09bf-42a1-91f8-dd7653461702"
+    }
+}

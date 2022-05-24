@@ -1,0 +1,54 @@
+{
+    "character": "gwen",
+    "id": "741427323",
+    "result": "这可真没办法，补好了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012575322,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.029]  这可真没办法，补好了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这可真没办法，补好了。",
+                    "SliceSentence": "这可 真 没办法 补 好了",
+                    "StartMs": 0,
+                    "EndMs": 3029,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这可",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "真",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "没办法",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "补",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "好了",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.029188
+        },
+        "RequestId": "93cc4150-1c78-43d9-89b4-b1a1ad997369"
+    }
+}

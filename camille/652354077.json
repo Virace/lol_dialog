@@ -1,0 +1,39 @@
+{
+    "character": "camille",
+    "id": "652354077",
+    "result": "你要自知。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553804,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.802]  你要自知。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你要自知。",
+                    "SliceSentence": "你要 自知",
+                    "StartMs": 0,
+                    "EndMs": 2802,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "你要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "自知",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2730
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.802125
+        },
+        "RequestId": "5d92ae66-a92a-48a8-a35d-497bfb300b9c"
+    }
+}

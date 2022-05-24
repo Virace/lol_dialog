@@ -1,0 +1,44 @@
+{
+    "character": "renata",
+    "id": "1834139819",
+    "result": "我喜欢付出。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012760137,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.340]  我喜欢付出。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我喜欢付出。",
+                    "SliceSentence": "我 喜欢 付出",
+                    "StartMs": 0,
+                    "EndMs": 2340,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "付出",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.516313
+        },
+        "RequestId": "a509673f-8aff-4bbc-94b2-5feea1d740cc"
+    }
+}

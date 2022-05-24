@@ -1,0 +1,49 @@
+{
+    "character": "yorick",
+    "id": "969870166",
+    "result": "它非常适合我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012846278,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.723]  它非常适合我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "它非常适合我。",
+                    "SliceSentence": "它 非常 适合 我",
+                    "StartMs": 0,
+                    "EndMs": 2723,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "它",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "非常",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "适合",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2580
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.7235
+        },
+        "RequestId": "dad0a049-f0b5-435f-a992-23df3ff0808f"
+    }
+}

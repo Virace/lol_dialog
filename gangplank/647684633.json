@@ -1,0 +1,49 @@
+{
+    "character": "gangplank",
+    "id": "647684633",
+    "result": "这次我有这个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012571310,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.739]  这次我有这个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这次我有这个。",
+                    "SliceSentence": "这次 我 有 这个",
+                    "StartMs": 0,
+                    "EndMs": 1739,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这次",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.739125
+        },
+        "RequestId": "574a44f6-8f63-4f30-a1f8-aefded9e9b1c"
+    }
+}

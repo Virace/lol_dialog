@@ -1,0 +1,49 @@
+{
+    "character": "lillia",
+    "id": "1950552269",
+    "result": "没人看到，没人看到。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012715390,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.960]  没人看到，没人看到。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没人看到，没人看到。",
+                    "SliceSentence": "没人 看到 没人 看到",
+                    "StartMs": 0,
+                    "EndMs": 2960,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "没人",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "看到",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "没人",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "看到",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.784875
+        },
+        "RequestId": "b26b226d-b879-447a-983b-b1fcdc052ff7"
+    }
+}

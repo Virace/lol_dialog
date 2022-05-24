@@ -1,0 +1,54 @@
+{
+    "character": "urgot",
+    "id": "437930243",
+    "result": "这不是暴力，这是哲学。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012807102,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:7.296]  这不是暴力，这是哲学。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这不是暴力，这是哲学。",
+                    "SliceSentence": "这 不是 暴力 这是 哲学",
+                    "StartMs": 0,
+                    "EndMs": 7296,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "暴力",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 2820,
+                            "OffsetEndMs": 3450
+                        },
+                        {
+                            "Word": "哲学",
+                            "OffsetStartMs": 4410,
+                            "OffsetEndMs": 5910
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.296375
+        },
+        "RequestId": "88018d48-0f83-48d2-96e6-e21aa2d7cf06"
+    }
+}

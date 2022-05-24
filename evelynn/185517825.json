@@ -1,0 +1,54 @@
+{
+    "character": "evelynn",
+    "id": "185517825",
+    "result": "小心了，我会咬人的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012562680,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.260]  小心了，我会咬人的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "小心了，我会咬人的。",
+                    "SliceSentence": "小心 了 我会 咬人 的",
+                    "StartMs": 0,
+                    "EndMs": 4260,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "小心",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "咬人",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2820
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2820,
+                            "OffsetEndMs": 3480
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.435
+        },
+        "RequestId": "f45fb337-91b2-41d7-a77d-66dea10cda8c"
+    }
+}

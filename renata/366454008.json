@@ -1,0 +1,64 @@
+{
+    "character": "renata",
+    "id": "366454008",
+    "result": "好了，我的会计马上就要哭了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012760560,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.391]  好了，我的会计马上就要哭了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好了，我的会计马上就要哭了。",
+                    "SliceSentence": "好了 我 的 会计 马上 就要 哭了",
+                    "StartMs": 0,
+                    "EndMs": 4391,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "好了",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "会计",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "马上",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "就要",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 2730
+                        },
+                        {
+                            "Word": "哭了",
+                            "OffsetStartMs": 2730,
+                            "OffsetEndMs": 3360
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.391313
+        },
+        "RequestId": "57920ce4-313a-4608-85f4-b055ac0d3b84"
+    }
+}

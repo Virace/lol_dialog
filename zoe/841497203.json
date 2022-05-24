@@ -1,0 +1,54 @@
+{
+    "character": "zoe",
+    "id": "841497203",
+    "result": "哇哦，真的是太出格了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012856948,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.248]  哇哦，真的是太出格了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哇哦，真的是太出格了。",
+                    "SliceSentence": "哇哦 真的是 太 出格 了",
+                    "StartMs": 0,
+                    "EndMs": 4248,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "哇哦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "真的是",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "太",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2610
+                        },
+                        {
+                            "Word": "出格",
+                            "OffsetStartMs": 2610,
+                            "OffsetEndMs": 3180
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 3180,
+                            "OffsetEndMs": 3420
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.24825
+        },
+        "RequestId": "7fb921b3-7574-467d-be23-a9000977b4f3"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "annie",
+    "id": "2062310880",
+    "result": "该我啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542631,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.100,0:2.227]  该我啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "该我啦。",
+                    "SliceSentence": "该 我 啦",
+                    "StartMs": 100,
+                    "EndMs": 2227,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "该",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.22775
+        },
+        "RequestId": "9fc15584-92f6-4838-9a00-9024dda64482"
+    }
+}

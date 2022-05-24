@@ -1,0 +1,54 @@
+{
+    "character": "trundle",
+    "id": "1508014044",
+    "result": "啊，哈哈，他们好像很生气。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012801074,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.358]  啊，哈哈，他们好像很生气。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，哈哈，他们好像很生气。",
+                    "SliceSentence": "啊 哈哈 他们 好像 很生气",
+                    "StartMs": 0,
+                    "EndMs": 4358,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "好像",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2550
+                        },
+                        {
+                            "Word": "很生气",
+                            "OffsetStartMs": 2550,
+                            "OffsetEndMs": 4050
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.358375
+        },
+        "RequestId": "b5ba9653-ed57-4e82-8159-64e3976924fc"
+    }
+}

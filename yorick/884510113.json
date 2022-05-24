@@ -1,0 +1,44 @@
+{
+    "character": "yorick",
+    "id": "884510113",
+    "result": "感谢你的福。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012846070,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.548]  感谢你的福。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "感谢你的福。",
+                    "SliceSentence": "感谢 你的 福",
+                    "StartMs": 0,
+                    "EndMs": 2548,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "感谢",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "福",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.548938
+        },
+        "RequestId": "393315cf-8f41-468d-a6d8-90f47755ff01"
+    }
+}

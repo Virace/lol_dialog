@@ -1,0 +1,44 @@
+{
+    "character": "vex",
+    "id": "234288563",
+    "result": "哎呀呀，好酷啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012811210,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.084]  哎呀呀，好酷啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哎呀呀，好酷啊。",
+                    "SliceSentence": "哎呀呀 好酷 啊",
+                    "StartMs": 0,
+                    "EndMs": 4084,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哎呀呀",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "好酷",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2760
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 2790,
+                            "OffsetEndMs": 3390
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.084438
+        },
+        "RequestId": "a5029ebf-aa2e-4437-a62a-3ebf3db5d725"
+    }
+}

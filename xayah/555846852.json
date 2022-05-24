@@ -1,0 +1,39 @@
+{
+    "character": "xayah",
+    "id": "555846852",
+    "result": "就是他。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012837194,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.236]  就是他。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "就是他。",
+                    "SliceSentence": "就是 他",
+                    "StartMs": 0,
+                    "EndMs": 1236,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "他",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.236625
+        },
+        "RequestId": "66737020-81e1-4ce7-bd42-552239b3a6f9"
+    }
+}

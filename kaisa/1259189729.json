@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "1259189729",
+    "result": "你要疯了吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012688295,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.568]  你要疯了吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你要疯了吗？",
+                    "SliceSentence": "你要 疯了 吗",
+                    "StartMs": 0,
+                    "EndMs": 1568,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你要",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "疯了",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.568125
+        },
+        "RequestId": "c9bed088-4d0e-4c2c-9af7-c8d014fb3546"
+    }
+}

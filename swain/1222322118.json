@@ -1,0 +1,49 @@
+{
+    "character": "swain",
+    "id": "1222322118",
+    "result": "这是给我的祭品。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012783692,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.029]  这是给我的祭品。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是给我的祭品。",
+                    "SliceSentence": "这是 给我 的 祭品",
+                    "StartMs": 0,
+                    "EndMs": 3029,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "给我",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "祭品",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.029063
+        },
+        "RequestId": "c48b9ac4-e104-41a3-a062-1b8293b2217e"
+    }
+}

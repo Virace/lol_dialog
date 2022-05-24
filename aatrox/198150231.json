@@ -1,0 +1,49 @@
+{
+    "character": "aatrox",
+    "id": "198150231",
+    "result": "我是不朽者。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012532638,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.478]  我是不朽者。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我是不朽者。",
+                    "SliceSentence": "我 是 不朽 者",
+                    "StartMs": 0,
+                    "EndMs": 4478,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "不朽",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 3150
+                        },
+                        {
+                            "Word": "者",
+                            "OffsetStartMs": 3150,
+                            "OffsetEndMs": 4380
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.4785
+        },
+        "RequestId": "0bda5646-74fd-4dcf-9778-c69d9a07730c"
+    }
+}

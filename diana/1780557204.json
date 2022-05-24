@@ -1,0 +1,49 @@
+{
+    "character": "diana",
+    "id": "1780557204",
+    "result": "我没有退路了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556187,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.101]  我没有退路了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我没有退路了。",
+                    "SliceSentence": "我 没有 退路 了",
+                    "StartMs": 0,
+                    "EndMs": 1101,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "退路",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 9.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.101313
+        },
+        "RequestId": "65b6ca69-b8ec-4538-88b1-5150369d5865"
+    }
+}

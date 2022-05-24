@@ -1,0 +1,64 @@
+{
+    "character": "vi",
+    "id": "551077635",
+    "result": "我们开始有趣儿的部分吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012812575,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.080,0:3.049]  我们开始有趣儿的部分吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们开始有趣儿的部分吧。",
+                    "SliceSentence": "我们 开始 有趣 儿 的 部分 吧",
+                    "StartMs": 80,
+                    "EndMs": 3049,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "开始",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "有趣",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "儿",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "部分",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.049438
+        },
+        "RequestId": "090b7c62-f170-4e27-8a1e-a3c2db695872"
+    }
+}

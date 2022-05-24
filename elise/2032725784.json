@@ -1,0 +1,54 @@
+{
+    "character": "elise",
+    "id": "2032725784",
+    "result": "嗯，干嘛这么紧张放松？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560735,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.610]  嗯，干嘛这么紧张放松？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯，干嘛这么紧张放松？",
+                    "SliceSentence": "嗯 干嘛 这么 紧张 放松",
+                    "StartMs": 0,
+                    "EndMs": 5610,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "干嘛",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "这么",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "紧张",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2700
+                        },
+                        {
+                            "Word": "放松",
+                            "OffsetStartMs": 3060,
+                            "OffsetEndMs": 4590
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.610313
+        },
+        "RequestId": "25a9d964-84de-4ac7-9909-49fdfd84d4c5"
+    }
+}

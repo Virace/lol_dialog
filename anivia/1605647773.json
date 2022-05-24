@@ -1,0 +1,39 @@
+{
+    "character": "anivia",
+    "id": "1605647773",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542285,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.230]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 1230,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.230688
+        },
+        "RequestId": "25061114-1703-4669-bcd4-61c4d4866dc8"
+    }
+}

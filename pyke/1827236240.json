@@ -1,0 +1,64 @@
+{
+    "character": "pyke",
+    "id": "1827236240",
+    "result": "我俯视着来自海底的世界。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745497,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.724]  我俯视着来自海底的世界。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我俯视着来自海底的世界。",
+                    "SliceSentence": "我 俯视 着 来自 海底 的 世界",
+                    "StartMs": 0,
+                    "EndMs": 3724,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "俯视",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "着",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "来自",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "海底",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "世界",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 3180
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.724938
+        },
+        "RequestId": "4648f1ed-fc53-4644-b4da-dc842f7cf52d"
+    }
+}

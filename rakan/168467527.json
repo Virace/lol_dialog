@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "168467527",
+    "result": "我们现在可以走了吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012751318,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.264]  我们现在可以走了吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们现在可以走了吗？",
+                    "SliceSentence": "我们 现在 可以 走了 吗",
+                    "StartMs": 0,
+                    "EndMs": 1264,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "走了",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 11.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.264375
+        },
+        "RequestId": "73dc6bc9-9386-4d5b-a2c3-3543c6f9f7c8"
+    }
+}

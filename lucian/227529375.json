@@ -1,0 +1,44 @@
+{
+    "character": "lucian",
+    "id": "227529375",
+    "result": "这就是仁慈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718025,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.322]  这就是仁慈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这就是仁慈。",
+                    "SliceSentence": "这就 是 仁慈",
+                    "StartMs": 0,
+                    "EndMs": 2322,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这就",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "仁慈",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.322
+        },
+        "RequestId": "f851dbd8-3c6b-4b92-8e90-56075f3ff2cd"
+    }
+}

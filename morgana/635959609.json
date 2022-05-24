@@ -1,0 +1,44 @@
+{
+    "character": "morgana",
+    "id": "635959609",
+    "result": "我从没有过。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012727253,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.047]  我从没有过。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我从没有过。",
+                    "SliceSentence": "我 从没 有过",
+                    "StartMs": 0,
+                    "EndMs": 2047,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "从没",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "有过",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.047313
+        },
+        "RequestId": "22ff661d-e66c-440d-8ac1-0eb2b0a6acc9"
+    }
+}

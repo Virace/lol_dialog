@@ -1,0 +1,39 @@
+{
+    "character": "vex",
+    "id": "818376143",
+    "result": "随便吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012811497,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.980]  随便吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "随便吧。",
+                    "SliceSentence": "随便 吧",
+                    "StartMs": 0,
+                    "EndMs": 1980,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "随便",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.980188
+        },
+        "RequestId": "b446df4d-5c09-4c5c-b9f2-cf0bb7f825c5"
+    }
+}

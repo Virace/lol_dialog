@@ -1,0 +1,44 @@
+{
+    "character": "yone",
+    "id": "327528871",
+    "result": "可惜你充耳不闻。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012843049,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.343]  可惜你充耳不闻。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "可惜你充耳不闻。",
+                    "SliceSentence": "可惜 你 充耳不闻",
+                    "StartMs": 0,
+                    "EndMs": 3343,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "可惜",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "充耳不闻",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.343688
+        },
+        "RequestId": "f959702b-6ed8-42ed-acc4-f3f16e8849eb"
+    }
+}

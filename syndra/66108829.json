@@ -1,0 +1,49 @@
+{
+    "character": "syndra",
+    "id": "66108829",
+    "result": "没人可以碰到我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012788706,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.140,0:3.255]  没人可以碰到我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没人可以碰到我。",
+                    "SliceSentence": "没人 可以 碰到 我",
+                    "StartMs": 140,
+                    "EndMs": 3255,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "没人",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "碰到",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.255
+        },
+        "RequestId": "28109c1b-714c-48f0-850d-b98679be7ab4"
+    }
+}

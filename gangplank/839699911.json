@@ -1,0 +1,49 @@
+{
+    "character": "gangplank",
+    "id": "839699911",
+    "result": "这是一把剥皮刀。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012571596,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.561]  这是一把剥皮刀。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是一把剥皮刀。",
+                    "SliceSentence": "这是 一把 剥皮 刀",
+                    "StartMs": 0,
+                    "EndMs": 2561,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "一把",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "剥皮",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "刀",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.56125
+        },
+        "RequestId": "d9fc49df-8d99-49c4-acff-524a9f4866d7"
+    }
+}

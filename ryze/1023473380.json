@@ -1,0 +1,49 @@
+{
+    "character": "ryze",
+    "id": "1023473380",
+    "result": "少了一块绊脚石。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012763651,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.573]  少了一块绊脚石。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "少了一块绊脚石。",
+                    "SliceSentence": "少 了 一块 绊脚石",
+                    "StartMs": 0,
+                    "EndMs": 1573,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "少",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "一块",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "绊脚石",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.573
+        },
+        "RequestId": "57a79aaf-634b-4525-962c-11b03f4adce6"
+    }
+}

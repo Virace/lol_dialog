@@ -1,0 +1,54 @@
+{
+    "character": "sion",
+    "id": "332039963",
+    "result": "不是，现在我能坚持住。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012776658,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.266]  不是，现在我能坚持住。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不是，现在我能坚持住。",
+                    "SliceSentence": "不是 现在 我能 坚持 住",
+                    "StartMs": 0,
+                    "EndMs": 4266,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "我能",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2580
+                        },
+                        {
+                            "Word": "坚持",
+                            "OffsetStartMs": 2580,
+                            "OffsetEndMs": 3240
+                        },
+                        {
+                            "Word": "住",
+                            "OffsetStartMs": 3240,
+                            "OffsetEndMs": 4050
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.266625
+        },
+        "RequestId": "675b170f-91c2-4421-8000-7f4b716fe95c"
+    }
+}

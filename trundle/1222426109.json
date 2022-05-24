@@ -1,0 +1,49 @@
+{
+    "character": "trundle",
+    "id": "1222426109",
+    "result": "可我是巨魔之王。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012800957,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:6.688]  可我是巨魔之王。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "可我是巨魔之王。",
+                    "SliceSentence": "可我 是 巨魔 之王",
+                    "StartMs": 0,
+                    "EndMs": 6688,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "可我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "巨魔",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 3360
+                        },
+                        {
+                            "Word": "之王",
+                            "OffsetStartMs": 4080,
+                            "OffsetEndMs": 5580
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.688875
+        },
+        "RequestId": "7b18d70c-5fc3-45e4-b5e5-d80977911aa2"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "fiora",
+    "id": "1992074686",
+    "result": "马上就好。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012567459,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.555]  马上就好。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "马上就好。",
+                    "SliceSentence": "马上 就好",
+                    "StartMs": 0,
+                    "EndMs": 1555,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "马上",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "就好",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.55575
+        },
+        "RequestId": "4452d9df-8be9-4bd0-84ad-47cd59ca0ea1"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "sion",
+    "id": "774018945",
+    "result": "这场战斗已经结束。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012777772,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.123]  这场战斗已经结束。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这场战斗已经结束。",
+                    "SliceSentence": "这场 战斗 已经 结束",
+                    "StartMs": 0,
+                    "EndMs": 3123,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这场",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "战斗",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "结束",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2970
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.1235
+        },
+        "RequestId": "fe91500d-aa32-40dc-84bf-cc50bbb55be2"
+    }
+}

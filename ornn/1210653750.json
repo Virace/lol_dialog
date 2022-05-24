@@ -1,0 +1,59 @@
+{
+    "character": "ornn",
+    "id": "1210653750",
+    "result": "孤独总是最合我意。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012737959,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.345]  孤独总是最合我意。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "孤独总是最合我意。",
+                    "SliceSentence": "孤独 总是 最 合 我 意",
+                    "StartMs": 0,
+                    "EndMs": 2345,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "孤独",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "总是",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "最",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "合",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "意",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.345063
+        },
+        "RequestId": "5e0ca33b-111e-48a9-97ec-d4098518f28a"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "yorick",
+    "id": "841232055",
+    "result": "复活的休克很快就过去了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012845975,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.876]  复活的休克很快就过去了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "复活的休克很快就过去了。",
+                    "SliceSentence": "复活 的 休克 很快就 过去 了",
+                    "StartMs": 0,
+                    "EndMs": 3876,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "复活",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "休克",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "很快就",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2730
+                        },
+                        {
+                            "Word": "过去",
+                            "OffsetStartMs": 2730,
+                            "OffsetEndMs": 3360
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 3360,
+                            "OffsetEndMs": 3750
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.876125
+        },
+        "RequestId": "3c10c0a2-803b-4955-9d37-151205ba287a"
+    }
+}

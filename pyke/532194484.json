@@ -1,0 +1,64 @@
+{
+    "character": "pyke",
+    "id": "532194484",
+    "result": "潮水带我去我要去的地方。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746438,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.549]  潮水带我去我要去的地方。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "潮水带我去我要去的地方。",
+                    "SliceSentence": "潮水 带我 去 我要 去 的 地方",
+                    "StartMs": 0,
+                    "EndMs": 3549,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "潮水",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "带我",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "地方",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 3090
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.549313
+        },
+        "RequestId": "f8bcec45-d0ea-4dc5-89e5-c12be20af5a6"
+    }
+}

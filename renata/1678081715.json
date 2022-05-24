@@ -1,0 +1,39 @@
+{
+    "character": "renata",
+    "id": "1678081715",
+    "result": "好好干活。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012760002,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.120]  好好干活。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好好干活。",
+                    "SliceSentence": "好好 干活",
+                    "StartMs": 0,
+                    "EndMs": 2120,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "好好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "干活",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.394375
+        },
+        "RequestId": "445994cc-5f98-43e6-a938-2f4f79794520"
+    }
+}

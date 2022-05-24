@@ -1,0 +1,64 @@
+{
+    "character": "galio",
+    "id": "840730014",
+    "result": "我想换一个7000码的大号。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012569910,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.328]  我想换一个7000码的大号。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我想换一个7000码的大号。",
+                    "SliceSentence": "我 想 换 一个 7000码 的 大号",
+                    "StartMs": 0,
+                    "EndMs": 2328,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "想",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "换",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "7000码",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "大号",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 8.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.328938
+        },
+        "RequestId": "c6a93fff-77c7-405b-9227-ba74f8abf4ef"
+    }
+}

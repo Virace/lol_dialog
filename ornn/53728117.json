@@ -1,0 +1,79 @@
+{
+    "character": "ornn",
+    "id": "53728117",
+    "result": "我要去那儿，看起来很安静，应该挺不错的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012739659,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.400]  我要去那儿，看起来很安静，应该挺不错的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要去那儿，看起来很安静，应该挺不错的。",
+                    "SliceSentence": "我要 去 那儿 看起来 很 安静 应该 挺 不错 的",
+                    "StartMs": 0,
+                    "EndMs": 5400,
+                    "WordsNum": 10,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "那儿",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "看起来",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "很",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 2820
+                        },
+                        {
+                            "Word": "安静",
+                            "OffsetStartMs": 2820,
+                            "OffsetEndMs": 3540
+                        },
+                        {
+                            "Word": "应该",
+                            "OffsetStartMs": 3810,
+                            "OffsetEndMs": 4350
+                        },
+                        {
+                            "Word": "挺",
+                            "OffsetStartMs": 4350,
+                            "OffsetEndMs": 4560
+                        },
+                        {
+                            "Word": "不错",
+                            "OffsetStartMs": 4560,
+                            "OffsetEndMs": 5010
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 5010,
+                            "OffsetEndMs": 5280
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.400625
+        },
+        "RequestId": "312e05f4-15dd-4bc6-8cec-1ba1a861be26"
+    }
+}

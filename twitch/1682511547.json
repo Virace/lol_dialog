@@ -1,0 +1,49 @@
+{
+    "character": "twitch",
+    "id": "1682511547",
+    "result": "我需要一块儿三明治。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012803337,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.041]  我需要一块儿三明治。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我需要一块儿三明治。",
+                    "SliceSentence": "我 需要 一块儿 三明治",
+                    "StartMs": 0,
+                    "EndMs": 3041,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "一块儿",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "三明治",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 2700
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.041813
+        },
+        "RequestId": "60d673bb-08a0-4798-9c0a-5dd6fa00b656"
+    }
+}

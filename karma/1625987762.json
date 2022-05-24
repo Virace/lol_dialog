@@ -1,0 +1,59 @@
+{
+    "character": "karma",
+    "id": "1625987762",
+    "result": "我绝对不会坐视不管的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012695161,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.466]  我绝对不会坐视不管的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我绝对不会坐视不管的。",
+                    "SliceSentence": "我 绝对 不会 坐视 不管 的",
+                    "StartMs": 0,
+                    "EndMs": 2466,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "绝对",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "坐视",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "不管",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.466188
+        },
+        "RequestId": "4c7e33e1-5f36-43aa-bd50-05970000cfea"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "trundle",
+    "id": "1140836685",
+    "result": "尖叫吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012800881,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.997]  尖叫吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "尖叫吧。",
+                    "SliceSentence": "尖叫 吧",
+                    "StartMs": 0,
+                    "EndMs": 1997,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "尖叫",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.997625
+        },
+        "RequestId": "c628fa65-1bc5-4c33-9c87-f122441c4547"
+    }
+}

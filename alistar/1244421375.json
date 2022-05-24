@@ -1,0 +1,49 @@
+{
+    "character": "alistar",
+    "id": "1244421375",
+    "result": "俺知道该怎么做。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012541743,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.319]  俺知道该怎么做。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "俺知道该怎么做。",
+                    "SliceSentence": "俺 知道 该 怎么做",
+                    "StartMs": 0,
+                    "EndMs": 2319,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "俺",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "该",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "怎么做",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.3195
+        },
+        "RequestId": "3bd1eb18-b780-4ead-bc41-2bbd14de100c"
+    }
+}

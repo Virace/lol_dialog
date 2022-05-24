@@ -1,0 +1,39 @@
+{
+    "character": "garen",
+    "id": "120367211",
+    "result": "保持镇定。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012571939,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.133]  保持镇定。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "保持镇定。",
+                    "SliceSentence": "保持 镇定",
+                    "StartMs": 0,
+                    "EndMs": 1133,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "保持",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "镇定",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.133
+        },
+        "RequestId": "da037f8e-0509-4f6b-b231-a11fdd91ecfd"
+    }
+}

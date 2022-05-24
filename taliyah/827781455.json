@@ -1,0 +1,44 @@
+{
+    "character": "taliyah",
+    "id": "827781455",
+    "result": "我就是岩石。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012794747,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.417]  我就是岩石。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我就是岩石。",
+                    "SliceSentence": "我 就是 岩石",
+                    "StartMs": 0,
+                    "EndMs": 1417,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "岩石",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.41775
+        },
+        "RequestId": "45ffd9d8-b9c8-4f30-99db-20b405c36334"
+    }
+}

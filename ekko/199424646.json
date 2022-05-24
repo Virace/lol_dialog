@@ -1,0 +1,49 @@
+{
+    "character": "ekko",
+    "id": "199424646",
+    "result": "我从来不用替身。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012559785,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.408]  我从来不用替身。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我从来不用替身。",
+                    "SliceSentence": "我 从来 不用 替身",
+                    "StartMs": 0,
+                    "EndMs": 1408,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "从来",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "不用",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "替身",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 7.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.408688
+        },
+        "RequestId": "7d356d50-94d1-43f9-9ad7-555edfe6b4a4"
+    }
+}

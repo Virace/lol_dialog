@@ -1,0 +1,44 @@
+{
+    "character": "elise",
+    "id": "1809758454",
+    "result": "哼哼，嗯嗯。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560660,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.240,0:3.316]  哼哼，嗯嗯。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼，嗯嗯。",
+                    "SliceSentence": "哼哼 嗯 嗯",
+                    "StartMs": 240,
+                    "EndMs": 3316,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2700
+                        },
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 2700,
+                            "OffsetEndMs": 3000
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.316688
+        },
+        "RequestId": "d67401fe-b1b1-4f23-9783-97d9c6811b0a"
+    }
+}

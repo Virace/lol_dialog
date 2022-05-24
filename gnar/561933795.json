@@ -1,0 +1,44 @@
+{
+    "character": "gnar",
+    "id": "561933795",
+    "result": "奶奶了吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012572774,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.264]  奶奶了吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "奶奶了吗？",
+                    "SliceSentence": "奶奶 了 吗",
+                    "StartMs": 0,
+                    "EndMs": 1264,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "奶奶",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.264375
+        },
+        "RequestId": "4ca80a9e-ac3a-49ac-a9c5-adc4c44e2ff2"
+    }
+}

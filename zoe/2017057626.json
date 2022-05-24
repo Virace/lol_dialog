@@ -1,0 +1,54 @@
+{
+    "character": "zoe",
+    "id": "2017057626",
+    "result": "嘿嘿嘿嘿嘿嘿哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012855326,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.823]  嘿嘿嘿嘿嘿嘿哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘿嘿嘿嘿嘿嘿哈哈。",
+                    "SliceSentence": "嘿 嘿嘿 嘿 嘿嘿 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 2823,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "嘿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "嘿嘿",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "嘿",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "嘿嘿",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.823938
+        },
+        "RequestId": "27cf3d73-2140-4020-83b6-94988bd3624b"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "ryze",
+    "id": "503181689",
+    "result": "这才像样。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012764691,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.025]  这才像样。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这才像样。",
+                    "SliceSentence": "这才 像样",
+                    "StartMs": 0,
+                    "EndMs": 1025,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "这才",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "像样",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.02575
+        },
+        "RequestId": "400e1844-ce4f-4284-8eff-7128b8e1fe8b"
+    }
+}

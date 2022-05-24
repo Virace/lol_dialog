@@ -1,0 +1,44 @@
+{
+    "character": "taliyah",
+    "id": "492923481",
+    "result": "哼哼哼哼哼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012793560,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.873]  哼哼哼哼哼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼哼哼哼。",
+                    "SliceSentence": "哼 哼哼 哼哼",
+                    "StartMs": 0,
+                    "EndMs": 5873,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2820
+                        },
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 3270,
+                            "OffsetEndMs": 5070
+                        }
+                    ],
+                    "SpeechSpeed": 1.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.87375
+        },
+        "RequestId": "05386349-23f4-4709-894e-efe77039b908"
+    }
+}

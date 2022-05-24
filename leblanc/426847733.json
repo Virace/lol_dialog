@@ -1,0 +1,39 @@
+{
+    "character": "leblanc",
+    "id": "426847733",
+    "result": "相信我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012711842,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.582]  相信我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "相信我。",
+                    "SliceSentence": "相信 我",
+                    "StartMs": 0,
+                    "EndMs": 1582,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "相信",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.582688
+        },
+        "RequestId": "43c27c74-c24a-4438-abc4-714746a61507"
+    }
+}

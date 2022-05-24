@@ -1,0 +1,49 @@
+{
+    "character": "kalista",
+    "id": "289032010",
+    "result": "你的死期还没到。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012693926,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.859]  你的死期还没到。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你的死期还没到。",
+                    "SliceSentence": "你的 死期 还没 到",
+                    "StartMs": 0,
+                    "EndMs": 3859,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "死期",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "还没",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2460
+                        },
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 2460,
+                            "OffsetEndMs": 3630
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.859438
+        },
+        "RequestId": "4386ef81-b37d-4f56-bffd-1501aba98b34"
+    }
+}

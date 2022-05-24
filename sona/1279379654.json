@@ -1,0 +1,39 @@
+{
+    "character": "sona",
+    "id": "1279379654",
+    "result": "一段慢板。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012781081,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.280]  一段慢板。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一段慢板。",
+                    "SliceSentence": "一段 慢板",
+                    "StartMs": 0,
+                    "EndMs": 3280,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "一段",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "慢板",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.330938
+        },
+        "RequestId": "d4bc3619-5835-4765-a539-74447d31897c"
+    }
+}

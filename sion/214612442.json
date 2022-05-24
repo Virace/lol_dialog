@@ -1,0 +1,44 @@
+{
+    "character": "sion",
+    "id": "214612442",
+    "result": "我会回来的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012776432,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.413]  我会回来的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会回来的。",
+                    "SliceSentence": "我会 回来 的",
+                    "StartMs": 0,
+                    "EndMs": 2413,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "回来",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.41375
+        },
+        "RequestId": "e7fb24ce-d6bc-4561-85d1-270fbf02d096"
+    }
+}

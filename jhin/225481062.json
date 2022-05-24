@@ -1,0 +1,44 @@
+{
+    "character": "jhin",
+    "id": "225481062",
+    "result": "我该为之起舞。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012685822,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.229]  我该为之起舞。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我该为之起舞。",
+                    "SliceSentence": "我该 为之 起舞",
+                    "StartMs": 0,
+                    "EndMs": 4229,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我该",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "为之",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "起舞",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2700
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.229563
+        },
+        "RequestId": "3d008d90-9657-4f5c-bfe9-dd1af71c88b9"
+    }
+}

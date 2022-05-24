@@ -1,0 +1,44 @@
+{
+    "character": "zoe",
+    "id": "593592538",
+    "result": "你就是个王八蛋。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012856463,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.000]  你就是个王八蛋。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你就是个王八蛋。",
+                    "SliceSentence": "你就 是个 王八蛋",
+                    "StartMs": 0,
+                    "EndMs": 3000,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你就",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "是个",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "王八蛋",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3
+        },
+        "RequestId": "f8750563-2a82-4866-8d8e-b87720f63cab"
+    }
+}

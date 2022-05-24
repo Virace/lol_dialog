@@ -1,0 +1,44 @@
+{
+    "character": "rell",
+    "id": "1112380731",
+    "result": "别逼我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012756839,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.068]  别逼我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别逼我。",
+                    "SliceSentence": "别 逼 我",
+                    "StartMs": 0,
+                    "EndMs": 2068,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "逼",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.068063
+        },
+        "RequestId": "095747a2-6779-42e4-8014-e9d9aace0dd2"
+    }
+}

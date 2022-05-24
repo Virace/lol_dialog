@@ -1,0 +1,44 @@
+{
+    "character": "zoe",
+    "id": "434982859",
+    "result": "头好晕。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012855983,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.428]  头好晕。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "头好晕。",
+                    "SliceSentence": "头 好 晕",
+                    "StartMs": 0,
+                    "EndMs": 2428,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "头",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "晕",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.428188
+        },
+        "RequestId": "586024b0-6b1d-4216-afd1-a8b26f2462f8"
+    }
+}

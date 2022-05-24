@@ -1,0 +1,44 @@
+{
+    "character": "vex",
+    "id": "1877833414",
+    "result": "再见，再也不见。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012810822,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.374]  再见，再也不见。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "再见，再也不见。",
+                    "SliceSentence": "再见 再也 不见",
+                    "StartMs": 0,
+                    "EndMs": 3374,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "再见",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "再也",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "不见",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.374063
+        },
+        "RequestId": "57f6dc36-ed6a-407f-8104-5c04863ce561"
+    }
+}

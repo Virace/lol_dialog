@@ -1,0 +1,44 @@
+{
+    "character": "karthus",
+    "id": "749657136",
+    "result": "睡觉吧，孩子。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012696282,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.128]  睡觉吧，孩子。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "睡觉吧，孩子。",
+                    "SliceSentence": "睡觉 吧 孩子",
+                    "StartMs": 0,
+                    "EndMs": 4128,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "睡觉",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "孩子",
+                            "OffsetStartMs": 2340,
+                            "OffsetEndMs": 3660
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.128
+        },
+        "RequestId": "3757b40e-4f92-49c5-8f77-933d7ec6a5f5"
+    }
+}

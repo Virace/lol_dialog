@@ -1,0 +1,54 @@
+{
+    "character": "zeri",
+    "id": "685363059",
+    "result": "你躲得了马？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012852623,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.941]  你躲得了马？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你躲得了马？",
+                    "SliceSentence": "你 躲 得 了 马",
+                    "StartMs": 0,
+                    "EndMs": 1941,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "躲",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "得",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "马",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.941313
+        },
+        "RequestId": "bc55a0ef-e28c-4dfe-a5c3-f58d5d539dd8"
+    }
+}

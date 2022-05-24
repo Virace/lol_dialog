@@ -1,0 +1,44 @@
+{
+    "character": "ornn",
+    "id": "523506498",
+    "result": "再热一点儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012739587,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.341]  再热一点儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "再热一点儿。",
+                    "SliceSentence": "再 热 一点儿",
+                    "StartMs": 0,
+                    "EndMs": 1341,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "再",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "热",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "一点儿",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.341625
+        },
+        "RequestId": "4e92493e-0945-46af-b37d-27a6f5f6e5d0"
+    }
+}

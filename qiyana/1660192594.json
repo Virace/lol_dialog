@@ -1,0 +1,49 @@
+{
+    "character": "qiyana",
+    "id": "1660192594",
+    "result": "跪拜你的新主人。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012747684,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.275]  跪拜你的新主人。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "跪拜你的新主人。",
+                    "SliceSentence": "跪拜 你的 新 主人",
+                    "StartMs": 0,
+                    "EndMs": 2275,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "跪拜",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "新",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "主人",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.275563
+        },
+        "RequestId": "886dda5c-717d-4de5-9681-971765170291"
+    }
+}

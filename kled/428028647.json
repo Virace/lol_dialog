@@ -1,0 +1,54 @@
+{
+    "character": "kled",
+    "id": "428028647",
+    "result": "不，他们是好吃的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012707751,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.669]  不，他们是好吃的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不，他们是好吃的。",
+                    "SliceSentence": "不 他们 是 好吃 的",
+                    "StartMs": 0,
+                    "EndMs": 2669,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "好吃",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.669875
+        },
+        "RequestId": "94f5e78d-e200-4019-bbd4-ed8cbee7b647"
+    }
+}

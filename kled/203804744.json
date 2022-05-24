@@ -1,0 +1,44 @@
+{
+    "character": "kled",
+    "id": "203804744",
+    "result": "你跑啊？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012706690,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.418]  你跑啊？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你跑啊？",
+                    "SliceSentence": "你 跑 啊",
+                    "StartMs": 0,
+                    "EndMs": 1418,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "跑",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.418125
+        },
+        "RequestId": "053c25a9-bcfb-4843-9f88-84190a64cdb2"
+    }
+}

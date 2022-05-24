@@ -1,0 +1,54 @@
+{
+    "character": "tristana",
+    "id": "715426898",
+    "result": "平射是我最喜欢的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012800376,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.606]  平射是我最喜欢的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "平射是我最喜欢的。",
+                    "SliceSentence": "平 射 是我 最喜欢 的",
+                    "StartMs": 0,
+                    "EndMs": 1606,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "平",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "射",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "最喜欢",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 8.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.60675
+        },
+        "RequestId": "13d56db1-484f-4b4e-982f-99648d6861f5"
+    }
+}

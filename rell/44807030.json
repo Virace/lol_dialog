@@ -1,0 +1,39 @@
+{
+    "character": "rell",
+    "id": "44807030",
+    "result": "谁也别走。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012758435,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.481]  谁也别走。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "谁也别走。",
+                    "SliceSentence": "谁也 别走",
+                    "StartMs": 0,
+                    "EndMs": 1481,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "谁也",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "别走",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.481438
+        },
+        "RequestId": "09964526-94fb-4ac7-b512-a8904c730dce"
+    }
+}

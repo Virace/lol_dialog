@@ -1,0 +1,54 @@
+{
+    "character": "sivir",
+    "id": "742767830",
+    "result": "你有麻烦，我有钱赚。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012779267,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.167]  你有麻烦，我有钱赚。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你有麻烦，我有钱赚。",
+                    "SliceSentence": "你有 麻烦 我 有钱 赚",
+                    "StartMs": 0,
+                    "EndMs": 3167,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "麻烦",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "有钱",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2730
+                        },
+                        {
+                            "Word": "赚",
+                            "OffsetStartMs": 2730,
+                            "OffsetEndMs": 3090
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.167813
+        },
+        "RequestId": "9fa0b309-7606-4cd0-98bd-4fed67d7ea79"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "viego",
+    "id": "1407986160",
+    "result": "这身体归我所有。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012813172,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.616]  这身体归我所有。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这身体归我所有。",
+                    "SliceSentence": "这 身体 归 我 所有",
+                    "StartMs": 0,
+                    "EndMs": 3616,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "身体",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "归",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "所有",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.616188
+        },
+        "RequestId": "718630bf-aaf0-49fc-a449-94dee98c7217"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "kalista",
+    "id": "321984586",
+    "result": "我们的瞄准不会颤抖。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012693965,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.665]  我们的瞄准不会颤抖。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们的瞄准不会颤抖。",
+                    "SliceSentence": "我们 的 瞄准 不会 颤抖",
+                    "StartMs": 0,
+                    "EndMs": 3665,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "瞄准",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "颤抖",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2940
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.665563
+        },
+        "RequestId": "fe309a1c-9553-4a23-9756-e9ea23f3eea8"
+    }
+}

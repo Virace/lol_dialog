@@ -1,0 +1,44 @@
+{
+    "character": "nautilus",
+    "id": "1452575401",
+    "result": "我会报仇的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012729096,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.220]  我会报仇的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我会报仇的。",
+                    "SliceSentence": "我会 报仇 的",
+                    "StartMs": 0,
+                    "EndMs": 4220,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我会",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "报仇",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.249313
+        },
+        "RequestId": "6069dd9c-03d1-40f2-b128-bac88b2edd79"
+    }
+}

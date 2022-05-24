@@ -1,0 +1,49 @@
+{
+    "character": "zac",
+    "id": "772277206",
+    "result": "我从来不错过早餐。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012849428,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.163]  我从来不错过早餐。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我从来不错过早餐。",
+                    "SliceSentence": "我 从来不 错过 早餐",
+                    "StartMs": 0,
+                    "EndMs": 2163,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "从来不",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "错过",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "早餐",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.163313
+        },
+        "RequestId": "ec508300-23d7-4cb4-a424-388d8e201590"
+    }
+}

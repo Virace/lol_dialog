@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "638797023",
+    "result": "好，爸，蹲下。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012837402,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:5.280,0:7.895]  好，爸，蹲下。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好，爸，蹲下。",
+                    "SliceSentence": "好 爸 蹲 下",
+                    "StartMs": 5280,
+                    "EndMs": 7895,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "爸",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "蹲",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "下",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.895688
+        },
+        "RequestId": "9a0844fa-fe99-4cea-8193-da522ee7f639"
+    }
+}

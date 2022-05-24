@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "458347652",
+    "result": "浮标也沉了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746171,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.363]  浮标也沉了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "浮标也沉了。",
+                    "SliceSentence": "浮标 也 沉 了",
+                    "StartMs": 0,
+                    "EndMs": 2363,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "浮标",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "也",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "沉",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.36375
+        },
+        "RequestId": "424ef181-a2b1-449a-99f4-d3478cc20096"
+    }
+}

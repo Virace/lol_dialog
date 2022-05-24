@@ -1,0 +1,54 @@
+{
+    "character": "taliyah",
+    "id": "594354626",
+    "result": "哦，给我来一个这个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012793791,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.712]  哦，给我来一个这个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哦，给我来一个这个。",
+                    "SliceSentence": "哦 给 我来 一个 这个",
+                    "StartMs": 0,
+                    "EndMs": 1712,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "哦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "给",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "我来",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 7.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.712813
+        },
+        "RequestId": "99aafe5b-f15e-4ce1-aa92-042bd32617c9"
+    }
+}

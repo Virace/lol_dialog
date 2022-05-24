@@ -1,0 +1,44 @@
+{
+    "character": "akshan",
+    "id": "1727195156",
+    "result": "小心头顶啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012540911,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.090]  小心头顶啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "小心头顶啊。",
+                    "SliceSentence": "小心 头顶 啊",
+                    "StartMs": 0,
+                    "EndMs": 2090,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "小心",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "头顶",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.090688
+        },
+        "RequestId": "1776a39f-85d3-4b7d-9254-c58361f9369e"
+    }
+}

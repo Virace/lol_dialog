@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "1359828020",
+    "result": "现在该抛尸啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744956,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.274]  现在该抛尸啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "现在该抛尸啦。",
+                    "SliceSentence": "现在 该 抛尸 啦",
+                    "StartMs": 0,
+                    "EndMs": 3274,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "该",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "抛尸",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2580
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.274938
+        },
+        "RequestId": "75dd36ca-cd20-427e-b56d-23597b376700"
+    }
+}

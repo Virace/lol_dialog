@@ -1,0 +1,49 @@
+{
+    "character": "yorick",
+    "id": "1004028461",
+    "result": "你不在拯救之列。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012843582,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.486]  你不在拯救之列。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你不在拯救之列。",
+                    "SliceSentence": "你 不在 拯救 之列",
+                    "StartMs": 0,
+                    "EndMs": 2486,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "不在",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "拯救",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "之列",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.486313
+        },
+        "RequestId": "97a0c294-a86f-4459-8b54-dd0940dcd7ff"
+    }
+}

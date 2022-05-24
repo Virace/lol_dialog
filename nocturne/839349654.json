@@ -1,0 +1,64 @@
+{
+    "character": "nocturne",
+    "id": "839349654",
+    "result": "今晚的天气预报，黑暗有时有痛苦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012732496,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:7.530]  今晚的天气预报，黑暗有时有痛苦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "今晚的天气预报，黑暗有时有痛苦。",
+                    "SliceSentence": "今晚 的 天气预报 黑暗 有时 有 痛苦",
+                    "StartMs": 0,
+                    "EndMs": 7530,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "今晚",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "天气预报",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "黑暗",
+                            "OffsetStartMs": 3240,
+                            "OffsetEndMs": 4440
+                        },
+                        {
+                            "Word": "有时",
+                            "OffsetStartMs": 5130,
+                            "OffsetEndMs": 5790
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 5790,
+                            "OffsetEndMs": 6060
+                        },
+                        {
+                            "Word": "痛苦",
+                            "OffsetStartMs": 6060,
+                            "OffsetEndMs": 7470
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.530625
+        },
+        "RequestId": "1fdb3a0d-d8fc-4099-82d2-67576f3f80f7"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "irelia",
+    "id": "338810727",
+    "result": "不容失误。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012581951,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.021]  不容失误。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不容失误。",
+                    "SliceSentence": "不容 失误",
+                    "StartMs": 0,
+                    "EndMs": 1021,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "不容",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "失误",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.021875
+        },
+        "RequestId": "cd5cdad1-93a7-4900-ac4d-ba762ca41046"
+    }
+}

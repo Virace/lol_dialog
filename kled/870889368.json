@@ -1,0 +1,39 @@
+{
+    "character": "kled",
+    "id": "870889368",
+    "result": "耶吼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012709827,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.438]  耶吼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "耶吼。",
+                    "SliceSentence": "耶 吼",
+                    "StartMs": 0,
+                    "EndMs": 1438,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "耶",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "吼",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.438625
+        },
+        "RequestId": "9e3d1ace-8a22-4cfd-9e3a-01b621481a2e"
+    }
+}

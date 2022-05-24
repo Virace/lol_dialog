@@ -1,0 +1,44 @@
+{
+    "character": "tristana",
+    "id": "293601245",
+    "result": "抄条记录。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012799396,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.076]  抄条记录。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "抄条记录。",
+                    "SliceSentence": "抄 条 记录",
+                    "StartMs": 0,
+                    "EndMs": 1076,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "抄",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "条",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "记录",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.07675
+        },
+        "RequestId": "6c72edec-5c7e-4858-a6e2-a94deb78d751"
+    }
+}

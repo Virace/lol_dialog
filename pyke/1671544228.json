@@ -1,0 +1,59 @@
+{
+    "character": "pyke",
+    "id": "1671544228",
+    "result": "海水淌进我的血管。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745312,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.615]  海水淌进我的血管。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "海水淌进我的血管。",
+                    "SliceSentence": "海水 淌 进 我 的 血管",
+                    "StartMs": 0,
+                    "EndMs": 3615,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "海水",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "淌",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "进",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "血管",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2940
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.615938
+        },
+        "RequestId": "a2d5404b-c974-4e52-8dcb-bc06879eff74"
+    }
+}

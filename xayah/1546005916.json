@@ -1,0 +1,59 @@
+{
+    "character": "xayah",
+    "id": "1546005916",
+    "result": "他们求仁得仁了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012834864,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.608]  他们求仁得仁了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们求仁得仁了。",
+                    "SliceSentence": "他们 求 仁 得 仁 了",
+                    "StartMs": 0,
+                    "EndMs": 1608,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "求",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "仁",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "得",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "仁",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 8.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.608438
+        },
+        "RequestId": "cebbb7fc-b811-42f9-b75f-13d11717469a"
+    }
+}

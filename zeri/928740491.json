@@ -1,0 +1,39 @@
+{
+    "character": "zeri",
+    "id": "928740491",
+    "result": "烧焦了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012853064,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.898]  烧焦了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "烧焦了。",
+                    "SliceSentence": "烧焦 了",
+                    "StartMs": 0,
+                    "EndMs": 1898,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "烧焦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.898688
+        },
+        "RequestId": "083be942-1eb8-4ffb-a288-5834fa6afa76"
+    }
+}

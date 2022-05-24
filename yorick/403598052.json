@@ -1,0 +1,49 @@
+{
+    "character": "yorick",
+    "id": "403598052",
+    "result": "我越来越冷了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012844813,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.890]  我越来越冷了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我越来越冷了。",
+                    "SliceSentence": "我 越来越 冷 了",
+                    "StartMs": 0,
+                    "EndMs": 4890,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "越来越",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "冷",
+                            "OffsetStartMs": 2790,
+                            "OffsetEndMs": 3660
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 3690,
+                            "OffsetEndMs": 4770
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.890625
+        },
+        "RequestId": "bac88185-b8a6-40f9-b141-c2b78fb384f7"
+    }
+}

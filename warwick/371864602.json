@@ -1,0 +1,44 @@
+{
+    "character": "warwick",
+    "id": "371864602",
+    "result": "我变成了怪物。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012818081,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.402]  我变成了怪物。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我变成了怪物。",
+                    "SliceSentence": "我 变成了 怪物",
+                    "StartMs": 0,
+                    "EndMs": 4402,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "变成了",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "怪物",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 4230
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.402688
+        },
+        "RequestId": "8fdc33d5-543f-4caa-b2a9-c6db178cb791"
+    }
+}

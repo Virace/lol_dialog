@@ -1,0 +1,49 @@
+{
+    "character": "ryze",
+    "id": "803355070",
+    "result": "我们走，我们走。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012765377,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.212]  我们走，我们走。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们走，我们走。",
+                    "SliceSentence": "我们 走 我们 走",
+                    "StartMs": 0,
+                    "EndMs": 1212,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "走",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "走",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 8.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.212688
+        },
+        "RequestId": "9cb9015f-7595-475d-be3a-42962bab2156"
+    }
+}

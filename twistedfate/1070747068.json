@@ -1,0 +1,49 @@
+{
+    "character": "twistedfate",
+    "id": "1070747068",
+    "result": "这带刺的玫瑰。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012801702,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.005]  这带刺的玫瑰。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这带刺的玫瑰。",
+                    "SliceSentence": "这 带刺 的 玫瑰",
+                    "StartMs": 0,
+                    "EndMs": 2005,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "带刺",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "玫瑰",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.005063
+        },
+        "RequestId": "62903d37-c21e-4084-b40c-4db363002af1"
+    }
+}

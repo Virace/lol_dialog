@@ -1,0 +1,76 @@
+{
+    "character": "yasuo",
+    "id": "249391605",
+    "result": "无极之道。不。我才不要。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012840426,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.920]  无极之道。\n[0:1.920,0:3.140]  不。\n[0:3.140,0:4.735]  我才不要。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "无极之道。",
+                    "SliceSentence": "无极 之道",
+                    "StartMs": 0,
+                    "EndMs": 1920,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "无极",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "之道",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "不。",
+                    "SliceSentence": "不",
+                    "StartMs": 1920,
+                    "EndMs": 3140,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "我才不要。",
+                    "SliceSentence": "我才 不要",
+                    "StartMs": 3140,
+                    "EndMs": 4735,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我才",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.735813
+        },
+        "RequestId": "61464c2d-1884-4e4e-a118-ae1a8169e119"
+    }
+}

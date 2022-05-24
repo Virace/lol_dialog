@@ -1,0 +1,44 @@
+{
+    "character": "kayle",
+    "id": "144649248",
+    "result": "光明将我净化。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012697658,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.273]  光明将我净化。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "光明将我净化。",
+                    "SliceSentence": "光明 将我 净化",
+                    "StartMs": 0,
+                    "EndMs": 3273,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "光明",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "将我",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "净化",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2760
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.273438
+        },
+        "RequestId": "7011ce37-c190-4601-b58f-933e5752b8e6"
+    }
+}

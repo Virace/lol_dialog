@@ -1,0 +1,49 @@
+{
+    "character": "camille",
+    "id": "512738594",
+    "result": "今天不是你的幸运日。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553558,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.123]  今天不是你的幸运日。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "今天不是你的幸运日。",
+                    "SliceSentence": "今天 不是 你的 幸运日",
+                    "StartMs": 0,
+                    "EndMs": 2123,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "今天",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "幸运日",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.123438
+        },
+        "RequestId": "f46867ea-eaa7-417f-92a8-462110af27f9"
+    }
+}

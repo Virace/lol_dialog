@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "1506352884",
+    "result": "你要滚出这里。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012688757,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.488]  你要滚出这里。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你要滚出这里。",
+                    "SliceSentence": "你要 滚出 这里",
+                    "StartMs": 0,
+                    "EndMs": 1488,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你要",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "滚出",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "这里",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.48825
+        },
+        "RequestId": "4384b252-20f1-4339-8248-a3c044d034ee"
+    }
+}

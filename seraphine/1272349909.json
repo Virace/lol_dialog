@@ -1,0 +1,44 @@
+{
+    "character": "seraphine",
+    "id": "1272349909",
+    "result": "一起唱呀。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012770220,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.280]  一起唱呀。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一起唱呀。",
+                    "SliceSentence": "一起 唱 呀",
+                    "StartMs": 0,
+                    "EndMs": 2280,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "一起",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "唱",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "呀",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.786688
+        },
+        "RequestId": "fe06414a-b453-4249-912d-a4a906e473fa"
+    }
+}

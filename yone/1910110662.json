@@ -1,0 +1,60 @@
+{
+    "character": "yone",
+    "id": "1910110662",
+    "result": "一剑追悔。一剑开门。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012842807,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.640]  一剑追悔。\n[0:2.640,0:5.781]  一剑开门。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一剑追悔。",
+                    "SliceSentence": "一剑 追悔",
+                    "StartMs": 0,
+                    "EndMs": 2640,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "一剑",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "追悔",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "一剑开门。",
+                    "SliceSentence": "一剑 开门",
+                    "StartMs": 2640,
+                    "EndMs": 5781,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "一剑",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "开门",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.78175
+        },
+        "RequestId": "d5db14f5-2464-4d33-8aa5-13707b3bf098"
+    }
+}

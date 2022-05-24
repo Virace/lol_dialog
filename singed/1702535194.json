@@ -1,0 +1,44 @@
+{
+    "character": "singed",
+    "id": "1702535194",
+    "result": "摇摇晃摇。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012775443,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.483]  摇摇晃摇。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "摇摇晃摇。",
+                    "SliceSentence": "摇摇 晃 摇",
+                    "StartMs": 0,
+                    "EndMs": 3483,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "摇摇",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "晃",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "摇",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 3150
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.483
+        },
+        "RequestId": "08a3e7e8-7230-4067-94cc-1c8e3ffff0db"
+    }
+}

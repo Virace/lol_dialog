@@ -1,0 +1,54 @@
+{
+    "character": "taliyah",
+    "id": "118027632",
+    "result": "手里有了这个，我很开心。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012791891,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.791]  手里有了这个，我很开心。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "手里有了这个，我很开心。",
+                    "SliceSentence": "手里 有了 这个 我 很开心",
+                    "StartMs": 0,
+                    "EndMs": 1791,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "手里",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "有了",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "很开心",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 8.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.791563
+        },
+        "RequestId": "bb7abf4b-4336-4217-b482-642227c8136c"
+    }
+}

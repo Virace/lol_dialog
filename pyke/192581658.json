@@ -1,0 +1,39 @@
+{
+    "character": "pyke",
+    "id": "192581658",
+    "result": "深入水下。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745648,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.748]  深入水下。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "深入水下。",
+                    "SliceSentence": "深入 水下",
+                    "StartMs": 0,
+                    "EndMs": 2748,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "深入",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "水下",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.748438
+        },
+        "RequestId": "11bafafe-b337-42e3-bd7b-190519414bc4"
+    }
+}

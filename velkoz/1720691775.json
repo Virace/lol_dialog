@@ -1,0 +1,44 @@
+{
+    "character": "velkoz",
+    "id": "1720691775",
+    "result": "图案非常清晰。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012809461,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.009]  图案非常清晰。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "图案非常清晰。",
+                    "SliceSentence": "图案 非常 清晰",
+                    "StartMs": 0,
+                    "EndMs": 4009,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "图案",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "非常",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "清晰",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2730
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.009813
+        },
+        "RequestId": "7c01e181-87cc-4ce1-88dd-3005edad99f2"
+    }
+}

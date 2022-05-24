@@ -1,0 +1,44 @@
+{
+    "character": "lissandra",
+    "id": "973831470",
+    "result": "我永不停息。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012717094,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.869]  我永不停息。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我永不停息。",
+                    "SliceSentence": "我 永不 停息",
+                    "StartMs": 0,
+                    "EndMs": 3869,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "永不",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "停息",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 3360
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.869563
+        },
+        "RequestId": "bf5c4444-0d39-4448-a8cb-279d27996309"
+    }
+}

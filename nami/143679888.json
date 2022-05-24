@@ -1,0 +1,44 @@
+{
+    "character": "nami",
+    "id": "143679888",
+    "result": "欢迎来到深水区。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012727747,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.653]  欢迎来到深水区。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "欢迎来到深水区。",
+                    "SliceSentence": "欢迎 来到 深水区",
+                    "StartMs": 0,
+                    "EndMs": 2653,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "欢迎",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "来到",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "深水区",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2580
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.653188
+        },
+        "RequestId": "7d4b30c2-926f-4334-b947-993b57ffcb7b"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "tahmkench",
+    "id": "133526369",
+    "result": "我就是河流之王。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012789223,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.103]  我就是河流之王。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我就是河流之王。",
+                    "SliceSentence": "我 就是 河流 之王",
+                    "StartMs": 0,
+                    "EndMs": 3103,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "河流",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "之王",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2790
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.103125
+        },
+        "RequestId": "cc701d64-e41b-4f63-9edb-474ca1dbb5f3"
+    }
+}

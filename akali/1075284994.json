@@ -1,0 +1,59 @@
+{
+    "character": "akali",
+    "id": "1075284994",
+    "result": "你去砍树吧，我要来割草。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012538905,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.697]  你去砍树吧，我要来割草。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你去砍树吧，我要来割草。",
+                    "SliceSentence": "你去 砍树 吧 我要 来 割草",
+                    "StartMs": 0,
+                    "EndMs": 2697,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你去",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "砍树",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "割草",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.697375
+        },
+        "RequestId": "edeb5159-5d8c-415b-ae7b-77051dc33dbb"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "senna",
+    "id": "742989631",
+    "result": "会用就不觉得沉。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012769841,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.345]  会用就不觉得沉。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "会用就不觉得沉。",
+                    "SliceSentence": "会用 就不 觉得 沉",
+                    "StartMs": 0,
+                    "EndMs": 2345,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "会用",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "就不",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "觉得",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "沉",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.34525
+        },
+        "RequestId": "b06bebe7-29e3-4547-92d6-e38df3cbdb49"
+    }
+}

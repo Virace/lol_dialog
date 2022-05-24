@@ -1,0 +1,75 @@
+{
+    "character": "heimerdinger",
+    "id": "562026847",
+    "result": "啊啊啊。干嘛呢啊啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012576710,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.940]  啊啊啊。\n[0:3.940,0:7.254]  干嘛呢啊啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊啊啊。",
+                    "SliceSentence": "啊 啊 啊",
+                    "StartMs": 0,
+                    "EndMs": 3940,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 2580,
+                            "OffsetEndMs": 2760
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 2760,
+                            "OffsetEndMs": 3060
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "干嘛呢啊啊。",
+                    "SliceSentence": "干嘛 呢 啊 啊",
+                    "StartMs": 3940,
+                    "EndMs": 7254,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "干嘛",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "呢",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 3240
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.254875
+        },
+        "RequestId": "c67f957b-a1b4-41a1-b8a6-2de51a06b09d"
+    }
+}

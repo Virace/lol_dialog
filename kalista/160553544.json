@@ -1,0 +1,54 @@
+{
+    "character": "kalista",
+    "id": "160553544",
+    "result": "我们的连接断裂了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012693660,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.551]  我们的连接断裂了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们的连接断裂了。",
+                    "SliceSentence": "我们 的 连接 断裂 了",
+                    "StartMs": 0,
+                    "EndMs": 3551,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "连接",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "断裂",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2820
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2820,
+                            "OffsetEndMs": 3270
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.551
+        },
+        "RequestId": "cb84a5be-b2f3-413a-9c87-4cd328236ec4"
+    }
+}

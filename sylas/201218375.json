@@ -1,0 +1,44 @@
+{
+    "character": "sylas",
+    "id": "201218375",
+    "result": "音量拉满。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012787276,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.214]  音量拉满。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "音量拉满。",
+                    "SliceSentence": "音量 拉 满",
+                    "StartMs": 0,
+                    "EndMs": 1214,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "音量",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "拉",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "满",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.21475
+        },
+        "RequestId": "ae0250c0-17d0-4099-96d0-aacb349d12aa"
+    }
+}

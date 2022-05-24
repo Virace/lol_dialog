@@ -1,0 +1,59 @@
+{
+    "character": "trundle",
+    "id": "1076735005",
+    "result": "弗雷尔卓德是我的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012800848,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.673]  弗雷尔卓德是我的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "弗雷尔卓德是我的。",
+                    "SliceSentence": "弗雷 尔 卓 德 是我 的",
+                    "StartMs": 0,
+                    "EndMs": 2673,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "弗雷",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "尔",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "卓",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "德",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.673125
+        },
+        "RequestId": "9fbe579e-8428-4eb5-9f00-b726ed6c1d49"
+    }
+}

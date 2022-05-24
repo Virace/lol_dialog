@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "350224061",
+    "result": "我就在这儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012690335,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.232]  我就在这儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我就在这儿。",
+                    "SliceSentence": "我 就 在这儿",
+                    "StartMs": 0,
+                    "EndMs": 1232,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "在这儿",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.232813
+        },
+        "RequestId": "a175b77a-807c-4c73-96b3-3fb09c0efadd"
+    }
+}

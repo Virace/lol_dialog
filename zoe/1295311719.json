@@ -1,0 +1,44 @@
+{
+    "character": "zoe",
+    "id": "1295311719",
+    "result": "再多来点儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012854383,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.397]  再多来点儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "再多来点儿。",
+                    "SliceSentence": "再多 来 点儿",
+                    "StartMs": 0,
+                    "EndMs": 1397,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "再多",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "点儿",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 690
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.397875
+        },
+        "RequestId": "cb601297-7071-4535-9971-6845cda7cef5"
+    }
+}

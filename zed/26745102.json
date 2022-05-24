@@ -1,0 +1,60 @@
+{
+    "character": "zed",
+    "id": "26745102",
+    "result": "真理。存乎暗影之中。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012850126,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.720]  真理。\n[0:1.720,0:4.324]  存乎暗影之中。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "真理。",
+                    "SliceSentence": "真理",
+                    "StartMs": 0,
+                    "EndMs": 1720,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "真理",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "存乎暗影之中。",
+                    "SliceSentence": "存乎 暗影 之中",
+                    "StartMs": 1720,
+                    "EndMs": 4324,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "存乎",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "暗影",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "之中",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.324063
+        },
+        "RequestId": "844edf12-379f-4629-9c6c-d23369aec838"
+    }
+}

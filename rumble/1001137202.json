@@ -1,0 +1,50 @@
+{
+    "character": "rumble",
+    "id": "1001137202",
+    "result": "啊？啊？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012763246,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.660]  啊？\n[0:2.860,0:4.325]  啊？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊？",
+                    "SliceSentence": "啊",
+                    "StartMs": 0,
+                    "EndMs": 2660,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 0.8,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "啊？",
+                    "SliceSentence": "啊",
+                    "StartMs": 2860,
+                    "EndMs": 4325,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 1.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.325563
+        },
+        "RequestId": "aca87b12-226c-4252-a43d-acdef68f5227"
+    }
+}

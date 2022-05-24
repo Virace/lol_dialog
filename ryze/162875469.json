@@ -1,0 +1,54 @@
+{
+    "character": "ryze",
+    "id": "162875469",
+    "result": "我没时间对付这个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012763901,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.397]  我没时间对付这个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我没时间对付这个。",
+                    "SliceSentence": "我 没 时间 对付 这个",
+                    "StartMs": 0,
+                    "EndMs": 1397,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "没",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "对付",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 9.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.39725
+        },
+        "RequestId": "7c29b7bc-fdb3-4720-ae2f-d469b0b36f22"
+    }
+}

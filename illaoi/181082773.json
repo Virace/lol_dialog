@@ -1,0 +1,44 @@
+{
+    "character": "illaoi",
+    "id": "181082773",
+    "result": "你在动了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012577233,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.975]  你在动了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你在动了。",
+                    "SliceSentence": "你在 动 了",
+                    "StartMs": 0,
+                    "EndMs": 975,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "动",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 7.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.975875
+        },
+        "RequestId": "7765b56c-624c-4915-9bc8-9b9f598e85c5"
+    }
+}

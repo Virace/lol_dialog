@@ -1,0 +1,49 @@
+{
+    "character": "zeri",
+    "id": "278748791",
+    "result": "哼哼，抓到你啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012852232,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.005]  哼哼，抓到你啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼，抓到你啦。",
+                    "SliceSentence": "哼哼 抓到 你 啦",
+                    "StartMs": 0,
+                    "EndMs": 2005,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "抓到",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.005313
+        },
+        "RequestId": "7abf2b4e-937a-4827-9941-ab10c1978c89"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "nocturne",
+    "id": "654089731",
+    "result": "没有人可以帮得了你的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012732082,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.211]  没有人可以帮得了你的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没有人可以帮得了你的。",
+                    "SliceSentence": "没有人 可以 帮 得了 你的",
+                    "StartMs": 0,
+                    "EndMs": 5211,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "没有人",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "帮",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 2700
+                        },
+                        {
+                            "Word": "得了",
+                            "OffsetStartMs": 2700,
+                            "OffsetEndMs": 3390
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 3390,
+                            "OffsetEndMs": 4440
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.211438
+        },
+        "RequestId": "a21d5fff-8cf9-48da-8349-089ee889be69"
+    }
+}

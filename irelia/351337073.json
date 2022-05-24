@@ -1,0 +1,110 @@
+{
+    "character": "irelia",
+    "id": "351337073",
+    "result": "我要把你的风头等等，不对，我是说你的风。当我没说。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012582040,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.860]  我要把你的风头等等，不对，我是说你的风。\n[0:4.860,0:6.317]  当我没说。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要把你的风头等等，不对，我是说你的风。",
+                    "SliceSentence": "我要 把 你的 风头 等等 不对 我 是 说 你的 风",
+                    "StartMs": 0,
+                    "EndMs": 4860,
+                    "WordsNum": 11,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "风头",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "等等",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "不对",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 3090
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 3090,
+                            "OffsetEndMs": 3210
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 3210,
+                            "OffsetEndMs": 3360
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 3360,
+                            "OffsetEndMs": 3600
+                        },
+                        {
+                            "Word": "风",
+                            "OffsetStartMs": 3600,
+                            "OffsetEndMs": 3840
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "当我没说。",
+                    "SliceSentence": "当 我 没说",
+                    "StartMs": 4860,
+                    "EndMs": 6317,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "当",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "没说",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.317875
+        },
+        "RequestId": "ae13be01-cda1-4b64-9cce-9c71a9ae5edb"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "ezreal",
+    "id": "1539360364",
+    "result": "瞄着腿打。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012565884,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.060]  瞄着腿打。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "瞄着腿打。",
+                    "SliceSentence": "瞄 着 腿 打",
+                    "StartMs": 0,
+                    "EndMs": 1060,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "瞄",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "着",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "腿",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "打",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 870
+                        }
+                    ],
+                    "SpeechSpeed": 7.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.060688
+        },
+        "RequestId": "6698c94c-dab3-4329-8266-9fa82167b144"
+    }
+}

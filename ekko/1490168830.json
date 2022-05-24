@@ -1,0 +1,44 @@
+{
+    "character": "ekko",
+    "id": "1490168830",
+    "result": "休息一下吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012559419,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.819]  休息一下吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "休息一下吧。",
+                    "SliceSentence": "休息 一下 吧",
+                    "StartMs": 0,
+                    "EndMs": 819,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "休息",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "一下",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 750
+                        }
+                    ],
+                    "SpeechSpeed": 9.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.819688
+        },
+        "RequestId": "d34505a7-9544-4d91-8a2a-09953b002b0d"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "kayle",
+    "id": "36751926",
+    "result": "这个世界生来就不长久。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012698351,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.042]  这个世界生来就不长久。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这个世界生来就不长久。",
+                    "SliceSentence": "这个世界 生来 就不 长久",
+                    "StartMs": 0,
+                    "EndMs": 4042,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这个世界",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "生来",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2370
+                        },
+                        {
+                            "Word": "就不",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 2730
+                        },
+                        {
+                            "Word": "长久",
+                            "OffsetStartMs": 2730,
+                            "OffsetEndMs": 3540
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.042875
+        },
+        "RequestId": "96397fa8-0e1a-41a1-b767-ae37ca6c3748"
+    }
+}

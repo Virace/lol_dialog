@@ -1,0 +1,59 @@
+{
+    "character": "kayn",
+    "id": "1936960117",
+    "result": "错误的地点，错误的时间。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012700551,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.642]  错误的地点，错误的时间。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "错误的地点，错误的时间。",
+                    "SliceSentence": "错误 的 地点 错误 的 时间",
+                    "StartMs": 0,
+                    "EndMs": 2642,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "错误",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "地点",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "错误",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.642375
+        },
+        "RequestId": "585b43f1-ee5d-4d20-8bc6-641a1c56f156"
+    }
+}

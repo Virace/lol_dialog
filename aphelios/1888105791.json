@@ -1,0 +1,49 @@
+{
+    "character": "aphelios",
+    "id": "1888105791",
+    "result": "小心张飞琉斯。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012543361,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.060]  小心张飞琉斯。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "小心张飞琉斯。",
+                    "SliceSentence": "小心 张飞 琉 斯",
+                    "StartMs": 0,
+                    "EndMs": 4060,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "小心",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "张飞",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "琉",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "斯",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.431938
+        },
+        "RequestId": "a2a41cef-456b-407e-8107-b908d4a96ded"
+    }
+}

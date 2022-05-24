@@ -1,0 +1,39 @@
+{
+    "character": "xayah",
+    "id": "467505902",
+    "result": "写什么？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012836745,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.738]  写什么？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "写什么？",
+                    "SliceSentence": "写 什么",
+                    "StartMs": 0,
+                    "EndMs": 738,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "写",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 600
+                        }
+                    ],
+                    "SpeechSpeed": 6.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.738188
+        },
+        "RequestId": "91c79d87-2cf6-4d37-b347-dde95b8f5d5a"
+    }
+}

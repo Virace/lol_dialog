@@ -1,0 +1,49 @@
+{
+    "character": "drmundo",
+    "id": "2094535672",
+    "result": "别怕，我是医生。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012558233,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.799]  别怕，我是医生。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别怕，我是医生。",
+                    "SliceSentence": "别怕 我 是 医生",
+                    "StartMs": 0,
+                    "EndMs": 2799,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "别怕",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "医生",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.799313
+        },
+        "RequestId": "1baa6bbb-ab1d-48f7-9cbd-6d4ca53519fc"
+    }
+}

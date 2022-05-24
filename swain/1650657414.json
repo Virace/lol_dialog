@@ -1,0 +1,49 @@
+{
+    "character": "swain",
+    "id": "1650657414",
+    "result": "你无视了纪律。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012784372,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.043]  你无视了纪律。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你无视了纪律。",
+                    "SliceSentence": "你 无视 了 纪律",
+                    "StartMs": 0,
+                    "EndMs": 2043,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "无视",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "纪律",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.043
+        },
+        "RequestId": "a6f1812f-fc08-4ce9-a722-54b38da08088"
+    }
+}

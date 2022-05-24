@@ -1,0 +1,49 @@
+{
+    "character": "kayle",
+    "id": "298765245",
+    "result": "羽翼惶惶，希冀郎朗。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012698165,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.021]  羽翼惶惶，希冀郎朗。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "羽翼惶惶，希冀郎朗。",
+                    "SliceSentence": "羽翼 惶惶 希冀 郎朗",
+                    "StartMs": 0,
+                    "EndMs": 4021,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "羽翼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "惶惶",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "希冀",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2610
+                        },
+                        {
+                            "Word": "郎朗",
+                            "OffsetStartMs": 2610,
+                            "OffsetEndMs": 3420
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.021938
+        },
+        "RequestId": "65d2051d-e3db-4325-9621-94964122a7f8"
+    }
+}

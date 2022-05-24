@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "2073469893",
+    "result": "我说的不是。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012836055,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.214]  我说的不是。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我说的不是。",
+                    "SliceSentence": "我 说 的 不是",
+                    "StartMs": 0,
+                    "EndMs": 1214,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.214813
+        },
+        "RequestId": "666fbde4-e29d-415c-926a-27fa639ad23c"
+    }
+}

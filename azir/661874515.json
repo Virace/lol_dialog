@@ -1,0 +1,54 @@
+{
+    "character": "azir",
+    "id": "661874515",
+    "result": "一个词语，我就能灭掉。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012549163,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.424]  一个词语，我就能灭掉。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一个词语，我就能灭掉。",
+                    "SliceSentence": "一个 词语 我 就能 灭掉",
+                    "StartMs": 0,
+                    "EndMs": 3424,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "词语",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "就能",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "灭掉",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2910
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.424875
+        },
+        "RequestId": "019624c9-11f2-4c4e-8c6e-78a95688bbf5"
+    }
+}

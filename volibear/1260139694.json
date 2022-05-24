@@ -1,0 +1,54 @@
+{
+    "character": "volibear",
+    "id": "1260139694",
+    "result": "你想杀我，哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012815620,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.194]  你想杀我，哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你想杀我，哈哈哈哈。",
+                    "SliceSentence": "你想 杀 我 哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 5194,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你想",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "杀",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 3330
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 3330,
+                            "OffsetEndMs": 3870
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.194188
+        },
+        "RequestId": "f3acab9a-43bf-4f27-8903-5ea9e7dfcaee"
+    }
+}

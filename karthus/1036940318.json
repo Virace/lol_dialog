@@ -1,0 +1,44 @@
+{
+    "character": "karthus",
+    "id": "1036940318",
+    "result": "整齐划一的大合唱。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012695555,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.676]  整齐划一的大合唱。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "整齐划一的大合唱。",
+                    "SliceSentence": "整齐划一 的 大合唱",
+                    "StartMs": 0,
+                    "EndMs": 5676,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "整齐划一",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 2370
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2370,
+                            "OffsetEndMs": 2520
+                        },
+                        {
+                            "Word": "大合唱",
+                            "OffsetStartMs": 2520,
+                            "OffsetEndMs": 3780
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.6765
+        },
+        "RequestId": "3034dc78-aaff-4eac-ae22-f100154d57cf"
+    }
+}

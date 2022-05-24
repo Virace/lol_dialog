@@ -1,0 +1,39 @@
+{
+    "character": "sett",
+    "id": "1806029039",
+    "result": "哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012772789,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.438]  哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈。",
+                    "SliceSentence": "哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 2438,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.438125
+        },
+        "RequestId": "6fa44b5d-1fd6-4342-bc3b-2284bc45554c"
+    }
+}

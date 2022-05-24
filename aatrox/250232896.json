@@ -1,0 +1,39 @@
+{
+    "character": "aatrox",
+    "id": "250232896",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012537165,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.120,0:3.611]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 120,
+                    "EndMs": 3611,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 3390
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.611375
+        },
+        "RequestId": "b868904a-c94d-41e8-8810-ec287b20dccc"
+    }
+}

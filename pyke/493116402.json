@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "493116402",
+    "result": "你该沉下去了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746339,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.870]  你该沉下去了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你该沉下去了。",
+                    "SliceSentence": "你该 沉下 去 了",
+                    "StartMs": 0,
+                    "EndMs": 1870,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你该",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "沉下",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.870438
+        },
+        "RequestId": "3a33b6f7-1bd4-4973-9a38-88f3c542251f"
+    }
+}

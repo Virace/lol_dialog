@@ -1,0 +1,39 @@
+{
+    "character": "kaisa",
+    "id": "1022090346",
+    "result": "哼啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012687784,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.348]  哼啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼啊。",
+                    "SliceSentence": "哼 啊",
+                    "StartMs": 0,
+                    "EndMs": 1348,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.348875
+        },
+        "RequestId": "b5a4049d-7022-4bc8-bac9-4e1c74436a5b"
+    }
+}

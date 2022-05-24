@@ -1,0 +1,39 @@
+{
+    "character": "ornn",
+    "id": "746310358",
+    "result": "这就对了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012740010,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.333]  这就对了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这就对了。",
+                    "SliceSentence": "这就 对了",
+                    "StartMs": 0,
+                    "EndMs": 1333,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "这就",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "对了",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.333375
+        },
+        "RequestId": "251161f2-4359-48b1-9ab8-03d1751ae12b"
+    }
+}

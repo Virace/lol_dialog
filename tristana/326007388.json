@@ -1,0 +1,44 @@
+{
+    "character": "tristana",
+    "id": "326007388",
+    "result": "目标已被歼灭。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012799439,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.377]  目标已被歼灭。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "目标已被歼灭。",
+                    "SliceSentence": "目标 已被 歼灭",
+                    "StartMs": 0,
+                    "EndMs": 1377,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "目标",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "已被",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "歼灭",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.377563
+        },
+        "RequestId": "49a0272f-c2ea-48bc-8407-8ab68f9431f4"
+    }
+}

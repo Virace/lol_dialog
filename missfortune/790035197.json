@@ -1,0 +1,44 @@
+{
+    "character": "missfortune",
+    "id": "790035197",
+    "result": "啊哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012723673,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.250]  啊哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊哈哈哈哈。",
+                    "SliceSentence": "啊 哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 3250,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2580
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.250813
+        },
+        "RequestId": "09edf00a-2cf0-403e-9adc-ba3cc33fc1a9"
+    }
+}

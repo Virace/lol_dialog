@@ -1,0 +1,59 @@
+{
+    "character": "draven",
+    "id": "1348825209",
+    "result": "没有比这次更好的啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556500,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.615]  没有比这次更好的啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没有比这次更好的啦。",
+                    "SliceSentence": "没有 比 这次 更好 的 啦",
+                    "StartMs": 0,
+                    "EndMs": 3615,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "比",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "这次",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "更好",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.615688
+        },
+        "RequestId": "27c162f0-1c85-4a3e-80e0-39fa2ac0c20c"
+    }
+}

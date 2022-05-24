@@ -1,0 +1,44 @@
+{
+    "character": "talon",
+    "id": "1075090000",
+    "result": "无处可藏。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012795422,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.580]  无处可藏。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "无处可藏。",
+                    "SliceSentence": "无处 可 藏",
+                    "StartMs": 0,
+                    "EndMs": 1580,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "无处",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "可",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "藏",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.580625
+        },
+        "RequestId": "459ae26e-771d-4f19-8eea-fa0cf0b4ad91"
+    }
+}

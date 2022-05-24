@@ -1,0 +1,44 @@
+{
+    "character": "kayn",
+    "id": "660693009",
+    "result": "片甲不留。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012702496,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.393]  片甲不留。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "片甲不留。",
+                    "SliceSentence": "片 甲 不留",
+                    "StartMs": 0,
+                    "EndMs": 1393,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "片",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "甲",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "不留",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.393563
+        },
+        "RequestId": "cb7a12a2-1cc6-4c0b-a408-34c6a18bf68a"
+    }
+}

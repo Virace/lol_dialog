@@ -1,0 +1,39 @@
+{
+    "character": "galio",
+    "id": "1009384709",
+    "result": "冲啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568136,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.335]  冲啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "冲啊。",
+                    "SliceSentence": "冲 啊",
+                    "StartMs": 0,
+                    "EndMs": 1335,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "冲",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.335625
+        },
+        "RequestId": "cbb61a7b-1ca7-48c7-975e-aae991a5a839"
+    }
+}

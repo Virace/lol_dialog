@@ -1,0 +1,54 @@
+{
+    "character": "kayn",
+    "id": "204319076",
+    "result": "够好了。有些人会说。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012700724,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.617]  够好了。有些人会说。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "够好了。有些人会说。",
+                    "SliceSentence": "够 好了 有些 人会 说",
+                    "StartMs": 0,
+                    "EndMs": 3617,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "够",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "好了",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "有些",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "人会",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 2880
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 2880,
+                            "OffsetEndMs": 3420
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.617125
+        },
+        "RequestId": "e59c4a9c-798d-4b5a-828a-eadae7f55918"
+    }
+}

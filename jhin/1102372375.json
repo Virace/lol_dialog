@@ -1,0 +1,44 @@
+{
+    "character": "jhin",
+    "id": "1102372375",
+    "result": "千呼万唤始出来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012684422,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.444]  千呼万唤始出来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "千呼万唤始出来。",
+                    "SliceSentence": "千呼万唤 始 出来",
+                    "StartMs": 0,
+                    "EndMs": 3444,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "千呼万唤",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "始",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "出来",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2970
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.444438
+        },
+        "RequestId": "ec6a4853-d5ec-4b84-a649-694b375d9419"
+    }
+}

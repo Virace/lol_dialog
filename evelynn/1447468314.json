@@ -1,0 +1,49 @@
+{
+    "character": "evelynn",
+    "id": "1447468314",
+    "result": "这就是疼痛吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012561949,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.880]  这就是疼痛吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这就是疼痛吗？",
+                    "SliceSentence": "这就 是 疼痛 吗",
+                    "StartMs": 0,
+                    "EndMs": 4880,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这就",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "疼痛",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2790
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 2790,
+                            "OffsetEndMs": 2910
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.082125
+        },
+        "RequestId": "d1a28da5-2783-4389-9d9b-81e3691263b7"
+    }
+}

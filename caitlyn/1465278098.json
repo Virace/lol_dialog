@@ -1,0 +1,64 @@
+{
+    "character": "caitlyn",
+    "id": "1465278098",
+    "result": "好吧，接下来有的是文件要处理了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551086,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.946]  好吧，接下来有的是文件要处理了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好吧，接下来有的是文件要处理了。",
+                    "SliceSentence": "好吧 接下来 有的是 文件 要 处理 了",
+                    "StartMs": 0,
+                    "EndMs": 3946,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "好吧",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "接下来",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "有的是",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "文件",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2370
+                        },
+                        {
+                            "Word": "处理",
+                            "OffsetStartMs": 2370,
+                            "OffsetEndMs": 2760
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2760,
+                            "OffsetEndMs": 3360
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.946688
+        },
+        "RequestId": "293df8a9-34b9-4800-b2b2-1a76195e736e"
+    }
+}

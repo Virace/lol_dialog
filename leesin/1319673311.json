@@ -1,0 +1,54 @@
+{
+    "character": "leesin",
+    "id": "1319673311",
+    "result": "一分钟都不要浪费。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012712520,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.140]  一分钟都不要浪费。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一分钟都不要浪费。",
+                    "SliceSentence": "一 分钟 都 不要 浪费",
+                    "StartMs": 0,
+                    "EndMs": 3140,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "一",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "分钟",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "都",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "浪费",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.274
+        },
+        "RequestId": "c6113082-b63a-49c9-9ed5-5f926a105101"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "kayn",
+    "id": "2056174684",
+    "result": "光明无用。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012700740,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.260]  光明无用。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "光明无用。",
+                    "SliceSentence": "光明 无用",
+                    "StartMs": 0,
+                    "EndMs": 2260,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "光明",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "无用",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.2605
+        },
+        "RequestId": "3c225f56-05af-43d5-adc8-bbfa3fdbffcc"
+    }
+}

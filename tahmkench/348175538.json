@@ -1,0 +1,44 @@
+{
+    "character": "tahmkench",
+    "id": "348175538",
+    "result": "把他给我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012789625,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.768]  把他给我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "把他给我。",
+                    "SliceSentence": "把 他 给我",
+                    "StartMs": 0,
+                    "EndMs": 1768,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "他",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "给我",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.76875
+        },
+        "RequestId": "45d53049-8448-4e54-9da5-f2b287e2b23f"
+    }
+}

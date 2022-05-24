@@ -1,0 +1,44 @@
+{
+    "character": "thresh",
+    "id": "1733303469",
+    "result": "出来玩玩啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012798565,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.013]  出来玩玩啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "出来玩玩啊。",
+                    "SliceSentence": "出来 玩玩 啊",
+                    "StartMs": 0,
+                    "EndMs": 2013,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "出来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "玩玩",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.01375
+        },
+        "RequestId": "adfe4b8d-78da-4964-bb70-09fbcd6ae893"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "camille",
+    "id": "801108485",
+    "result": "我还没犯过错。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554169,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.482]  我还没犯过错。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我还没犯过错。",
+                    "SliceSentence": "我 还没 犯 过错",
+                    "StartMs": 0,
+                    "EndMs": 1482,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "还没",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "犯",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "过错",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.482563
+        },
+        "RequestId": "1feeedd1-729d-445f-9a26-b975162a9aca"
+    }
+}

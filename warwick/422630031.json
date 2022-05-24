@@ -1,0 +1,44 @@
+{
+    "character": "warwick",
+    "id": "422630031",
+    "result": "这地方眼熟。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012832293,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.162]  这地方眼熟。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这地方眼熟。",
+                    "SliceSentence": "这 地方 眼熟",
+                    "StartMs": 0,
+                    "EndMs": 3162,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "地方",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "眼熟",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 3030
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.162688
+        },
+        "RequestId": "234ba5a0-085d-4157-96b7-e27c3294455b"
+    }
+}

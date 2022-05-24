@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "1241807290",
+    "result": "他们不在这儿了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749953,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.238]  他们不在这儿了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们不在这儿了。",
+                    "SliceSentence": "他们 不在 这儿 了",
+                    "StartMs": 0,
+                    "EndMs": 1238,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "不在",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "这儿",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 8.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.238688
+        },
+        "RequestId": "881c1b02-7087-4807-a0b1-261813c08411"
+    }
+}

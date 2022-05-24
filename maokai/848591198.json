@@ -1,0 +1,54 @@
+{
+    "character": "maokai",
+    "id": "848591198",
+    "result": "别松手，小树苗们。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012722540,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.292]  别松手，小树苗们。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别松手，小树苗们。",
+                    "SliceSentence": "别 松手 小树 苗 们",
+                    "StartMs": 0,
+                    "EndMs": 3292,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "松手",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "小树",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "苗",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "们",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.292
+        },
+        "RequestId": "540c97f6-7f41-458a-a979-62b6bc7ca002"
+    }
+}

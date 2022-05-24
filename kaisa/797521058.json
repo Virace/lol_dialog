@@ -1,0 +1,39 @@
+{
+    "character": "kaisa",
+    "id": "797521058",
+    "result": "三个啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012692024,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.245]  三个啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "三个啦。",
+                    "SliceSentence": "三个 啦",
+                    "StartMs": 0,
+                    "EndMs": 1245,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "三个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.245125
+        },
+        "RequestId": "f7667bec-aa29-49ba-9bb9-3e5461392424"
+    }
+}

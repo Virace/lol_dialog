@@ -1,0 +1,70 @@
+{
+    "character": "lucian",
+    "id": "989874564",
+    "result": "生命。啊，真是太抱歉了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718713,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.820]  生命。\n[0:1.820,0:5.131]  啊，真是太抱歉了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "生命。",
+                    "SliceSentence": "生命",
+                    "StartMs": 0,
+                    "EndMs": 1820,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "生命",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "啊，真是太抱歉了。",
+                    "SliceSentence": "啊 真是 太 抱歉 了",
+                    "StartMs": 1820,
+                    "EndMs": 5131,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "真是",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "太",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "抱歉",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2730
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.131625
+        },
+        "RequestId": "eed1df1f-076d-48e2-8ca0-dd1fd413e361"
+    }
+}

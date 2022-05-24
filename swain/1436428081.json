@@ -1,0 +1,49 @@
+{
+    "character": "swain",
+    "id": "1436428081",
+    "result": "既然你非要送死。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012783921,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.599]  既然你非要送死。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "既然你非要送死。",
+                    "SliceSentence": "既然 你 非要 送死",
+                    "StartMs": 0,
+                    "EndMs": 2599,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "既然",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "非要",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "送死",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.59925
+        },
+        "RequestId": "9272a873-1443-430f-bea2-7d4abdd7ae92"
+    }
+}

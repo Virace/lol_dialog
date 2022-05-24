@@ -1,0 +1,64 @@
+{
+    "character": "taliyah",
+    "id": "517344242",
+    "result": "这块石头已经被我榨干了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012793577,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.939]  这块石头已经被我榨干了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这块石头已经被我榨干了。",
+                    "SliceSentence": "这块 石头 已经 被 我 榨干 了",
+                    "StartMs": 0,
+                    "EndMs": 1939,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "这块",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "石头",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "被",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "榨干",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 9.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.939688
+        },
+        "RequestId": "1544e880-a0df-4e80-90dd-44ccf56a28ab"
+    }
+}

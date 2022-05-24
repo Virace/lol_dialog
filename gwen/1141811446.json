@@ -1,0 +1,49 @@
+{
+    "character": "gwen",
+    "id": "1141811446",
+    "result": "小剪刀，我们走了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012573898,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.028]  小剪刀，我们走了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "小剪刀，我们走了。",
+                    "SliceSentence": "小 剪刀 我们 走了",
+                    "StartMs": 0,
+                    "EndMs": 3028,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "小",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "剪刀",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "走了",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.028688
+        },
+        "RequestId": "acc649f6-8497-4a3c-a69b-330418bf0b63"
+    }
+}

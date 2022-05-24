@@ -1,0 +1,59 @@
+{
+    "character": "jayce",
+    "id": "558110885",
+    "result": "我吓到你了吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012684232,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.695]  我吓到你了吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我吓到你了吗？",
+                    "SliceSentence": "我 吓 到 你 了 吗",
+                    "StartMs": 0,
+                    "EndMs": 1695,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "吓",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 7.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.695063
+        },
+        "RequestId": "d10d49e5-d7fa-40d5-8a68-c1a3022efac3"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "kaisa",
+    "id": "1963951626",
+    "result": "可以死，可以死。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689577,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.461]  可以死，可以死。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "可以死，可以死。",
+                    "SliceSentence": "可 以死 可 以死",
+                    "StartMs": 0,
+                    "EndMs": 2461,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "可",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "以死",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "可",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "以死",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.461938
+        },
+        "RequestId": "8abaed0e-cbc4-4038-922f-6dfb4291643a"
+    }
+}

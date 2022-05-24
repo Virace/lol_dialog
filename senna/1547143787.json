@@ -1,0 +1,44 @@
+{
+    "character": "senna",
+    "id": "1547143787",
+    "result": "一起来来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012768661,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.920]  一起来来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一起来来。",
+                    "SliceSentence": "一 起来 来",
+                    "StartMs": 0,
+                    "EndMs": 3920,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "一",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "起来",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 3690
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.57125
+        },
+        "RequestId": "eeaf17d2-2431-4b7f-b075-afb5c6eb9cb3"
+    }
+}

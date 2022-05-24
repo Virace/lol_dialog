@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "1816477696",
+    "result": "我要让你今天生不如死。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012835505,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.492]  我要让你今天生不如死。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要让你今天生不如死。",
+                    "SliceSentence": "我要 让你 今天 生不如死",
+                    "StartMs": 0,
+                    "EndMs": 2492,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "让你",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "今天",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "生不如死",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.492688
+        },
+        "RequestId": "dd5dfa9f-4371-448f-b7d3-91ae776a0492"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "braum",
+    "id": "1365386124",
+    "result": "嘿嘿，活着真好，不是吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550120,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.848]  嘿嘿，活着真好，不是吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘿嘿，活着真好，不是吗？",
+                    "SliceSentence": "嘿嘿 活着 真好 不是 吗",
+                    "StartMs": 0,
+                    "EndMs": 2848,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "嘿嘿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "活着",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "真好",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2370
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 2370,
+                            "OffsetEndMs": 2790
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.848
+        },
+        "RequestId": "c8b826f2-1436-49d9-ae60-ebc947bfa861"
+    }
+}

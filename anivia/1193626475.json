@@ -1,0 +1,44 @@
+{
+    "character": "anivia",
+    "id": "1193626475",
+    "result": "轮回接近了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542209,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.438]  轮回接近了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "轮回接近了。",
+                    "SliceSentence": "轮回 接近 了",
+                    "StartMs": 0,
+                    "EndMs": 2438,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "轮回",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "接近",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.438125
+        },
+        "RequestId": "2c4146f7-7be9-4a9c-92a5-fc173231e147"
+    }
+}

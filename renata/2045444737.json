@@ -1,0 +1,44 @@
+{
+    "character": "renata",
+    "id": "2045444737",
+    "result": "开始裁员了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012760353,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.585]  开始裁员了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "开始裁员了。",
+                    "SliceSentence": "开始 裁员 了",
+                    "StartMs": 0,
+                    "EndMs": 2585,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "开始",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "裁员",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.585938
+        },
+        "RequestId": "0936947f-2447-47c1-972d-c009a7dd6d6b"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "irelia",
+    "id": "1301678837",
+    "result": "让我来打头阵。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012580573,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.274]  让我来打头阵。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "让我来打头阵。",
+                    "SliceSentence": "让我 来 打头阵",
+                    "StartMs": 0,
+                    "EndMs": 1274,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "让我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "打头阵",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 7.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.274438
+        },
+        "RequestId": "bfd3c9c1-c131-463b-a9ae-55cfbf74dfd2"
+    }
+}

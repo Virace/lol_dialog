@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "1029403089",
+    "result": "我不要什么安全。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749234,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.571]  我不要什么安全。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不要什么安全。",
+                    "SliceSentence": "我 不要 什么 安全",
+                    "StartMs": 0,
+                    "EndMs": 1571,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "安全",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.571688
+        },
+        "RequestId": "6532f4d3-c465-4137-968e-3fcda8225635"
+    }
+}

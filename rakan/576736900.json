@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "576736900",
+    "result": "呃，抱歉抱歉。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012753874,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.140]  呃，抱歉抱歉。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "呃，抱歉抱歉。",
+                    "SliceSentence": "呃 抱歉 抱歉",
+                    "StartMs": 0,
+                    "EndMs": 2140,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "呃",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "抱歉",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "抱歉",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.140063
+        },
+        "RequestId": "0c163a61-88f8-4a33-b05b-7f5d4b4849f2"
+    }
+}

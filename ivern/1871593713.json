@@ -1,0 +1,59 @@
+{
+    "character": "ivern",
+    "id": "1871593713",
+    "result": "我认为小菊对你动心啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012584809,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.404]  我认为小菊对你动心啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我认为小菊对你动心啦。",
+                    "SliceSentence": "我 认为 小菊 对你 动心 啦",
+                    "StartMs": 0,
+                    "EndMs": 3404,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "认为",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "小菊",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "对你",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "动心",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2460
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 2460,
+                            "OffsetEndMs": 3030
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.404375
+        },
+        "RequestId": "d7ee8812-d558-451c-b153-fee4b01979c9"
+    }
+}

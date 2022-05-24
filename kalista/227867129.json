@@ -1,0 +1,54 @@
+{
+    "character": "kalista",
+    "id": "227867129",
+    "result": "我能听到你的恳求啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012693751,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.702]  我能听到你的恳求啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我能听到你的恳求啦。",
+                    "SliceSentence": "我能 听到 你的 恳求 啦",
+                    "StartMs": 0,
+                    "EndMs": 3702,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我能",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "听到",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "恳求",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2640
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 2640,
+                            "OffsetEndMs": 3390
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.702375
+        },
+        "RequestId": "f43a9af6-56b0-4b27-a1a3-c4ff61bcd93c"
+    }
+}

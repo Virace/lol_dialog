@@ -1,0 +1,44 @@
+{
+    "character": "vayne",
+    "id": "1141299098",
+    "result": "他们将被净化。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012808385,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.060]  他们将被净化。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们将被净化。",
+                    "SliceSentence": "他们 将被 净化",
+                    "StartMs": 0,
+                    "EndMs": 3060,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "将被",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "净化",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.360563
+        },
+        "RequestId": "7ca23164-3155-41dc-91fe-75c0dbf4b915"
+    }
+}

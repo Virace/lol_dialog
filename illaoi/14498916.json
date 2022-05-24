@@ -1,0 +1,49 @@
+{
+    "character": "illaoi",
+    "id": "14498916",
+    "result": "现在我们动吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012577149,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.974]  现在我们动吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "现在我们动吧。",
+                    "SliceSentence": "现在 我们 动 吧",
+                    "StartMs": 0,
+                    "EndMs": 1974,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "动",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.974563
+        },
+        "RequestId": "1d4ad5fe-344a-4381-bf55-01c82f33b115"
+    }
+}

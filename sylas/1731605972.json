@@ -1,0 +1,59 @@
+{
+    "character": "sylas",
+    "id": "1731605972",
+    "result": "我好像找到你的熊了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786819,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.962]  我好像找到你的熊了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我好像找到你的熊了。",
+                    "SliceSentence": "我 好像 找到 你的 熊 了",
+                    "StartMs": 0,
+                    "EndMs": 1962,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "好像",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "找到",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "熊",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 7.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.96275
+        },
+        "RequestId": "5d4dc1b7-b46f-4c95-b598-6869da93d1a4"
+    }
+}

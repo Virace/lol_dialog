@@ -1,0 +1,49 @@
+{
+    "character": "galio",
+    "id": "478756979",
+    "result": "我昏迷了多久？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012569182,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.338]  我昏迷了多久？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我昏迷了多久？",
+                    "SliceSentence": "我 昏迷 了 多久",
+                    "StartMs": 0,
+                    "EndMs": 1338,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "昏迷",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "多久",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 7.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.338125
+        },
+        "RequestId": "1be0ad0b-da16-4535-a22b-7c38d07f1428"
+    }
+}

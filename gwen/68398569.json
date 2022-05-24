@@ -1,0 +1,59 @@
+{
+    "character": "gwen",
+    "id": "68398569",
+    "result": "我不会让你伤害任何人了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012575299,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.342]  我不会让你伤害任何人了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不会让你伤害任何人了。",
+                    "SliceSentence": "我 不会 让你 伤害 任何人 了",
+                    "StartMs": 0,
+                    "EndMs": 3342,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "让你",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "伤害",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "任何人",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.342125
+        },
+        "RequestId": "05cf1e7b-1b02-4530-846a-1ad8a590509d"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "skarner",
+    "id": "593082890",
+    "result": "呵呵呵呵啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012780493,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.923]  呵呵呵呵啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "呵呵呵呵啊。",
+                    "SliceSentence": "呵呵 呵呵 啊",
+                    "StartMs": 0,
+                    "EndMs": 4923,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "呵呵",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "呵呵",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 3390
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 3450,
+                            "OffsetEndMs": 4320
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.92325
+        },
+        "RequestId": "37e54f80-dc34-4f3e-a4ab-253b94b686eb"
+    }
+}

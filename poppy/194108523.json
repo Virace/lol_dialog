@@ -1,0 +1,49 @@
+{
+    "character": "poppy",
+    "id": "194108523",
+    "result": "你可能要当心啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012742699,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.003]  你可能要当心啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你可能要当心啦。",
+                    "SliceSentence": "你可 能要 当心 啦",
+                    "StartMs": 0,
+                    "EndMs": 2003,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你可",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "能要",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "当心",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.003063
+        },
+        "RequestId": "cf5eb8e1-2e6d-436b-a960-f44080b4ecef"
+    }
+}

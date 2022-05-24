@@ -1,0 +1,39 @@
+{
+    "character": "varus",
+    "id": "851090460",
+    "result": "嗯，哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012808362,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.676]  嗯，哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯，哈。",
+                    "SliceSentence": "嗯 哈",
+                    "StartMs": 0,
+                    "EndMs": 1676,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "哈",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.676063
+        },
+        "RequestId": "83dab518-c195-46f6-9eba-63ddf7a0b743"
+    }
+}

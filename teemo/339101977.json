@@ -1,0 +1,49 @@
+{
+    "character": "teemo",
+    "id": "339101977",
+    "result": "体型并不能说明一切。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012798127,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.020,0:2.324]  体型并不能说明一切。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "体型并不能说明一切。",
+                    "SliceSentence": "体型 并不能 说明 一切",
+                    "StartMs": 20,
+                    "EndMs": 2324,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "体型",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "并不能",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "说明",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "一切",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.324563
+        },
+        "RequestId": "dcd7d0b0-0d89-4e3a-a368-6c36f520abf0"
+    }
+}

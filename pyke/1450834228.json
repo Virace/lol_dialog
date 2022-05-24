@@ -1,0 +1,54 @@
+{
+    "character": "pyke",
+    "id": "1450834228",
+    "result": "不要让他们离开视线。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745103,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.804]  不要让他们离开视线。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要让他们离开视线。",
+                    "SliceSentence": "不要 让 他们 离开 视线",
+                    "StartMs": 0,
+                    "EndMs": 2804,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "让",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "离开",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "视线",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.804
+        },
+        "RequestId": "65b72a5b-4de9-44e6-b283-38d47367a480"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "668626962",
+    "result": "海底不属于这个世界。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746725,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.519]  海底不属于这个世界。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "海底不属于这个世界。",
+                    "SliceSentence": "海底 不属 于 这个世界",
+                    "StartMs": 0,
+                    "EndMs": 3519,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "海底",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "不属",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "于",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "这个世界",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2910
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.519375
+        },
+        "RequestId": "b22af64e-8b06-41e9-9797-9bc578efbf2d"
+    }
+}

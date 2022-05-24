@@ -1,0 +1,49 @@
+{
+    "character": "zoe",
+    "id": "1466452618",
+    "result": "嘿嘿，你在干嘛呀？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012854689,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.166]  嘿嘿，你在干嘛呀？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘿嘿，你在干嘛呀？",
+                    "SliceSentence": "嘿嘿 你在 干嘛 呀",
+                    "StartMs": 0,
+                    "EndMs": 2166,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "嘿嘿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "你在",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "干嘛",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "呀",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.16675
+        },
+        "RequestId": "8079358a-0e17-4db3-a498-1a16ba0172b1"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "gnar",
+    "id": "3639090",
+    "result": "下个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012572667,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.131]  下个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "下个。",
+                    "SliceSentence": "下 个",
+                    "StartMs": 0,
+                    "EndMs": 1131,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "下",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "个",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.1315
+        },
+        "RequestId": "e4bff49f-b02f-49ce-b775-c532749bf08f"
+    }
+}

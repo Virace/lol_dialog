@@ -1,0 +1,39 @@
+{
+    "character": "jayce",
+    "id": "231172141",
+    "result": "电能激荡。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012684184,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.880]  电能激荡。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "电能激荡。",
+                    "SliceSentence": "电能 激荡",
+                    "StartMs": 0,
+                    "EndMs": 1880,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "电能",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "激荡",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.880813
+        },
+        "RequestId": "13739c88-1e2a-4cf2-9b18-d4795d9319c9"
+    }
+}

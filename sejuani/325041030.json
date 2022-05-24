@@ -1,0 +1,39 @@
+{
+    "character": "sejuani",
+    "id": "325041030",
+    "result": "一个不留。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012767901,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.741]  一个不留。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一个不留。",
+                    "SliceSentence": "一个 不留",
+                    "StartMs": 0,
+                    "EndMs": 1741,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "不留",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.7415
+        },
+        "RequestId": "411d6916-f86e-4104-aaf1-01e1ebac9223"
+    }
+}

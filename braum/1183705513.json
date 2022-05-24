@@ -1,0 +1,54 @@
+{
+    "character": "braum",
+    "id": "1183705513",
+    "result": "这儿有些鱼腥味儿，嘿嘿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550015,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.360]  这儿有些鱼腥味儿，嘿嘿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这儿有些鱼腥味儿，嘿嘿。",
+                    "SliceSentence": "这儿 有些 鱼腥味 儿 嘿嘿",
+                    "StartMs": 0,
+                    "EndMs": 4360,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这儿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "有些",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "鱼腥味",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "儿",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "嘿嘿",
+                            "OffsetStartMs": 2700,
+                            "OffsetEndMs": 3960
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.360688
+        },
+        "RequestId": "ebfd8323-4faf-4e13-945b-6b1a1a5d8c9f"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "rakan",
+    "id": "415899308",
+    "result": "我真好，真想亲自己一口。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012753409,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.416]  我真好，真想亲自己一口。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我真好，真想亲自己一口。",
+                    "SliceSentence": "我 真好 真想 亲自 己 一口",
+                    "StartMs": 0,
+                    "EndMs": 2416,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "真好",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "真想",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "亲自",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "己",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "一口",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.416313
+        },
+        "RequestId": "791ef1ac-33b7-46b0-8242-fac44281f5df"
+    }
+}

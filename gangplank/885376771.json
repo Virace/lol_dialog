@@ -1,0 +1,39 @@
+{
+    "character": "gangplank",
+    "id": "885376771",
+    "result": "没有机会。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012571704,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.623]  没有机会。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没有机会。",
+                    "SliceSentence": "没有 机会",
+                    "StartMs": 0,
+                    "EndMs": 1623,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "机会",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.623438
+        },
+        "RequestId": "0641a0cf-b64a-466a-b64b-5d7e02aa19ba"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "volibear",
+    "id": "642725396",
+    "result": "跪拜我吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012816825,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.485]  跪拜我吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "跪拜我吧。",
+                    "SliceSentence": "跪拜 我 吧",
+                    "StartMs": 0,
+                    "EndMs": 2485,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "跪拜",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.485063
+        },
+        "RequestId": "c55efeb1-dd97-4c7e-8243-1b2c9ba8b374"
+    }
+}

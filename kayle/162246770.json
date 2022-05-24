@@ -1,0 +1,85 @@
+{
+    "character": "kayle",
+    "id": "162246770",
+    "result": "对错分明，黑白两立。其余一切都是狡辩。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012697711,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.660]  对错分明，黑白两立。\n[0:3.660,0:6.430]  其余一切都是狡辩。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "对错分明，黑白两立。",
+                    "SliceSentence": "对错 分明 黑白 两 立",
+                    "StartMs": 0,
+                    "EndMs": 3660,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "对错",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "分明",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "黑白",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "两",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "立",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 2880
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "其余一切都是狡辩。",
+                    "SliceSentence": "其余 一切 都是 狡辩",
+                    "StartMs": 3660,
+                    "EndMs": 6430,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "其余",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "一切",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "都是",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "狡辩",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2340
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.430563
+        },
+        "RequestId": "90dee21c-c9ff-4f0b-8c94-d37c1b42af08"
+    }
+}

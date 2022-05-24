@@ -1,0 +1,44 @@
+{
+    "character": "kled",
+    "id": "268142948",
+    "result": "这里就是诺克萨斯。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012707065,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.116]  这里就是诺克萨斯。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这里就是诺克萨斯。",
+                    "SliceSentence": "这里 就是 诺克萨斯",
+                    "StartMs": 0,
+                    "EndMs": 4116,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这里",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "就是",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "诺克萨斯",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 3540
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.116438
+        },
+        "RequestId": "2704e227-89a6-4bed-8cfc-ea0aa4e5e0af"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "kindred",
+    "id": "829408225",
+    "result": "让伤口看得更深。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012705586,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.762]  让伤口看得更深。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "让伤口看得更深。",
+                    "SliceSentence": "让 伤口 看得 更深",
+                    "StartMs": 0,
+                    "EndMs": 1762,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "让",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "伤口",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "看得",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "更深",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.762063
+        },
+        "RequestId": "06491bdb-209f-4566-a234-21bd9fe5c0cd"
+    }
+}

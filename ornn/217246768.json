@@ -1,0 +1,39 @@
+{
+    "character": "ornn",
+    "id": "217246768",
+    "result": "完事了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012739162,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.091]  完事了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "完事了。",
+                    "SliceSentence": "完事 了",
+                    "StartMs": 0,
+                    "EndMs": 1091,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "完事",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 660
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.09125
+        },
+        "RequestId": "198e1896-fb5f-4649-b580-6726268b9e06"
+    }
+}

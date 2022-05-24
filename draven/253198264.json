@@ -1,0 +1,44 @@
+{
+    "character": "draven",
+    "id": "253198264",
+    "result": "啊哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012556703,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.821]  啊哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊哈哈哈哈。",
+                    "SliceSentence": "啊 哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 4821,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 3480
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 3480,
+                            "OffsetEndMs": 4680
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.821625
+        },
+        "RequestId": "8b9cf60b-e93a-4241-b95c-fd35f5b91e3f"
+    }
+}

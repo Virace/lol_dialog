@@ -1,0 +1,44 @@
+{
+    "character": "samira",
+    "id": "1386647991",
+    "result": "挡着的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012766263,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.695]  挡着的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "挡着的。",
+                    "SliceSentence": "挡 着 的",
+                    "StartMs": 0,
+                    "EndMs": 1695,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "挡",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "着",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 720
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.695063
+        },
+        "RequestId": "0670398f-70f8-4d4e-a661-132684f4ab24"
+    }
+}

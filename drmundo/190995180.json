@@ -1,0 +1,54 @@
+{
+    "character": "drmundo",
+    "id": "190995180",
+    "result": "醒醒醒醒，别睡了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012558063,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.858]  醒醒醒醒，别睡了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "醒醒醒醒，别睡了。",
+                    "SliceSentence": "醒醒 醒醒 别 睡 了",
+                    "StartMs": 0,
+                    "EndMs": 3858,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "醒醒",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "醒醒",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "别",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "睡",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 2520
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2550,
+                            "OffsetEndMs": 3330
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.858063
+        },
+        "RequestId": "2d1916a0-c673-4687-861d-c73ddd957d6b"
+    }
+}

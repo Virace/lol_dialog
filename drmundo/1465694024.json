@@ -1,0 +1,39 @@
+{
+    "character": "drmundo",
+    "id": "1465694024",
+    "result": "医生，说了算。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012557527,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.973]  医生，说了算。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "医生，说了算。",
+                    "SliceSentence": "医生 说了算",
+                    "StartMs": 0,
+                    "EndMs": 1973,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "医生",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "说了算",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1740
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.973688
+        },
+        "RequestId": "c05b5771-9577-4340-83d6-ea259e878cf2"
+    }
+}

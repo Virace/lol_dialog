@@ -1,0 +1,39 @@
+{
+    "character": "kayn",
+    "id": "793993263",
+    "result": "是啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012702785,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.033]  是啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "是啊。",
+                    "SliceSentence": "是 啊",
+                    "StartMs": 0,
+                    "EndMs": 1033,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 510
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.033688
+        },
+        "RequestId": "988fdb2a-9b5b-4f12-8f51-f9a21339dc3f"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "taliyah",
+    "id": "646162512",
+    "result": "我的旅程远未结束。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012794018,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.245]  我的旅程远未结束。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的旅程远未结束。",
+                    "SliceSentence": "我 的 旅程 远未 结束",
+                    "StartMs": 0,
+                    "EndMs": 2245,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "旅程",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "远未",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "结束",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2160
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.245438
+        },
+        "RequestId": "3c8f9f70-272b-4d63-8f2a-ecb53d05cbe1"
+    }
+}

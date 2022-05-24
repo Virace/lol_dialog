@@ -1,0 +1,44 @@
+{
+    "character": "shyvana",
+    "id": "2040357943",
+    "result": "我这就去。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012774819,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.337]  我这就去。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我这就去。",
+                    "SliceSentence": "我 这就 去",
+                    "StartMs": 0,
+                    "EndMs": 1337,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "这就",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.337125
+        },
+        "RequestId": "9b0be081-f557-4f33-ad1a-6196fbc9529f"
+    }
+}

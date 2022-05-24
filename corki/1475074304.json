@@ -1,0 +1,54 @@
+{
+    "character": "corki",
+    "id": "1475074304",
+    "result": "嗯，都乱了套啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012555525,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.520,0:3.390]  嗯，都乱了套啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯，都乱了套啦。",
+                    "SliceSentence": "嗯 都 乱了 套 啦",
+                    "StartMs": 520,
+                    "EndMs": 3390,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "都",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "乱了",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "套",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.390125
+        },
+        "RequestId": "4e3b6d1d-387e-4acd-a546-534a204ff730"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "jayce",
+    "id": "1565929807",
+    "result": "一步错，步步皆错。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012684039,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.157]  一步错，步步皆错。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一步错，步步皆错。",
+                    "SliceSentence": "一步错 步步 皆 错",
+                    "StartMs": 0,
+                    "EndMs": 3157,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "一步错",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "步步",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "皆",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "错",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 2910
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.157938
+        },
+        "RequestId": "66c1637a-a009-47e2-a7fd-c6c7bbdecf7e"
+    }
+}

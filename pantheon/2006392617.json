@@ -1,0 +1,39 @@
+{
+    "character": "pantheon",
+    "id": "2006392617",
+    "result": "哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012741678,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.120]  哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈。",
+                    "SliceSentence": "哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 1120,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.12
+        },
+        "RequestId": "7fefe9a3-60f8-45b1-b8a9-92b72de872c1"
+    }
+}

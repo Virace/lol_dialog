@@ -1,0 +1,44 @@
+{
+    "character": "yone",
+    "id": "2088269848",
+    "result": "我并非敌人。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012842861,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.832]  我并非敌人。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我并非敌人。",
+                    "SliceSentence": "我 并非 敌人",
+                    "StartMs": 0,
+                    "EndMs": 2832,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "并非",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "敌人",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.832875
+        },
+        "RequestId": "c4dc46e0-55c8-4787-8f31-56efac0f1083"
+    }
+}

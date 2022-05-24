@@ -1,0 +1,39 @@
+{
+    "character": "kled",
+    "id": "35753217",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012707431,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.940]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 1940,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.940125
+        },
+        "RequestId": "879c43a8-d878-4708-88bd-437585bf969d"
+    }
+}

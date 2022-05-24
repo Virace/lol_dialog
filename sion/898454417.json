@@ -1,0 +1,54 @@
+{
+    "character": "sion",
+    "id": "898454417",
+    "result": "这些伤口没有带来痛苦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012778138,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.896]  这些伤口没有带来痛苦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这些伤口没有带来痛苦。",
+                    "SliceSentence": "这些 伤口 没有 带来 痛苦",
+                    "StartMs": 0,
+                    "EndMs": 4896,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这些",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "伤口",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2700
+                        },
+                        {
+                            "Word": "带来",
+                            "OffsetStartMs": 2700,
+                            "OffsetEndMs": 3180
+                        },
+                        {
+                            "Word": "痛苦",
+                            "OffsetStartMs": 3180,
+                            "OffsetEndMs": 4650
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.896063
+        },
+        "RequestId": "ce00399f-bcf9-4b9c-9053-ecbdb2d79189"
+    }
+}

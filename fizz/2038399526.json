@@ -1,0 +1,49 @@
+{
+    "character": "fizz",
+    "id": "2038399526",
+    "result": "哈哈哈哈哈嘿嘿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012567905,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.876]  哈哈哈哈哈嘿嘿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈哈嘿嘿。",
+                    "SliceSentence": "哈哈 哈 哈哈 嘿嘿",
+                    "StartMs": 0,
+                    "EndMs": 4876,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "哈",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "嘿嘿",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 4530
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.876188
+        },
+        "RequestId": "99eee896-bf3d-498a-b3ee-f075aab9bf1a"
+    }
+}

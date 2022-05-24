@@ -1,0 +1,49 @@
+{
+    "character": "cassiopeia",
+    "id": "1242801002",
+    "result": "不要诱惑一条毒蛇。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554683,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.553]  不要诱惑一条毒蛇。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要诱惑一条毒蛇。",
+                    "SliceSentence": "不要 诱惑 一条 毒蛇",
+                    "StartMs": 0,
+                    "EndMs": 2553,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "诱惑",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "一条",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "毒蛇",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.553063
+        },
+        "RequestId": "e5a74e3b-fcbf-4ba0-9a84-7cabd11c569e"
+    }
+}

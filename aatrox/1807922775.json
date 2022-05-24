@@ -1,0 +1,44 @@
+{
+    "character": "aatrox",
+    "id": "1807922775",
+    "result": "这是你的赦免。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012532384,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.766]  这是你的赦免。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是你的赦免。",
+                    "SliceSentence": "这是 你的 赦免",
+                    "StartMs": 0,
+                    "EndMs": 3766,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "赦免",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 3540
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.766688
+        },
+        "RequestId": "2d96bb03-6cab-4828-a5ad-e8972bf50b51"
+    }
+}

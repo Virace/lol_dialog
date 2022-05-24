@@ -1,0 +1,39 @@
+{
+    "character": "vladimir",
+    "id": "741935706",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012815394,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.420,0:3.516]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 420,
+                    "EndMs": 3516,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 2610
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 2610,
+                            "OffsetEndMs": 3030
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.516125
+        },
+        "RequestId": "deb3a8ff-124a-4162-be4d-b255610ba9ac"
+    }
+}

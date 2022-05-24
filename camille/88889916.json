@@ -1,0 +1,44 @@
+{
+    "character": "camille",
+    "id": "88889916",
+    "result": "啊啊啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554356,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.194]  啊啊啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊啊啊。",
+                    "SliceSentence": "啊 啊 啊",
+                    "StartMs": 0,
+                    "EndMs": 1194,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.194188
+        },
+        "RequestId": "4c1c0931-1c03-4201-a3ea-83adc4710b79"
+    }
+}

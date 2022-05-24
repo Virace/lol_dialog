@@ -1,0 +1,44 @@
+{
+    "character": "akali",
+    "id": "1195533556",
+    "result": "完美的执行。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012538934,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.288]  完美的执行。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "完美的执行。",
+                    "SliceSentence": "完美 的 执行",
+                    "StartMs": 0,
+                    "EndMs": 1288,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "完美",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "执行",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.28825
+        },
+        "RequestId": "0a914338-2347-4f55-b5ba-6c30c56efad5"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "character": "rell",
+    "id": "1525138108",
+    "result": "先有牺牲，方能超越。这话说的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012757200,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.340]  先有牺牲，方能超越。\n[0:3.340,0:4.734]  这话说的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "先有牺牲，方能超越。",
+                    "SliceSentence": "先 有 牺牲 方能 超越",
+                    "StartMs": 0,
+                    "EndMs": 3340,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "先",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "牺牲",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "方能",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "超越",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "这话说的。",
+                    "SliceSentence": "这话 说 的",
+                    "StartMs": 3340,
+                    "EndMs": 4734,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这话",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.73475
+        },
+        "RequestId": "aef2fcc8-171c-4950-b90b-3c1f190c213e"
+    }
+}

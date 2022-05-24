@@ -1,0 +1,49 @@
+{
+    "character": "sett",
+    "id": "1622174262",
+    "result": "咱们直接来吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012772497,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.159]  咱们直接来吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "咱们直接来吧。",
+                    "SliceSentence": "咱们 直接 来 吧",
+                    "StartMs": 0,
+                    "EndMs": 2159,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "咱们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "直接",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.159438
+        },
+        "RequestId": "303e45b5-7c48-41e9-9cf5-561666f29ba7"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "rakan",
+    "id": "1688542510",
+    "result": "马上回来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012751345,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.430]  马上回来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "马上回来。",
+                    "SliceSentence": "马上 回来",
+                    "StartMs": 0,
+                    "EndMs": 1430,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "马上",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "回来",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.430875
+        },
+        "RequestId": "d4175acf-20f5-4828-b34a-da6297d069e2"
+    }
+}

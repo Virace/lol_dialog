@@ -1,0 +1,44 @@
+{
+    "character": "zoe",
+    "id": "1381366141",
+    "result": "我怎么啊？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012854642,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.137]  我怎么啊？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我怎么啊？",
+                    "SliceSentence": "我 怎么 啊",
+                    "StartMs": 0,
+                    "EndMs": 3137,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "怎么",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.137438
+        },
+        "RequestId": "d4bc0cce-4945-42c2-b6fa-8295ac48ec94"
+    }
+}

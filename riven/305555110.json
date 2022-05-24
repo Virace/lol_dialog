@@ -1,0 +1,59 @@
+{
+    "character": "riven",
+    "id": "305555110",
+    "result": "我已经流浪了如此之久。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012763012,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.656]  我已经流浪了如此之久。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我已经流浪了如此之久。",
+                    "SliceSentence": "我 已经 流浪 了 如此 之久",
+                    "StartMs": 0,
+                    "EndMs": 2656,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "流浪",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "如此",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "之久",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.656063
+        },
+        "RequestId": "d05a2654-94fb-49cb-91f3-f9e7e9ad5eff"
+    }
+}

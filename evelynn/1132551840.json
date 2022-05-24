@@ -1,0 +1,54 @@
+{
+    "character": "evelynn",
+    "id": "1132551840",
+    "result": "我爱死你努力的样子。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012561510,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.940]  我爱死你努力的样子。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我爱死你努力的样子。",
+                    "SliceSentence": "我爱 死你 努力 的 样子",
+                    "StartMs": 0,
+                    "EndMs": 4940,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我爱",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "死你",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "努力",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2550
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2550,
+                            "OffsetEndMs": 2640
+                        },
+                        {
+                            "Word": "样子",
+                            "OffsetStartMs": 2640,
+                            "OffsetEndMs": 3330
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.291063
+        },
+        "RequestId": "75b6c5c4-31c5-40c3-a9f4-fbfcc92660da"
+    }
+}

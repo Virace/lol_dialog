@@ -1,0 +1,49 @@
+{
+    "character": "taliyah",
+    "id": "88187630",
+    "result": "看起来好疼啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012795058,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.318]  看起来好疼啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "看起来好疼啊。",
+                    "SliceSentence": "看起来 好 疼 啊",
+                    "StartMs": 0,
+                    "EndMs": 1318,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "看起来",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "疼",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 7.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.318125
+        },
+        "RequestId": "ab33ecc6-c772-4945-94ed-b696038d4dc3"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "gwen",
+    "id": "504806778",
+    "result": "感觉太好了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012575157,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.597]  感觉太好了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "感觉太好了。",
+                    "SliceSentence": "感觉 太好 了",
+                    "StartMs": 0,
+                    "EndMs": 2597,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "感觉",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "太好",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.59775
+        },
+        "RequestId": "784bcf58-bf80-431c-8ce0-ea2c3260c2fb"
+    }
+}

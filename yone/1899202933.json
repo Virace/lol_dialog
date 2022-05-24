@@ -1,0 +1,44 @@
+{
+    "character": "yone",
+    "id": "1899202933",
+    "result": "卡在疼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012842733,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.275]  卡在疼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "卡在疼。",
+                    "SliceSentence": "卡 在 疼",
+                    "StartMs": 0,
+                    "EndMs": 2275,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "卡",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "疼",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.275563
+        },
+        "RequestId": "85bbb6e6-27e0-44d9-ba25-cd918018cb5c"
+    }
+}

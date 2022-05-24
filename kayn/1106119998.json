@@ -1,0 +1,59 @@
+{
+    "character": "kayn",
+    "id": "1106119998",
+    "result": "只不过是开头，远不止这些。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012699066,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.507]  只不过是开头，远不止这些。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "只不过是开头，远不止这些。",
+                    "SliceSentence": "只不过 是 开头 远 不止 这些",
+                    "StartMs": 0,
+                    "EndMs": 3507,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "只不过",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "开头",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "远",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2460
+                        },
+                        {
+                            "Word": "不止",
+                            "OffsetStartMs": 2460,
+                            "OffsetEndMs": 2820
+                        },
+                        {
+                            "Word": "这些",
+                            "OffsetStartMs": 2820,
+                            "OffsetEndMs": 3390
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.507125
+        },
+        "RequestId": "4f766a07-fa1f-4bc3-85f5-d2695a4a1ab9"
+    }
+}

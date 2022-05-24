@@ -1,0 +1,44 @@
+{
+    "character": "caitlyn",
+    "id": "140434244",
+    "result": "好戏开始了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551014,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.453]  好戏开始了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好戏开始了。",
+                    "SliceSentence": "好戏 开始 了",
+                    "StartMs": 0,
+                    "EndMs": 2453,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "好戏",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "开始",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.453313
+        },
+        "RequestId": "df4d65de-3a15-4951-b890-6a416a73e000"
+    }
+}

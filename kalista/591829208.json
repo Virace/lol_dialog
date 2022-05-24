@@ -1,0 +1,59 @@
+{
+    "character": "kalista",
+    "id": "591829208",
+    "result": "我们行动如123，给我停下。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012694496,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:6.620]  我们行动如123，给我停下。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们行动如123，给我停下。",
+                    "SliceSentence": "我们 行动 如1 23 给我 停下",
+                    "StartMs": 0,
+                    "EndMs": 6620,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "行动",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "如1",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "23",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 3840
+                        },
+                        {
+                            "Word": "给我",
+                            "OffsetStartMs": 4410,
+                            "OffsetEndMs": 4680
+                        },
+                        {
+                            "Word": "停下",
+                            "OffsetStartMs": 4680,
+                            "OffsetEndMs": 5310
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.757313
+        },
+        "RequestId": "4673f917-ef20-4c37-a760-c7bfe350b67e"
+    }
+}

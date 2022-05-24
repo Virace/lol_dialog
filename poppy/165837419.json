@@ -1,0 +1,39 @@
+{
+    "character": "poppy",
+    "id": "165837419",
+    "result": "急什么？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012742612,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.010]  急什么？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "急什么？",
+                    "SliceSentence": "急 什么",
+                    "StartMs": 0,
+                    "EndMs": 1010,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "急",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.010563
+        },
+        "RequestId": "883ed34a-5bd2-488d-9ee3-3aac9b65c5e4"
+    }
+}

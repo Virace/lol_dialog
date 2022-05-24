@@ -1,0 +1,44 @@
+{
+    "character": "tahmkench",
+    "id": "144902063",
+    "result": "河水奔流不息。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012789216,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.602]  河水奔流不息。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "河水奔流不息。",
+                    "SliceSentence": "河水 奔流 不息",
+                    "StartMs": 0,
+                    "EndMs": 3602,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "河水",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "奔流",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "不息",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2610
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.602125
+        },
+        "RequestId": "59a12789-d785-46f5-80f6-6130671ce705"
+    }
+}

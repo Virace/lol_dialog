@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "544963212",
+    "result": "现在好些了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012691006,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.373]  现在好些了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "现在好些了。",
+                    "SliceSentence": "现在 好些 了",
+                    "StartMs": 0,
+                    "EndMs": 1373,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "好些",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.373875
+        },
+        "RequestId": "a83c1985-a33e-4b60-b09b-1a0acef1af1d"
+    }
+}

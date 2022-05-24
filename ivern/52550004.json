@@ -1,0 +1,54 @@
+{
+    "character": "ivern",
+    "id": "52550004",
+    "result": "鸟儿们看起来不错呀。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012682517,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.486]  鸟儿们看起来不错呀。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "鸟儿们看起来不错呀。",
+                    "SliceSentence": "鸟儿 们 看起来 不错 呀",
+                    "StartMs": 0,
+                    "EndMs": 3486,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "鸟儿",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "们",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "看起来",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "不错",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2550
+                        },
+                        {
+                            "Word": "呀",
+                            "OffsetStartMs": 2550,
+                            "OffsetEndMs": 3210
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.486188
+        },
+        "RequestId": "9c3f2eca-22c1-46d9-8db0-0a921a218346"
+    }
+}

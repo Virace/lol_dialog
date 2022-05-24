@@ -1,0 +1,44 @@
+{
+    "character": "akshan",
+    "id": "240902797",
+    "result": "你太不听话啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012541088,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.176]  你太不听话啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你太不听话啦。",
+                    "SliceSentence": "你太 不听话 啦",
+                    "StartMs": 0,
+                    "EndMs": 2176,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你太",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "不听话",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.176
+        },
+        "RequestId": "6d8a8d12-31a2-40cc-9fa2-b3e3510d1c3d"
+    }
+}

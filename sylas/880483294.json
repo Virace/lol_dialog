@@ -1,0 +1,49 @@
+{
+    "character": "sylas",
+    "id": "880483294",
+    "result": "跑完懦夫快跑。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012788222,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.084]  跑完懦夫快跑。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "跑完懦夫快跑。",
+                    "SliceSentence": "跑 完 懦夫 快跑",
+                    "StartMs": 0,
+                    "EndMs": 2084,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "跑",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "完",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "懦夫",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "快跑",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.084688
+        },
+        "RequestId": "242386a0-41fc-4ddd-9e85-ef62fb8c68fc"
+    }
+}

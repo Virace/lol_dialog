@@ -1,0 +1,54 @@
+{
+    "character": "camille",
+    "id": "859879111",
+    "result": "我仍是人类的同类。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554332,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.875]  我仍是人类的同类。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我仍是人类的同类。",
+                    "SliceSentence": "我 仍是 人类 的 同类",
+                    "StartMs": 0,
+                    "EndMs": 2875,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "仍是",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "人类",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "同类",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2790
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.875
+        },
+        "RequestId": "427594e8-e9c3-4f54-906f-64c647baafc0"
+    }
+}

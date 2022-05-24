@@ -1,0 +1,59 @@
+{
+    "character": "kled",
+    "id": "428917580",
+    "result": "他在取笑我杀了他们。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012707741,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.071]  他在取笑我杀了他们。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他在取笑我杀了他们。",
+                    "SliceSentence": "他在 取笑 我 杀 了 他们",
+                    "StartMs": 0,
+                    "EndMs": 3071,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "他在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "取笑",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "杀",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 2340,
+                            "OffsetEndMs": 2790
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.071813
+        },
+        "RequestId": "7828db6e-5261-4c15-a42d-260f7a059912"
+    }
+}

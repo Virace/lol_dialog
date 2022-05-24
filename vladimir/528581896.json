@@ -1,0 +1,64 @@
+{
+    "character": "vladimir",
+    "id": "528581896",
+    "result": "我的杯子已经空了一半儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012815360,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.120,0:4.050]  我的杯子已经空了一半儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的杯子已经空了一半儿。",
+                    "SliceSentence": "我 的 杯子 已经 空了 一半 儿",
+                    "StartMs": 120,
+                    "EndMs": 4050,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "杯子",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "空了",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2580
+                        },
+                        {
+                            "Word": "一半",
+                            "OffsetStartMs": 2580,
+                            "OffsetEndMs": 3330
+                        },
+                        {
+                            "Word": "儿",
+                            "OffsetStartMs": 3330,
+                            "OffsetEndMs": 3690
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.050938
+        },
+        "RequestId": "2823981a-4ef1-4bd2-88d0-3a3b03594550"
+    }
+}

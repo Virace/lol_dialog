@@ -1,0 +1,49 @@
+{
+    "character": "jhin",
+    "id": "45893527",
+    "result": "这是我的事业。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012686081,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.584]  这是我的事业。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是我的事业。",
+                    "SliceSentence": "这 是我 的 事业",
+                    "StartMs": 0,
+                    "EndMs": 3584,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "事业",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.5845
+        },
+        "RequestId": "2a240ab7-ea7e-4563-874f-e72dcd848c51"
+    }
+}

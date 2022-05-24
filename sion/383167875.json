@@ -1,0 +1,49 @@
+{
+    "character": "sion",
+    "id": "383167875",
+    "result": "你是我的啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012776820,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.482]  你是我的啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你是我的啦。",
+                    "SliceSentence": "你 是我 的 啦",
+                    "StartMs": 0,
+                    "EndMs": 2482,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.482188
+        },
+        "RequestId": "3ff4272d-0ba7-40c1-a0c0-af4b23105135"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "ornn",
+    "id": "424370252",
+    "result": "敲他个痛快。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012739485,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.190]  敲他个痛快。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "敲他个痛快。",
+                    "SliceSentence": "敲 他 个 痛快",
+                    "StartMs": 0,
+                    "EndMs": 2190,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "敲",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "他",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "个",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "痛快",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.190875
+        },
+        "RequestId": "c390b7ec-d622-426a-b006-71b80d8ec0af"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "galio",
+    "id": "714905328",
+    "result": "啊，世界转瞬即逝。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012569692,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.496]  啊，世界转瞬即逝。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，世界转瞬即逝。",
+                    "SliceSentence": "啊 世界 转瞬即逝",
+                    "StartMs": 0,
+                    "EndMs": 3496,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "世界",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "转瞬即逝",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 3420
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.496438
+        },
+        "RequestId": "824af74d-f75f-43aa-afd5-7af28a64f8a3"
+    }
+}

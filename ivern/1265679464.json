@@ -1,0 +1,54 @@
+{
+    "character": "ivern",
+    "id": "1265679464",
+    "result": "小菊，给我来点叶子。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012583611,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.608]  小菊，给我来点叶子。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "小菊，给我来点叶子。",
+                    "SliceSentence": "小菊 给 我来 点 叶子",
+                    "StartMs": 0,
+                    "EndMs": 2608,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "小菊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "给",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "我来",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "点",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "叶子",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.6085
+        },
+        "RequestId": "cc0b013c-cf70-42ef-87c6-a0b7c77a93d8"
+    }
+}

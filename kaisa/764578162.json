@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "764578162",
+    "result": "我不会逃避。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012691905,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.457]  我不会逃避。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不会逃避。",
+                    "SliceSentence": "我 不会 逃避",
+                    "StartMs": 0,
+                    "EndMs": 1457,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "逃避",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.457313
+        },
+        "RequestId": "44269e95-afa8-45cd-907e-f9ba6109a52c"
+    }
+}

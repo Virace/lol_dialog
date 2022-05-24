@@ -1,0 +1,54 @@
+{
+    "character": "pyke",
+    "id": "1335582922",
+    "result": "我知道我是谁，差不多吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744895,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.966]  我知道我是谁，差不多吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我知道我是谁，差不多吧。",
+                    "SliceSentence": "我 知道 我是谁 差不多 吧",
+                    "StartMs": 0,
+                    "EndMs": 3966,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "我是谁",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "差不多",
+                            "OffsetStartMs": 2190,
+                            "OffsetEndMs": 2910
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 2910,
+                            "OffsetEndMs": 3270
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.966375
+        },
+        "RequestId": "c26daf50-ea27-47b5-8f1d-b94b81bdc83d"
+    }
+}

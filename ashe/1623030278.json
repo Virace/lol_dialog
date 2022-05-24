@@ -1,0 +1,39 @@
+{
+    "character": "ashe",
+    "id": "1623030278",
+    "result": "飞吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012545023,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.277]  飞吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "飞吧。",
+                    "SliceSentence": "飞 吧",
+                    "StartMs": 0,
+                    "EndMs": 1277,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "飞",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 630
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.277125
+        },
+        "RequestId": "f1715ca6-bbcc-411a-a63f-0fb9621c1e63"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "urgot",
+    "id": "1382156733",
+    "result": "正中我的下怀。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012805626,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.440]  正中我的下怀。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "正中我的下怀。",
+                    "SliceSentence": "正中 我 的 下怀",
+                    "StartMs": 0,
+                    "EndMs": 3440,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "正中",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "下怀",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.440563
+        },
+        "RequestId": "b6b7ee59-553a-47c6-bc26-3ed2be923590"
+    }
+}

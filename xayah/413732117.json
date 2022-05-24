@@ -1,0 +1,91 @@
+{
+    "character": "xayah",
+    "id": "413732117",
+    "result": "嗯。嘿嘿嘿。啊，好呀，来吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012836624,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.200,0:1.820]  嗯。\n[0:2.500,0:4.580]  嘿嘿嘿。\n[0:5.380,0:8.149]  啊，好呀，来吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯。",
+                    "SliceSentence": "嗯",
+                    "StartMs": 200,
+                    "EndMs": 1820,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 1.2,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "嘿嘿嘿。",
+                    "SliceSentence": "嘿 嘿嘿",
+                    "StartMs": 2500,
+                    "EndMs": 4580,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "嘿",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "嘿嘿",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "啊，好呀，来吧。",
+                    "SliceSentence": "啊 好 呀 来 吧",
+                    "StartMs": 5380,
+                    "EndMs": 8149,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "呀",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 8.149
+        },
+        "RequestId": "08c99d49-22b0-46a6-b40a-94fd6f297532"
+    }
+}

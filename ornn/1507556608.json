@@ -1,0 +1,39 @@
+{
+    "character": "ornn",
+    "id": "1507556608",
+    "result": "工作完成。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012738424,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.538]  工作完成。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "工作完成。",
+                    "SliceSentence": "工作 完成",
+                    "StartMs": 0,
+                    "EndMs": 1538,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "工作",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "完成",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.538375
+        },
+        "RequestId": "96f3c2db-02c5-4357-bc2d-03e2b8f7c853"
+    }
+}

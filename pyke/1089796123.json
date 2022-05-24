@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "1089796123",
+    "result": "不能把他们看丢了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744567,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.737]  不能把他们看丢了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不能把他们看丢了。",
+                    "SliceSentence": "不能把 他们 看 丢了",
+                    "StartMs": 0,
+                    "EndMs": 2737,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "不能把",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "看",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "丢了",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.7375
+        },
+        "RequestId": "8805c101-2e2d-4f3c-989c-13c8f3653564"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "drmundo",
+    "id": "666658741",
+    "result": "今天好点儿了吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012558769,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.344]  今天好点儿了吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "今天好点儿了吗？",
+                    "SliceSentence": "今天 好 点儿 了 吗",
+                    "StartMs": 0,
+                    "EndMs": 2344,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "今天",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "点儿",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.344813
+        },
+        "RequestId": "5554ec47-84bd-4941-b8bf-0a6b4b97cfb1"
+    }
+}

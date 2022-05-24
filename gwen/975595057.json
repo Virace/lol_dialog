@@ -1,0 +1,49 @@
+{
+    "character": "gwen",
+    "id": "975595057",
+    "result": "我太高兴啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012575508,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.673]  我太高兴啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我太高兴啦。",
+                    "SliceSentence": "我 太 高兴 啦",
+                    "StartMs": 0,
+                    "EndMs": 2673,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "太",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "高兴",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1020
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.673438
+        },
+        "RequestId": "415834eb-ed02-4438-93c5-18368e266989"
+    }
+}

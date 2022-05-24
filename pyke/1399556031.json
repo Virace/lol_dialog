@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "1399556031",
+    "result": "给我看看你的手。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744971,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.377]  给我看看你的手。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "给我看看你的手。",
+                    "SliceSentence": "给我 看看 你的 手",
+                    "StartMs": 0,
+                    "EndMs": 2377,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "给我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "看看",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "手",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.377438
+        },
+        "RequestId": "b17bf0e0-e948-465d-8c05-dee6ca60d2ab"
+    }
+}

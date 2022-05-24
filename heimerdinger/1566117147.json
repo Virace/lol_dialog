@@ -1,0 +1,49 @@
+{
+    "character": "heimerdinger",
+    "id": "1566117147",
+    "result": "我和你意见相同。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012576241,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.603]  我和你意见相同。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我和你意见相同。",
+                    "SliceSentence": "我和 你 意见 相同",
+                    "StartMs": 0,
+                    "EndMs": 1603,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我和",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "意见",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "相同",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 6.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.603875
+        },
+        "RequestId": "2a138d8c-4bcc-466d-a046-6b689f269ed5"
+    }
+}

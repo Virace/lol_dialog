@@ -1,0 +1,49 @@
+{
+    "character": "annie",
+    "id": "36642736",
+    "result": "我们到了吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542643,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.491]  我们到了吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们到了吗？",
+                    "SliceSentence": "我们 到 了 吗",
+                    "StartMs": 0,
+                    "EndMs": 1491,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.491813
+        },
+        "RequestId": "887ad731-904b-4f9c-acec-cf82f9227786"
+    }
+}

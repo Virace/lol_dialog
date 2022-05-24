@@ -1,0 +1,44 @@
+{
+    "character": "aphelios",
+    "id": "1454941022",
+    "result": "无人可以逃脱。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012543022,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.820]  无人可以逃脱。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "无人可以逃脱。",
+                    "SliceSentence": "无人 可以 逃脱",
+                    "StartMs": 0,
+                    "EndMs": 3820,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "无人",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "可以",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "逃脱",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.362125
+        },
+        "RequestId": "ba60d5ce-bbd6-46b6-a7ae-d011f7af743a"
+    }
+}

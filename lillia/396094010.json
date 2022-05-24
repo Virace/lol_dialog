@@ -1,0 +1,54 @@
+{
+    "character": "lillia",
+    "id": "396094010",
+    "result": "安心睡吧，做个好梦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012715803,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.700]  安心睡吧，做个好梦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "安心睡吧，做个好梦。",
+                    "SliceSentence": "安心 睡 吧 做个 好梦",
+                    "StartMs": 0,
+                    "EndMs": 3700,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "安心",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "睡",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "做个",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "好梦",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 3000
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.644
+        },
+        "RequestId": "1e20e3f0-b8df-4825-aa2d-934b80140d94"
+    }
+}

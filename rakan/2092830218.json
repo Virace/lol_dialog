@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "2092830218",
+    "result": "嘿，我知道啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012752697,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.275]  嘿，我知道啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘿，我知道啊。",
+                    "SliceSentence": "嘿 我 知道 啊",
+                    "StartMs": 0,
+                    "EndMs": 2275,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "嘿",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.275938
+        },
+        "RequestId": "f0235bff-5a4c-41c8-93f0-bf6d40eb42ed"
+    }
+}

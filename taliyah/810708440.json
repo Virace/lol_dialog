@@ -1,0 +1,54 @@
+{
+    "character": "taliyah",
+    "id": "810708440",
+    "result": "有些人该休息喽。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012794669,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.589]  有些人该休息喽。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "有些人该休息喽。",
+                    "SliceSentence": "有些 人 该 休息 喽",
+                    "StartMs": 0,
+                    "EndMs": 1589,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "有些",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "人",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "该",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "休息",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "喽",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 7.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.589688
+        },
+        "RequestId": "8b02207c-be4b-4395-9a96-1daca812130b"
+    }
+}

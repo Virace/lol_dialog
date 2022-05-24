@@ -1,0 +1,39 @@
+{
+    "character": "sett",
+    "id": "711515961",
+    "result": "喝啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012773578,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.554]  喝啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "喝啊。",
+                    "SliceSentence": "喝 啊",
+                    "StartMs": 0,
+                    "EndMs": 2554,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "喝",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1650
+                        }
+                    ],
+                    "SpeechSpeed": 1.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.554188
+        },
+        "RequestId": "e671d3a0-c649-446f-bb09-ff45ed505b6a"
+    }
+}

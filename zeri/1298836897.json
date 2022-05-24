@@ -1,0 +1,64 @@
+{
+    "character": "zeri",
+    "id": "1298836897",
+    "result": "我闻到的是烧焦的松鼠骂。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012850959,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.605]  我闻到的是烧焦的松鼠骂。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我闻到的是烧焦的松鼠骂。",
+                    "SliceSentence": "我 闻到 的是 烧焦 的 松鼠 骂",
+                    "StartMs": 0,
+                    "EndMs": 3605,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "闻到",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "的是",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "烧焦",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "松鼠",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "骂",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 3090
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.605313
+        },
+        "RequestId": "45978792-bae9-4d56-acd3-a6673eb0a5c2"
+    }
+}

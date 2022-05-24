@@ -1,0 +1,44 @@
+{
+    "character": "sejuani",
+    "id": "1086961717",
+    "result": "我为征服而生。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012767407,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.623]  我为征服而生。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我为征服而生。",
+                    "SliceSentence": "我为 征服 而生",
+                    "StartMs": 0,
+                    "EndMs": 2623,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我为",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "征服",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "而生",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.623875
+        },
+        "RequestId": "cc7b6fb7-f48e-4267-8368-ec9925e9a1fb"
+    }
+}

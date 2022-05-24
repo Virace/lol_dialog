@@ -1,0 +1,54 @@
+{
+    "character": "viktor",
+    "id": "511313774",
+    "result": "我是第一个献身者。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012814941,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.645]  我是第一个献身者。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我是第一个献身者。",
+                    "SliceSentence": "我 是 第一个 献身 者",
+                    "StartMs": 0,
+                    "EndMs": 2645,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "第一个",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "献身",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "者",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2430
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.645938
+        },
+        "RequestId": "2fc33768-0a32-48aa-991f-1b879ae25d42"
+    }
+}

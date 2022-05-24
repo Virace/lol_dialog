@@ -1,0 +1,49 @@
+{
+    "character": "viego",
+    "id": "1401715282",
+    "result": "黑雾永不饱足。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012813133,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.815]  黑雾永不饱足。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "黑雾永不饱足。",
+                    "SliceSentence": "黑雾 永不 饱 足",
+                    "StartMs": 0,
+                    "EndMs": 3815,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "黑雾",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "永不",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "饱",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "足",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2190
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.815938
+        },
+        "RequestId": "f61aa39a-e8b6-4876-a877-58fbefd66634"
+    }
+}

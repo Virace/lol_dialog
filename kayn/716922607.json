@@ -1,0 +1,44 @@
+{
+    "character": "kayn",
+    "id": "716922607",
+    "result": "找到你了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012702662,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.206]  找到你了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "找到你了。",
+                    "SliceSentence": "找到 你 了",
+                    "StartMs": 0,
+                    "EndMs": 1206,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "找到",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 5.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.206
+        },
+        "RequestId": "c59e74a5-857d-4f7d-be70-1a9843e1f559"
+    }
+}

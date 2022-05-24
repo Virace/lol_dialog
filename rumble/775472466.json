@@ -1,0 +1,64 @@
+{
+    "character": "rumble",
+    "id": "775472466",
+    "result": "发射，哎哎，它需要脚踏启动。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012763564,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.407]  发射，哎哎，它需要脚踏启动。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "发射，哎哎，它需要脚踏启动。",
+                    "SliceSentence": "发射 哎 哎 它 需要 脚踏 启动",
+                    "StartMs": 0,
+                    "EndMs": 5407,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "发射",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "哎",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "哎",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 3600
+                        },
+                        {
+                            "Word": "它",
+                            "OffsetStartMs": 3630,
+                            "OffsetEndMs": 3810
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 3810,
+                            "OffsetEndMs": 4170
+                        },
+                        {
+                            "Word": "脚踏",
+                            "OffsetStartMs": 4170,
+                            "OffsetEndMs": 4650
+                        },
+                        {
+                            "Word": "启动",
+                            "OffsetStartMs": 4650,
+                            "OffsetEndMs": 5220
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.407813
+        },
+        "RequestId": "c17f325a-270a-43c1-b3e1-fa03492d1fea"
+    }
+}

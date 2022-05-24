@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "2120673381",
+    "result": "我们要吃巧克力。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012752760,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.566]  我们要吃巧克力。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们要吃巧克力。",
+                    "SliceSentence": "我们 要 吃 巧克力",
+                    "StartMs": 0,
+                    "EndMs": 1566,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "吃",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "巧克力",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 7.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.56625
+        },
+        "RequestId": "bdf50cc2-de53-40a1-a116-fa8e77b17622"
+    }
+}

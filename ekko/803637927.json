@@ -1,0 +1,54 @@
+{
+    "character": "ekko",
+    "id": "803637927",
+    "result": "已经各种警告过了哟。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560342,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.592]  已经各种警告过了哟。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "已经各种警告过了哟。",
+                    "SliceSentence": "已经 各种 警告 过了 哟",
+                    "StartMs": 0,
+                    "EndMs": 1592,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "各种",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "警告",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "过了",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "哟",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 8.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.592688
+        },
+        "RequestId": "329babda-11d8-40b0-89cb-53cbebc3baac"
+    }
+}

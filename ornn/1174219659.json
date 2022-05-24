@@ -1,0 +1,39 @@
+{
+    "character": "ornn",
+    "id": "1174219659",
+    "result": "陈若。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012737915,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.152]  陈若。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "陈若。",
+                    "SliceSentence": "陈 若",
+                    "StartMs": 0,
+                    "EndMs": 1152,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "陈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "若",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.152313
+        },
+        "RequestId": "4c1c56be-cc37-44b8-88f4-be355310b597"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "xayah",
+    "id": "108757112",
+    "result": "你要是不想干的话。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012833795,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.561]  你要是不想干的话。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你要是不想干的话。",
+                    "SliceSentence": "你 要是 不想 干 的话",
+                    "StartMs": 0,
+                    "EndMs": 1561,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 60
+                        },
+                        {
+                            "Word": "要是",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "不想",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "干",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "的话",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 8.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.561375
+        },
+        "RequestId": "ee867e57-4cb3-4c93-8bff-c09f7e0a4795"
+    }
+}

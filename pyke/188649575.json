@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "188649575",
+    "result": "我辅助的可好。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745598,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.761]  我辅助的可好。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我辅助的可好。",
+                    "SliceSentence": "我 辅助 的 可好",
+                    "StartMs": 0,
+                    "EndMs": 2761,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "辅助",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "可好",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.76125
+        },
+        "RequestId": "c1978313-59f6-40e3-80d9-ffac04332dfc"
+    }
+}

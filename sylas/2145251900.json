@@ -1,0 +1,44 @@
+{
+    "character": "sylas",
+    "id": "2145251900",
+    "result": "你就只会这个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012787290,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.191]  你就只会这个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你就只会这个。",
+                    "SliceSentence": "你就 只会 这个",
+                    "StartMs": 0,
+                    "EndMs": 1191,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你就",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "只会",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 7.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.191875
+        },
+        "RequestId": "69848465-a891-450a-85bd-028b0d345929"
+    }
+}

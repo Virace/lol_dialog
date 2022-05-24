@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "1883328052",
+    "result": "你在想我吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012751815,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.357]  你在想我吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你在想我吗？",
+                    "SliceSentence": "你在 想 我 吗",
+                    "StartMs": 0,
+                    "EndMs": 1357,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "想",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 6.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.357688
+        },
+        "RequestId": "d06aadcf-eece-4499-a66f-0a155f0523cc"
+    }
+}

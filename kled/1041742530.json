@@ -1,0 +1,49 @@
+{
+    "character": "kled",
+    "id": "1041742530",
+    "result": "我得一直睁大眼睛。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012706112,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.785]  我得一直睁大眼睛。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我得一直睁大眼睛。",
+                    "SliceSentence": "我 得 一直 睁大眼睛",
+                    "StartMs": 0,
+                    "EndMs": 2785,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "得",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "一直",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "睁大眼睛",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.785313
+        },
+        "RequestId": "dd0ea068-e745-4254-9be0-c706871fc6b9"
+    }
+}

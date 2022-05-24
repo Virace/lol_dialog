@@ -1,0 +1,39 @@
+{
+    "character": "fiora",
+    "id": "2127569367",
+    "result": "动作太慢。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012567450,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.741]  动作太慢。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "动作太慢。",
+                    "SliceSentence": "动作 太慢",
+                    "StartMs": 0,
+                    "EndMs": 1741,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "动作",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "太慢",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.7415
+        },
+        "RequestId": "55f0d298-dc2a-4d17-b2a6-75e2b4e5f671"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "jhin",
+    "id": "158487700",
+    "result": "我被这种激情损无益。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012685233,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.820]  我被这种激情损无益。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我被这种激情损无益。",
+                    "SliceSentence": "我被 这种 激情 损 无益",
+                    "StartMs": 0,
+                    "EndMs": 3820,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我被",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "这种",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "激情",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "损",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "无益",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 2730
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.019188
+        },
+        "RequestId": "0e99ed6c-b411-43ae-b544-ce3a2ab3c32a"
+    }
+}

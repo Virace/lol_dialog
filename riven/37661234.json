@@ -1,0 +1,44 @@
+{
+    "character": "riven",
+    "id": "37661234",
+    "result": "别再犹豫啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012763035,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.272]  别再犹豫啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别再犹豫啦。",
+                    "SliceSentence": "别再 犹豫 啦",
+                    "StartMs": 0,
+                    "EndMs": 1272,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "别再",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "犹豫",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.272188
+        },
+        "RequestId": "e00cc15e-12fd-4729-82cf-bda05ebf1bc6"
+    }
+}

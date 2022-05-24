@@ -1,0 +1,49 @@
+{
+    "character": "jhin",
+    "id": "634714670",
+    "result": "金色是我的主调。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012686227,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.140]  金色是我的主调。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "金色是我的主调。",
+                    "SliceSentence": "金色 是我 的 主调",
+                    "StartMs": 0,
+                    "EndMs": 4140,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "金色",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "主调",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 3180
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.308688
+        },
+        "RequestId": "6b17939c-123a-4c2c-9522-c196dde07c86"
+    }
+}

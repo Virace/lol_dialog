@@ -1,0 +1,39 @@
+{
+    "character": "vladimir",
+    "id": "956950235",
+    "result": "哼哼哼哼。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012815436,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.666]  哼哼哼哼。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼哼哼哼。",
+                    "SliceSentence": "哼哼 哼哼",
+                    "StartMs": 0,
+                    "EndMs": 1666,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "哼哼",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.666688
+        },
+        "RequestId": "841bfc74-e2d0-49cb-abe9-de4ca9645dc1"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "orianna",
+    "id": "247765384",
+    "result": "我们走。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012737517,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.071]  我们走。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们走。",
+                    "SliceSentence": "我们 走",
+                    "StartMs": 0,
+                    "EndMs": 1071,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "走",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 990
+                        }
+                    ],
+                    "SpeechSpeed": 4.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.071
+        },
+        "RequestId": "ea4b3efb-383e-4b8a-ac70-f1500983db8c"
+    }
+}

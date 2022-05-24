@@ -1,0 +1,54 @@
+{
+    "character": "vi",
+    "id": "434398073",
+    "result": "计划？我可不需要计划。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012812540,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.020,0:3.325]  计划？我可不需要计划。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "计划？我可不需要计划。",
+                    "SliceSentence": "计划 我 可不 需要 计划",
+                    "StartMs": 20,
+                    "EndMs": 3325,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "计划",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "可不",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2490
+                        },
+                        {
+                            "Word": "计划",
+                            "OffsetStartMs": 2490,
+                            "OffsetEndMs": 3150
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.325063
+        },
+        "RequestId": "b5571451-6f68-48db-bde5-07ae1e691033"
+    }
+}

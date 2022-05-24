@@ -1,0 +1,49 @@
+{
+    "character": "kled",
+    "id": "688835039",
+    "result": "我要杀你全家。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012709050,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.084]  我要杀你全家。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要杀你全家。",
+                    "SliceSentence": "我要 杀 你 全家",
+                    "StartMs": 0,
+                    "EndMs": 2084,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "杀",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "全家",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.084063
+        },
+        "RequestId": "64a22a96-4205-4631-9ac6-c1034c86d33a"
+    }
+}

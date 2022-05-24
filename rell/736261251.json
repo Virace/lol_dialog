@@ -1,0 +1,44 @@
+{
+    "character": "rell",
+    "id": "736261251",
+    "result": "我现在很生气。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012758975,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.689]  我现在很生气。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我现在很生气。",
+                    "SliceSentence": "我 现在 很生气",
+                    "StartMs": 0,
+                    "EndMs": 1689,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "很生气",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.689438
+        },
+        "RequestId": "80ee4f1f-4512-46cd-8615-5f1bd8601b90"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "karthus",
+    "id": "667973141",
+    "result": "你的大限一致。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012696266,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.677]  你的大限一致。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你的大限一致。",
+                    "SliceSentence": "你的 大限 一致",
+                    "StartMs": 0,
+                    "EndMs": 3677,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "大限",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "一致",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 2850
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.677438
+        },
+        "RequestId": "093880c2-7ce5-46f4-aef9-9f8025034978"
+    }
+}

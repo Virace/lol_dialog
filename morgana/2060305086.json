@@ -1,0 +1,39 @@
+{
+    "character": "morgana",
+    "id": "2060305086",
+    "result": "好好体会。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012726887,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.058]  好好体会。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好好体会。",
+                    "SliceSentence": "好好 体会",
+                    "StartMs": 0,
+                    "EndMs": 2058,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "好好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "体会",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.0585
+        },
+        "RequestId": "af4a8f01-603b-4409-8727-337650f84ddd"
+    }
+}

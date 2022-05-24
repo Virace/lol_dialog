@@ -1,0 +1,59 @@
+{
+    "character": "xerath",
+    "id": "589107178",
+    "result": "我是不会被推翻的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012839523,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.881]  我是不会被推翻的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我是不会被推翻的。",
+                    "SliceSentence": "我 是 不会 被 推翻 的",
+                    "StartMs": 0,
+                    "EndMs": 3881,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "被",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "推翻",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 3210
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 3210,
+                            "OffsetEndMs": 3750
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.881625
+        },
+        "RequestId": "3319f45f-5dff-4bb2-9f34-485eb892c44d"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "neeko",
+    "id": "760170609",
+    "result": "啊，我开玩笑的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012730775,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.760]  啊，我开玩笑的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊，我开玩笑的。",
+                    "SliceSentence": "啊 我 开玩笑 的",
+                    "StartMs": 0,
+                    "EndMs": 5760,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 3210,
+                            "OffsetEndMs": 3510
+                        },
+                        {
+                            "Word": "开玩笑",
+                            "OffsetStartMs": 3510,
+                            "OffsetEndMs": 4020
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 4020,
+                            "OffsetEndMs": 4230
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 8.127
+        },
+        "RequestId": "490d2ed3-d543-4cb0-8937-b1945515a41e"
+    }
+}

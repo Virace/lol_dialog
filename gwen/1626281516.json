@@ -1,0 +1,39 @@
+{
+    "character": "gwen",
+    "id": "1626281516",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012574271,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.331]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 3331,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.3315
+        },
+        "RequestId": "46aec26f-906c-4b9b-b052-198c8543829b"
+    }
+}

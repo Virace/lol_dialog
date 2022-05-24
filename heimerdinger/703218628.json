@@ -1,0 +1,49 @@
+{
+    "character": "heimerdinger",
+    "id": "703218628",
+    "result": "这是怎样一种反应？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012576724,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.615]  这是怎样一种反应？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是怎样一种反应？",
+                    "SliceSentence": "这是 怎样 一种 反应",
+                    "StartMs": 0,
+                    "EndMs": 1615,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "怎样",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "一种",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "反应",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.615
+        },
+        "RequestId": "c11cba95-dd02-4118-b39a-07caee802af2"
+    }
+}

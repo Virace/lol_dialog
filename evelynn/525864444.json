@@ -1,0 +1,59 @@
+{
+    "character": "evelynn",
+    "id": "525864444",
+    "result": "想停下来求我呀。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012564026,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.900]  想停下来求我呀。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "想停下来求我呀。",
+                    "SliceSentence": "想 停下 来 求 我 呀",
+                    "StartMs": 0,
+                    "EndMs": 3900,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "想",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "停下",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "求",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "呀",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 3210
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.017063
+        },
+        "RequestId": "4ec5bf7b-df64-40d0-9897-d9080cba5531"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "nautilus",
+    "id": "777221916",
+    "result": "我不会停息。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012729279,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.840]  我不会停息。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不会停息。",
+                    "SliceSentence": "我 不会 停息",
+                    "StartMs": 0,
+                    "EndMs": 4840,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1410
+                        },
+                        {
+                            "Word": "停息",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.681625
+        },
+        "RequestId": "ba5d65ab-974f-4075-888c-b0ad1ae3f2e2"
+    }
+}

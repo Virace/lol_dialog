@@ -1,0 +1,49 @@
+{
+    "character": "azir",
+    "id": "575632482",
+    "result": "皇帝可用不上男爵。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012549010,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.265]  皇帝可用不上男爵。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "皇帝可用不上男爵。",
+                    "SliceSentence": "皇帝 可用 不上 男爵",
+                    "StartMs": 0,
+                    "EndMs": 3265,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "皇帝",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "可用",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "不上",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "男爵",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2790
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.265
+        },
+        "RequestId": "0d8e24d7-2c67-4362-ac2a-13721baae752"
+    }
+}

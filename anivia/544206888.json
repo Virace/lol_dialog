@@ -1,0 +1,49 @@
+{
+    "character": "anivia",
+    "id": "544206888",
+    "result": "我将得到重生。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542432,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.786]  我将得到重生。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我将得到重生。",
+                    "SliceSentence": "我 将 得到 重生",
+                    "StartMs": 0,
+                    "EndMs": 2786,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "将",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "得到",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "重生",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 2640
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.786375
+        },
+        "RequestId": "bab139f6-1dda-4933-a228-57f4f016492e"
+    }
+}

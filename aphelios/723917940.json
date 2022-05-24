@@ -1,0 +1,50 @@
+{
+    "character": "aphelios",
+    "id": "723917940",
+    "result": "哼。哎。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012544232,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.460]  哼。\n[0:3.660,0:5.760]  哎。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼。",
+                    "SliceSentence": "哼",
+                    "StartMs": 0,
+                    "EndMs": 1460,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        }
+                    ],
+                    "SpeechSpeed": 1.4,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "哎。",
+                    "SliceSentence": "哎",
+                    "StartMs": 3660,
+                    "EndMs": 5760,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "哎",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 1.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.640938
+        },
+        "RequestId": "4cebea86-0d50-4907-9232-1ecfa8f142f7"
+    }
+}

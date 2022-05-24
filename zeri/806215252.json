@@ -1,0 +1,54 @@
+{
+    "character": "zeri",
+    "id": "806215252",
+    "result": "我爸居然还说我不懂事。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012852849,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.560]  我爸居然还说我不懂事。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我爸居然还说我不懂事。",
+                    "SliceSentence": "我爸 居然 还说 我不 懂事",
+                    "StartMs": 0,
+                    "EndMs": 2560,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我爸",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "居然",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "还说",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "懂事",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.56
+        },
+        "RequestId": "578c2a14-a88d-4a48-b9fc-f48191afcb4b"
+    }
+}

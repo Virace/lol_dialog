@@ -1,0 +1,59 @@
+{
+    "character": "sett",
+    "id": "1861223927",
+    "result": "好，我现在热身完毕啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012772814,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.506]  好，我现在热身完毕啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好，我现在热身完毕啦。",
+                    "SliceSentence": "好 我 现在 热身 完毕 啦",
+                    "StartMs": 0,
+                    "EndMs": 3506,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "现在",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "热身",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "完毕",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 2790
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.50625
+        },
+        "RequestId": "bf24cf07-100f-4bc2-b230-721a32cb3255"
+    }
+}

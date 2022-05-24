@@ -1,0 +1,49 @@
+{
+    "character": "sylas",
+    "id": "1960473972",
+    "result": "他们要逃命喽。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012787198,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.670]  他们要逃命喽。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "他们要逃命喽。",
+                    "SliceSentence": "他们 要 逃命 喽",
+                    "StartMs": 0,
+                    "EndMs": 1670,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "逃命",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "喽",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.670063
+        },
+        "RequestId": "40b82799-3290-4997-bfd2-322bb9a8af60"
+    }
+}

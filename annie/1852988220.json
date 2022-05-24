@@ -1,0 +1,59 @@
+{
+    "character": "annie",
+    "id": "1852988220",
+    "result": "我们一起数到五吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012542577,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.120,0:2.596]  我们一起数到五吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们一起数到五吧。",
+                    "SliceSentence": "我们 一起 数 到 五 吧",
+                    "StartMs": 120,
+                    "EndMs": 2596,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "一起",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "数",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "五",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.596
+        },
+        "RequestId": "bd8015b2-e4e4-4600-af0c-33fc717373af"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "ashe",
+    "id": "1119300663",
+    "result": "我的仁慈是有限的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012544573,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.298]  我的仁慈是有限的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的仁慈是有限的。",
+                    "SliceSentence": "我 的 仁慈 是有 限 的",
+                    "StartMs": 0,
+                    "EndMs": 2298,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "仁慈",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "是有",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "限",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.298813
+        },
+        "RequestId": "f2441376-5bb0-4c18-9fc0-aba29ba07cb2"
+    }
+}

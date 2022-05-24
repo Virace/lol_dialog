@@ -1,0 +1,44 @@
+{
+    "character": "yuumi",
+    "id": "1419764096",
+    "result": "跑起来吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012846681,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.911]  跑起来吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "跑起来吧。",
+                    "SliceSentence": "跑 起来 吧",
+                    "StartMs": 0,
+                    "EndMs": 911,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "跑",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "起来",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 750
+                        }
+                    ],
+                    "SpeechSpeed": 7.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.9115
+        },
+        "RequestId": "4fbf2ade-780d-4220-8302-319ec00be6c3"
+    }
+}

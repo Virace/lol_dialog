@@ -1,0 +1,54 @@
+{
+    "character": "taliyah",
+    "id": "138338242",
+    "result": "你站在了震源上。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012791893,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.597]  你站在了震源上。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你站在了震源上。",
+                    "SliceSentence": "你 站在 了 震源 上",
+                    "StartMs": 0,
+                    "EndMs": 1597,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 60
+                        },
+                        {
+                            "Word": "站在",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "震源",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "上",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 7.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.597875
+        },
+        "RequestId": "8bb3e61e-d17c-4371-880f-f640e870c4af"
+    }
+}

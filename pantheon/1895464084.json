@@ -1,0 +1,44 @@
+{
+    "character": "pantheon",
+    "id": "1895464084",
+    "result": "不成功便成仁。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012741559,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.692]  不成功便成仁。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不成功便成仁。",
+                    "SliceSentence": "不成功 便 成仁",
+                    "StartMs": 0,
+                    "EndMs": 3692,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "不成功",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "便",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "成仁",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2280
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.692
+        },
+        "RequestId": "5f841b00-0f01-422e-aa06-265f41abdcba"
+    }
+}

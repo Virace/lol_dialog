@@ -1,0 +1,54 @@
+{
+    "character": "evelynn",
+    "id": "1934746054",
+    "result": "我的快乐，你的痛苦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012562780,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.080]  我的快乐，你的痛苦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的快乐，你的痛苦。",
+                    "SliceSentence": "我 的 快乐 你的 痛苦",
+                    "StartMs": 0,
+                    "EndMs": 5080,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "快乐",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2580
+                        },
+                        {
+                            "Word": "痛苦",
+                            "OffsetStartMs": 2580,
+                            "OffsetEndMs": 5010
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 7.5465
+        },
+        "RequestId": "6c39c210-bbe6-4b1e-8c31-8b21b036d2fe"
+    }
+}

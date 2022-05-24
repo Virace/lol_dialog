@@ -1,0 +1,39 @@
+{
+    "character": "illaoi",
+    "id": "928728514",
+    "result": "I talk。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012579721,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.851]  I talk。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "I talk。",
+                    "SliceSentence": "I talk",
+                    "StartMs": 0,
+                    "EndMs": 851,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "I",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "talk",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 8.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.851688
+        },
+        "RequestId": "db782f7f-3551-427c-b37b-56c9a2d4147a"
+    }
+}

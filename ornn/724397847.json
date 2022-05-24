@@ -1,0 +1,49 @@
+{
+    "character": "ornn",
+    "id": "724397847",
+    "result": "你的工作不是送死。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012740024,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.359]  你的工作不是送死。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你的工作不是送死。",
+                    "SliceSentence": "你的 工作 不是 送死",
+                    "StartMs": 0,
+                    "EndMs": 2359,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "工作",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "送死",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.359375
+        },
+        "RequestId": "dd8a1d20-d14f-430f-a684-99446a6d3278"
+    }
+}

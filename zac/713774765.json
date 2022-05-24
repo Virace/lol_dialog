@@ -1,0 +1,39 @@
+{
+    "character": "zac",
+    "id": "713774765",
+    "result": "啊啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012849437,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.428]  啊啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊啊。",
+                    "SliceSentence": "啊 啊",
+                    "StartMs": 0,
+                    "EndMs": 3428,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 3060
+                        }
+                    ],
+                    "SpeechSpeed": 1.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.428063
+        },
+        "RequestId": "b9d102d6-43f7-4006-8d5a-ba87b616215c"
+    }
+}

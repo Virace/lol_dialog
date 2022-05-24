@@ -1,0 +1,70 @@
+{
+    "character": "ashe",
+    "id": "1644560475",
+    "result": "瑟庄妮。再见了，姐妹。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012545038,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.860]  瑟庄妮。\n[0:1.860,0:4.156]  再见了，姐妹。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "瑟庄妮。",
+                    "SliceSentence": "瑟 庄 妮",
+                    "StartMs": 0,
+                    "EndMs": 1860,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "瑟",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "庄",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "妮",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "再见了，姐妹。",
+                    "SliceSentence": "再见 了 姐妹",
+                    "StartMs": 1860,
+                    "EndMs": 4156,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "再见",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "姐妹",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 3.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.156375
+        },
+        "RequestId": "07f8ed7a-744c-4f92-9835-274aed4e35a7"
+    }
+}

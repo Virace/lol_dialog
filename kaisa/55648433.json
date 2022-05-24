@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "55648433",
+    "result": "到处都是怪物。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012691030,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.436]  到处都是怪物。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "到处都是怪物。",
+                    "SliceSentence": "到处 都是 怪物",
+                    "StartMs": 0,
+                    "EndMs": 1436,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "到处",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "都是",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "怪物",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.436
+        },
+        "RequestId": "35e1375d-fe8c-46c9-af7a-004c7de565c1"
+    }
+}

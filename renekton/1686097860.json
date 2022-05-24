@@ -1,0 +1,49 @@
+{
+    "character": "renekton",
+    "id": "1686097860",
+    "result": "混乱将随口而至。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012761474,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.018]  混乱将随口而至。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "混乱将随口而至。",
+                    "SliceSentence": "混乱 将 随口 而至",
+                    "StartMs": 0,
+                    "EndMs": 3018,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "混乱",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "将",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "随口",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "而至",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.018625
+        },
+        "RequestId": "8eb613b6-e9dc-4234-8486-9c953713a852"
+    }
+}

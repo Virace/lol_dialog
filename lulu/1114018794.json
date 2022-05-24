@@ -1,0 +1,44 @@
+{
+    "character": "lulu",
+    "id": "1114018794",
+    "result": "我们上喽。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718717,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.591]  我们上喽。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们上喽。",
+                    "SliceSentence": "我们 上 喽",
+                    "StartMs": 0,
+                    "EndMs": 1591,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "上",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "喽",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.591688
+        },
+        "RequestId": "bf186a9b-f777-4dcd-9850-c9203c0dbb8f"
+    }
+}

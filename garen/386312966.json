@@ -1,0 +1,59 @@
+{
+    "character": "garen",
+    "id": "386312966",
+    "result": "我们的行为是正义的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012572289,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.117]  我们的行为是正义的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们的行为是正义的。",
+                    "SliceSentence": "我们 的 行为 是 正义 的",
+                    "StartMs": 0,
+                    "EndMs": 2117,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "行为",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "正义",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 7.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.1175
+        },
+        "RequestId": "43fe85e8-2f06-48e3-bf3a-95a651c4a394"
+    }
+}

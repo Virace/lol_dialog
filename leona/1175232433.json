@@ -1,0 +1,39 @@
+{
+    "character": "leona",
+    "id": "1175232433",
+    "result": "守在前线。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012714089,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.048]  守在前线。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "守在前线。",
+                    "SliceSentence": "守在 前线",
+                    "StartMs": 0,
+                    "EndMs": 2048,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "守在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "前线",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.048313
+        },
+        "RequestId": "8ec1ebeb-692f-4bc4-851b-9a546f22a42b"
+    }
+}

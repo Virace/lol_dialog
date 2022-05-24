@@ -1,0 +1,54 @@
+{
+    "character": "camille",
+    "id": "303826115",
+    "result": "该是收割的时候了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552869,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.105]  该是收割的时候了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "该是收割的时候了。",
+                    "SliceSentence": "该是 收割 的 时候 了",
+                    "StartMs": 0,
+                    "EndMs": 2105,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "该是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "收割",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "时候",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.10575
+        },
+        "RequestId": "4eea2754-aae2-4836-9ad3-fb7ac8d1afd0"
+    }
+}

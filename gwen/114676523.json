@@ -1,0 +1,84 @@
+{
+    "character": "gwen",
+    "id": "114676523",
+    "result": "我听到有人说话，你好差劲，别人说的不是我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012573896,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:6.101]  我听到有人说话，你好差劲，别人说的不是我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我听到有人说话，你好差劲，别人说的不是我。",
+                    "SliceSentence": "我 听到 有人 说话 你好 差劲 别人 说 的 不 是我",
+                    "StartMs": 0,
+                    "EndMs": 6101,
+                    "WordsNum": 11,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "听到",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "有人",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "说话",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "你好",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "差劲",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2850
+                        },
+                        {
+                            "Word": "别人",
+                            "OffsetStartMs": 3240,
+                            "OffsetEndMs": 3510
+                        },
+                        {
+                            "Word": "说",
+                            "OffsetStartMs": 3510,
+                            "OffsetEndMs": 3660
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 3660,
+                            "OffsetEndMs": 3840
+                        },
+                        {
+                            "Word": "不",
+                            "OffsetStartMs": 4140,
+                            "OffsetEndMs": 4260
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 4260,
+                            "OffsetEndMs": 4680
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.101938
+        },
+        "RequestId": "3a28ee55-0819-4ae7-bcaf-7eb3a313f22f"
+    }
+}

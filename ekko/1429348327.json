@@ -1,0 +1,39 @@
+{
+    "character": "ekko",
+    "id": "1429348327",
+    "result": "成功了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012559400,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.640]  成功了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "成功了。",
+                    "SliceSentence": "成功 了",
+                    "StartMs": 0,
+                    "EndMs": 640,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "成功",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 570
+                        }
+                    ],
+                    "SpeechSpeed": 7.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.640688
+        },
+        "RequestId": "514e9346-7864-4cfe-919b-926387b71b99"
+    }
+}

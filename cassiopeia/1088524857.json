@@ -1,0 +1,70 @@
+{
+    "character": "cassiopeia",
+    "id": "1088524857",
+    "result": "我马上就回来。要想我呀。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012554636,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.160]  我马上就回来。\n[0:2.160,0:3.428]  要想我呀。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我马上就回来。",
+                    "SliceSentence": "我 马上就 回来",
+                    "StartMs": 0,
+                    "EndMs": 2160,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "马上就",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "回来",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "要想我呀。",
+                    "SliceSentence": "要想 我 呀",
+                    "StartMs": 2160,
+                    "EndMs": 3428,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "要想",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "呀",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.428563
+        },
+        "RequestId": "56ce8c10-077c-479e-8c43-e6c28a613d92"
+    }
+}

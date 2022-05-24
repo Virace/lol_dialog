@@ -1,0 +1,49 @@
+{
+    "character": "illaoi",
+    "id": "143108289",
+    "result": "你正在动，亲爱的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012577151,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.111]  你正在动，亲爱的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你正在动，亲爱的。",
+                    "SliceSentence": "你 正在 动 亲爱的",
+                    "StartMs": 0,
+                    "EndMs": 2111,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "动",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "亲爱的",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.111563
+        },
+        "RequestId": "ca2a0b6e-6e77-4837-b225-9465e0b28778"
+    }
+}

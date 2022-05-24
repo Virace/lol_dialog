@@ -1,0 +1,49 @@
+{
+    "character": "akshan",
+    "id": "638067004",
+    "result": "嗯，好疼啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012541424,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.114]  嗯，好疼啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯，好疼啊。",
+                    "SliceSentence": "嗯 好 疼 啊",
+                    "StartMs": 0,
+                    "EndMs": 3114,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "疼",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.114688
+        },
+        "RequestId": "e6e3902f-0ff7-417b-8c2d-cb49bf9d39bc"
+    }
+}

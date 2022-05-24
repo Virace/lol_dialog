@@ -1,0 +1,54 @@
+{
+    "character": "ivern",
+    "id": "1991581342",
+    "result": "嗯嗯嗯，滴滴滴滴。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012584888,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.655]  嗯嗯嗯，滴滴滴滴。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯嗯嗯，滴滴滴滴。",
+                    "SliceSentence": "嗯 嗯 嗯 滴滴 滴滴",
+                    "StartMs": 0,
+                    "EndMs": 3655,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "滴滴",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "滴滴",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 3180
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.655875
+        },
+        "RequestId": "a179f580-ed51-473c-b533-c2c4466bcac7"
+    }
+}

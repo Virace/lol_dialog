@@ -1,0 +1,49 @@
+{
+    "character": "ivern",
+    "id": "481128677",
+    "result": "我珍视这精华。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012682419,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.920]  我珍视这精华。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我珍视这精华。",
+                    "SliceSentence": "我 珍视 这 精华",
+                    "StartMs": 0,
+                    "EndMs": 2920,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "珍视",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1140
+                        },
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 1140,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "精华",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 2850
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.920063
+        },
+        "RequestId": "efdc722e-1ba9-47b5-bfff-1c5cf744de00"
+    }
+}

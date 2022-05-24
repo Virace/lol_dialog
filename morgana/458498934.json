@@ -1,0 +1,49 @@
+{
+    "character": "morgana",
+    "id": "458498934",
+    "result": "不需要光明也能看清。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012727117,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.943]  不需要光明也能看清。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不需要光明也能看清。",
+                    "SliceSentence": "不需要 光明 也能 看清",
+                    "StartMs": 0,
+                    "EndMs": 2943,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "不需要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "光明",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "也能",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "看清",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2610
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.94375
+        },
+        "RequestId": "5ee36a36-c113-4d2d-a910-4bb46601ea99"
+    }
+}

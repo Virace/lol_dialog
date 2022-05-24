@@ -1,0 +1,44 @@
+{
+    "character": "masteryi",
+    "id": "1458204826",
+    "result": "好好看，好好学。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012722956,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.210]  好好看，好好学。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好好看，好好学。",
+                    "SliceSentence": "好好 看好 好学",
+                    "StartMs": 0,
+                    "EndMs": 3210,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "好好",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "看好",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "好学",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2880
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.210438
+        },
+        "RequestId": "78c71360-acf8-4e50-9782-a485b9c2a9b8"
+    }
+}

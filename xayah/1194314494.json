@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "1194314494",
+    "result": "答得好。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012834087,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.208]  答得好。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "答得好。",
+                    "SliceSentence": "答 得 好",
+                    "StartMs": 0,
+                    "EndMs": 1208,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "答",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "得",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 930
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.208438
+        },
+        "RequestId": "c83468e9-d350-4b1d-977d-bcda8a95fc97"
+    }
+}

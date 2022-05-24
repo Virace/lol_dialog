@@ -1,0 +1,49 @@
+{
+    "character": "taliyah",
+    "id": "362601322",
+    "result": "我必须完成使命。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012792840,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.530]  我必须完成使命。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我必须完成使命。",
+                    "SliceSentence": "我 必须 完成 使命",
+                    "StartMs": 0,
+                    "EndMs": 1530,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "必须",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "完成",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "使命",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 7.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.530688
+        },
+        "RequestId": "e881ecf3-47fe-4885-8d45-6802158d263b"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "character": "akali",
+    "id": "1440399764",
+    "result": "我一个人干活，这对大家都好。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012539039,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.982]  我一个人干活，这对大家都好。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我一个人干活，这对大家都好。",
+                    "SliceSentence": "我 一个人 干活 这 对 大家都 好",
+                    "StartMs": 0,
+                    "EndMs": 2982,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "一个人",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "干活",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 1770
+                        },
+                        {
+                            "Word": "对",
+                            "OffsetStartMs": 1770,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "大家都",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 2790
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.982125
+        },
+        "RequestId": "ccd809db-35fe-4350-bb1c-bb14ecba56b1"
+    }
+}

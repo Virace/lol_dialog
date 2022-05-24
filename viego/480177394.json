@@ -1,0 +1,44 @@
+{
+    "character": "viego",
+    "id": "480177394",
+    "result": "我心如狂潮。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012814149,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.664]  我心如狂潮。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我心如狂潮。",
+                    "SliceSentence": "我心 如 狂潮",
+                    "StartMs": 0,
+                    "EndMs": 3664,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我心",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "如",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "狂潮",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 2.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.664813
+        },
+        "RequestId": "ad197860-7791-4c7e-82ab-1ee2fff8c1d0"
+    }
+}

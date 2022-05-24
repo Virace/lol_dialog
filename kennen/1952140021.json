@@ -1,0 +1,44 @@
+{
+    "character": "kennen",
+    "id": "1952140021",
+    "result": "该出击了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012703457,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.180,0:2.025]  该出击了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "该出击了。",
+                    "SliceSentence": "该 出击 了",
+                    "StartMs": 180,
+                    "EndMs": 2025,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "该",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "出击",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.0255
+        },
+        "RequestId": "3d70a67b-812a-4d85-b3d0-24fdebb0f77c"
+    }
+}

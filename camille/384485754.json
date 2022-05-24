@@ -1,0 +1,59 @@
+{
+    "character": "camille",
+    "id": "384485754",
+    "result": "这不过是我的专长而已。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553193,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.150]  这不过是我的专长而已。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这不过是我的专长而已。",
+                    "SliceSentence": "这 不过 是我 的 专长 而已",
+                    "StartMs": 0,
+                    "EndMs": 2150,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "不过",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "是我",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "专长",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "而已",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2070
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.150563
+        },
+        "RequestId": "9e50c3c9-8f72-489c-b1c3-b9ff5389ab0c"
+    }
+}

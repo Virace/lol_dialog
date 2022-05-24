@@ -1,0 +1,44 @@
+{
+    "character": "karthus",
+    "id": "578431051",
+    "result": "我变成了死亡。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012696169,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.068]  我变成了死亡。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我变成了死亡。",
+                    "SliceSentence": "我 变成了 死亡",
+                    "StartMs": 0,
+                    "EndMs": 5068,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "变成了",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "死亡",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 3360
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.068188
+        },
+        "RequestId": "9051a041-c0df-40ac-973e-1be4ca193a1e"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "779664158",
+    "result": "包在我身上。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012754379,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.245]  包在我身上。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "包在我身上。",
+                    "SliceSentence": "包 在我 身上",
+                    "StartMs": 0,
+                    "EndMs": 1245,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "包",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "在我",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "身上",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.245563
+        },
+        "RequestId": "b22d19bb-bdc2-4387-b376-bfed501935a5"
+    }
+}

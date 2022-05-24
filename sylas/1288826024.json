@@ -1,0 +1,39 @@
+{
+    "character": "sylas",
+    "id": "1288826024",
+    "result": "人人有份。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786310,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.256]  人人有份。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "人人有份。",
+                    "SliceSentence": "人人 有份",
+                    "StartMs": 0,
+                    "EndMs": 1256,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "人人",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "有份",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1200
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.256188
+        },
+        "RequestId": "9b2a693c-1534-46b9-92f0-dd8946fb0f33"
+    }
+}

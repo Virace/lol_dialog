@@ -1,0 +1,49 @@
+{
+    "character": "riven",
+    "id": "899343475",
+    "result": "我已经觉醒了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012763182,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.657]  我已经觉醒了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我已经觉醒了。",
+                    "SliceSentence": "我 已经 觉醒 了",
+                    "StartMs": 0,
+                    "EndMs": 1657,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "觉醒",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.657875
+        },
+        "RequestId": "d5fcca3a-8ed3-4707-9f12-d04f42165650"
+    }
+}

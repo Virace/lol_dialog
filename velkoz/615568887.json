@@ -1,0 +1,54 @@
+{
+    "character": "velkoz",
+    "id": "615568887",
+    "result": "如此令我着迷的精华。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012809753,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.000]  如此令我着迷的精华。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "如此令我着迷的精华。",
+                    "SliceSentence": "如此 令我 着迷 的 精华",
+                    "StartMs": 0,
+                    "EndMs": 5000,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "如此",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "令我",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "着迷",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2340
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 2340,
+                            "OffsetEndMs": 2490
+                        },
+                        {
+                            "Word": "精华",
+                            "OffsetStartMs": 2490,
+                            "OffsetEndMs": 4410
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.23275
+        },
+        "RequestId": "bf5e7b24-f71f-481d-8f4c-4060b24d78c2"
+    }
+}

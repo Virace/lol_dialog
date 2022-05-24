@@ -1,0 +1,59 @@
+{
+    "character": "irelia",
+    "id": "1579523723",
+    "result": "砍了脖子，脑袋自然落地。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012581045,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.476]  砍了脖子，脑袋自然落地。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "砍了脖子，脑袋自然落地。",
+                    "SliceSentence": "砍 了 脖子 脑袋 自然 落地",
+                    "StartMs": 0,
+                    "EndMs": 2476,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "砍",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "脖子",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "脑袋",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1560
+                        },
+                        {
+                            "Word": "自然",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "落地",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.476375
+        },
+        "RequestId": "5d7e7cd4-e1bf-4c49-900b-8a1093a5d2f1"
+    }
+}

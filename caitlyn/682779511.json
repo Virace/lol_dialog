@@ -1,0 +1,54 @@
+{
+    "character": "caitlyn",
+    "id": "682779511",
+    "result": "手法完美，结果自然精确。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551838,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.776]  手法完美，结果自然精确。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "手法完美，结果自然精确。",
+                    "SliceSentence": "手法 完美 结果 自然 精确",
+                    "StartMs": 0,
+                    "EndMs": 3776,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "手法",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "完美",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "结果",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "自然",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2370
+                        },
+                        {
+                            "Word": "精确",
+                            "OffsetStartMs": 2370,
+                            "OffsetEndMs": 3060
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.776
+        },
+        "RequestId": "4d566006-e468-4796-a28e-0936309bfef4"
+    }
+}

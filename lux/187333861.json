@@ -1,0 +1,50 @@
+{
+    "character": "lux",
+    "id": "187333861",
+    "result": "瓜。灭了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012719142,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.520]  瓜。\n[0:1.520,0:2.637]  灭了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "瓜。",
+                    "SliceSentence": "瓜",
+                    "StartMs": 0,
+                    "EndMs": 1520,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "瓜",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        }
+                    ],
+                    "SpeechSpeed": 1.3,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "灭了。",
+                    "SliceSentence": "灭了",
+                    "StartMs": 1520,
+                    "EndMs": 2637,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "灭了",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 840
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.637563
+        },
+        "RequestId": "4532fef3-637a-4c46-95b4-0c7dfd94a384"
+    }
+}

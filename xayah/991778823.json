@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "991778823",
+    "result": "这是我们的崛起。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012838386,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.724]  这是我们的崛起。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这是我们的崛起。",
+                    "SliceSentence": "这是 我们 的 崛起",
+                    "StartMs": 0,
+                    "EndMs": 1724,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "崛起",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 6.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.724438
+        },
+        "RequestId": "b5af08c7-4d7b-4115-ac48-511983ce9862"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "xayah",
+    "id": "504615",
+    "result": "随便谁。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012837004,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.910]  随便谁。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "随便谁。",
+                    "SliceSentence": "随便 谁",
+                    "StartMs": 0,
+                    "EndMs": 910,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "随便",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "谁",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 810
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.910938
+        },
+        "RequestId": "9a882665-91ff-4e2a-b80d-d694ca370f22"
+    }
+}

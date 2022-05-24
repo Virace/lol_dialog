@@ -1,0 +1,44 @@
+{
+    "character": "caitlyn",
+    "id": "1171035571",
+    "result": "不能让他们失望。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550802,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.901]  不能让他们失望。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不能让他们失望。",
+                    "SliceSentence": "不能让 他们 失望",
+                    "StartMs": 0,
+                    "EndMs": 2901,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "不能让",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "失望",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.901313
+        },
+        "RequestId": "c92a5ec1-d4c5-47ac-9ed5-f4bd6c4b9f63"
+    }
+}

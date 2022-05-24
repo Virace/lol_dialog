@@ -1,0 +1,54 @@
+{
+    "character": "ivern",
+    "id": "2123436711",
+    "result": "直甲虫，快来抱一个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012585024,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.457]  直甲虫，快来抱一个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "直甲虫，快来抱一个。",
+                    "SliceSentence": "直 甲虫 快来 抱 一个",
+                    "StartMs": 0,
+                    "EndMs": 3457,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "直",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "甲虫",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "快来",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "抱",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2820
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.457938
+        },
+        "RequestId": "f96723ea-1676-411c-ae72-7906e54919fc"
+    }
+}

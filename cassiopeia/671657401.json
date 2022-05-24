@@ -1,0 +1,49 @@
+{
+    "character": "cassiopeia",
+    "id": "671657401",
+    "result": "不要背对着我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012555032,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.549]  不要背对着我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要背对着我。",
+                    "SliceSentence": "不要 背对 着 我",
+                    "StartMs": 0,
+                    "EndMs": 1549,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "背对",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "着",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1470
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.549
+        },
+        "RequestId": "e23bf7c7-b605-4d5e-a2e1-dcc06893b974"
+    }
+}

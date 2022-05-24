@@ -1,0 +1,54 @@
+{
+    "character": "zoe",
+    "id": "1862704997",
+    "result": "我叫佐伊，你叫什么？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012855157,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.929]  我叫佐伊，你叫什么？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我叫佐伊，你叫什么？",
+                    "SliceSentence": "我 叫 佐伊 你叫 什么",
+                    "StartMs": 0,
+                    "EndMs": 1929,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "叫",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "佐伊",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "你叫",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "什么",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 6.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.929875
+        },
+        "RequestId": "fc7cf077-d92b-4574-b8ce-6f1c1bc11f9e"
+    }
+}

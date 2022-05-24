@@ -1,0 +1,59 @@
+{
+    "character": "pyke",
+    "id": "62416997",
+    "result": "克里斯塔，你背叛了我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746669,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.251]  克里斯塔，你背叛了我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "克里斯塔，你背叛了我。",
+                    "SliceSentence": "克里 斯塔 你 背叛 了 我",
+                    "StartMs": 0,
+                    "EndMs": 3251,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "克里",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "斯塔",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "背叛",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.251438
+        },
+        "RequestId": "33194481-bd37-4833-8cc3-c7303a86bdf8"
+    }
+}

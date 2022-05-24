@@ -1,0 +1,59 @@
+{
+    "character": "sylas",
+    "id": "1037332113",
+    "result": "这下可真让人看不懂啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786075,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.067]  这下可真让人看不懂啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这下可真让人看不懂啦。",
+                    "SliceSentence": "这下 可真 让人 看不 懂 啦",
+                    "StartMs": 0,
+                    "EndMs": 3067,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "这下",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "可真",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "让人",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "看不",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2370
+                        },
+                        {
+                            "Word": "懂",
+                            "OffsetStartMs": 2370,
+                            "OffsetEndMs": 2640
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 2640,
+                            "OffsetEndMs": 3000
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.06775
+        },
+        "RequestId": "f5315170-2c22-4a24-8301-aa62b16d56fd"
+    }
+}

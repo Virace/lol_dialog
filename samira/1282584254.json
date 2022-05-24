@@ -1,0 +1,39 @@
+{
+    "character": "samira",
+    "id": "1282584254",
+    "result": "哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012766101,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.575]  哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈哈哈。",
+                    "SliceSentence": "哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 3575,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 3120
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.575875
+        },
+        "RequestId": "27e154db-f32a-4d09-b097-3da1418d8b39"
+    }
+}

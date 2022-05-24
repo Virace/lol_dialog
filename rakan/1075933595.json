@@ -1,0 +1,49 @@
+{
+    "character": "rakan",
+    "id": "1075933595",
+    "result": "我只是想要活在当下。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012749373,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.475]  我只是想要活在当下。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我只是想要活在当下。",
+                    "SliceSentence": "我 只是 想要 活在当下",
+                    "StartMs": 0,
+                    "EndMs": 2475,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "只是",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "想要",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "活在当下",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.475313
+        },
+        "RequestId": "4b7c2a2f-9f9a-4099-8d10-2cbdf960d1d5"
+    }
+}

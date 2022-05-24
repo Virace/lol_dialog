@@ -1,0 +1,49 @@
+{
+    "character": "rell",
+    "id": "1555354138",
+    "result": "你再说一遍试试。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012757221,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.801]  你再说一遍试试。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你再说一遍试试。",
+                    "SliceSentence": "你 再说 一遍 试试",
+                    "StartMs": 0,
+                    "EndMs": 1801,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "再说",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "一遍",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "试试",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 6.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.801438
+        },
+        "RequestId": "df8eedc8-f591-4e00-9d9b-2609136c9596"
+    }
+}

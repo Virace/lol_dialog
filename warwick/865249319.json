@@ -1,0 +1,59 @@
+{
+    "character": "warwick",
+    "id": "865249319",
+    "result": "我差点儿就感到痛了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012833134,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.384]  我差点儿就感到痛了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我差点儿就感到痛了。",
+                    "SliceSentence": "我 差点儿 就 感到 痛 了",
+                    "StartMs": 0,
+                    "EndMs": 3384,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "差点儿",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "感到",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "痛",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.384
+        },
+        "RequestId": "d9d17118-e4dc-4f59-bcba-8e65a6ca138e"
+    }
+}

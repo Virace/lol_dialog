@@ -1,0 +1,64 @@
+{
+    "character": "zoe",
+    "id": "793557550",
+    "result": "我喜欢你的发型和衣服，好漂亮。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012856853,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.687]  我喜欢你的发型和衣服，好漂亮。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我喜欢你的发型和衣服，好漂亮。",
+                    "SliceSentence": "我 喜欢 你的 发型 和 衣服 好漂亮",
+                    "StartMs": 0,
+                    "EndMs": 3687,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "喜欢",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "发型",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "和",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "衣服",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "好漂亮",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2760
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.687
+        },
+        "RequestId": "776c1802-024e-4ee6-b51d-1539d8d7b8ea"
+    }
+}

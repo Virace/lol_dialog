@@ -1,0 +1,39 @@
+{
+    "character": "chogath",
+    "id": "177187344",
+    "result": "嘿吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012555239,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.005]  嘿吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嘿吗？",
+                    "SliceSentence": "嘿 吗",
+                    "StartMs": 0,
+                    "EndMs": 5005,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "嘿",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 0.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.005438
+        },
+        "RequestId": "9d365cba-f8a5-4815-8151-e0edac269a81"
+    }
+}

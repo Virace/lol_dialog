@@ -1,0 +1,39 @@
+{
+    "character": "pyke",
+    "id": "1642732718",
+    "result": "拖进海底。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745269,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.399]  拖进海底。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "拖进海底。",
+                    "SliceSentence": "拖进 海底",
+                    "StartMs": 0,
+                    "EndMs": 2399,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "拖进",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "海底",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.399625
+        },
+        "RequestId": "fcfd33a8-911b-46b2-848f-6603a312897e"
+    }
+}

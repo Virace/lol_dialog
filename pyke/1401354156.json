@@ -1,0 +1,49 @@
+{
+    "character": "pyke",
+    "id": "1401354156",
+    "result": "阴暗里的灯。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744964,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.506]  阴暗里的灯。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "阴暗里的灯。",
+                    "SliceSentence": "阴暗 里 的 灯",
+                    "StartMs": 0,
+                    "EndMs": 2506,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "阴暗",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "里",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "灯",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.506063
+        },
+        "RequestId": "6fab1e5a-1b76-4240-9320-ebbc81839212"
+    }
+}

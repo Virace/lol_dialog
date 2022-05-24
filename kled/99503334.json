@@ -1,0 +1,39 @@
+{
+    "character": "kled",
+    "id": "99503334",
+    "result": "帮我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012710724,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.476]  帮我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "帮我。",
+                    "SliceSentence": "帮 我",
+                    "StartMs": 0,
+                    "EndMs": 1476,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "帮",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.47675
+        },
+        "RequestId": "d2d531e5-fec9-4de8-ae61-a43b870665d7"
+    }
+}

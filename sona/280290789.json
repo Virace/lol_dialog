@@ -1,0 +1,44 @@
+{
+    "character": "sona",
+    "id": "280290789",
+    "result": "极速连奏。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012782367,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.140]  极速连奏。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "极速连奏。",
+                    "SliceSentence": "极速 连 奏",
+                    "StartMs": 0,
+                    "EndMs": 4140,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "极速",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "连",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "奏",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.333375
+        },
+        "RequestId": "c55a9c8d-d181-4125-85a5-c4b7f1e69858"
+    }
+}

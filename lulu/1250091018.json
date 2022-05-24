@@ -1,0 +1,49 @@
+{
+    "character": "lulu",
+    "id": "1250091018",
+    "result": "我建议滑着。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012718718,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.841]  我建议滑着。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我建议滑着。",
+                    "SliceSentence": "我 建议 滑 着",
+                    "StartMs": 0,
+                    "EndMs": 2841,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "建议",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "滑",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "着",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.841188
+        },
+        "RequestId": "c19bbac2-ef90-4936-b017-ec691121239e"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "samira",
+    "id": "1765415661",
+    "result": "吃点好的，我请。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012766515,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.134]  吃点好的，我请。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "吃点好的，我请。",
+                    "SliceSentence": "吃点 好的 我 请",
+                    "StartMs": 0,
+                    "EndMs": 3134,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "吃点",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "好的",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "请",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.134688
+        },
+        "RequestId": "6e07ebfc-ba15-4fe3-8748-fb60d2433c13"
+    }
+}

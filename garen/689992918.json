@@ -1,0 +1,39 @@
+{
+    "character": "garen",
+    "id": "689992918",
+    "result": "跟我上。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012572391,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.158]  跟我上。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "跟我上。",
+                    "SliceSentence": "跟我 上",
+                    "StartMs": 0,
+                    "EndMs": 1158,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "跟我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "上",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.158438
+        },
+        "RequestId": "44fe815c-b28e-4015-9548-f6216b88425b"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "zoe",
+    "id": "962238423",
+    "result": "啦啦啦啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012857094,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.579]  啦啦啦啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啦啦啦啦。",
+                    "SliceSentence": "啦啦 啦啦",
+                    "StartMs": 0,
+                    "EndMs": 3579,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啦啦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "啦啦",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 1.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.579438
+        },
+        "RequestId": "0ee661f9-aaaa-4a9c-a18b-cafdf17e807c"
+    }
+}

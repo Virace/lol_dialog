@@ -1,0 +1,54 @@
+{
+    "character": "aatrox",
+    "id": "1251172194",
+    "result": "我的意志超越死亡。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012531827,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:6.066]  我的意志超越死亡。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的意志超越死亡。",
+                    "SliceSentence": "我 的 意志 超越 死亡",
+                    "StartMs": 0,
+                    "EndMs": 6066,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "意志",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "超越",
+                            "OffsetStartMs": 2550,
+                            "OffsetEndMs": 4080
+                        },
+                        {
+                            "Word": "死亡",
+                            "OffsetStartMs": 4380,
+                            "OffsetEndMs": 5760
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.066375
+        },
+        "RequestId": "9a830bb6-2d13-46c9-9dab-e7445eebda64"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "rumble",
+    "id": "394772119",
+    "result": "谁要这个？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012763302,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.125]  谁要这个？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "谁要这个？",
+                    "SliceSentence": "谁 要 这个",
+                    "StartMs": 0,
+                    "EndMs": 1125,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "谁",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.125563
+        },
+        "RequestId": "227cd0c0-45fe-4c03-9e95-b9b512e57bca"
+    }
+}

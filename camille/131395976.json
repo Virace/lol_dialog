@@ -1,0 +1,44 @@
+{
+    "character": "camille",
+    "id": "131395976",
+    "result": "目标已出现。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552413,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.451]  目标已出现。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "目标已出现。",
+                    "SliceSentence": "目标 已出 现",
+                    "StartMs": 0,
+                    "EndMs": 1451,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "目标",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "已出",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "现",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.451
+        },
+        "RequestId": "69d8398e-b0af-451e-8bb1-e1139eba17fc"
+    }
+}

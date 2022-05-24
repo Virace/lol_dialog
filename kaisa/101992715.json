@@ -1,0 +1,59 @@
+{
+    "character": "kaisa",
+    "id": "101992715",
+    "result": "我的幸存是有目的的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012687759,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.370]  我的幸存是有目的的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的幸存是有目的的。",
+                    "SliceSentence": "我 的 幸存 是有 目的 的",
+                    "StartMs": 0,
+                    "EndMs": 2370,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "幸存",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "是有",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "目的",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.370563
+        },
+        "RequestId": "d4ea3c60-c1f0-4841-911d-8a0e8421082b"
+    }
+}

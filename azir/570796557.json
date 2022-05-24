@@ -1,0 +1,54 @@
+{
+    "character": "azir",
+    "id": "570796557",
+    "result": "这只蜘蛛将被我们践踏。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012549007,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.092]  这只蜘蛛将被我们践踏。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这只蜘蛛将被我们践踏。",
+                    "SliceSentence": "这只 蜘蛛 将被 我们 践踏",
+                    "StartMs": 0,
+                    "EndMs": 3092,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这只",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "蜘蛛",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "将被",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2130
+                        },
+                        {
+                            "Word": "践踏",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 3030
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.092688
+        },
+        "RequestId": "f96a40dd-5ea6-4467-b45d-7a6e6637a007"
+    }
+}

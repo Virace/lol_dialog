@@ -1,0 +1,54 @@
+{
+    "character": "poppy",
+    "id": "447755043",
+    "result": "哇哦，有点无处下锤。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012743183,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.243]  哇哦，有点无处下锤。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哇哦，有点无处下锤。",
+                    "SliceSentence": "哇哦 有点 无处 下 锤",
+                    "StartMs": 0,
+                    "EndMs": 3243,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "哇哦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "有点",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1890
+                        },
+                        {
+                            "Word": "无处",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 2220
+                        },
+                        {
+                            "Word": "下",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "锤",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 3000
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.24325
+        },
+        "RequestId": "668d422a-2e90-48e6-a198-58df5e8f0edd"
+    }
+}

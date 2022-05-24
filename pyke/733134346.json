@@ -1,0 +1,44 @@
+{
+    "character": "pyke",
+    "id": "733134346",
+    "result": "就抓这个。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746720,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.762]  就抓这个。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "就抓这个。",
+                    "SliceSentence": "就 抓 这个",
+                    "StartMs": 0,
+                    "EndMs": 1762,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "就",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "抓",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.762
+        },
+        "RequestId": "fd680373-9f9f-4a21-a4ad-c8cb66cf7e73"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "evelynn",
+    "id": "215314446",
+    "result": "表演结束了，小伙子们。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012563141,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.111]  表演结束了，小伙子们。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "表演结束了，小伙子们。",
+                    "SliceSentence": "表演 结束 了 小伙子 们",
+                    "StartMs": 0,
+                    "EndMs": 3111,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "表演",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "结束",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "小伙子",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "们",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.1115
+        },
+        "RequestId": "01c31f26-5d78-460f-b8b0-b558c6e77414"
+    }
+}

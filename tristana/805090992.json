@@ -1,0 +1,39 @@
+{
+    "character": "tristana",
+    "id": "805090992",
+    "result": "正在撤离。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012800529,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.851]  正在撤离。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "正在撤离。",
+                    "SliceSentence": "正在 撤离",
+                    "StartMs": 0,
+                    "EndMs": 851,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "撤离",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 7.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.851625
+        },
+        "RequestId": "68099a3e-79cb-47a3-9f59-72e1dd3f9577"
+    }
+}

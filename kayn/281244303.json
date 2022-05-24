@@ -1,0 +1,49 @@
+{
+    "character": "kayn",
+    "id": "281244303",
+    "result": "阴影不是你的伙伴。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012701183,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.841]  阴影不是你的伙伴。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "阴影不是你的伙伴。",
+                    "SliceSentence": "阴影 不是 你的 伙伴",
+                    "StartMs": 0,
+                    "EndMs": 2841,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "阴影",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "不是",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "伙伴",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2250
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.841125
+        },
+        "RequestId": "6993a639-8994-489f-a6d6-285aedfc4f3e"
+    }
+}

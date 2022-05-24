@@ -1,0 +1,54 @@
+{
+    "character": "tristana",
+    "id": "56032491",
+    "result": "我不怕被减速喽。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012799989,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.848]  我不怕被减速喽。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不怕被减速喽。",
+                    "SliceSentence": "我不 怕 被 减速 喽",
+                    "StartMs": 0,
+                    "EndMs": 1848,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "怕",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "被",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "减速",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "喽",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1770
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.848813
+        },
+        "RequestId": "731cecd2-716a-474b-8f8c-91a92db7d93b"
+    }
+}

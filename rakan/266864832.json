@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "266864832",
+    "result": "这里有东西。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012752920,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.120]  这里有东西。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这里有东西。",
+                    "SliceSentence": "这里 有 东西",
+                    "StartMs": 0,
+                    "EndMs": 1120,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "这里",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "东西",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 960
+                        }
+                    ],
+                    "SpeechSpeed": 7.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.120438
+        },
+        "RequestId": "f5bba7e6-6e60-4c60-9fa5-3bcd2d8d5e33"
+    }
+}

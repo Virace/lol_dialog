@@ -1,0 +1,39 @@
+{
+    "character": "pyke",
+    "id": "1408237936",
+    "result": "潜伏结束。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744978,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.268]  潜伏结束。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "潜伏结束。",
+                    "SliceSentence": "潜伏 结束",
+                    "StartMs": 0,
+                    "EndMs": 2268,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "潜伏",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "结束",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.268875
+        },
+        "RequestId": "c5e1071f-5964-416b-9749-43ff14223644"
+    }
+}

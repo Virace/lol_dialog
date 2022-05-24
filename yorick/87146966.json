@@ -1,0 +1,59 @@
+{
+    "character": "yorick",
+    "id": "87146966",
+    "result": "我早已感受不到侮辱了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012846051,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.365]  我早已感受不到侮辱了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我早已感受不到侮辱了。",
+                    "SliceSentence": "我 早已 感受 不到 侮辱 了",
+                    "StartMs": 0,
+                    "EndMs": 3365,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "早已",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 930
+                        },
+                        {
+                            "Word": "感受",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "不到",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "侮辱",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2550
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2550,
+                            "OffsetEndMs": 3030
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.365063
+        },
+        "RequestId": "f75cf802-d6b3-4fca-a2e9-b5ccfc35d8eb"
+    }
+}

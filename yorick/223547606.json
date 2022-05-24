@@ -1,0 +1,54 @@
+{
+    "character": "yorick",
+    "id": "223547606",
+    "result": "都雨会记住的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012844149,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.823]  都雨会记住的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "都雨会记住的。",
+                    "SliceSentence": "都 雨 会 记住 的",
+                    "StartMs": 0,
+                    "EndMs": 2823,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "都",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "雨",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "记住",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2370
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.823
+        },
+        "RequestId": "682f0f9f-fb50-4050-8f93-34c065be2166"
+    }
+}

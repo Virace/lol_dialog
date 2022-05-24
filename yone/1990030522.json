@@ -1,0 +1,39 @@
+{
+    "character": "yone",
+    "id": "1990030522",
+    "result": "又一次失败。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012842925,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.876]  又一次失败。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "又一次失败。",
+                    "SliceSentence": "又一次 失败",
+                    "StartMs": 0,
+                    "EndMs": 4876,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "又一次",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 1350
+                        },
+                        {
+                            "Word": "失败",
+                            "OffsetStartMs": 1890,
+                            "OffsetEndMs": 3900
+                        }
+                    ],
+                    "SpeechSpeed": 1.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.876188
+        },
+        "RequestId": "45b1184c-e45e-4725-ab53-85230aa6bc86"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "yorick",
+    "id": "1030039391",
+    "result": "我必须挖下去。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012843671,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.093]  我必须挖下去。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我必须挖下去。",
+                    "SliceSentence": "我 必须 挖 下去",
+                    "StartMs": 0,
+                    "EndMs": 2093,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "必须",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "挖",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "下去",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.09375
+        },
+        "RequestId": "47fa94f5-9ffc-4cfd-8e0e-629f1b221156"
+    }
+}

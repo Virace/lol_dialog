@@ -1,0 +1,39 @@
+{
+    "character": "galio",
+    "id": "861665729",
+    "result": "谁啊？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012569938,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.352]  谁啊？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "谁啊？",
+                    "SliceSentence": "谁 啊",
+                    "StartMs": 0,
+                    "EndMs": 352,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "谁",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 270
+                        }
+                    ],
+                    "SpeechSpeed": 11.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.352375
+        },
+        "RequestId": "439abc81-ec67-43af-b37b-d91017e32cdf"
+    }
+}

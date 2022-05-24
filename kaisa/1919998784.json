@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "1919998784",
+    "result": "差点就跑掉了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689525,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.865]  差点就跑掉了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "差点就跑掉了。",
+                    "SliceSentence": "差点 就跑 掉了",
+                    "StartMs": 0,
+                    "EndMs": 1865,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "差点",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "就跑",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "掉了",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.865563
+        },
+        "RequestId": "8c374287-408b-4631-843c-04928e82fcf1"
+    }
+}

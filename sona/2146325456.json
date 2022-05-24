@@ -1,0 +1,39 @@
+{
+    "character": "sona",
+    "id": "2146325456",
+    "result": "二倍速度。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012782145,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.900]  二倍速度。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "二倍速度。",
+                    "SliceSentence": "二倍 速度",
+                    "StartMs": 0,
+                    "EndMs": 3900,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "二倍",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "速度",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.922375
+        },
+        "RequestId": "6e27351e-0d74-47fe-b4f1-f49241be4533"
+    }
+}

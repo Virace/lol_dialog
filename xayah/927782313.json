@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "927782313",
+    "result": "有你在，三生有幸。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012838215,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.548]  有你在，三生有幸。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "有你在，三生有幸。",
+                    "SliceSentence": "有 你在 三生有幸",
+                    "StartMs": 0,
+                    "EndMs": 1548,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "你在",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "三生有幸",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 6.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.548438
+        },
+        "RequestId": "bf28b7ca-15be-4cd8-9905-6cd26f080771"
+    }
+}

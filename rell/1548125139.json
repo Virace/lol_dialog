@@ -1,0 +1,49 @@
+{
+    "character": "rell",
+    "id": "1548125139",
+    "result": "我丝毫不可能动摇。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012757195,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.998]  我丝毫不可能动摇。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我丝毫不可能动摇。",
+                    "SliceSentence": "我 丝毫 不可能 动摇",
+                    "StartMs": 0,
+                    "EndMs": 1998,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "丝毫",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "不可能",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "动摇",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.99875
+        },
+        "RequestId": "496cc636-3225-4003-b464-8778798032e8"
+    }
+}

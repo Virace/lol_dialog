@@ -1,0 +1,65 @@
+{
+    "character": "taliyah",
+    "id": "82237412",
+    "result": "啊啊。嗯哼啊。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012794772,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.080]  啊啊。\n[0:4.080,0:6.264]  嗯哼啊。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊啊。",
+                    "SliceSentence": "啊 啊",
+                    "StartMs": 0,
+                    "EndMs": 4080,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 2880
+                        }
+                    ],
+                    "SpeechSpeed": 1.0,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "嗯哼啊。",
+                    "SliceSentence": "嗯 哼 啊",
+                    "StartMs": 4080,
+                    "EndMs": 6264,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "哼",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.26475
+        },
+        "RequestId": "c815c0b7-5682-448f-8e68-9d1f5deb6013"
+    }
+}

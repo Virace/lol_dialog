@@ -1,0 +1,49 @@
+{
+    "character": "zoe",
+    "id": "652462247",
+    "result": "拜拜喽，金发妹。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012856481,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.002]  拜拜喽，金发妹。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "拜拜喽，金发妹。",
+                    "SliceSentence": "拜拜 喽 金发 妹",
+                    "StartMs": 0,
+                    "EndMs": 2002,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "拜拜",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "喽",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "金发",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "妹",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.002688
+        },
+        "RequestId": "3d9e1e70-1835-41fa-9d87-38c8c3ae70a1"
+    }
+}

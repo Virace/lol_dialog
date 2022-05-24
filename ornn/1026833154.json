@@ -1,0 +1,54 @@
+{
+    "character": "ornn",
+    "id": "1026833154",
+    "result": "钢铁是这样炼成的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012737652,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.059]  钢铁是这样炼成的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "钢铁是这样炼成的。",
+                    "SliceSentence": "钢铁 是 这样 炼成 的",
+                    "StartMs": 0,
+                    "EndMs": 2059,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "钢铁",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "这样",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "炼成",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.059813
+        },
+        "RequestId": "8158b424-5b0e-4881-bec0-cb91e54613e9"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "evelynn",
+    "id": "1056469852",
+    "result": "猜猜谁回来了，嗨嗨。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012561378,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.820]  猜猜谁回来了，嗨嗨。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "猜猜谁回来了，嗨嗨。",
+                    "SliceSentence": "猜猜 谁 回来 了 嗨 嗨",
+                    "StartMs": 0,
+                    "EndMs": 3820,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "猜猜",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "谁",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "回来",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "嗨",
+                            "OffsetStartMs": 1800,
+                            "OffsetEndMs": 2280
+                        },
+                        {
+                            "Word": "嗨",
+                            "OffsetStartMs": 2280,
+                            "OffsetEndMs": 3360
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.967563
+        },
+        "RequestId": "d791c341-76fa-4b5a-b05d-02521f52757e"
+    }
+}

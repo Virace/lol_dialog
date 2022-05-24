@@ -1,0 +1,49 @@
+{
+    "character": "renata",
+    "id": "805797572",
+    "result": "毫无价值的渣滓。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012761024,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.460]  毫无价值的渣滓。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "毫无价值的渣滓。",
+                    "SliceSentence": "毫无 价值 的 渣滓",
+                    "StartMs": 0,
+                    "EndMs": 2460,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "毫无",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "价值",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "渣滓",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.597563
+        },
+        "RequestId": "cfb84545-b52b-47a9-bdf7-2db4a879b5e8"
+    }
+}

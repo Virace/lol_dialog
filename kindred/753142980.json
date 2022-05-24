@@ -1,0 +1,49 @@
+{
+    "character": "kindred",
+    "id": "753142980",
+    "result": "快点，羔羊快点儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012705399,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.201]  快点，羔羊快点儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "快点，羔羊快点儿。",
+                    "SliceSentence": "快点 羔羊 快点 儿",
+                    "StartMs": 0,
+                    "EndMs": 2201,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "快点",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "羔羊",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "快点",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1950
+                        },
+                        {
+                            "Word": "儿",
+                            "OffsetStartMs": 1950,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.201625
+        },
+        "RequestId": "a94971f0-bcfc-4aff-917a-6cf9168206be"
+    }
+}

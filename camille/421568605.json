@@ -1,0 +1,39 @@
+{
+    "character": "camille",
+    "id": "421568605",
+    "result": "多粗鲁。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012553249,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.406]  多粗鲁。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "多粗鲁。",
+                    "SliceSentence": "多 粗鲁",
+                    "StartMs": 0,
+                    "EndMs": 1406,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "多",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "粗鲁",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.406
+        },
+        "RequestId": "12a1c84b-4d69-4fce-92e0-9ea79b0d0b3b"
+    }
+}

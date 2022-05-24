@@ -1,0 +1,39 @@
+{
+    "character": "vladimir",
+    "id": "1587121834",
+    "result": "好极了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012815208,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.220,0:2.231]  好极了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好极了。",
+                    "SliceSentence": "好 极了",
+                    "StartMs": 220,
+                    "EndMs": 2231,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "极了",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.23125
+        },
+        "RequestId": "16699693-bf0e-4fd0-89c2-76e9f6f0e795"
+    }
+}

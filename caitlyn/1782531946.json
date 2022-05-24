@@ -1,0 +1,54 @@
+{
+    "character": "caitlyn",
+    "id": "1782531946",
+    "result": "我们来了结这一切吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012551230,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.368]  我们来了结这一切吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们来了结这一切吧。",
+                    "SliceSentence": "我们 来 了结 这一切 吧",
+                    "StartMs": 0,
+                    "EndMs": 2368,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "了结",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "这一切",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1680
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.368
+        },
+        "RequestId": "ad30e596-a703-4605-8ed4-a991a24905c2"
+    }
+}

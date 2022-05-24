@@ -1,0 +1,39 @@
+{
+    "character": "teemo",
+    "id": "1862574920",
+    "result": "是长官。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012798100,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.370]  是长官。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "是长官。",
+                    "SliceSentence": "是 长官",
+                    "StartMs": 0,
+                    "EndMs": 1370,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "长官",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.37
+        },
+        "RequestId": "792c13c7-44b9-4ae4-b6ce-16fbc9cbc282"
+    }
+}

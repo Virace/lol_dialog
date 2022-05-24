@@ -1,0 +1,49 @@
+{
+    "character": "zoe",
+    "id": "1558616079",
+    "result": "好玩极了，对不对？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012854807,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.510]  好玩极了，对不对？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "好玩极了，对不对？",
+                    "SliceSentence": "好玩 极了 对 不对",
+                    "StartMs": 0,
+                    "EndMs": 2510,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "好玩",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "极了",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "对",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "不对",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.510563
+        },
+        "RequestId": "9c6a7e7a-bdc9-4fa2-8ac7-d413015d4561"
+    }
+}

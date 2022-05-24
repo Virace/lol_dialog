@@ -1,0 +1,54 @@
+{
+    "character": "sett",
+    "id": "642255572",
+    "result": "爱你老妈，明天见。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012773536,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.274]  爱你老妈，明天见。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "爱你老妈，明天见。",
+                    "SliceSentence": "爱 你 老妈 明天 见",
+                    "StartMs": 0,
+                    "EndMs": 3274,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "爱",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "老妈",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "明天",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "见",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.274
+        },
+        "RequestId": "6888740f-255b-43cc-9653-de64b8c5244b"
+    }
+}

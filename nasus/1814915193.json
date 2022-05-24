@@ -1,0 +1,54 @@
+{
+    "character": "nasus",
+    "id": "1814915193",
+    "result": "这一个也必须终结。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012728480,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.169]  这一个也必须终结。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这一个也必须终结。",
+                    "SliceSentence": "这一 个 也 必须 终结",
+                    "StartMs": 0,
+                    "EndMs": 4169,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "这一",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "个",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "也",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1710
+                        },
+                        {
+                            "Word": "必须",
+                            "OffsetStartMs": 1710,
+                            "OffsetEndMs": 2490
+                        },
+                        {
+                            "Word": "终结",
+                            "OffsetStartMs": 2490,
+                            "OffsetEndMs": 3660
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.169438
+        },
+        "RequestId": "3015f3fa-1b32-4ab1-9847-25417477d1f4"
+    }
+}

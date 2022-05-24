@@ -1,0 +1,44 @@
+{
+    "character": "kayn",
+    "id": "1008448722",
+    "result": "解放我吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012698916,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.680]  解放我吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "解放我吧。",
+                    "SliceSentence": "解放 我 吧",
+                    "StartMs": 0,
+                    "EndMs": 1680,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "解放",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.680375
+        },
+        "RequestId": "0832f818-c3ec-4ab2-a8a0-0063028930e4"
+    }
+}

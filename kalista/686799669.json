@@ -1,0 +1,49 @@
+{
+    "character": "kalista",
+    "id": "686799669",
+    "result": "我们在警戒着。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012694680,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.304]  我们在警戒着。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们在警戒着。",
+                    "SliceSentence": "我们 在 警戒 着",
+                    "StartMs": 0,
+                    "EndMs": 3304,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "在",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "警戒",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "着",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2850
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.304
+        },
+        "RequestId": "ad597dbe-b4d1-48ea-8385-9949ad7441d6"
+    }
+}

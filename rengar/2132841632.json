@@ -1,0 +1,39 @@
+{
+    "character": "rengar",
+    "id": "2132841632",
+    "result": "慢点儿。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012762384,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.080,0:2.540]  慢点儿。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "慢点儿。",
+                    "SliceSentence": "慢 点儿",
+                    "StartMs": 80,
+                    "EndMs": 2540,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "慢",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "点儿",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1800
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.949688
+        },
+        "RequestId": "4e4d472b-e6e5-4b1a-ab38-9d011f076cc5"
+    }
+}

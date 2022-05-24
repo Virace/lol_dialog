@@ -1,0 +1,49 @@
+{
+    "character": "nunu",
+    "id": "1224086482",
+    "result": "哇，这太棒啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012732841,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.444]  哇，这太棒啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哇，这太棒啦。",
+                    "SliceSentence": "哇 这 太棒 啦",
+                    "StartMs": 0,
+                    "EndMs": 3444,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "哇",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "太棒",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 2190
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 2220,
+                            "OffsetEndMs": 2760
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.444438
+        },
+        "RequestId": "406e9b97-c862-4e9d-a205-08f1a91823d9"
+    }
+}

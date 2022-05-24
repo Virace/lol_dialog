@@ -1,0 +1,39 @@
+{
+    "character": "akshan",
+    "id": "1253095141",
+    "result": "你不配活着。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012540544,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.962]  你不配活着。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你不配活着。",
+                    "SliceSentence": "你不配 活着",
+                    "StartMs": 0,
+                    "EndMs": 1962,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "你不配",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "活着",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 900
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.962688
+        },
+        "RequestId": "a89c6527-2d90-4669-bd4f-9fc1e0d8bd21"
+    }
+}

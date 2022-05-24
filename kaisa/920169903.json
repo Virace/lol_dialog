@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "920169903",
+    "result": "很好，合作愉快。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012692680,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.780]  很好，合作愉快。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "很好，合作愉快。",
+                    "SliceSentence": "很好 合作 愉快",
+                    "StartMs": 0,
+                    "EndMs": 2780,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "很好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "合作",
+                            "OffsetStartMs": 1410,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "愉快",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2550
+                        }
+                    ],
+                    "SpeechSpeed": 3.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.78
+        },
+        "RequestId": "b4c45a0e-c23e-4874-bdc0-2c9f391a67c1"
+    }
+}

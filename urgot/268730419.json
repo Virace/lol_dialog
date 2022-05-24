@@ -1,0 +1,49 @@
+{
+    "character": "urgot",
+    "id": "268730419",
+    "result": "没有音乐，一片寂静。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012806981,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:6.475]  没有音乐，一片寂静。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没有音乐，一片寂静。",
+                    "SliceSentence": "没有 音乐 一片 寂静",
+                    "StartMs": 0,
+                    "EndMs": 6475,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "音乐",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1800
+                        },
+                        {
+                            "Word": "一片",
+                            "OffsetStartMs": 2910,
+                            "OffsetEndMs": 4020
+                        },
+                        {
+                            "Word": "寂静",
+                            "OffsetStartMs": 4020,
+                            "OffsetEndMs": 5340
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.475625
+        },
+        "RequestId": "60030e07-b784-4b6d-8cd4-e1de70c2e39f"
+    }
+}

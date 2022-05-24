@@ -1,0 +1,49 @@
+{
+    "character": "rell",
+    "id": "1573678795",
+    "result": "行，那就受死吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012757236,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.526]  行，那就受死吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "行，那就受死吧。",
+                    "SliceSentence": "行 那就 受 死吧",
+                    "StartMs": 0,
+                    "EndMs": 2526,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "行",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "那就",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "受",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "死吧",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.52675
+        },
+        "RequestId": "25c3a056-ef46-45c6-a906-05e1c75be638"
+    }
+}

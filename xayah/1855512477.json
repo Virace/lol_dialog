@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "1855512477",
+    "result": "一个都没有。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012835609,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.491]  一个都没有。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "一个都没有。",
+                    "SliceSentence": "一个 都 没有",
+                    "StartMs": 0,
+                    "EndMs": 1491,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "一个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "都",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "没有",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.491625
+        },
+        "RequestId": "63bd3559-303a-4933-a9a6-34d6635a97cc"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "brand",
+    "id": "1918193260",
+    "result": "啊哈哈哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012549807,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.331]  啊哈哈哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "啊哈哈哈哈。",
+                    "SliceSentence": "啊 哈哈 哈哈",
+                    "StartMs": 0,
+                    "EndMs": 2331,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.331188
+        },
+        "RequestId": "19d12c70-dee6-462d-95ee-cd8273c943af"
+    }
+}

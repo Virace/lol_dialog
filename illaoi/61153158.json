@@ -1,0 +1,54 @@
+{
+    "character": "illaoi",
+    "id": "61153158",
+    "result": "比起普朗克，这个更适合我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012578658,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.053]  比起普朗克，这个更适合我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "比起普朗克，这个更适合我。",
+                    "SliceSentence": "比起 普朗克 这个 更适合 我",
+                    "StartMs": 0,
+                    "EndMs": 3053,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "比起",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "普朗克",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "更适合",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2670
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 2670,
+                            "OffsetEndMs": 2970
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.053438
+        },
+        "RequestId": "b6f23119-398a-452d-8b13-a047e774c99b"
+    }
+}

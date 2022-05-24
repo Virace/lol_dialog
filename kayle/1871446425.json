@@ -1,0 +1,49 @@
+{
+    "character": "kayle",
+    "id": "1871446425",
+    "result": "这个世界不配有你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012697911,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.003]  这个世界不配有你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这个世界不配有你。",
+                    "SliceSentence": "这个世界 不配 有 你",
+                    "StartMs": 0,
+                    "EndMs": 3003,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "这个世界",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "不配",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2100
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 2100,
+                            "OffsetEndMs": 2460
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.003125
+        },
+        "RequestId": "11f19e11-5f49-4863-8f3d-cb038fd202b5"
+    }
+}

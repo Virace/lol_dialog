@@ -1,0 +1,44 @@
+{
+    "character": "pyke",
+    "id": "287371003",
+    "result": "看住他们。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745939,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.510]  看住他们。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "看住他们。",
+                    "SliceSentence": "看 住 他们",
+                    "StartMs": 0,
+                    "EndMs": 1510,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "看",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "住",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 870
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.510063
+        },
+        "RequestId": "fdd1b355-5fe7-484b-931a-c0e019712cb3"
+    }
+}

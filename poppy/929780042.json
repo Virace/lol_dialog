@@ -1,0 +1,39 @@
+{
+    "character": "poppy",
+    "id": "929780042",
+    "result": "这个没问题。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744202,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.412]  这个没问题。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这个没问题。",
+                    "SliceSentence": "这个 没问题",
+                    "StartMs": 0,
+                    "EndMs": 1412,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "这个",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "没问题",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 5.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.412688
+        },
+        "RequestId": "591c8dbb-aa97-4388-b6b6-6c686942bf89"
+    }
+}

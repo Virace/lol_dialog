@@ -1,0 +1,54 @@
+{
+    "character": "xayah",
+    "id": "1372285462",
+    "result": "我被情感完全占据了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012834472,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.355]  我被情感完全占据了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我被情感完全占据了。",
+                    "SliceSentence": "我被 情感 完全 占据 了",
+                    "StartMs": 0,
+                    "EndMs": 2355,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我被",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "情感",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "完全",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "占据",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 5.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.355438
+        },
+        "RequestId": "42e3268f-3479-4d86-a2e2-001f28d9d56d"
+    }
+}

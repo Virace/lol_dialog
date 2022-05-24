@@ -1,0 +1,44 @@
+{
+    "character": "lissandra",
+    "id": "1806436867",
+    "result": "愚蠢的小孩。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012716629,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.834]  愚蠢的小孩。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "愚蠢的小孩。",
+                    "SliceSentence": "愚蠢 的 小孩",
+                    "StartMs": 0,
+                    "EndMs": 2834,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "愚蠢",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "小孩",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1950
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.834063
+        },
+        "RequestId": "4de83d91-f661-4e59-a6c8-15188866100e"
+    }
+}

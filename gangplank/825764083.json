@@ -1,0 +1,59 @@
+{
+    "character": "gangplank",
+    "id": "825764083",
+    "result": "死亡把我吐了出来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012571612,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.625]  死亡把我吐了出来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "死亡把我吐了出来。",
+                    "SliceSentence": "死亡 把 我 吐 了 出来",
+                    "StartMs": 0,
+                    "EndMs": 2625,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "死亡",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "吐",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 1650
+                        },
+                        {
+                            "Word": "出来",
+                            "OffsetStartMs": 1650,
+                            "OffsetEndMs": 2400
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.625688
+        },
+        "RequestId": "2c9abd90-44aa-45cf-9be3-f3449333c864"
+    }
+}

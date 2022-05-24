@@ -1,0 +1,44 @@
+{
+    "character": "kindred",
+    "id": "176033251",
+    "result": "你越界了？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012704450,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.639]  你越界了？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你越界了？",
+                    "SliceSentence": "你 越界 了",
+                    "StartMs": 0,
+                    "EndMs": 1639,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "越界",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 4.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.63925
+        },
+        "RequestId": "f7988edf-df97-4c68-bd58-316ea9e59562"
+    }
+}

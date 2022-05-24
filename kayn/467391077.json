@@ -1,0 +1,39 @@
+{
+    "character": "kayn",
+    "id": "467391077",
+    "result": "感受吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012701945,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.137]  感受吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "感受吧。",
+                    "SliceSentence": "感受 吧",
+                    "StartMs": 0,
+                    "EndMs": 2137,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "感受",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 2.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.137688
+        },
+        "RequestId": "bda1a016-90f5-457d-bf3b-806837703d08"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "sett",
+    "id": "882294027",
+    "result": "挡住我试试看。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012773713,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.066]  挡住我试试看。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "挡住我试试看。",
+                    "SliceSentence": "挡住 我 试试看",
+                    "StartMs": 0,
+                    "EndMs": 2066,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "挡住",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "试试看",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.066563
+        },
+        "RequestId": "c98924cc-9f05-41bd-8485-61151713110b"
+    }
+}

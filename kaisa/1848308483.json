@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "1848308483",
+    "result": "小心是个陷阱。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012689344,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.016]  小心是个陷阱。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "小心是个陷阱。",
+                    "SliceSentence": "小心 是个 陷阱",
+                    "StartMs": 0,
+                    "EndMs": 2016,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "小心",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "是个",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "陷阱",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1830
+                        }
+                    ],
+                    "SpeechSpeed": 4.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.0165
+        },
+        "RequestId": "fb2c70a8-f763-40fc-aa10-13f0b2420d21"
+    }
+}

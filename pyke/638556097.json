@@ -1,0 +1,39 @@
+{
+    "character": "pyke",
+    "id": "638556097",
+    "result": "浓雾滚滚。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746670,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.959]  浓雾滚滚。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "浓雾滚滚。",
+                    "SliceSentence": "浓雾 滚滚",
+                    "StartMs": 0,
+                    "EndMs": 2959,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "浓雾",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "滚滚",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.959625
+        },
+        "RequestId": "8c52ccbd-8510-4919-a876-cca97b6d6d4b"
+    }
+}

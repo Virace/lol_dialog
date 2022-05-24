@@ -1,0 +1,49 @@
+{
+    "character": "xinzhao",
+    "id": "157075184",
+    "result": "请不要烦我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012839822,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.157]  请不要烦我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "请不要烦我。",
+                    "SliceSentence": "请 不要 烦 我",
+                    "StartMs": 0,
+                    "EndMs": 1157,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "请",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "烦",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 7.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.157625
+        },
+        "RequestId": "a7086a0c-0a7a-476e-ace0-1fd4921eb05a"
+    }
+}

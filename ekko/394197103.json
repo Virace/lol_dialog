@@ -1,0 +1,55 @@
+{
+    "character": "ekko",
+    "id": "394197103",
+    "result": "呃。啊，哈哈。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012560040,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.060]  呃。\n[0:1.140,0:2.889]  啊，哈哈。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "呃。",
+                    "SliceSentence": "呃",
+                    "StartMs": 0,
+                    "EndMs": 1060,
+                    "WordsNum": 1,
+                    "Words": [
+                        {
+                            "Word": "呃",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "啊，哈哈。",
+                    "SliceSentence": "啊 哈哈",
+                    "StartMs": 1140,
+                    "EndMs": 2889,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.889313
+        },
+        "RequestId": "1b2680d0-c106-41c6-9ba9-190aa324fba4"
+    }
+}

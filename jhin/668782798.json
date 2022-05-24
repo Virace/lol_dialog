@@ -1,0 +1,54 @@
+{
+    "character": "jhin",
+    "id": "668782798",
+    "result": "我的观众已经入场。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012686229,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.282]  我的观众已经入场。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的观众已经入场。",
+                    "SliceSentence": "我 的 观众 已经 入场",
+                    "StartMs": 0,
+                    "EndMs": 4282,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "观众",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 2130,
+                            "OffsetEndMs": 2430
+                        },
+                        {
+                            "Word": "入场",
+                            "OffsetStartMs": 2430,
+                            "OffsetEndMs": 3330
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.282313
+        },
+        "RequestId": "f250b31e-7cbc-4a2d-91bd-9ab0abdc02f0"
+    }
+}

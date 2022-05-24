@@ -1,0 +1,39 @@
+{
+    "character": "sion",
+    "id": "699332034",
+    "result": "快跑吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012777615,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.737]  快跑吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "快跑吧。",
+                    "SliceSentence": "快跑 吧",
+                    "StartMs": 0,
+                    "EndMs": 2737,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "快跑",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 1.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.737375
+        },
+        "RequestId": "d192c95f-7feb-4062-b5ca-07487bdc1c32"
+    }
+}

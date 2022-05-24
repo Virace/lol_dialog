@@ -1,0 +1,44 @@
+{
+    "character": "swain",
+    "id": "968653276",
+    "result": "正在收集情报。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012785960,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.745]  正在收集情报。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "正在收集情报。",
+                    "SliceSentence": "正在 收集 情报",
+                    "StartMs": 0,
+                    "EndMs": 1745,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "收集",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "情报",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1620
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.745188
+        },
+        "RequestId": "dd57ab39-f80a-4389-8076-16edaca139d3"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "yuumi",
+    "id": "1250780486",
+    "result": "让我挠你。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012846555,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.423]  让我挠你。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "让我挠你。",
+                    "SliceSentence": "让我 挠 你",
+                    "StartMs": 0,
+                    "EndMs": 1423,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "让我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "挠",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.423313
+        },
+        "RequestId": "0d673cff-70f5-407c-8d3b-25a14782775b"
+    }
+}

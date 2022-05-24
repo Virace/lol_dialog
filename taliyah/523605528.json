@@ -1,0 +1,49 @@
+{
+    "character": "taliyah",
+    "id": "523605528",
+    "result": "逃避问题可不好。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012793584,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.524]  逃避问题可不好。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "逃避问题可不好。",
+                    "SliceSentence": "逃避 问题 可不 好",
+                    "StartMs": 0,
+                    "EndMs": 1524,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "逃避",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "问题",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "可不",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "好",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1380
+                        }
+                    ],
+                    "SpeechSpeed": 7.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.524563
+        },
+        "RequestId": "05ccfa03-dfa3-42a6-a896-d9af9bad797b"
+    }
+}

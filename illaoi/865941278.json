@@ -1,0 +1,39 @@
+{
+    "character": "illaoi",
+    "id": "865941278",
+    "result": "动吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012579486,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.727]  动吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "动吧。",
+                    "SliceSentence": "动 吧",
+                    "StartMs": 0,
+                    "EndMs": 727,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "动",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 630
+                        }
+                    ],
+                    "SpeechSpeed": 5.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.727
+        },
+        "RequestId": "e8989cc5-ab3b-4806-b85a-00aef9dfc039"
+    }
+}

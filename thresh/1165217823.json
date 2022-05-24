@@ -1,0 +1,39 @@
+{
+    "character": "thresh",
+    "id": "1165217823",
+    "result": "正在接近。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012798275,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.018]  正在接近。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "正在接近。",
+                    "SliceSentence": "正在 接近",
+                    "StartMs": 0,
+                    "EndMs": 3018,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "接近",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 2.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.018438
+        },
+        "RequestId": "fbb576f5-3e65-4c1a-8f51-fd8997065a97"
+    }
+}

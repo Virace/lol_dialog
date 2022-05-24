@@ -1,0 +1,54 @@
+{
+    "character": "xerath",
+    "id": "1046858387",
+    "result": "我遵循着魔力，知道。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012838502,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:5.102]  我遵循着魔力，知道。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我遵循着魔力，知道。",
+                    "SliceSentence": "我 遵循 着 魔力 知道",
+                    "StartMs": 0,
+                    "EndMs": 5102,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "遵循",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1860
+                        },
+                        {
+                            "Word": "着",
+                            "OffsetStartMs": 1860,
+                            "OffsetEndMs": 2550
+                        },
+                        {
+                            "Word": "魔力",
+                            "OffsetStartMs": 2580,
+                            "OffsetEndMs": 3690
+                        },
+                        {
+                            "Word": "知道",
+                            "OffsetStartMs": 3690,
+                            "OffsetEndMs": 4980
+                        }
+                    ],
+                    "SpeechSpeed": 2.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 5.10225
+        },
+        "RequestId": "c081156b-9a0e-4e8a-8294-3140cd207f2b"
+    }
+}

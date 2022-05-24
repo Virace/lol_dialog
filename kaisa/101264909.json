@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "101264909",
+    "result": "刚好一沓。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012687715,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.358]  刚好一沓。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "刚好一沓。",
+                    "SliceSentence": "刚好 一 沓",
+                    "StartMs": 0,
+                    "EndMs": 1358,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "刚好",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "一",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "沓",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1110
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.358125
+        },
+        "RequestId": "58fefa80-cac9-4f08-8e48-e8dae51fafbe"
+    }
+}

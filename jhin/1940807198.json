@@ -1,0 +1,54 @@
+{
+    "character": "jhin",
+    "id": "1940807198",
+    "result": "我将打动你的心房。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012685677,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.338]  我将打动你的心房。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我将打动你的心房。",
+                    "SliceSentence": "我 将 打动 你的 心房",
+                    "StartMs": 0,
+                    "EndMs": 4338,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "将",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "打动",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1620
+                        },
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 1620,
+                            "OffsetEndMs": 1920
+                        },
+                        {
+                            "Word": "心房",
+                            "OffsetStartMs": 1920,
+                            "OffsetEndMs": 2880
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.338313
+        },
+        "RequestId": "89956b9f-49f1-446e-9e58-f03a328b59e1"
+    }
+}

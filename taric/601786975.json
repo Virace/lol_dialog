@@ -1,0 +1,49 @@
+{
+    "character": "taric",
+    "id": "601786975",
+    "result": "看看这是不是名副其实？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012797199,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.215]  看看这是不是名副其实？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "看看这是不是名副其实？",
+                    "SliceSentence": "看 看这 是不是 名副其实",
+                    "StartMs": 0,
+                    "EndMs": 3215,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "看",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "看这",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "是不是",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "名副其实",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 2520
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.215188
+        },
+        "RequestId": "291bdb77-df09-4d41-91d6-ddb69719f8e8"
+    }
+}

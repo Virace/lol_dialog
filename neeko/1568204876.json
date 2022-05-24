@@ -1,0 +1,49 @@
+{
+    "character": "neeko",
+    "id": "1568204876",
+    "result": "像野猫一样哇。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012729802,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.366]  像野猫一样哇。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "像野猫一样哇。",
+                    "SliceSentence": "像 野猫 一样 哇",
+                    "StartMs": 0,
+                    "EndMs": 2366,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "像",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "野猫",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "一样",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "哇",
+                            "OffsetStartMs": 1440,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.366813
+        },
+        "RequestId": "d33bdb42-de0b-4aed-8a78-f45e97a7f1b3"
+    }
+}

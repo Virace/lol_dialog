@@ -1,0 +1,44 @@
+{
+    "character": "rakan",
+    "id": "1433906659",
+    "result": "时候到了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012750529,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.249]  时候到了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "时候到了。",
+                    "SliceSentence": "时候 到 了",
+                    "StartMs": 0,
+                    "EndMs": 1249,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "时候",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.249125
+        },
+        "RequestId": "3fcf984d-189d-49b8-8470-a88e93738ba6"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "kayle",
+    "id": "1427683697",
+    "result": "我让你得救。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012697534,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.942]  我让你得救。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我让你得救。",
+                    "SliceSentence": "我 让你 得救",
+                    "StartMs": 0,
+                    "EndMs": 2942,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "让你",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1110
+                        },
+                        {
+                            "Word": "得救",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 2220
+                        }
+                    ],
+                    "SpeechSpeed": 2.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.942125
+        },
+        "RequestId": "61fd94e0-c791-4b1e-b2b3-765fd8dee399"
+    }
+}

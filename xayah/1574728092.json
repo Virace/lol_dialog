@@ -1,0 +1,44 @@
+{
+    "character": "xayah",
+    "id": "1574728092",
+    "result": "是最好的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012834933,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.229]  是最好的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "是最好的。",
+                    "SliceSentence": "是 最 好的",
+                    "StartMs": 0,
+                    "EndMs": 1229,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 180
+                        },
+                        {
+                            "Word": "最",
+                            "OffsetStartMs": 180,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "好的",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.229
+        },
+        "RequestId": "1eb29edb-d173-4b1f-a53b-f9f75100a889"
+    }
+}

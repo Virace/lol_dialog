@@ -1,0 +1,59 @@
+{
+    "character": "leesin",
+    "id": "1348001187",
+    "result": "我的道路引我至此。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012712601,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.600]  我的道路引我至此。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我的道路引我至此。",
+                    "SliceSentence": "我 的 道路 引 我 至此",
+                    "StartMs": 0,
+                    "EndMs": 3600,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "道路",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "引",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1830,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "至此",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2910
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.2725
+        },
+        "RequestId": "212a9594-d773-445d-9182-09f2a32965ea"
+    }
+}

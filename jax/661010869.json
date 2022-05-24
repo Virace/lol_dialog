@@ -1,0 +1,65 @@
+{
+    "character": "jax",
+    "id": "661010869",
+    "result": "没想到吧？我又回来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012683927,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.980]  没想到吧？\n[0:1.980,0:3.600]  我又回来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "没想到吧？",
+                    "SliceSentence": "没想到 吧",
+                    "StartMs": 0,
+                    "EndMs": 1980,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "没想到",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "我又回来了。",
+                    "SliceSentence": "我又 回来 了",
+                    "StartMs": 1980,
+                    "EndMs": 3600,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我又",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "回来",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.6
+        },
+        "RequestId": "ad382e10-3d2f-4a6f-9742-21ec069a9de8"
+    }
+}

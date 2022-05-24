@@ -1,0 +1,49 @@
+{
+    "character": "kalista",
+    "id": "995892739",
+    "result": "我们相信，偶然已被杜绝。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012695065,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.669]  我们相信，偶然已被杜绝。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我们相信，偶然已被杜绝。",
+                    "SliceSentence": "我们相信 偶然 已被 杜绝",
+                    "StartMs": 0,
+                    "EndMs": 4669,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我们相信",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "偶然",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "已被",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2550
+                        },
+                        {
+                            "Word": "杜绝",
+                            "OffsetStartMs": 2550,
+                            "OffsetEndMs": 3480
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.6695
+        },
+        "RequestId": "25621869-deee-4ab2-b8fd-5746752bf3d1"
+    }
+}

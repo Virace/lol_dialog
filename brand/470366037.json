@@ -1,0 +1,49 @@
+{
+    "character": "brand",
+    "id": "470366037",
+    "result": "让我来开辟道路。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012549880,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.338]  让我来开辟道路。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "让我来开辟道路。",
+                    "SliceSentence": "让我 来 开辟 道路",
+                    "StartMs": 0,
+                    "EndMs": 3338,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "让我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "来",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "开辟",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "道路",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2760
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.338438
+        },
+        "RequestId": "3c69b6ea-4d2a-484b-8d50-1194c41e9702"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "xayah",
+    "id": "786505971",
+    "result": "我今天讨厌所有人。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012837781,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.468]  我今天讨厌所有人。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我今天讨厌所有人。",
+                    "SliceSentence": "我 今天 讨厌 所有人",
+                    "StartMs": 0,
+                    "EndMs": 1468,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 90
+                        },
+                        {
+                            "Word": "今天",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "讨厌",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "所有人",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 8.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.468625
+        },
+        "RequestId": "a8fadf2f-efbc-49c5-ad15-ff5312b1aa32"
+    }
+}

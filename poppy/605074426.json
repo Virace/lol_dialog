@@ -1,0 +1,49 @@
+{
+    "character": "poppy",
+    "id": "605074426",
+    "result": "要砸下来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012743442,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.610]  要砸下来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "要砸下来了。",
+                    "SliceSentence": "要 砸 下来 了",
+                    "StartMs": 0,
+                    "EndMs": 1610,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "砸",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "下来",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 5.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.610438
+        },
+        "RequestId": "7ed3ed4a-d644-4fab-848c-5762ef198d6f"
+    }
+}

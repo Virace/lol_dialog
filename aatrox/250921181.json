@@ -1,0 +1,85 @@
+{
+    "character": "aatrox",
+    "id": "250921181",
+    "result": "囚禁我的人们。将付出痛苦的代价。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012537232,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.300]  囚禁我的人们。\n[0:3.300,0:6.716]  将付出痛苦的代价。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "囚禁我的人们。",
+                    "SliceSentence": "囚禁 我 的 人们",
+                    "StartMs": 0,
+                    "EndMs": 3300,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "囚禁",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "人们",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1980
+                        }
+                    ],
+                    "SpeechSpeed": 3.0,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "将付出痛苦的代价。",
+                    "SliceSentence": "将 付出 痛苦 的 代价",
+                    "StartMs": 3300,
+                    "EndMs": 6716,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "将",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "付出",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "痛苦",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "代价",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 3330
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.716938
+        },
+        "RequestId": "9a5bc4ed-3665-4da3-b274-1d9ae06909ac"
+    }
+}

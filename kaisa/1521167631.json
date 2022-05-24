@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "1521167631",
+    "result": "别在这捣乱。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012688779,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.584]  别在这捣乱。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "别在这捣乱。",
+                    "SliceSentence": "别在 这 捣乱",
+                    "StartMs": 0,
+                    "EndMs": 1584,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "别在",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "这",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "捣乱",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1050
+                        }
+                    ],
+                    "SpeechSpeed": 5.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.584313
+        },
+        "RequestId": "8f0065d5-e887-4539-9e29-ce9ad431b386"
+    }
+}

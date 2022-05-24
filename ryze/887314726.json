@@ -1,0 +1,54 @@
+{
+    "character": "ryze",
+    "id": "887314726",
+    "result": "我感到力量的涌动。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012765645,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.742]  我感到力量的涌动。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我感到力量的涌动。",
+                    "SliceSentence": "我 感到 力量 的 涌动",
+                    "StartMs": 0,
+                    "EndMs": 1742,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "感到",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "力量",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 960
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 960,
+                            "OffsetEndMs": 1050
+                        },
+                        {
+                            "Word": "涌动",
+                            "OffsetStartMs": 1050,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 7.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.742438
+        },
+        "RequestId": "c50157d2-7bca-4355-b85c-42fc5aa89760"
+    }
+}

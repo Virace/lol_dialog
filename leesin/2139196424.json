@@ -1,0 +1,59 @@
+{
+    "character": "leesin",
+    "id": "2139196424",
+    "result": "同样的失误，我不会再犯。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012713311,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.200]  同样的失误，我不会再犯。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "同样的失误，我不会再犯。",
+                    "SliceSentence": "同样 的 失误 我不 会 再犯",
+                    "StartMs": 0,
+                    "EndMs": 4200,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "同样",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "失误",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1440
+                        },
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 1560,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2310
+                        },
+                        {
+                            "Word": "再犯",
+                            "OffsetStartMs": 2310,
+                            "OffsetEndMs": 2970
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.342125
+        },
+        "RequestId": "ce7afceb-f8bd-422b-8986-8dfb6c1d8959"
+    }
+}

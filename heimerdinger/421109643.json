@@ -1,0 +1,39 @@
+{
+    "character": "heimerdinger",
+    "id": "421109643",
+    "result": "我找到了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012576610,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.542]  我找到了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我找到了。",
+                    "SliceSentence": "我 找到了",
+                    "StartMs": 0,
+                    "EndMs": 1542,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 120
+                        },
+                        {
+                            "Word": "找到了",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 3.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.542625
+        },
+        "RequestId": "e48d9a32-2e0f-463a-a890-339aa379bb1a"
+    }
+}

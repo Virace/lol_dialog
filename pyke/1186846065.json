@@ -1,0 +1,54 @@
+{
+    "character": "pyke",
+    "id": "1186846065",
+    "result": "哈哈，让他摸黑去吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012744792,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.257]  哈哈，让他摸黑去吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈，让他摸黑去吧。",
+                    "SliceSentence": "哈哈 让他 摸黑 去 吧",
+                    "StartMs": 0,
+                    "EndMs": 3257,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "让他",
+                            "OffsetStartMs": 930,
+                            "OffsetEndMs": 1470
+                        },
+                        {
+                            "Word": "摸黑",
+                            "OffsetStartMs": 1470,
+                            "OffsetEndMs": 2070
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 2070,
+                            "OffsetEndMs": 2250
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 2250,
+                            "OffsetEndMs": 2490
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.257313
+        },
+        "RequestId": "b3809886-c653-4af3-b7b3-c1ea1a80be21"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "character": "taric",
+    "id": "101152708",
+    "result": "正适合放在胸口。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012796052,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.660]  正适合放在胸口。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "正适合放在胸口。",
+                    "SliceSentence": "正 适合 放在 胸口",
+                    "StartMs": 0,
+                    "EndMs": 2660,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "正",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "适合",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "放在",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "胸口",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1860
+                        }
+                    ],
+                    "SpeechSpeed": 4.1,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.660625
+        },
+        "RequestId": "fb46e3a1-96dc-4e28-804a-ac18225b9add"
+    }
+}

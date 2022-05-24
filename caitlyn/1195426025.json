@@ -1,0 +1,54 @@
+{
+    "character": "caitlyn",
+    "id": "1195426025",
+    "result": "我可容不得半点失误。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012550851,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.645]  我可容不得半点失误。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我可容不得半点失误。",
+                    "SliceSentence": "我 可 容不得 半点 失误",
+                    "StartMs": 0,
+                    "EndMs": 2645,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "可",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "容不得",
+                            "OffsetStartMs": 420,
+                            "OffsetEndMs": 870
+                        },
+                        {
+                            "Word": "半点",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "失误",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1890
+                        }
+                    ],
+                    "SpeechSpeed": 5.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.645313
+        },
+        "RequestId": "6ca27578-5832-4b8c-a6f3-c5b1efd9b4ef"
+    }
+}

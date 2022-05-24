@@ -1,0 +1,64 @@
+{
+    "character": "xayah",
+    "id": "327414398",
+    "result": "我看到了，每个人都看到了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012836438,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.353]  我看到了，每个人都看到了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我看到了，每个人都看到了。",
+                    "SliceSentence": "我 看到 了 每个人 都 看到 了",
+                    "StartMs": 0,
+                    "EndMs": 3353,
+                    "WordsNum": 7,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 150
+                        },
+                        {
+                            "Word": "看到",
+                            "OffsetStartMs": 150,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "每个人",
+                            "OffsetStartMs": 1350,
+                            "OffsetEndMs": 2010
+                        },
+                        {
+                            "Word": "都",
+                            "OffsetStartMs": 2010,
+                            "OffsetEndMs": 2160
+                        },
+                        {
+                            "Word": "看到",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 2670
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 2670,
+                            "OffsetEndMs": 3150
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.353
+        },
+        "RequestId": "cb86a2c7-6f6d-40be-af7c-aec2ab15a621"
+    }
+}

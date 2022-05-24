@@ -1,0 +1,39 @@
+{
+    "character": "trundle",
+    "id": "298334865",
+    "result": "赵硕。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012801355,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.092]  赵硕。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "赵硕。",
+                    "SliceSentence": "赵 硕",
+                    "StartMs": 0,
+                    "EndMs": 2092,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "赵",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "硕",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1920
+                        }
+                    ],
+                    "SpeechSpeed": 1.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.092
+        },
+        "RequestId": "ac06c52a-408f-4856-945c-256371b3ee92"
+    }
+}

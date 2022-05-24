@@ -1,0 +1,49 @@
+{
+    "character": "ekko",
+    "id": "2024903475",
+    "result": "你应该走开的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012559801,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.358]  你应该走开的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你应该走开的。",
+                    "SliceSentence": "你应 该 走开 的",
+                    "StartMs": 0,
+                    "EndMs": 1358,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "你应",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "该",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "走开",
+                            "OffsetStartMs": 480,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1290
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.358688
+        },
+        "RequestId": "e6136489-7463-4a95-838a-771f5ddd366a"
+    }
+}

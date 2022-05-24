@@ -1,0 +1,54 @@
+{
+    "character": "rell",
+    "id": "1105703792",
+    "result": "哼，我们要开打了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012756808,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.324]  哼，我们要开打了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼，我们要开打了。",
+                    "SliceSentence": "哼 我们 要 开打 了",
+                    "StartMs": 0,
+                    "EndMs": 2324,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "哼",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "我们",
+                            "OffsetStartMs": 870,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "要",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1290
+                        },
+                        {
+                            "Word": "开打",
+                            "OffsetStartMs": 1290,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2040
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.324063
+        },
+        "RequestId": "817c3bad-77fb-4c6c-94c0-dd7de1f0d6da"
+    }
+}

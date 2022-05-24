@@ -1,0 +1,44 @@
+{
+    "character": "azir",
+    "id": "92750111",
+    "result": "嗯啊，怎能。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012549443,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.534]  嗯啊，怎能。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯啊，怎能。",
+                    "SliceSentence": "嗯 啊 怎能",
+                    "StartMs": 0,
+                    "EndMs": 4534,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1830
+                        },
+                        {
+                            "Word": "怎能",
+                            "OffsetStartMs": 3030,
+                            "OffsetEndMs": 4170
+                        }
+                    ],
+                    "SpeechSpeed": 1.5,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.534813
+        },
+        "RequestId": "3f652536-fbb5-460d-b38b-e538fbccc31c"
+    }
+}

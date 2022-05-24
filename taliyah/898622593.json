@@ -1,0 +1,44 @@
+{
+    "character": "taliyah",
+    "id": "898622593",
+    "result": "我要出发了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012795165,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.083]  我要出发了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我要出发了。",
+                    "SliceSentence": "我要 出发 了",
+                    "StartMs": 0,
+                    "EndMs": 1083,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "出发",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 780
+                        }
+                    ],
+                    "SpeechSpeed": 7.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.083875
+        },
+        "RequestId": "fd46874f-c0db-4f26-a597-f02f0fbde1e3"
+    }
+}

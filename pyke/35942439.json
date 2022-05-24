@@ -1,0 +1,59 @@
+{
+    "character": "pyke",
+    "id": "35942439",
+    "result": "让海水把你拖下去。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012746059,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.923]  让海水把你拖下去。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "让海水把你拖下去。",
+                    "SliceSentence": "让 海水 把 你 拖 下去",
+                    "StartMs": 0,
+                    "EndMs": 2923,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "让",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "海水",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "你",
+                            "OffsetStartMs": 990,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "拖",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1590
+                        },
+                        {
+                            "Word": "下去",
+                            "OffsetStartMs": 1590,
+                            "OffsetEndMs": 2310
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.923438
+        },
+        "RequestId": "a008df45-4266-47cc-87bd-37b593b3b98d"
+    }
+}

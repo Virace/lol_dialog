@@ -1,0 +1,59 @@
+{
+    "character": "camille",
+    "id": "176335215",
+    "result": "你的失败已经被算出来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552462,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.721]  你的失败已经被算出来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你的失败已经被算出来了。",
+                    "SliceSentence": "你的 失败 已经 被 算出 来了",
+                    "StartMs": 0,
+                    "EndMs": 2721,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "你的",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 240
+                        },
+                        {
+                            "Word": "失败",
+                            "OffsetStartMs": 240,
+                            "OffsetEndMs": 990
+                        },
+                        {
+                            "Word": "已经",
+                            "OffsetStartMs": 1020,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "被",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1530
+                        },
+                        {
+                            "Word": "算出",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "来了",
+                            "OffsetStartMs": 2040,
+                            "OffsetEndMs": 2610
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.721375
+        },
+        "RequestId": "69d4c64f-7db7-4887-94ca-8440557bd9ce"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "tahmkench",
+    "id": "677881124",
+    "result": "需要加盐。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012790515,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.664]  需要加盐。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "需要加盐。",
+                    "SliceSentence": "需要 加盐",
+                    "StartMs": 0,
+                    "EndMs": 1664,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "加盐",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1530
+                        }
+                    ],
+                    "SpeechSpeed": 3.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.664938
+        },
+        "RequestId": "b556f555-ae47-445e-8400-52dfb6b36ff5"
+    }
+}

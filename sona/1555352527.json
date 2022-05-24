@@ -1,0 +1,54 @@
+{
+    "character": "sona",
+    "id": "1555352527",
+    "result": "哼，他们不会有事的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012781583,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.540]  哼，他们不会有事的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哼，他们不会有事的。",
+                    "SliceSentence": "哼 他们 不会 有事 的",
+                    "StartMs": 0,
+                    "EndMs": 4540,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "哼",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 480
+                        },
+                        {
+                            "Word": "他们",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "不会",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "有事",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 1980
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1980,
+                            "OffsetEndMs": 2100
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 6.043438
+        },
+        "RequestId": "8dd49f8f-17a1-4dcd-b431-6813ba3d16c0"
+    }
+}

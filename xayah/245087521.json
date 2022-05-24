@@ -1,0 +1,39 @@
+{
+    "character": "xayah",
+    "id": "245087521",
+    "result": "打着了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012836241,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:0.964]  打着了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "打着了。",
+                    "SliceSentence": "打着 了",
+                    "StartMs": 0,
+                    "EndMs": 964,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "打着",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 690
+                        }
+                    ],
+                    "SpeechSpeed": 5.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 0.964938
+        },
+        "RequestId": "9cf355ed-ea63-4f11-8d2b-f134b68b2343"
+    }
+}

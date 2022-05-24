@@ -1,0 +1,49 @@
+{
+    "character": "zac",
+    "id": "346479860",
+    "result": "把它震开。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012849117,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.332]  把它震开。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "把它震开。",
+                    "SliceSentence": "把 它 震 开",
+                    "StartMs": 0,
+                    "EndMs": 1332,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "把",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "它",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "震",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 810
+                        },
+                        {
+                            "Word": "开",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1170
+                        }
+                    ],
+                    "SpeechSpeed": 6.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.332813
+        },
+        "RequestId": "f49b2d12-2f5e-41c5-bf5e-966ee33ff316"
+    }
+}

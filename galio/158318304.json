@@ -1,0 +1,44 @@
+{
+    "character": "galio",
+    "id": "158318304",
+    "result": "时间到，开打。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012568417,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.086]  时间到，开打。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "时间到，开打。",
+                    "SliceSentence": "时间 到 开打",
+                    "StartMs": 0,
+                    "EndMs": 2086,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "时间",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "到",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 1020
+                        },
+                        {
+                            "Word": "开打",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 3.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.086563
+        },
+        "RequestId": "a3852fbe-2cb4-4d67-a915-71b49aa266c7"
+    }
+}

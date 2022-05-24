@@ -1,0 +1,44 @@
+{
+    "character": "camille",
+    "id": "1000308792",
+    "result": "我不会被误导。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012552019,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.587]  我不会被误导。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我不会被误导。",
+                    "SliceSentence": "我不 会被 误导",
+                    "StartMs": 0,
+                    "EndMs": 1587,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我不",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 390
+                        },
+                        {
+                            "Word": "会被",
+                            "OffsetStartMs": 390,
+                            "OffsetEndMs": 780
+                        },
+                        {
+                            "Word": "误导",
+                            "OffsetStartMs": 780,
+                            "OffsetEndMs": 1410
+                        }
+                    ],
+                    "SpeechSpeed": 5.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.5875
+        },
+        "RequestId": "b87c3a3c-23d0-41fc-bf83-96cc5588835d"
+    }
+}

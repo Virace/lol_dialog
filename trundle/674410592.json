@@ -1,0 +1,49 @@
+{
+    "character": "trundle",
+    "id": "674410592",
+    "result": "哈哈，日光真的吗？",
+    "detail": {
+        "Data": {
+            "TaskId": 2012801439,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.650]  哈哈，日光真的吗？\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈，日光真的吗？",
+                    "SliceSentence": "哈哈 日光 真的 吗",
+                    "StartMs": 0,
+                    "EndMs": 4650,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "日光",
+                            "OffsetStartMs": 1530,
+                            "OffsetEndMs": 2910
+                        },
+                        {
+                            "Word": "真的",
+                            "OffsetStartMs": 3000,
+                            "OffsetEndMs": 3690
+                        },
+                        {
+                            "Word": "吗",
+                            "OffsetStartMs": 3690,
+                            "OffsetEndMs": 4380
+                        }
+                    ],
+                    "SpeechSpeed": 2.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.650938
+        },
+        "RequestId": "998a5c7a-cc54-46e0-a3c8-33716f70196e"
+    }
+}

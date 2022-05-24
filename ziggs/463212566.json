@@ -1,0 +1,59 @@
+{
+    "character": "ziggs",
+    "id": "463212566",
+    "result": "我正在去，我正在去。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012853634,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.222]  我正在去，我正在去。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我正在去，我正在去。",
+                    "SliceSentence": "我 正在 去 我 正在 去",
+                    "StartMs": 0,
+                    "EndMs": 2222,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 210
+                        },
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 600
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 600,
+                            "OffsetEndMs": 900
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 900,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "正在",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 1500
+                        },
+                        {
+                            "Word": "去",
+                            "OffsetStartMs": 1500,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 6.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.222875
+        },
+        "RequestId": "93f6cfe4-0988-44b8-aa77-860621d33329"
+    }
+}

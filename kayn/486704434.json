@@ -1,0 +1,39 @@
+{
+    "character": "kayn",
+    "id": "486704434",
+    "result": "哦耶。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012701968,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.432]  哦耶。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哦耶。",
+                    "SliceSentence": "哦 耶",
+                    "StartMs": 0,
+                    "EndMs": 3432,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "哦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "耶",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 3240
+                        }
+                    ],
+                    "SpeechSpeed": 1.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.432938
+        },
+        "RequestId": "c7396bea-77e6-48b8-8410-f8598a98227c"
+    }
+}

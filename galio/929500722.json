@@ -1,0 +1,49 @@
+{
+    "character": "galio",
+    "id": "929500722",
+    "result": "哦，你好啊，帅哥。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012570062,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.081]  哦，你好啊，帅哥。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哦，你好啊，帅哥。",
+                    "SliceSentence": "哦 你好 啊 帅哥",
+                    "StartMs": 0,
+                    "EndMs": 2081,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "哦",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "你好",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 1080
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1080,
+                            "OffsetEndMs": 1170
+                        },
+                        {
+                            "Word": "帅哥",
+                            "OffsetStartMs": 1170,
+                            "OffsetEndMs": 2010
+                        }
+                    ],
+                    "SpeechSpeed": 4.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.081438
+        },
+        "RequestId": "a041f1cd-3491-4caf-8ad6-98b75a82ec99"
+    }
+}

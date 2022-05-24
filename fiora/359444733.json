@@ -1,0 +1,39 @@
+{
+    "character": "fiora",
+    "id": "359444733",
+    "result": "不要犹豫。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012567483,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.509]  不要犹豫。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "不要犹豫。",
+                    "SliceSentence": "不要 犹豫",
+                    "StartMs": 0,
+                    "EndMs": 1509,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "不要",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 300
+                        },
+                        {
+                            "Word": "犹豫",
+                            "OffsetStartMs": 300,
+                            "OffsetEndMs": 1260
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.509313
+        },
+        "RequestId": "eba473d8-e8cf-4f5d-84c4-aad556e21505"
+    }
+}

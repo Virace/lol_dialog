@@ -1,0 +1,39 @@
+{
+    "character": "pyke",
+    "id": "1678227960",
+    "result": "很快回来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012745367,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.178]  很快回来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "很快回来。",
+                    "SliceSentence": "很快 回来",
+                    "StartMs": 0,
+                    "EndMs": 2178,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "很快",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "回来",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1080
+                        }
+                    ],
+                    "SpeechSpeed": 2.8,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.17825
+        },
+        "RequestId": "d23ae9b2-5ccc-4e23-824f-861e2747793a"
+    }
+}

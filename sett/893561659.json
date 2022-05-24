@@ -1,0 +1,65 @@
+{
+    "character": "sett",
+    "id": "893561659",
+    "result": "这一招。太卑鄙了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012773729,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.620]  这一招。\n[0:1.620,0:3.715]  太卑鄙了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "这一招。",
+                    "SliceSentence": "这一 招",
+                    "StartMs": 0,
+                    "EndMs": 1620,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "这一",
+                            "OffsetStartMs": 210,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "招",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1230
+                        }
+                    ],
+                    "SpeechSpeed": 3.1,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "太卑鄙了。",
+                    "SliceSentence": "太 卑鄙 了",
+                    "StartMs": 1620,
+                    "EndMs": 3715,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "太",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "卑鄙",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1440
+                        }
+                    ],
+                    "SpeechSpeed": 3.3,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.715188
+        },
+        "RequestId": "8be56605-f4dd-4ec1-98d2-0a5425a0a264"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "character": "galio",
+    "id": "692528591",
+    "result": "哈哈，过来吧。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012569587,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.746]  哈哈，过来吧。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "哈哈，过来吧。",
+                    "SliceSentence": "哈哈 过来 吧",
+                    "StartMs": 0,
+                    "EndMs": 1746,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "哈哈",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "过来",
+                            "OffsetStartMs": 810,
+                            "OffsetEndMs": 1260
+                        },
+                        {
+                            "Word": "吧",
+                            "OffsetStartMs": 1260,
+                            "OffsetEndMs": 1590
+                        }
+                    ],
+                    "SpeechSpeed": 4.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.746875
+        },
+        "RequestId": "65cc4f7b-5b71-4a0c-bca2-60b6749c35be"
+    }
+}

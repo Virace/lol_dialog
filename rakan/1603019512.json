@@ -1,0 +1,54 @@
+{
+    "character": "rakan",
+    "id": "1603019512",
+    "result": "我是撸啊撸。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012751129,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.402]  我是撸啊撸。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我是撸啊撸。",
+                    "SliceSentence": "我 是 撸 啊 撸",
+                    "StartMs": 0,
+                    "EndMs": 2402,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "是",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 510
+                        },
+                        {
+                            "Word": "撸",
+                            "OffsetStartMs": 510,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "啊",
+                            "OffsetStartMs": 1230,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "撸",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 4.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.402125
+        },
+        "RequestId": "4608fb21-c064-41a8-a553-a8ab134cb068"
+    }
+}

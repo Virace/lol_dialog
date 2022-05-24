@@ -1,0 +1,75 @@
+{
+    "character": "sylas",
+    "id": "1497869783",
+    "result": "嗯嗯，行动必须终止。只是暂时。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012786525,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:6.200]  嗯嗯，行动必须终止。\n[0:6.400,0:8.035]  只是暂时。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "嗯嗯，行动必须终止。",
+                    "SliceSentence": "嗯 嗯 行动 必须 终止",
+                    "StartMs": 0,
+                    "EndMs": 6200,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 420
+                        },
+                        {
+                            "Word": "嗯",
+                            "OffsetStartMs": 1110,
+                            "OffsetEndMs": 2700
+                        },
+                        {
+                            "Word": "行动",
+                            "OffsetStartMs": 3570,
+                            "OffsetEndMs": 4230
+                        },
+                        {
+                            "Word": "必须",
+                            "OffsetStartMs": 4230,
+                            "OffsetEndMs": 4650
+                        },
+                        {
+                            "Word": "终止",
+                            "OffsetStartMs": 4650,
+                            "OffsetEndMs": 5760
+                        }
+                    ],
+                    "SpeechSpeed": 2.1,
+                    "SpeakerId": 4294967295
+                },
+                {
+                    "FinalSentence": "只是暂时。",
+                    "SliceSentence": "只是 暂时",
+                    "StartMs": 6400,
+                    "EndMs": 8035,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "只是",
+                            "OffsetStartMs": 120,
+                            "OffsetEndMs": 690
+                        },
+                        {
+                            "Word": "暂时",
+                            "OffsetStartMs": 690,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 3.7,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 8.035375
+        },
+        "RequestId": "e269db64-92fd-49c4-800e-836ac5445d38"
+    }
+}

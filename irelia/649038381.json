@@ -1,0 +1,49 @@
+{
+    "character": "irelia",
+    "id": "649038381",
+    "result": "灵力，请指引我。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012582598,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.623]  灵力，请指引我。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "灵力，请指引我。",
+                    "SliceSentence": "灵力 请 指引 我",
+                    "StartMs": 0,
+                    "EndMs": 1623,
+                    "WordsNum": 4,
+                    "Words": [
+                        {
+                            "Word": "灵力",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "请",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 840
+                        },
+                        {
+                            "Word": "指引",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1320
+                        },
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1560
+                        }
+                    ],
+                    "SpeechSpeed": 6.2,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.62375
+        },
+        "RequestId": "ac7ac2fd-52a2-4d71-bcf3-d75e3fa6384f"
+    }
+}

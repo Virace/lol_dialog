@@ -1,0 +1,59 @@
+{
+    "character": "zeri",
+    "id": "2084790980",
+    "result": "我保证下次会打中的。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012852065,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.773]  我保证下次会打中的。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我保证下次会打中的。",
+                    "SliceSentence": "我 保证 下次 会 打中 的",
+                    "StartMs": 0,
+                    "EndMs": 2773,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 360
+                        },
+                        {
+                            "Word": "保证",
+                            "OffsetStartMs": 360,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "下次",
+                            "OffsetStartMs": 840,
+                            "OffsetEndMs": 1200
+                        },
+                        {
+                            "Word": "会",
+                            "OffsetStartMs": 1200,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "打中",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1680
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 1680,
+                            "OffsetEndMs": 2130
+                        }
+                    ],
+                    "SpeechSpeed": 5.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.773313
+        },
+        "RequestId": "d18a39b1-1c38-4b0a-88df-003766fa1617"
+    }
+}

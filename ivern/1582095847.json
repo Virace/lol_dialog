@@ -1,0 +1,59 @@
+{
+    "character": "ivern",
+    "id": "1582095847",
+    "result": "有些花蕾需要鞭笞才能开放。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012584304,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:4.109]  有些花蕾需要鞭笞才能开放。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "有些花蕾需要鞭笞才能开放。",
+                    "SliceSentence": "有些 花蕾 需要 鞭笞 才能 开放",
+                    "StartMs": 0,
+                    "EndMs": 4109,
+                    "WordsNum": 6,
+                    "Words": [
+                        {
+                            "Word": "有些",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "花蕾",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 1230
+                        },
+                        {
+                            "Word": "需要",
+                            "OffsetStartMs": 1320,
+                            "OffsetEndMs": 1740
+                        },
+                        {
+                            "Word": "鞭笞",
+                            "OffsetStartMs": 1740,
+                            "OffsetEndMs": 2400
+                        },
+                        {
+                            "Word": "才能",
+                            "OffsetStartMs": 2400,
+                            "OffsetEndMs": 2910
+                        },
+                        {
+                            "Word": "开放",
+                            "OffsetStartMs": 2910,
+                            "OffsetEndMs": 3840
+                        }
+                    ],
+                    "SpeechSpeed": 4.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 4.109125
+        },
+        "RequestId": "2dc419c3-ff20-4441-816b-517efcbaad45"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "swain",
+    "id": "274993262",
+    "result": "野蛮的咆哮平息了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012785105,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:3.769]  野蛮的咆哮平息了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "野蛮的咆哮平息了。",
+                    "SliceSentence": "野蛮 的 咆哮 平息 了",
+                    "StartMs": 0,
+                    "EndMs": 3769,
+                    "WordsNum": 5,
+                    "Words": [
+                        {
+                            "Word": "野蛮",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 540
+                        },
+                        {
+                            "Word": "的",
+                            "OffsetStartMs": 540,
+                            "OffsetEndMs": 630
+                        },
+                        {
+                            "Word": "咆哮",
+                            "OffsetStartMs": 630,
+                            "OffsetEndMs": 2040
+                        },
+                        {
+                            "Word": "平息",
+                            "OffsetStartMs": 2160,
+                            "OffsetEndMs": 3090
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 3090,
+                            "OffsetEndMs": 3600
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 3.76925
+        },
+        "RequestId": "93742470-d040-4760-b392-9a08f7e48496"
+    }
+}

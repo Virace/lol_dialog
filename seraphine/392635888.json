@@ -1,0 +1,44 @@
+{
+    "character": "seraphine",
+    "id": "392635888",
+    "result": "你们才是明星。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012771302,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.660]  你们才是明星。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "你们才是明星。",
+                    "SliceSentence": "你们 才是 明星",
+                    "StartMs": 0,
+                    "EndMs": 2660,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "你们",
+                            "OffsetStartMs": 60,
+                            "OffsetEndMs": 450
+                        },
+                        {
+                            "Word": "才是",
+                            "OffsetStartMs": 450,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "明星",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1320
+                        }
+                    ],
+                    "SpeechSpeed": 3.4,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.962125
+        },
+        "RequestId": "795e2f6b-c1d1-423d-82d7-4ac2e32b53d0"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "character": "drmundo",
+    "id": "595324537",
+    "result": "封起来。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012558678,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.955]  封起来。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "封起来。",
+                    "SliceSentence": "封 起来",
+                    "StartMs": 0,
+                    "EndMs": 1955,
+                    "WordsNum": 2,
+                    "Words": [
+                        {
+                            "Word": "封",
+                            "OffsetStartMs": 30,
+                            "OffsetEndMs": 570
+                        },
+                        {
+                            "Word": "起来",
+                            "OffsetStartMs": 570,
+                            "OffsetEndMs": 1500
+                        }
+                    ],
+                    "SpeechSpeed": 2.6,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.955188
+        },
+        "RequestId": "809e9b20-f2bd-485f-b7ad-a01a4f0080db"
+    }
+}

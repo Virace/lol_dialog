@@ -1,0 +1,44 @@
+{
+    "character": "kaisa",
+    "id": "556193368",
+    "result": "我回来了。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012691032,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.422]  我回来了。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "我回来了。",
+                    "SliceSentence": "我 回来 了",
+                    "StartMs": 0,
+                    "EndMs": 1422,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "我",
+                            "OffsetStartMs": 90,
+                            "OffsetEndMs": 270
+                        },
+                        {
+                            "Word": "回来",
+                            "OffsetStartMs": 270,
+                            "OffsetEndMs": 720
+                        },
+                        {
+                            "Word": "了",
+                            "OffsetStartMs": 720,
+                            "OffsetEndMs": 1140
+                        }
+                    ],
+                    "SpeechSpeed": 4.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.422
+        },
+        "RequestId": "f13731c8-9877-4bc0-902a-fb6c98b224d9"
+    }
+}

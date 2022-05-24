@@ -1,0 +1,44 @@
+{
+    "character": "ornn",
+    "id": "1531008372",
+    "result": "有墙真好。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012738459,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:1.739]  有墙真好。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "有墙真好。",
+                    "SliceSentence": "有 墙 真好",
+                    "StartMs": 0,
+                    "EndMs": 1739,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "有",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 330
+                        },
+                        {
+                            "Word": "墙",
+                            "OffsetStartMs": 330,
+                            "OffsetEndMs": 750
+                        },
+                        {
+                            "Word": "真好",
+                            "OffsetStartMs": 750,
+                            "OffsetEndMs": 1350
+                        }
+                    ],
+                    "SpeechSpeed": 4.0,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 1.739
+        },
+        "RequestId": "a84f1c6c-45f6-4766-941b-307a1155f95e"
+    }
+}

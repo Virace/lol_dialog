@@ -1,0 +1,44 @@
+{
+    "character": "fizz",
+    "id": "1004875470",
+    "result": "浪潮逆转啦。",
+    "detail": {
+        "Data": {
+            "TaskId": 2012567593,
+            "Status": 2,
+            "StatusStr": "success",
+            "Result": "[0:0.000,0:2.739]  浪潮逆转啦。\n",
+            "ErrorMsg": "",
+            "ResultDetail": [
+                {
+                    "FinalSentence": "浪潮逆转啦。",
+                    "SliceSentence": "浪潮 逆转 啦",
+                    "StartMs": 0,
+                    "EndMs": 2739,
+                    "WordsNum": 3,
+                    "Words": [
+                        {
+                            "Word": "浪潮",
+                            "OffsetStartMs": 0,
+                            "OffsetEndMs": 660
+                        },
+                        {
+                            "Word": "逆转",
+                            "OffsetStartMs": 660,
+                            "OffsetEndMs": 1380
+                        },
+                        {
+                            "Word": "啦",
+                            "OffsetStartMs": 1380,
+                            "OffsetEndMs": 1710
+                        }
+                    ],
+                    "SpeechSpeed": 2.9,
+                    "SpeakerId": 4294967295
+                }
+            ],
+            "AudioDuration": 2.739938
+        },
+        "RequestId": "9dac3829-a3fe-4ec1-8cd0-f52fa061ebf8"
+    }
+}
